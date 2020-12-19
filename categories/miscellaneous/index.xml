@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Miscellaneous - Category - Life and Work</title>
+        <link>https://lianfengyeo.github.io/categories/miscellaneous/</link>
+        <description>Miscellaneous - Category - Life and Work</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 27 Nov 2020 21:20:25 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/categories/miscellaneous/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello World</title>
+    <link>https://lianfengyeo.github.io/helloworld/</link>
+    <pubDate>Fri, 27 Nov 2020 21:20:25 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/helloworld/</guid>
+    <description><![CDATA[Hello World! This is the my first blog.😉 ————2020.11.27]]></description>
+</item></channel>
+</rss>

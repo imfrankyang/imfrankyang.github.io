@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>markdown - Tag - Life and Work</title>
+        <link>https://lianfengyeo.github.io/tags/markdown/</link>
+        <description>markdown - Tag - Life and Work</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 27 Nov 2020 22:55:58 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Note of markdown</title>
+    <link>https://lianfengyeo.github.io/markdown1/</link>
+    <pubDate>Fri, 27 Nov 2020 22:55:58 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/markdown1/</guid>
+    <description><![CDATA[Markdown Tips https://learn.getgrav.org/17/content/markdown
+https://katex.org/docs/supported.html latex equation
+Note  This article is a shameful copy of the great Grav original page.
+If you want to know about the extented Markdown syntax of LoveIt theme, please read extended Markdown syntax page.
+   Let&rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.]]></description>
+</item></channel>
+</rss>

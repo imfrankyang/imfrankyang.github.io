@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CFD - Tag - Life and Work</title>
+        <link>https://lianfengyeo.github.io/tags/cfd/</link>
+        <description>CFD - Tag - Life and Work</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/cfd/" rel="self" type="application/rss+xml" /><item>
+    <title>CFD collection</title>
+    <link>https://lianfengyeo.github.io/cfd1/</link>
+    <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/cfd1/</guid>
+    <description><![CDATA[-- CFDer capabilities:
+ Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD channel   Antony Jameson (CFD, code) [homepage] [googlescholar] [scopus] [wiki]
+  Dudley Brain Spalding [wiki] [Royal Society]
+  David Gosman [homepage]
+  Aidan Wimshurst [youtube] [udemy]
+  Alistair Revell [homepage] [youtube]]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,74 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Life and Work</title>
+        <link>https://lianfengyeo.github.io/posts/</link>
+        <description>All Posts | Life and Work</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Tips for research</title>
+    <link>https://lianfengyeo.github.io/tips/</link>
+    <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/tips/</guid>
+    <description><![CDATA[zotero  Zotero | 01-为什么要用文献管理软件Zotero zotero 中文识别   ]]></description>
+</item><item>
+    <title>Matlab note</title>
+    <link>https://lianfengyeo.github.io/matlab/</link>
+    <pubDate>Wed, 16 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/matlab/</guid>
+    <description><![CDATA[function  montage
+Display multiple image frames as rectangular montage colon, : drawrectangle
+Create customizable rectangular ROI normxcorr2 [example]  ]]></description>
+</item><item>
+    <title>CODE</title>
+    <link>https://lianfengyeo.github.io/code1/</link>
+    <pubDate>Wed, 09 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/code1/</guid>
+    <description><![CDATA[Ubuntu  List of releases releases downloads  Fortran  fcode [bilibili] ustc Mistakes in Fortran 90 Programs That Might Surprise You 15分钟Fortran从0到够用 #030  Python  Python Documentation contents  Machine Learning  Learn With Me: Intro to Machine Learning 有趣的机器学习 &ldquo;Morvan&rdquo; 秒懂神经网络 Neural Networks  git  Git 版本管理 教学 tutorial &ldquo;Morvan&rdquo;  Intel oneAPI Base Toolkit (intel parallel studio)   Intel homepage
+  Get the Intel® oneAPI Base Toolkit]]></description>
+</item><item>
+    <title>CFD collection</title>
+    <link>https://lianfengyeo.github.io/cfd1/</link>
+    <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/cfd1/</guid>
+    <description><![CDATA[-- CFDer capabilities:
+ Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD channel   Antony Jameson (CFD, code) [homepage] [googlescholar] [scopus] [wiki]
+  Dudley Brain Spalding [wiki] [Royal Society]
+  David Gosman [homepage]
+  Aidan Wimshurst [youtube] [udemy]
+  Alistair Revell [homepage] [youtube]]]></description>
+</item><item>
+    <title>Guide to Hugo</title>
+    <link>https://lianfengyeo.github.io/guide-to-hugo/</link>
+    <pubDate>Sun, 29 Nov 2020 10:10:37 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/guide-to-hugo/</guid>
+    <description><![CDATA[网站图标
+强烈建议你把:
+ apple-touch-icon.png (180x180) favicon-32x32.png (32x32) favicon-16x16.png (16x16) mstile-150x150.png (150x150) android-chrome-192x192.png (192x192) android-chrome-512x512.png (512x512)  放在 /static 目录. 利用 https://realfavicongenerator.net/ 可以很容易地生成这些文件.
+可以自定义 browserconfig.xml 和 site.webmanifest 文件来设置 theme-color 和 background-color.
+touch deploy.sh //content is as follows
+. ./deploy.sh //if there is &ldquo;cd&hellip;&rdquo; in bash
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28  !]]></description>
+</item><item>
+    <title>Note of markdown</title>
+    <link>https://lianfengyeo.github.io/markdown1/</link>
+    <pubDate>Fri, 27 Nov 2020 22:55:58 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/markdown1/</guid>
+    <description><![CDATA[Markdown Tips https://learn.getgrav.org/17/content/markdown
+https://katex.org/docs/supported.html latex equation
+Note  This article is a shameful copy of the great Grav original page.
+If you want to know about the extented Markdown syntax of LoveIt theme, please read extended Markdown syntax page.
+   Let&rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.]]></description>
+</item><item>
+    <title>Hello World</title>
+    <link>https://lianfengyeo.github.io/helloworld/</link>
+    <pubDate>Fri, 27 Nov 2020 21:20:25 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/helloworld/</guid>
+    <description><![CDATA[Hello World! This is the my first blog.😉 ————2020.11.27]]></description>
+</item></channel>
+</rss>
