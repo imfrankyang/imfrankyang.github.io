@@ -8,7 +8,7 @@ a free and open-source reference management software
 * [zotero 中文识别](https://www.bilibili.com/read/cv6968662/)
 
 ### everything   
-a desktop search utility  
+a free desktop search utility  
 {{<link "https://www.voidtools.com/">}}
 
 ### 7-zip
