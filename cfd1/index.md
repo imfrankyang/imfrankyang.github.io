@@ -102,13 +102,13 @@ graph LR;
 
 
 
-## math
+## Math
 * [lockdown math](https://www.youtube.com/watch?v=ppWPuXsnf1Q&list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev)  
 * [Lecture Collection | Mathematics: Making the Invisible Visible "Stanford"](https://www.youtube.com/watch?v=pk49iM9OT_0&list=PLpGHT1n4-mAvzAtg6Qo8aTld6goSPxo4o)  
 * [2017新东方考研数学强化班 高数 张宇](https://www.youtube.com/playlist?list=PLPVDPEUcHjf7L-KNqT7wEdUEfO0_EIRG6)  
 * [2021版张宇高等数学考研数学基础30讲高等数学](https://www.bilibili.com/video/BV1ME411M7hp)  
 
-## linear algebra  
+## Linear algebra  
 * [MIT Linear Algebra "Gilbert Strang"❤️](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
   [[youtube]](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)  
   [[youtube (with extra)]](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)  
