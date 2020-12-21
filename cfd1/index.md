@@ -109,10 +109,16 @@ graph LR;
 * [2021版张宇高等数学考研数学基础30讲高等数学](https://www.bilibili.com/video/BV1ME411M7hp)  
 
 ## linear algebra  
-* [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+* [MIT Linear Algebra "Gilbert Strang"❤️](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
+  [[youtube]](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)  
+  [[youtube (with extra)]](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)  
+  [[bilibili]](https://www.bilibili.com/video/BV1zx411g7gq)
+
+* [MIT Matrix Methods in Data Analysis, Signal Processing, and Machine Learning "Gilbert Strang"](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
+  [[youtube]](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+* [MIT A 2020 Vision of Linear Algebra, Spring 2020 "Gilbert Strang"](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)  
   [[youtube]](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)  
-* [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  
-* [luoyuwen](https://www.youtube.com/user/luoyuwen/playlists)  
+* [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)    
 * [2017-线性代数强化](https://www.youtube.com/playlist?list=PLYdE87tyKU5ALNr-oL4xKfp62chdQeZEk)  
 * [2021版张宇考研数学基础30讲线性代数完整版](https://www.bilibili.com/video/BV1LV411o7q9)  
 * [线性代数 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yl8eQQCob5nr43ACJGHQhmt)  
@@ -125,22 +131,27 @@ graph LR;
 * [Probability Bites "Rich Radke"](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BXkeKW4J_2WQBlYhKs_k-pj)  
 
 ## Statistics
-* [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
+* [MIT Statistics for Applications "Philippe Rigollet"](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)  
   [[youtube]](https://www.youtube.com/watch?v=VPZD_aij8H0&list=WL&index=67)  
 
 ## Calculus
 * [Vector Calculus for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)  
+* [MIT Single Variable Calculus "David Jerison"](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)  
+  [[youtube 18.01]](https://www.youtube.com/playlist?list=PLE2215608E2574180)  
+  [[youtube 18.01SC]](https://www.youtube.com/playlist?list=PL47FB68AD27EE8019)  
+
+
 
 ## Differential Equations
 * [Differential Equations for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w)  
-
-
+* [MIT Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler "Gilbert Strang"](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/)  
+  [[youtube]](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
 
 
 ## Measurement technique
-* [Signals and Systems 1987 "Stanford"](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)
+* [Stanford Signals and Systems 1987 "Alan V. Oppenheim"](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)  
   [[youtube]](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B)  
-* [Signals and Systems 2011 "Stanford"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)
+* [Stanford Signals and Systems 2011 "Dennis Freeman"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)  
   [[youtube]](https://www.youtube.com/watch?v=-FHm2pQmiSM&list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)  
 * [Signal Processing and Data Acquisition "Bahga Lab IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR2HnGtlOHZmKyjm6QzX_l1g)  
 * [Digital Signal Processing (ECSE-4530) Lectures, Fall 2014 "Rich Radke"❤️](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)  
@@ -156,7 +167,7 @@ graph LR;
   DSP Lecture 13 The Sampling Theorem
   * Nyquist theorem two time o the Frequency, how to confirm the Frequency of the system eg. rotor
 
-* [Signal Processing: Continuous and Discrete "MIT"](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/)
+* [MIT Signal Processing: Continuous and Discrete "Derek Rowell"](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/)
 
 ## Fourier
 * [Fourier Analysis "Steve Brunton"](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC&index=17)  
@@ -197,9 +208,7 @@ how to determine the $\Delta$T
 
 
 
-## hardware
-* Jim Keller 
-[wiki](https://www.wikiwand.com/en/Jim_Keller_(engineer))  
+
 
 
 

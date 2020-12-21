@@ -9,20 +9,28 @@
 ## Fortran
 * [fcode](http://v.fcode.cn/)
   [[bilibili]](https://www.bilibili.com/video/BV1tx411u7o4)
+* [15分钟Fortran从0到够用 #030](https://www.bilibili.com/video/BV1Lv41117Lz)
+* [[Fortran Tuto 2] Basics about variables](https://www.youtube.com/watch?v=GSJL6E1A6gM&list=PLvkU6i2iQ2fprrVmmkNP_V36mh0BMnS5L&index=2)
+
+
 * [ustc](http://micro.ustc.edu.cn/Fortran/)
 * [Mistakes in Fortran 90 Programs That Might Surprise You](http://www.cs.rpi.edu/~szymansk/OOF90/bugs.html)
-* [15分钟Fortran从0到够用 #030](https://www.bilibili.com/video/BV1Lv41117Lz)
+* [Clion Fortran](https://www.jetbrains.com/help/clion/fortran-support.html)
+
 
 ## Python
 * [Python Documentation contents](https://docs.python.org/3/contents.html)  
+
 
 ## Machine Learning
 * [Learn With Me: Intro to Machine Learning](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)
 * [有趣的机器学习 "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin)
 * [秒懂神经网络 Neural Networks](https://www.youtube.com/playlist?list=PLXO45tsB95cJ0U2DKySDmhRqQI9IaGxck)
 
+
 ## git 
 * [Git 版本管理 教学 tutorial "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cKysjmSNln65YoUt9lwEl7-)
+
 
 ## Intel oneAPI Base Toolkit (intel parallel studio)
 * [Intel homepage](https://www.intel.com/content/www/us/en/homepage.html)  
@@ -92,7 +100,13 @@ If upon compiling a C program you get errors like stdio.h isn’t found, be sure
 * [Intel® Fortran Compiler for oneAPI Release Notes](https://software.intel.com/content/www/us/en/develop/articles/intel-oneapi-fortran-compiler-release-notes.html#top)  
 * [Intel® Parallel Studio XE and oneAPI Toolkits Supported and Unsupported Product Versions](https://software.intel.com/content/www/us/en/develop/articles/intel-parallel-studio-xe-supported-and-unsupported-product-versions.html)  
 
+
 ## GCC 
 * [GCC, the GNU Compiler Collection](https://gcc.gnu.org/)
   [[download]](http://ftp.gnu.org/gnu/gcc/)  
   gfortran supports 95 2003 2008 2018
+
+
+## CMake
+[CMake Community Wiki](https://gitlab.kitware.com/cmake/community)
+[CMake Documentation](https://cmake.org/cmake/help/latest/index.html#)
