@@ -97,8 +97,13 @@ each time you wish to use Intel oneAPI, do
 If upon compiling a C program you get errors like stdio.h isn’t found, be sure you’ve installed Xcode Command Line Tools.
 <br>
 <br>
+
+* [Intel® oneAPI HPC Toolkit Release Notes](https://software.intel.com/content/www/us/en/develop/articles/intel-oneapi-hpc-toolkit-release-notes.html)  
 * [Intel® Fortran Compiler for oneAPI Release Notes](https://software.intel.com/content/www/us/en/develop/articles/intel-oneapi-fortran-compiler-release-notes.html#top)  
-* [Intel® Parallel Studio XE and oneAPI Toolkits Supported and Unsupported Product Versions](https://software.intel.com/content/www/us/en/develop/articles/intel-parallel-studio-xe-supported-and-unsupported-product-versions.html)  
+* [Intel® Parallel Studio XE and oneAPI Toolkits Supported and Unsupported Product Versions](https://software.intel.com/content/www/us/en/develop/articles/intel-parallel-studio-xe-supported-and-unsupported-product-versions.html) 
+  
+* [Intel® MPI Library](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/mpi-library.html)
+* [Intel® MPI Library Release Notes](https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-library-release-notes.html)  
 
 
 ## GCC 
@@ -110,3 +115,20 @@ If upon compiling a C program you get errors like stdio.h isn’t found, be sure
 ## CMake
 [CMake Community Wiki](https://gitlab.kitware.com/cmake/community)
 [CMake Documentation](https://cmake.org/cmake/help/latest/index.html#)
+
+## intel mpi
+```bash
+env:
+source /opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/bin/mpivars.sh intel64
+or
+export PATH=$PATH:/opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/bin
+export LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/lib
+or
+export PATH=$PATH:/opt/intel/impi/2018.0.128/bin64
+export LD_LIBRARY_PATH=/opt/intel/impi/2018.0.128/lib64
+
+mpiicc -o test  test.c
+mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
+
+
+```
