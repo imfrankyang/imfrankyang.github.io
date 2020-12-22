@@ -132,3 +132,8 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
 
 
 ```
+
+## mpi programming
+* [easyhpc](https://easyhpc.net/)
+  
+

@@ -15,6 +15,14 @@ a free desktop search utility
 a free and open-source file archiver  
 {{<link "https://www.7-zip.org/">}}
 
+### Input Method Editor
+Windows 10 IME
+
+### Norton/Avast/Microsoft Defender Antivirus in Windows10
+Anti-virus or anti-malware software
+
+
+
 
 ### hardware
 * [AMD EPYC](https://www.amd.com/en/products/epyc-server)

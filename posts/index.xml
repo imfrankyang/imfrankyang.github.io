@@ -3,7 +3,14 @@
         <title>All Posts - Life and Work</title>
         <link>https://lianfengyeo.github.io/posts/</link>
         <description>All Posts | Life and Work</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 22 Dec 2020 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>CODE_note</title>
+    <link>https://lianfengyeo.github.io/code2_note/</link>
+    <pubDate>Tue, 22 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/code2_note/</guid>
+    <description><![CDATA[intel mpi 1 2 3 4 5 6 7 8 9 10 11 12 13  env: source /opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/bin/mpivars.sh intel64 or export PATH=$PATH:/opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/bin export LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/lib or export PATH=$PATH:/opt/intel/impi/2018.0.128/bin64 export LD_LIBRARY_PATH=/opt/intel/impi/2018.0.128/lib64 mpiicc -o test test.c mpirun -r ssh -f mpd.hosts -n &lt;# of processes&gt; ./test   mpi programming 1    1 2 3 4 5  #include &lt;mpi.h&gt;#include &lt;stdio.h&gt;int MPI_Init(int *argc, char **argv) int MPI_Finalize(void)   ]]></description>
+</item><item>
     <title>Tips for research</title>
     <link>https://lianfengyeo.github.io/tips/</link>
     <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
@@ -15,6 +22,8 @@ https://www.zotero.org/
 https://www.voidtools.com/
 7-zip a free and open-source file archiver
 https://www.7-zip.org/
+Input Method Editor Windows 10 IME
+Norton/Avast/Microsoft Defender Antivirus in Windows10 Anti-virus or anti-malware software
 hardware  AMD EPYC Jim Keller wiki  ]]></description>
 </item><item>
     <title>Matlab note</title>
