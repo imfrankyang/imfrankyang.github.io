@@ -137,3 +137,10 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
 * [easyhpc](https://easyhpc.net/)
   
 
+## CUDA
+Ubuntu 18.04
+```bash
+wget https://developer.download.nvidia.com/compute/cuda/11.2.0/local_installers/cuda_11.2.0_460.27.04_linux.run
+sudo sh cuda_11.2.0_460.27.04_linux.run
+```
+
