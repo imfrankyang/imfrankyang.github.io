@@ -20,6 +20,11 @@
 
 ## Python
 * [Python Documentation contents](https://docs.python.org/3/contents.html)  
+* anaconda
+  ```bash
+  wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+  bash Anaconda3-2020.11-Linux-x86_64.sh
+  ```
 
 
 ## Machine Learning
@@ -138,9 +143,13 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
   
 
 ## CUDA
-Ubuntu 18.04
-```bash
-wget https://developer.download.nvidia.com/compute/cuda/11.2.0/local_installers/cuda_11.2.0_460.27.04_linux.run
-sudo sh cuda_11.2.0_460.27.04_linux.run
-```
+* [CUDA archive](https://developer.nvidia.com/cuda-toolkit-archive) 
+* [CUDA 11 Ubuntu 18 16/Centos 8 7 6](https://developer.nvidia.com/cuda-10.2-download-archive?target_os=Linux&target_arch=x86_64&target_distro=CentOS&target_version=6) 
+* [CUDA 11 Ubuntu 20.04 18.04 16.04/Centos 8 7](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=runfilelocal)
+* [source code](https://developer.download.nvidia.com/compute/cuda/opensource/)
+* [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)  
+* [CUDA 编程入门: 8 小时掌握 GPU 计算](https://www.youtube.com/playlist?list=PLSVM68VUM1eWsEX0yPliaL3pTZoKqJWfi)
+
+## GPU Computing
+[programming courses collections](https://www.bu.edu/pasi/materials/)
 
