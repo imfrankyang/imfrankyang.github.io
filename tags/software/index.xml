@@ -4,7 +4,7 @@
         <link>https://lianfengyeo.github.io/tags/software/</link>
         <description>software - Tag - Life and Work</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/software/" rel="self" type="application/rss+xml" /><item>
-    <title>Tips for research</title>
+    <title>Software tips for research</title>
     <link>https://lianfengyeo.github.io/tips/</link>
     <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
@@ -17,6 +17,8 @@ https://www.voidtools.com/
 https://www.7-zip.org/
 Input Method Editor Windows 10 IME
 Norton/Avast/Microsoft Defender Antivirus in Windows10 Anti-virus or anti-malware software
-hardware  AMD EPYC Jim Keller wiki  ]]></description>
+Operating system  redhat   hardware   AMD EPYC
+  Jim Keller wiki
+  mlxup - Mellanox Update and Query Utility]]></description>
 </item></channel>
 </rss>

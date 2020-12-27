@@ -1,4 +1,4 @@
-# Note of markdown
+# Markdown notes
 
 # Markdown
 ## Tips

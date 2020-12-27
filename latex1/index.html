@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>LaTeX notes - Life and Work</title><meta name="Description" content="LaTeX collection"><meta property="og:title" content="LaTeX notes" />
+<meta property="og:description" content="LaTeX collection" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://lianfengyeo.github.io/latex1/" />
+<meta property="og:image" content="https://lianfengyeo.github.io/logo.png"/>
+<meta property="article:published_time" content="2020-12-27T10:09:30+01:00" />
+<meta property="article:modified_time" content="2020-12-27T10:09:30+01:00" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://lianfengyeo.github.io/logo.png"/>
+
+<meta name="twitter:title" content="LaTeX notes"/>
+<meta name="twitter:description" content="LaTeX collection"/>
+<meta name="application-name" content="Life and Work">
+<meta name="apple-mobile-web-app-title" content="Life and Work"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://lianfengyeo.github.io/latex1/" /><link rel="prev" href="https://lianfengyeo.github.io/openfoam1/" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "LaTeX notes",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/lianfengyeo.github.io\/latex1\/"
+        },"image": [{
+                            "@type": "ImageObject",
+                            "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
+                            "width":  2305 ,
+                            "height":  1895 
+                        }],"genre": "posts","keywords": "LaTeX","wordcount":  1142 ,
+        "url": "https:\/\/lianfengyeo.github.io\/latex1\/","datePublished": "2020-12-27T10:09:30+01:00","dateModified": "2020-12-27T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+            "@type": "Organization",
+            "name": "xxxx","logo": {
+                    "@type": "ImageObject",
+                    "url": "https:\/\/lianfengyeo.github.io\/images\/avatar.png",
+                    "width":  650 ,
+                    "height":  650 
+                }},"author": {
+                "@type": "Person",
+                "name": "Yeo"
+            },"description": "LaTeX collection"
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Life and Work"><span class="header-title-pre"><i class='far fa-kiss-wink-heart fa-fw'></i></span>Life and Work</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> Posts </a><a class="menu-item" href="/tags/"> Tags </a><a class="menu-item" href="/categories/"> Categories </a><a class="menu-item" href="/about/"> About </a><a class="menu-item" href="https://github.com/lianfengyeo" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i>  </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="Select Language">English<i class="fas fa-chevron-right fa-fw"></i>
+                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/latex1/" selected>English</option></select>
+                    </a><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Life and Work"><span class="header-title-pre"><i class='far fa-kiss-wink-heart fa-fw'></i></span>Life and Work</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        Cancel
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">Posts</a><a class="menu-item" href="/tags/" title="">Tags</a><a class="menu-item" href="/categories/" title="">Categories</a><a class="menu-item" href="/about/" title="">About</a><a class="menu-item" href="https://github.com/lianfengyeo" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="Select Language">English<i class="fas fa-chevron-right fa-fw"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/latex1/" selected>English</option></select>
+                </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">LaTeX notes</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/latex/"><i class="far fa-folder fa-fw"></i>LaTeX</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-27">2020-12-27</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;1142 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;6 minutes&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#equation">equation</a></li>
+    <li><a href="#greek-alphabet">Greek alphabet</a></li>
+    <li><a href="#数学符号">数学符号</a></li>
+    <li><a href="#spacing">spacing</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h1 id="latex">LaTeX</h1>
+<h2 id="equation">equation</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span><span class="lnt">50
+</span><span class="lnt">51
+</span><span class="lnt">52
+</span><span class="lnt">53
+</span><span class="lnt">54
+</span><span class="lnt">55
+</span><span class="lnt">56
+</span><span class="lnt">57
+</span><span class="lnt">58
+</span><span class="lnt">59
+</span><span class="lnt">60
+</span><span class="lnt">61
+</span><span class="lnt">62
+</span><span class="lnt">63
+</span><span class="lnt">64
+</span><span class="lnt">65
+</span><span class="lnt">66
+</span><span class="lnt">67
+</span><span class="lnt">68
+</span><span class="lnt">69
+</span><span class="lnt">70
+</span><span class="lnt">71
+</span><span class="lnt">72
+</span><span class="lnt">73
+</span><span class="lnt">74
+</span><span class="lnt">75
+</span><span class="lnt">76
+</span><span class="lnt">77
+</span><span class="lnt">78
+</span><span class="lnt">79
+</span><span class="lnt">80
+</span><span class="lnt">81
+</span><span class="lnt">82
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-latex" data-lang="latex">xxx<span class="k">\\</span>
+for <span class="s">$</span><span class="nb">x </span><span class="o">=</span><span class="nb"> a, b</span><span class="s">$</span>, or <span class="s">$</span><span class="nb">c</span><span class="s">$</span>.<span class="k">\\</span>
+for <span class="s">$</span><span class="nb">x </span><span class="o">=</span><span class="nb"> a</span><span class="s">$</span>, <span class="s">$</span><span class="nb">b</span><span class="s">$</span>, or <span class="s">$</span><span class="nb">c</span><span class="s">$</span>.<span class="k">\\</span>
+for <span class="s">$</span><span class="nb">x </span><span class="o">=</span><span class="nb"> a, b, or</span><span class="nv">\,\,</span><span class="nb">c</span><span class="s">$</span>.<span class="k">\\</span>
+for <span class="s">$</span><span class="nb">x </span><span class="o">=</span><span class="nb"> a,</span><span class="nv">\,</span><span class="nb">b,</span><span class="nv">\,</span><span class="nb">or</span><span class="nv">\,\,</span><span class="nb">c</span><span class="s">$</span>.<span class="k">\\</span>
+for <span class="s">$</span><span class="nb">x </span><span class="o">=</span><span class="nb"> a</span><span class="s">$</span>, <span class="s">$</span><span class="nb">b</span><span class="s">$</span>, or~<span class="s">$</span><span class="nb">c</span><span class="s">$</span>.<span class="k">\\</span>
+<span class="s">$</span><span class="nb">x_</span><span class="m">1</span><span class="nb">,</span><span class="nv">\cdots</span><span class="nb">, x_n</span><span class="s">$</span><span class="k">\\</span>
+<span class="s">$</span><span class="nb">x_</span><span class="m">1</span><span class="nb">,</span><span class="nv">\ldots</span><span class="nb">, x_n</span><span class="s">$</span><span class="k">\\</span>
+<span class="s">$</span><span class="nv">\sim</span><span class="nb"> </span><span class="s">$</span> <span class="c">%∼
+</span><span class="c"></span>
+<span class="c">%\[  111=\frac{a}{b}   \] \\
+</span><span class="c">%$$   111=\frac{a}{b}   $$ \\
+</span><span class="c">%\(  111=\frac{a}{b}   \) \\
+</span><span class="c">%$  111=\frac{a}{b}   $\\
+</span><span class="c"></span>
+<span class="k">\begin</span><span class="nb">{</span>align<span class="nb">}</span> <span class="c">%等号对齐
+</span><span class="c"></span>111 <span class="nb">&amp;</span>=<span class="k">\frac</span><span class="nb">{</span>a<span class="nb">}{</span>b<span class="nb">}</span><span class="k">\delta\\</span>  <span class="c">%\nonumber
+</span><span class="c"></span><span class="k">\bm</span> <span class="nb">{</span>111<span class="nb">}</span> <span class="nb">&amp;</span>=<span class="k">\frac</span><span class="nb">{</span>a<span class="nb">}{</span><span class="k">\rm</span><span class="nb">{</span>b<span class="nb">}}</span>+<span class="k">\int</span><span class="nb">_</span>1<span class="nb">^</span>2<span class="nb">{</span>xdx<span class="nb">}</span>  
+<span class="k">\end</span><span class="nb">{</span>align<span class="nb">}</span>
+
+<span class="k">\begin</span><span class="nb">{</span>gather<span class="nb">}</span>  <span class="c">%多行多个序号
+</span><span class="c"></span>    3(a-x) = 3.5x + a - 1 <span class="k">\\</span>
+    3a - 3x = 3.5x + a -1 <span class="k">\\</span>
+    a = <span class="k">\frac</span><span class="nb">{</span>13<span class="nb">}{</span>4<span class="nb">}</span>x - <span class="k">\frac</span><span class="nb">{</span>1<span class="nb">}{</span>2<span class="nb">}</span> 
+<span class="k">\end</span><span class="nb">{</span>gather<span class="nb">}</span>
+
+<span class="k">\begin</span><span class="nb">{</span>equation<span class="nb">}</span> <span class="c">%多行一个序号
+</span><span class="c"></span><span class="k">\begin</span><span class="nb">{</span>gathered<span class="nb">}</span>
+3(a-x) = 3.5x + a - 1 <span class="k">\\</span>
+3a - 3x = 3.5x + a - 1 <span class="k">\\</span>
+a = <span class="k">\frac</span><span class="nb">{</span>13<span class="nb">}{</span>4<span class="nb">}</span>x - <span class="k">\frac</span><span class="nb">{</span>1<span class="nb">}{</span>2<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>gathered<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>equation<span class="nb">}</span>
+
+this is a equation(<span class="k">\ref</span><span class="nb">{</span>eq.1<span class="nb">}</span>)
+<span class="k">\begin</span><span class="nb">{</span>equation<span class="nb">}</span> 
+<span class="k">\begin</span><span class="nb">{</span>split<span class="nb">}</span> 
+<span class="k">\label</span><span class="nb">{</span>eq.1<span class="nb">}</span>
+x<span class="nb">&amp;</span>=1<span class="k">\\</span>
+<span class="nb">&amp;</span> =3<span class="k">\\</span>
+<span class="nb">&amp;</span> =4444
+<span class="k">\end</span><span class="nb">{</span>split<span class="nb">}</span> 
+<span class="k">\end</span><span class="nb">{</span>equation<span class="nb">}</span>
+
+This is a equation example
+<span class="s">$</span><span class="nb">
+</span><span class="nb">x</span><span class="o">=</span><span class="nv">\begin</span><span class="nb">{cases}
+</span><span class="nb">    </span><span class="nv">\dfrac</span><span class="nb">{x</span><span class="o">-</span><span class="m">1</span><span class="nb">}{</span><span class="m">2</span><span class="nb">},</span><span class="nv">\!\!</span><span class="nb">&amp;</span><span class="nv">\text</span><span class="nb">{if}~x</span><span class="o">=</span><span class="m">0</span><span class="nv">\\</span><span class="nb">
+</span><span class="nb">    </span><span class="m">2</span><span class="o">+</span><span class="nv">\dfrac</span><span class="nb">{x</span><span class="o">-</span><span class="m">1</span><span class="nb">}{</span><span class="m">2</span><span class="nb">},</span><span class="nv">\!\!</span><span class="nb">&amp;x</span><span class="o">=</span><span class="m">1</span><span class="nv">\\</span><span class="nb">
+</span><span class="nb"></span><span class="nv">\end</span><span class="nb">{cases}
+</span><span class="nb"></span><span class="s">$</span>
+<span class="s">$</span><span class="nb">
+</span><span class="nb">x</span><span class="o">=</span><span class="nv">\begin</span><span class="nb">{dcases}   </span><span class="c">%dcases 使用 \usepackage{mathtools}
+</span><span class="c"></span><span class="nb">    </span><span class="nv">\frac</span><span class="nb">{x</span><span class="o">-</span><span class="m">1</span><span class="nb">}{</span><span class="m">2</span><span class="nb">},</span><span class="nv">\!\!</span><span class="nb">&amp;</span><span class="nv">\text</span><span class="nb">{if}~x</span><span class="o">=</span><span class="m">0</span><span class="nv">\\</span><span class="nb">
+</span><span class="nb">    </span><span class="m">2</span><span class="o">+</span><span class="nv">\frac</span><span class="nb">{x</span><span class="o">-</span><span class="m">1</span><span class="nb">}{</span><span class="m">2</span><span class="nb">},</span><span class="nv">\!\!</span><span class="nb">&amp;x</span><span class="o">=</span><span class="m">1</span><span class="nv">\\</span><span class="nb">
+</span><span class="nb"></span><span class="nv">\end</span><span class="nb">{dcases}
+</span><span class="nb"></span><span class="s">$</span>
+therefore
+
+<span class="sb">$$</span><span class="nb">
+</span><span class="nb"></span><span class="nv">\left</span><span class="o">[</span><span class="nb"> </span><span class="nv">\begin</span><span class="nb">{matrix}
+</span><span class="nb">    </span><span class="m">1</span><span class="nb">&amp;      </span><span class="m">2</span><span class="nv">\\</span><span class="nb">
+</span><span class="nb">    </span><span class="m">3</span><span class="nb">&amp;      </span><span class="m">4</span><span class="nv">\\</span><span class="nb">
+</span><span class="nb"></span><span class="nv">\end</span><span class="nb">{matrix} </span><span class="nv">\right</span><span class="o">]</span><span class="nb"> 
+</span><span class="nb"></span><span class="s">$$</span>
+<span class="sb">$$</span><span class="nb">
+</span><span class="nb"></span><span class="nv">\left</span><span class="o">[</span><span class="nv">\begin</span><span class="nb">{array} {cc}
+</span><span class="nb">    </span><span class="m">1</span><span class="nb">&amp;</span><span class="m">2</span><span class="nv">\\</span><span class="nb">
+</span><span class="nb">    </span><span class="m">3</span><span class="nb">&amp;</span><span class="m">4</span><span class="nv">\\</span><span class="nb">
+</span><span class="nb"></span><span class="nv">\end</span><span class="nb">{array}</span><span class="nv">\right</span><span class="o">]</span><span class="nb">
+</span><span class="nb"></span><span class="s">$$</span>
+
+<span class="k">\begin</span><span class="nb">{</span>align<span class="nb">}</span>
+<span class="k">\left</span>[<span class="k">\begin</span><span class="nb">{</span>array<span class="nb">}</span> <span class="nb">{</span>cc<span class="nb">}</span>
+    1<span class="nb">&amp;</span>2<span class="k">\\</span>
+    3<span class="nb">&amp;</span>4<span class="k">\\</span>
+<span class="k">\end</span><span class="nb">{</span>array<span class="nb">}</span><span class="k">\right</span>]
+<span class="k">\end</span><span class="nb">{</span>align<span class="nb">}</span>
+
+
+ <span class="k">\label</span><span class="nb">{</span>YY<span class="nb">}</span><span class="k">\\</span>
+
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="greek-alphabet">Greek alphabet</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Lowercase</th>
+<th style="text-align:center">Uppercase</th>
+<th style="text-align:center">latex</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">α</td>
+<td style="text-align:center">A</td>
+<td style="text-align:center">\alpha</td>
+</tr>
+<tr>
+<td style="text-align:center">β</td>
+<td style="text-align:center">B</td>
+<td style="text-align:center">\beta</td>
+</tr>
+<tr>
+<td style="text-align:center">γ</td>
+<td style="text-align:center">Γ</td>
+<td style="text-align:center">\gamma</td>
+</tr>
+<tr>
+<td style="text-align:center">δ</td>
+<td style="text-align:center">Δ</td>
+<td style="text-align:center">\delta</td>
+</tr>
+<tr>
+<td style="text-align:center">ϵ</td>
+<td style="text-align:center">E</td>
+<td style="text-align:center">\epsilon</td>
+</tr>
+<tr>
+<td style="text-align:center">ζ</td>
+<td style="text-align:center">Z</td>
+<td style="text-align:center">\zeta</td>
+</tr>
+<tr>
+<td style="text-align:center">ν</td>
+<td style="text-align:center">N</td>
+<td style="text-align:center">\nu</td>
+</tr>
+<tr>
+<td style="text-align:center">ξ</td>
+<td style="text-align:center">Ξ</td>
+<td style="text-align:center">\xi</td>
+</tr>
+<tr>
+<td style="text-align:center">ο</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">\omicron</td>
+</tr>
+<tr>
+<td style="text-align:center">π</td>
+<td style="text-align:center">Π</td>
+<td style="text-align:center">\pi</td>
+</tr>
+<tr>
+<td style="text-align:center">ρ</td>
+<td style="text-align:center">P</td>
+<td style="text-align:center">\rho</td>
+</tr>
+<tr>
+<td style="text-align:center">σ</td>
+<td style="text-align:center">Σ</td>
+<td style="text-align:center">\sigma</td>
+</tr>
+<tr>
+<td style="text-align:center">η</td>
+<td style="text-align:center">H</td>
+<td style="text-align:center">\eta</td>
+</tr>
+<tr>
+<td style="text-align:center">θ</td>
+<td style="text-align:center">Θ</td>
+<td style="text-align:center">\theta</td>
+</tr>
+<tr>
+<td style="text-align:center">ι</td>
+<td style="text-align:center">I</td>
+<td style="text-align:center">\iota</td>
+</tr>
+<tr>
+<td style="text-align:center">κ</td>
+<td style="text-align:center">K</td>
+<td style="text-align:center">\kappa</td>
+</tr>
+<tr>
+<td style="text-align:center">λ</td>
+<td style="text-align:center">Λ</td>
+<td style="text-align:center">\lambda</td>
+</tr>
+<tr>
+<td style="text-align:center">μ</td>
+<td style="text-align:center">M</td>
+<td style="text-align:center">\mu</td>
+</tr>
+<tr>
+<td style="text-align:center">τ</td>
+<td style="text-align:center">T</td>
+<td style="text-align:center">\tau</td>
+</tr>
+<tr>
+<td style="text-align:center">υ</td>
+<td style="text-align:center">Υ</td>
+<td style="text-align:center">\upsilon</td>
+</tr>
+<tr>
+<td style="text-align:center">ϕ</td>
+<td style="text-align:center">Φ</td>
+<td style="text-align:center">\phi，（φ：\varphi）</td>
+</tr>
+<tr>
+<td style="text-align:center">χ</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">\chi</td>
+</tr>
+<tr>
+<td style="text-align:center">ψ</td>
+<td style="text-align:center">Ψ</td>
+<td style="text-align:center">\psi</td>
+</tr>
+<tr>
+<td style="text-align:center">ω</td>
+<td style="text-align:center">Ω</td>
+<td style="text-align:center">\omega</td>
+</tr>
+</tbody>
+</table>
+<h2 id="数学符号">数学符号</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">符号</th>
+<th style="text-align:center">LATEX code</th>
+<th style="text-align:center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">根号</td>
+<td style="text-align:center">\sqrt[3]{3}</td>
+<td style="text-align:center">$\sqrt[3]{3}$</td>
+</tr>
+<tr>
+<td style="text-align:center">分数</td>
+<td style="text-align:center">\frac{分子}{分母}</td>
+<td style="text-align:center">$\frac{1}{2}$</td>
+</tr>
+<tr>
+<td style="text-align:center">求和</td>
+<td style="text-align:center">\sum_{下标}^{上标}</td>
+<td style="text-align:center">$\sum_{n=1}^{100}$</td>
+</tr>
+<tr>
+<td style="text-align:center">上划线</td>
+<td style="text-align:center">\overline{式子}</td>
+<td style="text-align:center">$\overline{a}$</td>
+</tr>
+<tr>
+<td style="text-align:center">下划线</td>
+<td style="text-align:center">\underline{式子}</td>
+<td style="text-align:center">$\underline{a}$</td>
+</tr>
+<tr>
+<td style="text-align:center">罗马体</td>
+<td style="text-align:center">\mathrm{字符}</td>
+<td style="text-align:center">$\mathrm{abcdefghijklmnopqrstuvwxyz}$</td>
+</tr>
+<tr>
+<td style="text-align:center">顶部曲线</td>
+<td style="text-align:center">\tilde{字}</td>
+<td style="text-align:center">$\tilde{a}$</td>
+</tr>
+<tr>
+<td style="text-align:center">约等于</td>
+<td style="text-align:center">\approx</td>
+<td style="text-align:center">$\approx$</td>
+</tr>
+<tr>
+<td style="text-align:center">小于等于</td>
+<td style="text-align:center">\leq</td>
+<td style="text-align:center">$\leq$</td>
+</tr>
+<tr>
+<td style="text-align:center">大于等于</td>
+<td style="text-align:center">\geq</td>
+<td style="text-align:center">$\geq$</td>
+</tr>
+<tr>
+<td style="text-align:center">字母顶部的小折线</td>
+<td style="text-align:center">\hat{字母}</td>
+<td style="text-align:center">$\hat{}$</td>
+</tr>
+<tr>
+<td style="text-align:center">相似符号</td>
+<td style="text-align:center">\sim</td>
+<td style="text-align:center">$\sim$</td>
+</tr>
+<tr>
+<td style="text-align:center">下注释</td>
+<td style="text-align:center">\arg \underset{y}{\max}</td>
+<td style="text-align:center">$\arg \underset{y}{\max}$</td>
+</tr>
+<tr>
+<td style="text-align:center">梯度</td>
+<td style="text-align:center">\nabla</td>
+<td style="text-align:center">$\nabla$</td>
+</tr>
+<tr>
+<td style="text-align:center">偏导</td>
+<td style="text-align:center">\partial</td>
+<td style="text-align:center">$\partial$</td>
+</tr>
+<tr>
+<td style="text-align:center">省略号</td>
+<td style="text-align:center">\cdots，单个为\cdot</td>
+<td style="text-align:center">$\cdots$，单个为$\cdot$</td>
+</tr>
+<tr>
+<td style="text-align:center">花体大写</td>
+<td style="text-align:center">\mathscr{F}</td>
+<td style="text-align:center">$\mathscr{F}$</td>
+</tr>
+<tr>
+<td style="text-align:center">空集</td>
+<td style="text-align:center">\varnothing</td>
+<td style="text-align:center">$\varnothing$</td>
+</tr>
+<tr>
+<td style="text-align:center">向右箭头</td>
+<td style="text-align:center">\varnothing</td>
+<td style="text-align:center">$\rightarrow$</td>
+</tr>
+<tr>
+<td style="text-align:center">属于</td>
+<td style="text-align:center">\in</td>
+<td style="text-align:center">$\in$</td>
+</tr>
+<tr>
+<td style="text-align:center">元素乘（空心圆）</td>
+<td style="text-align:center">\circ</td>
+<td style="text-align:center">$\circ$</td>
+</tr>
+<tr>
+<td style="text-align:center">加粗斜体</td>
+<td style="text-align:center">\boldsymbol{内容}</td>
+<td style="text-align:center">$\boldsymbol{A}$</td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center">\mathcal{内容}</td>
+<td style="text-align:center">$\mathcal{A}$</td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center">\mathbb{内容}</td>
+<td style="text-align:center">$\mathbb{A}$</td>
+</tr>
+<tr>
+<td style="text-align:center">正比于</td>
+<td style="text-align:center">\propto</td>
+<td style="text-align:center">$\propto$</td>
+</tr>
+<tr>
+<td style="text-align:center">无穷</td>
+<td style="text-align:center">\infty</td>
+<td style="text-align:center">$\infty$</td>
+</tr>
+<tr>
+<td style="text-align:center">任意</td>
+<td style="text-align:center">\forall</td>
+<td style="text-align:center">$\forall$</td>
+</tr>
+<tr>
+<td style="text-align:center">存在</td>
+<td style="text-align:center">\exists</td>
+<td style="text-align:center">$\exists$</td>
+</tr>
+<tr>
+<td style="text-align:center">向量</td>
+<td style="text-align:center">\vec{w}</td>
+<td style="text-align:center">$\vec{A}$</td>
+</tr>
+<tr>
+<td style="text-align:center">向量点乘</td>
+<td style="text-align:center">\cdot</td>
+<td style="text-align:center">$\cdot$</td>
+</tr>
+</tbody>
+</table>
+<h2 id="spacing">spacing</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">spacing</th>
+<th style="text-align:center">LATEX code</th>
+<th style="text-align:center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">twice of \quad (= 36 mu)</td>
+<td style="text-align:center">a \qquad b</td>
+<td style="text-align:center">$a \qquad b$</td>
+</tr>
+<tr>
+<td style="text-align:center">\quad	space equal to the current font size (= 18 mu = 1 em)</td>
+<td style="text-align:center">a \quad b</td>
+<td style="text-align:center">$a \quad b$</td>
+</tr>
+<tr>
+<td style="text-align:center">\ (space after backslash!) equivalent of space in normal text</td>
+<td style="text-align:center">a\ b</td>
+<td style="text-align:center">$a\ b$</td>
+</tr>
+<tr>
+<td style="text-align:center">5/18 of \quad (= 5 mu)</td>
+<td style="text-align:center"><code>a\;b</code></td>
+<td style="text-align:center">$a\;b$</td>
+</tr>
+<tr>
+<td style="text-align:center">4/18 of \quad (= 4 mu)</td>
+<td style="text-align:center"><code>a\:b</code></td>
+<td style="text-align:center">$a\:b$</td>
+</tr>
+<tr>
+<td style="text-align:center">3/18 of \quad (= 3 mu)</td>
+<td style="text-align:center"><code>a\,b</code></td>
+<td style="text-align:center">$a\,b$</td>
+</tr>
+<tr>
+<td style="text-align:center">no space</td>
+<td style="text-align:center">ab</td>
+<td style="text-align:center">$ab$</td>
+</tr>
+<tr>
+<td style="text-align:center">-3/18 of \quad (= -3 mu)</td>
+<td style="text-align:center"><code>a\!b</code></td>
+<td style="text-align:center">$a\!b$</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://tex.stackexchange.com/questions/74353/what-commands-are-there-for-horizontal-spacing?newreg=a57b9d48fa7d404b87f5da9c7ed1664d" target="_blank" rel="noopener noreffer">What commands are there for horizontal spacing?</a><br>
+There are a number of horizontal spacing macros for LaTeX:<br>
+<strong>math mode:</strong> <code>$\:$</code></p>
+<ol>
+<li><code>\,</code> inserts a <code>.16667em</code> space in text mode, or <code>\thinmuskip</code> (equivalent to <code>3mu</code>) in math mode; there&rsquo;s an equivalent <code>\thinspace</code> macro;</li>
+<li><code>\!</code> is the <em>negative</em> equivalent to <code>\,</code>; there&rsquo;s an equivalent <code>\negthinspace</code> macro;</li>
+<li><code>\&gt;</code> (or <code>\:</code>) inserts a <code>.2222em</code> space in text mode, or <code>\medmuskip</code> (equivalent to <code>4.0mu plus 2.0mu minus 4.0mu</code>) in math mode; there&rsquo;s an equivalent <code>\medspace</code>;</li>
+<li><code>\negmedspace</code> is the <em>negative</em> equivalent to <code>\medspace</code>;</li>
+<li><code>\;</code> inserts a <code>.2777em</code> space in text mode, or <code>\thickmuskip</code> (equivalent to <code>5.0mu plus 5.0mu</code>) in math mode; there&rsquo;s an equivalent <code>\thickspace</code>;</li>
+<li><code>\negthickspace</code> is the <em>negative</em> equivalent to <code>\thickspace</code>;</li>
+<li><code>\enspace</code> inserts a space of <code>.5em</code> in text or math mode;</li>
+<li><code>\quad</code> inserts a space of <code>1em</code> in text or math mode;</li>
+<li><code>\qquad</code> inserts a space of <code>2em</code> in text or math mode;</li>
+<li><code>\kern &lt;len&gt;</code> inserts a skip of <code>&lt;len&gt;</code> (may be negative) in text or math mode (a plain TeX skip); there&rsquo;s also a <code>m</code>ath-specific <code>\mkern &lt;math len&gt;</code>;</li>
+<li><code>\hskip &lt;len&gt;</code> (similar to <code>\kern</code>);</li>
+<li><code>\hspace{&lt;len&gt;}</code> inserts a space of length <code>&lt;len&gt;</code> (may be negative) in math or text mode (a LaTeX <code>\hskip</code>);</li>
+<li><code>\hphantom{&lt;stuff&gt;}</code> inserts space of length equivalent to <code>&lt;stuff&gt;</code> in math or text mode. <code>\phantom{&lt;stuff&gt;}</code> is similar, inserting a horizontal and vertical space that matches <code>&lt;stuff&gt;</code>. Should be <code>\protect</code>ed when used in fragile commands (like <code>\caption</code> and sectional headings);</li>
+<li><code>\ </code> inserts what is called a &ldquo;control space&rdquo; (in text or math mode);</li>
+<li><code> </code> inserts an inter-word space in text mode (and is gobbled in math mode). Similarly for <code>\space</code> and <code>{ }</code>.</li>
+<li><code>~</code> inserts an &ldquo;unbreakable&rdquo; space (similar to an HTML <code> </code>) (in text or math mode);</li>
+<li><code>\hfill</code> inserts a so-called &ldquo;rubber length&rdquo; or stretch between elements (in text or math mode). Note that you may need to provide a type of anchor to fill from/to; see <a href="https://tex.stackexchange.com/q/45948/5764" target="_blank" rel="noopener noreffer">What is the difference between <code>\hspace*{\fill}</code> and <code>\hfill</code>?</a>;</li>
+</ol>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="xaQvv.png"
+        data-srcset="/latex1/xaQvv.png, xaQvv.png 1.5x, /latex1/xaQvv.png 2x"
+        data-sizes="auto"
+        alt="/latex1/xaQvv.png"
+        title="/latex1/xaQvv.png" /></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-Latex" data-lang="Latex"> <span class="k">\verb</span>|a<span class="k">\,</span>b|                     <span class="nb">&amp;</span> a<span class="k">\,</span>b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\,</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\thinspace</span> b|            <span class="nb">&amp;</span> a<span class="k">\thinspace</span> b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\thinspace</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\!</span>b|                     <span class="nb">&amp;</span> a<span class="k">\!</span>b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\!</span><span class="nb">b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\negthinspace</span> b|         <span class="nb">&amp;</span> a<span class="k">\negthinspace</span> b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\negthinspace</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\:</span>b|                     <span class="nb">&amp;</span> a<span class="k">\:</span>b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\:</span><span class="nb">b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\&gt;</span>b|                     <span class="nb">&amp;</span> a<span class="k">\&gt;</span>b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\&gt;</span><span class="nb">b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\medspace</span> b|             <span class="nb">&amp;</span> a<span class="k">\medspace</span> b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\medspace</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\negmedspace</span> b|          <span class="nb">&amp;</span> a<span class="k">\negmedspace</span> b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\negmedspace</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\;</span>b|                     <span class="nb">&amp;</span> a<span class="k">\;</span>b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\;</span><span class="nb">b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\thickspace</span> b|           <span class="nb">&amp;</span> a<span class="k">\thickspace</span> b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\thickspace</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\negthickspace</span> b|        <span class="nb">&amp;</span> a<span class="k">\negthickspace</span> b <span class="k">\quad</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\negthickspace</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\mkern\thinmuskip</span><span class="nb"> b</span><span class="s">$</span>|   <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\mkern\thinmuskip</span><span class="nb"> b</span><span class="s">$</span> (similar to <span class="k">\verb</span>|<span class="k">\,</span>|) <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\mkern</span><span class="o">-</span><span class="nv">\thinmuskip</span><span class="nb"> b</span><span class="s">$</span>|  <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\mkern</span><span class="o">-</span><span class="nv">\thinmuskip</span><span class="nb"> b</span><span class="s">$</span> (similar to <span class="k">\verb</span>|<span class="k">\!</span>|) <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\mkern\medmuskip</span><span class="nb"> b</span><span class="s">$</span>|    <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\mkern\medmuskip</span><span class="nb"> b</span><span class="s">$</span> (similar to <span class="k">\verb</span>|<span class="k">\:</span>| or <span class="k">\verb</span>|<span class="k">\&gt;</span>|) <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\mkern</span><span class="o">-</span><span class="nv">\medmuskip</span><span class="nb"> b</span><span class="s">$</span>|   <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\mkern</span><span class="o">-</span><span class="nv">\medmuskip</span><span class="nb"> b</span><span class="s">$</span> (similar to <span class="k">\verb</span>|<span class="k">\negmedspace</span>|) <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\mkern\thickmuskip</span><span class="nb"> b</span><span class="s">$</span>|  <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\mkern\thickmuskip</span><span class="nb"> b</span><span class="s">$</span> (similar to <span class="k">\verb</span>|<span class="k">\;</span>|) <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\mkern</span><span class="o">-</span><span class="nv">\thickmuskip</span><span class="nb"> b</span><span class="s">$</span>| <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\mkern</span><span class="o">-</span><span class="nv">\thickmuskip</span><span class="nb"> b</span><span class="s">$</span> (similar to <span class="k">\verb</span>|<span class="k">\negthickspace</span>|) <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\enspace</span> b|              <span class="nb">&amp;</span> a<span class="k">\enspace</span> b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\enspace</span><span class="nb"> b</span><span class="s">$</span>|            <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\enspace</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\quad</span> b|                 <span class="nb">&amp;</span> a<span class="k">\quad</span> b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\quad</span><span class="nb"> b</span><span class="s">$</span>|               <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\quad</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\qquad</span> b|                <span class="nb">&amp;</span> a<span class="k">\qquad</span> b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\qquad</span><span class="nb"> b</span><span class="s">$</span>|              <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\qquad</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\hskip</span> 1em b|            <span class="nb">&amp;</span> a<span class="k">\hskip</span> 1em b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\hskip</span><span class="nb"> </span><span class="m">1</span><span class="nb">em b</span><span class="s">$</span>|          <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\hskip</span><span class="nb"> </span><span class="m">1</span><span class="nb">em b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\kern</span> 1pc b|             <span class="nb">&amp;</span> a<span class="k">\kern</span> 1pc b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\kern</span><span class="nb"> </span><span class="m">1</span><span class="nb">pc b</span><span class="s">$</span>|           <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\kern</span><span class="nb"> </span><span class="m">1</span><span class="nb">pc b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\mkern</span><span class="nb"> </span><span class="m">17</span><span class="nb">mu b</span><span class="s">$</span>|         <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\mkern</span><span class="nb"> </span><span class="m">17</span><span class="nb">mu b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\hspace</span><span class="nb">{</span>35pt<span class="nb">}</span>b|          <span class="nb">&amp;</span> a<span class="k">\hspace</span><span class="nb">{</span>35pt<span class="nb">}</span>b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\hspace</span><span class="nb">{</span><span class="m">35</span><span class="nb">pt}b</span><span class="s">$</span>|        <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\hspace</span><span class="nb">{</span><span class="m">35</span><span class="nb">pt}b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|axyzb|                    <span class="nb">&amp;</span> axyzb <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\hphantom</span><span class="nb">{</span>xyz<span class="nb">}</span>b|         <span class="nb">&amp;</span> a<span class="k">\hphantom</span><span class="nb">{</span>xyz<span class="nb">}</span>b (or just <span class="k">\verb</span>|<span class="k">\phantom</span>|) <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">axyzb</span><span class="s">$</span>|                  <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">axyzb</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\hphantom</span><span class="nb">{xyz}b</span><span class="s">$</span>|       <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\hphantom</span><span class="nb">{xyz}b</span><span class="s">$</span> (or just <span class="k">\verb</span>|<span class="k">\phantom</span>|) <span class="k">\\</span>
+  <span class="k">\verb</span>|a b|                      <span class="nb">&amp;</span> a b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a b</span><span class="s">$</span>|                    <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\space</span> b|                <span class="nb">&amp;</span> a<span class="k">\space</span> b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\space</span><span class="nb"> b</span><span class="s">$</span>|              <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\space</span><span class="nb"> b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\ </span>b|                     <span class="nb">&amp;</span> a<span class="k">\ </span>b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\ </span><span class="nb">b</span><span class="s">$</span>|                   <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\ </span><span class="nb">b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="nb">{</span> <span class="nb">}</span>b|                    <span class="nb">&amp;</span> a<span class="nb">{</span> <span class="nb">}</span>b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a{ }b</span><span class="s">$</span>|                  <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a{ }b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a~b|                      <span class="nb">&amp;</span> a~b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a~b</span><span class="s">$</span>|                    <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a~b</span><span class="s">$</span> <span class="k">\\</span>
+  <span class="k">\verb</span>|a<span class="k">\hfill</span> b|                <span class="nb">&amp;</span> a<span class="k">\hfill</span> b <span class="k">\\</span>
+  <span class="k">\verb</span>|<span class="s">$</span><span class="nb">a</span><span class="nv">\hfill</span><span class="nb"> b</span><span class="s">$</span>|              <span class="nb">&amp;</span> <span class="s">$</span><span class="nb">a</span><span class="nv">\hfill</span><span class="nb"> b</span><span class="s">$</span>
+</code></pre></td></tr></table>
+</div>
+</div></div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2020-12-27</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"><span>
+                            <a class="link-to-markdown" href="/latex1/index.md" target="_blank">Read Markdown</a>
+                        </span></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://lianfengyeo.github.io/latex1/" data-title="LaTeX notes" data-hashtags="LaTeX"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://lianfengyeo.github.io/latex1/" data-title="LaTeX notes"><i class="fab fa-weibo fa-fw"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/latex/">LaTeX</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/openfoam1/" class="prev" rel="prev" title="OpenFOAM"><i class="fas fa-angle-left fa-fw"></i>OpenFOAM</a></div>
+</div>
+<div id="comments"><div id="utterances"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">Utterances</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.79.1">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Lianfengyeo</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.2.0/dist/css/lightgallery.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/copy-tex.min.css"><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/smooth-scroll@16.1.3/dist/smooth-scroll.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.37.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/algoliasearch@4.2.0/dist/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.2.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.2.0/dist/js/lightgallery.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.2.0/dist/lg-zoom.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.4.0/sharer.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/copy-tex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":40},"comment":{"utterances":{"darkTheme":"github-dark","issueTerm":"pathname","label":"","lightTheme":"github-light","repo":"lianfengyeo/hugoblogtalks"}},"lightGallery":{"actualSize":false,"exThumbImage":"data-thumbnail","hideBarsDelay":2000,"selector":".lightgallery","speed":400,"thumbContHeight":80,"thumbWidth":80,"thumbnail":true},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"algoliaAppID":"PASDMWALPK","algoliaIndex":"index.en","algoliaSearchKey":"b42948e51daaa93df92381c8e2ac0f93","highlightTag":"em","maxResultLength":15,"noResultsFound":"No results found","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

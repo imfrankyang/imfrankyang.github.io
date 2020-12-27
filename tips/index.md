@@ -1,4 +1,4 @@
-# Tips for research
+# Software tips for research
 
 
 ### zotero
@@ -21,7 +21,9 @@ Windows 10 IME
 ### Norton/Avast/Microsoft Defender Antivirus in Windows10
 Anti-virus or anti-malware software
 
-
+### Operating system
+* [redhat](https://developers.redhat.com/products/rhel/download)
+* 
 
 
 ### hardware
@@ -29,3 +31,8 @@ Anti-virus or anti-malware software
 * Jim Keller
 [wiki](https://www.wikiwand.com/en/Jim_Keller_(engineer))  
 
+* [mlxup - Mellanox Update and Query Utility](https://www.mellanox.com/support/firmware/mlxup-mft)
+* [Mellanox OFED for Windows - WinOF / WinOF-2](https://www.mellanox.com/products/adapter-software/ethernet/windows/winof-2)
+* [Linux Drivers](https://www.mellanox.com/products/infiniband-drivers/linux/mlnx_ofed)
+* [Mellanox EN Driver for Linux](https://www.mellanox.com/products/ethernet-drivers/linux/mlnx_en)
+* [Firmware Downloads](https://www.mellanox.com/support/firmware/firmware-downloads)
