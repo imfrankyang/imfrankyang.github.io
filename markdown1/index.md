@@ -789,9 +789,9 @@ Blockquotes
 
 insert image
 ```markdown
-![steve and MacBook Air 2](/img/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
+![steve and MacBook Air 2](/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
 ```
-![steve and MacBook Air 2](/img/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
+![steve and MacBook Air 2](/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
 
 insert link 
 ```markdown
