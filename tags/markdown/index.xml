@@ -9,12 +9,8 @@
     <pubDate>Fri, 27 Nov 2020 22:55:58 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/markdown1/</guid>
-    <description><![CDATA[Markdown Tips https://learn.getgrav.org/17/content/markdown
-https://katex.org/docs/supported.html latex equation
-Markdown collection title
-1 2 3 4 5 6  # Hello World! ## test1 ### test2 #### test3 ##### test4 ###### test5   开头空格
-1  &amp;emsp;    This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.This
-空行
-1 2 3 4 5  The second paragraph &lt;br&gt; &lt;br&gt; &lt;br&gt; The third paragraph   The second paragraph The third paragraph]]></description>
+    <description><![CDATA[Markdown Reference  Markdown Syntax &lsquo;getgrav&rsquo; 教你Markdown+VSCODE实现最完美流畅写作体验  Markdown notes  heading
+ 1 2 3 4 5  ## h2 Heading ### h3 Heading #### h4 Heading ##### h5 Heading ###### h6 Heading    开头空格
+ 1  &amp;emsp;    This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.]]></description>
 </item></channel>
 </rss>

@@ -1,6 +1,9 @@
 # LaTeX notes
 
 
+# reference
+* [katex](https://katex.org/docs/supported.html)
+
 # LaTeX
 ## equation
 ```latex
@@ -161,6 +164,11 @@ $$
 |                    3/18 of \quad (= 3 mu)                     |   `a\,b`   |    $a\\,b$    |
 |                           no space                            |     ab    |     $ab$     |
 |                   -3/18 of \quad (= -3 mu)                    |   `a\!b`    |    $a\\!b$    |
+
+* \displaystyle        显示公式的标准尺寸  简记 D
+* \textstyle          正文公式的标准尺寸   简记 T
+* \scriptstyle         上下标的标准尺寸     简记 S
+* \scriptscriptstyle   更低层的上下标的标准尺寸   简记 SS
 
 [What commands are there for horizontal spacing?](https://tex.stackexchange.com/questions/74353/what-commands-are-there-for-horizontal-spacing?newreg=a57b9d48fa7d404b87f5da9c7ed1664d)  
 There are a number of horizontal spacing macros for LaTeX:  
