@@ -136,6 +136,7 @@
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
     <li><a href="#tips">Tips</a></li>
+    <li><a href="#markdown-collection">Markdown collection</a></li>
     <li><a href="#1-headings">1 Headings</a></li>
     <li><a href="#2-comments">2 Comments</a></li>
     <li><a href="#3-horizontal-rules">3 Horizontal Rules</a></li>
@@ -175,7 +176,6 @@
     </li>
     <li><a href="#12-footnotes">12 Footnotes</a></li>
     <li><a href="#13-images">13 Images</a></li>
-    <li><a href="#markdown-collection">Markdown collection</a></li>
   </ul>
 
   <ul>
@@ -356,6 +356,250 @@
 <h2 id="tips">Tips</h2>
 <p><a href="https://learn.getgrav.org/17/content/markdown" target="_blank" rel="noopener noreffer">https://learn.getgrav.org/17/content/markdown</a><br>
 <a href="https://katex.org/docs/supported.html" target="_blank" rel="noopener noreffer">https://katex.org/docs/supported.html</a> latex equation</p>
+<h2 id="markdown-collection">Markdown collection</h2>
+<p>title</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="gh"># Hello World!
+</span><span class="gh"></span><span class="gu">## test1
+</span><span class="gu">### test2
+</span><span class="gu">#### test3
+</span><span class="gu">##### test4
+</span><span class="gu">###### test5
+</span></code></pre></td></tr></table>
+</div>
+</div><p>开头空格</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="ni">&amp;emsp;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>  This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.This</p>
+<p>空行</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">The second paragraph
+<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
+The third paragraph
+</code></pre></td></tr></table>
+</div>
+</div><p>The second paragraph
+<br>
+<br>
+<br>
+The third paragraph</p>
+<p>Blockquotes</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">Blockquotes
+</code></pre></td></tr></table>
+</div>
+</div><blockquote>
+<p>Blockquotes</p>
+</blockquote>
+<p>insert image</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">![<span class="nt">steve and MacBook Air 2</span>](<span class="na">/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg &#34;Steve Jobs with MacBook Air2&#34;</span>)
+</code></pre></td></tr></table>
+</div>
+</div><p><figure><a class="lightgallery" href="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg" title="steve and MacBook Air 2" data-thumbnail="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg" data-sub-html="<h2>Steve Jobs with MacBook Air2</h2><p>steve and MacBook Air 2</p>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg"
+            data-srcset="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg, /markdown1/Steve_Jobs_with_MacBook_Air_2.jpg 1.5x, /markdown1/Steve_Jobs_with_MacBook_Air_2.jpg 2x"
+            data-sizes="auto"
+            alt="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg" />
+    </a><figcaption class="image-caption">Steve Jobs with MacBook Air2</figcaption>
+    </figure></p>
+<p>insert link</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">[<span class="nt">homepage</span>](<span class="na">https://lianfengyeo.github.io</span>)
+</code></pre></td></tr></table>
+</div>
+</div><p><a href="https://lianfengyeo.github.io" target="_blank" rel="noopener noreffer">homepage</a><br>
+<a href="https://hugoloveit.com/zh-cn/" target="_blank" rel="noopener noreffer">theme of loveit</a></p>
+<p>justify</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="p">&lt;</span><span class="nt">p</span> <span class="na">align </span><span class="o">=</span> <span class="s">&#34;justify&#34;</span><span class="p">&gt;</span> 
+Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
+<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p align = "justify"> 
+Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
+</p>
+<p>左对齐</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="p">&lt;</span><span class="nt">p</span> <span class="na">align</span><span class="o">=</span><span class="s">&#34;left&#34;</span><span class="p">&gt;</span>左对齐<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p align="left">左对齐</p>
+<p>右对齐</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="p">&lt;</span><span class="nt">p</span> <span class="na">align</span><span class="o">=</span><span class="s">&#34;right&#34;</span><span class="p">&gt;</span>右对齐<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p align="right">右对齐</p>
+<p>居中</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="p">&lt;</span><span class="nt">center</span><span class="p">&gt;</span>居中<span class="p">&lt;/</span><span class="nt">center</span><span class="p">&gt;</span>
+</code></pre></td></tr></table>
+</div>
+</div><center>居中</center>
+<p>equation
+默认的公式块分割符是 $$/$$ 和 \[/\]
+默认的行内公式分割符是 $/$ 和 \(/\)</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">$c = \pm\sqrt{a^2 + b^2}$
+
+$$
+c = \pm\sqrt{a^2 + b^2}
+$$
+</code></pre></td></tr></table>
+</div>
+</div><p>$c = \pm\sqrt{a^2 + b^2}$</p>
+<p>$$
+c = \pm\sqrt{a^2 + b^2}
+$$</p>
+<p>bold</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">**This is bold fonts**
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>This is bold fonts</strong></p>
+<p>italic</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">*italic*
+</code></pre></td></tr></table>
+</div>
+</div><p><em>italic</em></p>
+<p><em><strong>italic</strong></em></p>
+<p><div class="details admonition note open">
+        <div class="details-summary admonition-title">
+            <i class="icon fas fa-pencil-alt fa-fw"></i>Note<i class="details-icon fas fa-angle-right fa-fw"></i>
+        </div>
+        <div class="details-content">
+            <div class="admonition-content">在构建网站时, 你可以使用 <code>--theme</code> 选项设置主题.</div>
+        </div>
+    </div>
+<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"><img
+        class="lazyload version"
+        src="/svg/loading.min.svg"
+        data-src="/svg/version/0.2.0-new.en.min.svg"
+        data-srcset="/svg/version/0.2.0-new.en.min.svg, /svg/version/0.2.0-new.en.min.svg 1.5x, /svg/version/0.2.0-new.en.min.svg 2x"
+        data-sizes="auto"
+        alt="LoveIt NEW | 0.2.0"
+        title="LoveIt NEW | 0.2.0" /></a><br>
+<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.7" rel="noopener noreffer" target="_blank"><img
+        class="lazyload version"
+        src="/svg/loading.min.svg"
+        data-src="/svg/version/0.2.7-changed.en.min.svg"
+        data-srcset="/svg/version/0.2.7-changed.en.min.svg, /svg/version/0.2.7-changed.en.min.svg 1.5x, /svg/version/0.2.7-changed.en.min.svg 2x"
+        data-sizes="auto"
+        alt="LoveIt CHANGED | 0.2.7"
+        title="LoveIt CHANGED | 0.2.7" /></a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown"><strong><ruby>Hugo<rt>一个开源的静态网站生成工具</rt></ruby></strong>
+</code></pre></td></tr></table>
+</div>
+</div><p><strong><ruby>Hugo<rt>一个开源的静态网站生成工具</rt></ruby></strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown"><sup>浅色</sup>/<sub>深色</sub>  
+<sup>99</sup>/<sub>100</sub>
+</code></pre></td></tr></table>
+</div>
+</div><p><sup>浅色</sup>/<sub>深色</sub><br>
+<sup>99</sup>/<sub>100</sub></p>
+<a href="https://fontawesome.com/icons?d=gallery" target="_blank" rel="noopener noreffer">https://fontawesome.com/icons?d=gallery</a>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">去露营啦! <i class="fas fa-campground fa-fw"></i>&nbsp;很快就回来.
+
+真开心! <i class="far fa-grin-tears"></i>
+</code></pre></td></tr></table>
+</div>
+</div><p>去露营啦! <i class="fas fa-campground fa-fw"></i>&nbsp;很快就回来.</p>
+<p>真开心! <i class="far fa-grin-tears"></i></p>
 <div class="details admonition note open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-pencil-alt fa-fw"></i>Note<i class="details-icon fas fa-angle-right fa-fw"></i>
@@ -1455,250 +1699,6 @@ This is a footnote with &#34;label&#34;[^label]
             <div class="admonition-content"><strong>LoveIt</strong> theme has <a href="../theme-documentation-extended-shortcodes#image" rel="">special shortcode for image</a>, which provides more features.</div>
         </div>
     </div>
-<h2 id="markdown-collection">Markdown collection</h2>
-<p>title</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="gh"># Hello World!
-</span><span class="gh"></span><span class="gu">## test1
-</span><span class="gu">### test2
-</span><span class="gu">#### test3
-</span><span class="gu">##### test4
-</span><span class="gu">###### test5
-</span></code></pre></td></tr></table>
-</div>
-</div><p>开头空格</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="ni">&amp;emsp;</span>
-</code></pre></td></tr></table>
-</div>
-</div><p>  This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.This</p>
-<p>空行</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">The second paragraph
-<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
-The third paragraph
-</code></pre></td></tr></table>
-</div>
-</div><p>The second paragraph
-<br>
-<br>
-<br>
-The third paragraph</p>
-<p>Blockquotes</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">Blockquotes
-</code></pre></td></tr></table>
-</div>
-</div><blockquote>
-<p>Blockquotes</p>
-</blockquote>
-<p>insert image</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">![<span class="nt">steve and MacBook Air 2</span>](<span class="na">/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg &#34;Steve Jobs with MacBook Air2&#34;</span>)
-</code></pre></td></tr></table>
-</div>
-</div><p><figure><a class="lightgallery" href="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg" title="steve and MacBook Air 2" data-thumbnail="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg" data-sub-html="<h2>Steve Jobs with MacBook Air2</h2><p>steve and MacBook Air 2</p>">
-        <img
-            class="lazyload"
-            src="/svg/loading.min.svg"
-            data-src="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg"
-            data-srcset="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg, /markdown1/Steve_Jobs_with_MacBook_Air_2.jpg 1.5x, /markdown1/Steve_Jobs_with_MacBook_Air_2.jpg 2x"
-            data-sizes="auto"
-            alt="/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg" />
-    </a><figcaption class="image-caption">Steve Jobs with MacBook Air2</figcaption>
-    </figure></p>
-<p>insert link</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">[<span class="nt">homepage</span>](<span class="na">https://lianfengyeo.github.io</span>)
-</code></pre></td></tr></table>
-</div>
-</div><p><a href="https://lianfengyeo.github.io" target="_blank" rel="noopener noreffer">homepage</a><br>
-<a href="https://hugoloveit.com/zh-cn/" target="_blank" rel="noopener noreffer">theme of loveit</a></p>
-<p>justify</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="p">&lt;</span><span class="nt">p</span> <span class="na">align </span><span class="o">=</span> <span class="s">&#34;justify&#34;</span><span class="p">&gt;</span> 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
-<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
-</code></pre></td></tr></table>
-</div>
-</div><p align = "justify"> 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
-</p>
-<p>左对齐</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="p">&lt;</span><span class="nt">p</span> <span class="na">align</span><span class="o">=</span><span class="s">&#34;left&#34;</span><span class="p">&gt;</span>左对齐<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
-</code></pre></td></tr></table>
-</div>
-</div><p align="left">左对齐</p>
-<p>右对齐</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="p">&lt;</span><span class="nt">p</span> <span class="na">align</span><span class="o">=</span><span class="s">&#34;right&#34;</span><span class="p">&gt;</span>右对齐<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
-</code></pre></td></tr></table>
-</div>
-</div><p align="right">右对齐</p>
-<p>居中</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="p">&lt;</span><span class="nt">center</span><span class="p">&gt;</span>居中<span class="p">&lt;/</span><span class="nt">center</span><span class="p">&gt;</span>
-</code></pre></td></tr></table>
-</div>
-</div><center>居中</center>
-<p>equation
-默认的公式块分割符是 $$/$$ 和 \[/\]
-默认的行内公式分割符是 $/$ 和 \(/\)</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">$c = \pm\sqrt{a^2 + b^2}$
-
-$$
-c = \pm\sqrt{a^2 + b^2}
-$$
-</code></pre></td></tr></table>
-</div>
-</div><p>$c = \pm\sqrt{a^2 + b^2}$</p>
-<p>$$
-c = \pm\sqrt{a^2 + b^2}
-$$</p>
-<p>bold</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">**This is bold fonts**
-</code></pre></td></tr></table>
-</div>
-</div><p><strong>This is bold fonts</strong></p>
-<p>italic</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">*italic*
-</code></pre></td></tr></table>
-</div>
-</div><p><em>italic</em></p>
-<p><em><strong>italic</strong></em></p>
-<p><div class="details admonition note open">
-        <div class="details-summary admonition-title">
-            <i class="icon fas fa-pencil-alt fa-fw"></i>Note<i class="details-icon fas fa-angle-right fa-fw"></i>
-        </div>
-        <div class="details-content">
-            <div class="admonition-content">在构建网站时, 你可以使用 <code>--theme</code> 选项设置主题.</div>
-        </div>
-    </div>
-<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"><img
-        class="lazyload version"
-        src="/svg/loading.min.svg"
-        data-src="/svg/version/0.2.0-new.en.min.svg"
-        data-srcset="/svg/version/0.2.0-new.en.min.svg, /svg/version/0.2.0-new.en.min.svg 1.5x, /svg/version/0.2.0-new.en.min.svg 2x"
-        data-sizes="auto"
-        alt="LoveIt NEW | 0.2.0"
-        title="LoveIt NEW | 0.2.0" /></a><br>
-<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.7" rel="noopener noreffer" target="_blank"><img
-        class="lazyload version"
-        src="/svg/loading.min.svg"
-        data-src="/svg/version/0.2.7-changed.en.min.svg"
-        data-srcset="/svg/version/0.2.7-changed.en.min.svg, /svg/version/0.2.7-changed.en.min.svg 1.5x, /svg/version/0.2.7-changed.en.min.svg 2x"
-        data-sizes="auto"
-        alt="LoveIt CHANGED | 0.2.7"
-        title="LoveIt CHANGED | 0.2.7" /></a></p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown"><strong><ruby>Hugo<rt>一个开源的静态网站生成工具</rt></ruby></strong>
-</code></pre></td></tr></table>
-</div>
-</div><p><strong><ruby>Hugo<rt>一个开源的静态网站生成工具</rt></ruby></strong></p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown"><sup>浅色</sup>/<sub>深色</sub>  
-<sup>99</sup>/<sub>100</sub>
-</code></pre></td></tr></table>
-</div>
-</div><p><sup>浅色</sup>/<sub>深色</sub><br>
-<sup>99</sup>/<sub>100</sub></p>
-<a href="https://fontawesome.com/icons?d=gallery" target="_blank" rel="noopener noreffer">https://fontawesome.com/icons?d=gallery</a>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">去露营啦! <i class="fas fa-campground fa-fw"></i>&nbsp;很快就回来.
-
-真开心! <i class="far fa-grin-tears"></i>
-</code></pre></td></tr></table>
-</div>
-</div><p>去露营啦! <i class="fas fa-campground fa-fw"></i>&nbsp;很快就回来.</p>
-<p>真开心! <i class="far fa-grin-tears"></i></p>
 <h1 id="build-in-shortcode">Build-in Shortcode</h1>
 <h2 id="7-tweet">7 tweet</h2>
 <p><a href="https://gohugo.io/content-management/shortcodes#tweet" target="_blank" rel="noopener noreffer"><code>tweet</code> 的文档</a></p>

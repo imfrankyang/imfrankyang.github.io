@@ -89,9 +89,11 @@ touch deploy.sh //content is as follows
     <guid>https://lianfengyeo.github.io/markdown1/</guid>
     <description><![CDATA[Markdown Tips https://learn.getgrav.org/17/content/markdown
 https://katex.org/docs/supported.html latex equation
-Note  This article is a shameful copy of the great Grav original page.
-If you want to know about the extented Markdown syntax of LoveIt theme, please read extended Markdown syntax page.
-   Let&rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.]]></description>
+Markdown collection title
+1 2 3 4 5 6  # Hello World! ## test1 ### test2 #### test3 ##### test4 ###### test5   开头空格
+1  &amp;emsp;    This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.This
+空行
+1 2 3 4 5  The second paragraph &lt;br&gt; &lt;br&gt; &lt;br&gt; The third paragraph   The second paragraph The third paragraph]]></description>
 </item><item>
     <title>Hello World</title>
     <link>https://lianfengyeo.github.io/helloworld/</link>

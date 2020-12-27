@@ -5,6 +5,147 @@
 {{< link "https://learn.getgrav.org/17/content/markdown" >}}  
 {{< link "https://katex.org/docs/supported.html" >}} latex equation
 
+## Markdown collection
+title
+```markdown
+# Hello World!
+## test1
+### test2
+#### test3
+##### test4
+###### test5
+```
+
+开头空格
+```markdown
+&emsp;
+```
+&emsp;&emsp;This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.This 
+
+空行
+```markdown
+The second paragraph
+<br>
+<br>
+<br>
+The third paragraph
+```
+The second paragraph
+<br>
+<br>
+<br>
+The third paragraph
+
+Blockquotes
+```markdown
+Blockquotes
+```
+>Blockquotes
+
+insert image
+```markdown
+![steve and MacBook Air 2](/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
+```
+![steve and MacBook Air 2](/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
+
+insert link 
+```markdown
+[homepage](https://lianfengyeo.github.io)
+```
+[homepage](https://lianfengyeo.github.io)  
+[theme of loveit](https://hugoloveit.com/zh-cn/)  
+
+justify
+```markdown
+<p align = "justify"> 
+Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
+</p>
+```
+<p align = "justify"> 
+Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
+</p>
+
+左对齐
+```markdown
+<p align="left">左对齐</p>
+```
+<p align="left">左对齐</p>
+
+右对齐
+```markdown
+<p align="right">右对齐</p>
+```
+<p align="right">右对齐</p>
+
+居中
+```markdown
+<center>居中</center>
+```
+<center>居中</center>
+
+equation
+默认的公式块分割符是 $$/$$ 和 \\[/\\]
+默认的行内公式分割符是 $/$ 和 \\(/\\)
+```markdown
+$c = \pm\sqrt{a^2 + b^2}$
+
+$$
+c = \pm\sqrt{a^2 + b^2}
+$$
+```
+$c = \pm\sqrt{a^2 + b^2}$
+
+$$
+c = \pm\sqrt{a^2 + b^2}
+$$
+
+bold
+```markdown
+**This is bold fonts**
+```
+**This is bold fonts**
+
+italic
+```markdown
+*italic*
+```
+*italic*
+
+***italic***
+
+{{< admonition >}}
+在构建网站时, 你可以使用 `--theme` 选项设置主题.
+{{< /admonition >}}
+{{< version 0.2.0 >}}  
+{{< version 0.2.7 changed >}}
+
+```markdown
+[Hugo]^(一个开源的静态网站生成工具)
+```
+[Hugo]^(一个开源的静态网站生成工具)
+
+```markdown
+[浅色]/[深色]  
+[99]/[100]
+```
+[浅色]/[深色]  
+[99]/[100]
+
+
+{{< link "https://fontawesome.com/icons?d=gallery" >}}  
+```markdown
+去露营啦! :(fas fa-campground fa-fw): 很快就回来.
+
+真开心! :(far fa-grin-tears):
+```
+去露营啦! :(fas fa-campground fa-fw): 很快就回来.
+
+真开心! :(far fa-grin-tears):
+
+
+
+
+
 
 {{< admonition >}}
 This article is a shameful copy of the great [Grav original page](http://learn.getgrav.org/content/markdown).
@@ -750,142 +891,7 @@ With a reference later in the document defining the URL location:
 
 
 
-## Markdown collection
-title
-```markdown
-# Hello World!
-## test1
-### test2
-#### test3
-##### test4
-###### test5
-```
 
-开头空格
-```markdown
-&emsp;
-```
-&emsp;&emsp;This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.This 
-
-空行
-```markdown
-The second paragraph
-<br>
-<br>
-<br>
-The third paragraph
-```
-The second paragraph
-<br>
-<br>
-<br>
-The third paragraph
-
-Blockquotes
-```markdown
-Blockquotes
-```
->Blockquotes
-
-insert image
-```markdown
-![steve and MacBook Air 2](/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
-```
-![steve and MacBook Air 2](/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
-
-insert link 
-```markdown
-[homepage](https://lianfengyeo.github.io)
-```
-[homepage](https://lianfengyeo.github.io)  
-[theme of loveit](https://hugoloveit.com/zh-cn/)  
-
-justify
-```markdown
-<p align = "justify"> 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
-</p>
-```
-<p align = "justify"> 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
-</p>
-
-左对齐
-```markdown
-<p align="left">左对齐</p>
-```
-<p align="left">左对齐</p>
-
-右对齐
-```markdown
-<p align="right">右对齐</p>
-```
-<p align="right">右对齐</p>
-
-居中
-```markdown
-<center>居中</center>
-```
-<center>居中</center>
-
-equation
-默认的公式块分割符是 $$/$$ 和 \\[/\\]
-默认的行内公式分割符是 $/$ 和 \\(/\\)
-```markdown
-$c = \pm\sqrt{a^2 + b^2}$
-
-$$
-c = \pm\sqrt{a^2 + b^2}
-$$
-```
-$c = \pm\sqrt{a^2 + b^2}$
-
-$$
-c = \pm\sqrt{a^2 + b^2}
-$$
-
-bold
-```markdown
-**This is bold fonts**
-```
-**This is bold fonts**
-
-italic
-```markdown
-*italic*
-```
-*italic*
-
-***italic***
-
-{{< admonition >}}
-在构建网站时, 你可以使用 `--theme` 选项设置主题.
-{{< /admonition >}}
-{{< version 0.2.0 >}}  
-{{< version 0.2.7 changed >}}
-
-```markdown
-[Hugo]^(一个开源的静态网站生成工具)
-```
-[Hugo]^(一个开源的静态网站生成工具)
-
-```markdown
-[浅色]/[深色]  
-[99]/[100]
-```
-[浅色]/[深色]  
-[99]/[100]
-
-
-{{< link "https://fontawesome.com/icons?d=gallery" >}}  
-```markdown
-去露营啦! :(fas fa-campground fa-fw): 很快就回来.
-
-真开心! :(far fa-grin-tears):
-```
-去露营啦! :(fas fa-campground fa-fw): 很快就回来.
-
-真开心! :(far fa-grin-tears):
 
 
 
