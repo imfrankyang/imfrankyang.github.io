@@ -82,8 +82,9 @@ Markdown is a lightweight markup language with plain-text-formatting syntax. Its
 <center>居中</center>
 
 >equation
-默认的公式块分割符是 $$/$$ 和 \\[/\\]
-默认的行内公式分割符是 $/$ 和 \\(/\\)
+
+默认的公式块分割符是 `$$/$$` 和 `\\[/\\]`
+默认的行内公式分割符是 `$/$` 和 `\\(/\\)`
 ```markdown
 $c = \pm\sqrt{a^2 + b^2}$
 

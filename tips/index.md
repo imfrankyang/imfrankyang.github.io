@@ -22,9 +22,10 @@ Windows 10 IME
 Anti-virus or anti-malware software
 
 ### Operating system
-* [redhat](https://developers.redhat.com/products/rhel/download)
-* 
-
+* [Redhat](https://developers.redhat.com/products/rhel/download)
+* [Centos](https://www.centos.org/)
+* [Ubuntu](https://www.ubuntu.com/)
+* [Win10](https://www.microsoft.com/zh-cn/software-download/windows10)
 
 ### hardware
 * [AMD EPYC](https://www.amd.com/en/products/epyc-server)
