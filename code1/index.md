@@ -141,8 +141,10 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
 ## mpi programming
 * [easyhpc](https://easyhpc.net/)
   
+## GPU Computing
+[programming courses collections](https://www.bu.edu/pasi/materials/)
 
-## CUDA
+### CUDA
 * [CUDA archive](https://developer.nvidia.com/cuda-toolkit-archive) 
 * [CUDA 11 Ubuntu 18 16/Centos 8 7 6](https://developer.nvidia.com/cuda-10.2-download-archive?target_os=Linux&target_arch=x86_64&target_distro=CentOS&target_version=6) 
 * [CUDA 11 Ubuntu 20.04 18.04 16.04/Centos 8 7](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=runfilelocal)
@@ -150,6 +152,5 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
 * [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)  
 * [CUDA 编程入门: 8 小时掌握 GPU 计算](https://www.youtube.com/playlist?list=PLSVM68VUM1eWsEX0yPliaL3pTZoKqJWfi)
 
-## GPU Computing
-[programming courses collections](https://www.bu.edu/pasi/materials/)
+
 
