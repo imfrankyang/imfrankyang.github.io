@@ -1,4 +1,4 @@
-# Software tips for research
+# Tips for research tools
 
 
 ### zotero
