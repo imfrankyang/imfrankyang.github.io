@@ -28,10 +28,10 @@ Anti-virus or anti-malware software
 * [Win10](https://www.microsoft.com/zh-cn/software-download/windows10)
 
 ### hardware
-* [AMD EPYC](https://www.amd.com/en/products/epyc-server)
-* Jim Keller
-[wiki](https://www.wikiwand.com/en/Jim_Keller_(engineer))  
+#### CPU
+* [AMD EPYC](https://www.amd.com/en/products/epyc-server) 
 
+#### Mellanox
 * [mlxup - Mellanox Update and Query Utility](https://www.mellanox.com/support/firmware/mlxup-mft)
 * [Mellanox OFED for Windows - WinOF / WinOF-2](https://www.mellanox.com/products/adapter-software/ethernet/windows/winof-2)
 * [Linux Drivers](https://www.mellanox.com/products/infiniband-drivers/linux/mlnx_ofed)
