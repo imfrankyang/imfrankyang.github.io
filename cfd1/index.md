@@ -121,7 +121,7 @@ graph LR;
 * [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)    
 * [2017-线性代数强化](https://www.youtube.com/playlist?list=PLYdE87tyKU5ALNr-oL4xKfp62chdQeZEk)  
 * [2021版张宇考研数学基础30讲线性代数完整版](https://www.bilibili.com/video/BV1LV411o7q9)  
-* [线性代数 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yl8eQQCob5nr43ACJGHQhmt)
+* [线性代数 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yl8eQQCob5nr43ACJGHQhmt)  
   逆矩阵 inverse matrix
 * [线性代数复习 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yndn02KC17SkfCmS1RA-8Sf)
 * [linear algebra review(线性代数复习 英文版) "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3YmYkfj_WeN3HFOkKMXj9yRY)
