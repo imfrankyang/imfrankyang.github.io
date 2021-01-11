@@ -122,9 +122,10 @@ graph LR;
 * [2017-线性代数强化](https://www.youtube.com/playlist?list=PLYdE87tyKU5ALNr-oL4xKfp62chdQeZEk)  
 * [2021版张宇考研数学基础30讲线性代数完整版](https://www.bilibili.com/video/BV1LV411o7q9)  
 * [线性代数 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yl8eQQCob5nr43ACJGHQhmt)
+  逆矩阵 inverse matrix
 * [线性代数复习 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yndn02KC17SkfCmS1RA-8Sf)
 * [linear algebra review(线性代数复习 英文版) "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3YmYkfj_WeN3HFOkKMXj9yRY)
-  逆矩阵 inverse matrix
+
 * [Matrix Algebra for Engineers "Jeffrey Chasnov"](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx)  
   Gaussian elimination | Lecture 10 | Matrix Algebra for Engineers
 * [四都教育罗玉文](https://www.sudoedu.com/%e8%a7%86%e9%a2%91%e8%af%be%e7%a8%8b/)
