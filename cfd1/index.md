@@ -227,7 +227,7 @@ how to determine the $\Delta$T
 
 ## Thermodynamics
 * [Engineering Thermodynamics (Dr. Supreet Singh Bahga, IIT Delhi)](https://www.youtube.com/playlist?list=PLKQAlM7GPLR14jnA53I2jMfejfmArEmQe)
-
+* [Unit: Thermodynamics khanacademy](https://www.khanacademy.org/science/physics/thermodynamics)
 
 
 ## Image Processing
