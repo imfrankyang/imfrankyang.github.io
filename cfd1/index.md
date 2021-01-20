@@ -62,11 +62,20 @@ graph LR;
   [[homepage]](https://www.uah.edu/eng/departments/mae/faculty-staff/phillip-ligrani)
   [[personal website]](https://ligrani.com/)
   [[scopus]](https://www.scopus.com/authid/detail.uri?authorId=7007125186)  
+
+* [Dietrich Küchemann](https://en.wikipedia.org/wiki/Dietrich_K%C3%BCchemann)
+  
+  
+  
+
 <br>
 <br>
 <br>
+
 * [ERCOFTAC](https://www.ercoftac.org/)  
+
 * [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)
+
 * 
 
 ## Fluid dynamics
@@ -239,10 +248,8 @@ how to determine the $\Delta$T
 
 
 ## University
-* [Tel Aviv University](https://english.tau.ac.il/)
-[[wiki]](https://www.wikiwand.com/en/Tel_Aviv_University)
-
-
+* [Tel Aviv University](https://english.tau.ac.il/)  [[wiki]](https://www.wikiwand.com/en/Tel_Aviv_University)
+* [University of Göttingen](https://www.uni-goettingen.de/en/1.html)  [[wiki]](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen)
 ## Journal
 * [Annual Review of Fluid Mechanics](https://www.annualreviews.org/journal/fluid)  
 

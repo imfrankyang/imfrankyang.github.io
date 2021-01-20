@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Miscellaneous - Category - Life and Work</title>
-        <link>https://lianfengyeo.github.io/categories/miscellaneous/</link>
-        <description>Miscellaneous - Category - Life and Work</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 20 Jan 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/categories/miscellaneous/" rel="self" type="application/rss+xml" /><item>
+        <title>Miscellaneous - Tag - Life and Work</title>
+        <link>https://lianfengyeo.github.io/tags/miscellaneous/</link>
+        <description>Miscellaneous - Tag - Life and Work</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 20 Jan 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/miscellaneous/" rel="self" type="application/rss+xml" /><item>
     <title>My wiki</title>
     <link>https://lianfengyeo.github.io/my-wiki/</link>
     <pubDate>Wed, 20 Jan 2021 10:09:30 &#43;0100</pubDate>

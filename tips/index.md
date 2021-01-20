@@ -1,6 +1,8 @@
 # Tips for research tools
 
 
+## List of recommended software
+
 ### zotero
 a free and open-source reference management software  
 {{<link "https://www.zotero.org/">}}
@@ -8,7 +10,13 @@ a free and open-source reference management software
 * [zotero 中文识别](https://www.bilibili.com/read/cv6968662/)
 
 ### typora
-{{<link "https://typora.io/">}}
+
+a markdown editor  
+{{<link "https://typora.io/">}}  
+
+### obsidian
+a markdown editor  
+{{<link "https://obsidian.md/">}}
 
 ### everything   
 a free desktop search utility  
@@ -29,12 +37,27 @@ Anti-virus or anti-malware software
 * [Centos](https://www.centos.org/)
 * [Ubuntu](https://www.ubuntu.com/)
 * [Win10](https://www.microsoft.com/zh-cn/software-download/windows10)
+* [macOS Bug Sur](https://www.apple.com/macos/big-sur/)
 
-### hardware
-#### CPU
+## List of STRONGLY not recommended software
+* **360**
+
+<img src="index.assets/image-20210120222659506.png" alt="image-20210120222659506" style="zoom: 33%;" />
+
+* XX电脑管家
+* 2345好压
+* 驱动精灵
+* ...to be continued...
+
+
+
+
+
+## hardware
+### CPU
 * [AMD EPYC](https://www.amd.com/en/products/epyc-server) 
 
-#### Mellanox
+### Mellanox
 * [mlxup - Mellanox Update and Query Utility](https://www.mellanox.com/support/firmware/mlxup-mft)
 * [Mellanox OFED for Windows - WinOF / WinOF-2](https://www.mellanox.com/products/adapter-software/ethernet/windows/winof-2)
 * [Linux Drivers](https://www.mellanox.com/products/infiniband-drivers/linux/mlnx_ofed)

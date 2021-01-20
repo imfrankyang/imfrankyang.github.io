@@ -1,22 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>software - Category - Life and Work</title>
+        <title>Software - Category - Life and Work</title>
         <link>https://lianfengyeo.github.io/categories/software/</link>
-        <description>software - Category - Life and Work</description>
+        <description>Software - Category - Life and Work</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/categories/software/" rel="self" type="application/rss+xml" /><item>
     <title>Tips for research tools</title>
     <link>https://lianfengyeo.github.io/tips/</link>
     <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/tips/</guid>
-    <description><![CDATA[zotero a free and open-source reference management software
+    <description><![CDATA[List of recommended software zotero a free and open-source reference management software
 https://www.zotero.org/
- Zotero | 01-为什么要用文献管理软件Zotero zotero 中文识别  typora https://typora.io/ everything a free desktop search utility
+ Zotero | 01-为什么要用文献管理软件Zotero zotero 中文识别  typora a markdown editor
+https://typora.io/
+obsidian a markdown editor
+https://obsidian.md/
+everything a free desktop search utility
 https://www.voidtools.com/
 7-zip a free and open-source file archiver
 https://www.7-zip.org/
 Input Method Editor Windows 10 IME
 Norton/Avast/Microsoft Defender Antivirus in Windows10 Anti-virus or anti-malware software
-Operating system  Redhat Centos Ubuntu Win10  hardware CPU  AMD EPYC  Mellanox  mlxup - Mellanox Update and Query Utility Mellanox OFED for Windows - WinOF / WinOF-2 Linux Drivers Mellanox EN Driver for Linux Firmware Downloads  ]]></description>
+Operating system  Redhat Centos Ubuntu Win10 macOS Bug Sur  List of STRONGLY not recommended software  360   XX电脑管家 2345好压 驱动精灵 &hellip;to be continued&hellip;  hardware CPU  AMD EPYC  Mellanox  mlxup - Mellanox Update and Query Utility Mellanox OFED for Windows - WinOF / WinOF-2 Linux Drivers Mellanox EN Driver for Linux Firmware Downloads  ]]></description>
 </item></channel>
 </rss>

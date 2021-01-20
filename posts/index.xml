@@ -3,7 +3,16 @@
         <title>All Posts - Life and Work</title>
         <link>https://lianfengyeo.github.io/posts/</link>
         <description>All Posts | Life and Work</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Dec 2020 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 20 Jan 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My wiki</title>
+    <link>https://lianfengyeo.github.io/my-wiki/</link>
+    <pubDate>Wed, 20 Jan 2021 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/my-wiki/</guid>
+    <description><![CDATA[list of something Jim Keller
+John Gruber
+Linus Torvalds]]></description>
+</item><item>
     <title>LaTeX notes</title>
     <link>https://lianfengyeo.github.io/latex1/</link>
     <pubDate>Sun, 27 Dec 2020 10:09:30 &#43;0100</pubDate>
@@ -23,15 +32,19 @@
     <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/tips/</guid>
-    <description><![CDATA[zotero a free and open-source reference management software
+    <description><![CDATA[List of recommended software zotero a free and open-source reference management software
 https://www.zotero.org/
- Zotero | 01-为什么要用文献管理软件Zotero zotero 中文识别  typora https://typora.io/ everything a free desktop search utility
+ Zotero | 01-为什么要用文献管理软件Zotero zotero 中文识别  typora a markdown editor
+https://typora.io/
+obsidian a markdown editor
+https://obsidian.md/
+everything a free desktop search utility
 https://www.voidtools.com/
 7-zip a free and open-source file archiver
 https://www.7-zip.org/
 Input Method Editor Windows 10 IME
 Norton/Avast/Microsoft Defender Antivirus in Windows10 Anti-virus or anti-malware software
-Operating system  Redhat Centos Ubuntu Win10  hardware CPU  AMD EPYC  Mellanox  mlxup - Mellanox Update and Query Utility Mellanox OFED for Windows - WinOF / WinOF-2 Linux Drivers Mellanox EN Driver for Linux Firmware Downloads  ]]></description>
+Operating system  Redhat Centos Ubuntu Win10 macOS Bug Sur  List of STRONGLY not recommended software  360   XX电脑管家 2345好压 驱动精灵 &hellip;to be continued&hellip;  hardware CPU  AMD EPYC  Mellanox  mlxup - Mellanox Update and Query Utility Mellanox OFED for Windows - WinOF / WinOF-2 Linux Drivers Mellanox EN Driver for Linux Firmware Downloads  ]]></description>
 </item><item>
     <title>Matlab notes</title>
     <link>https://lianfengyeo.github.io/matlab/</link>
