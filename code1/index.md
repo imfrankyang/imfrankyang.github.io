@@ -1,9 +1,15 @@
 # CODE
 
+## Linux Tutorial
+
+{{<link "https://thelinuxcluster.com/">}}  
+
+
+
 ## Ubuntu
+
 * [List of releases](https://wiki.ubuntu.com/Releases)  
 * [releases downloads](https://releases.ubuntu.com/)  
-  
 
 
 ## Fortran
@@ -140,7 +146,6 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
 
 ## mpi programming
 * [easyhpc](https://easyhpc.net/)
-  
 ## GPU Computing
 [programming courses collections](https://www.bu.edu/pasi/materials/)
 
