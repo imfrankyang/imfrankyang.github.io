@@ -5,9 +5,7 @@
 
 [Dry Air Properties](https://www.engineeringtoolbox.com/dry-air-properties-d_973.html)
 
-[Air - Thermophysical Properties](https://www.engineeringtoolbox.com/air-properties-d_156.html#:~:text=Specific%20heat%20capacity%20(Cv,K%20%3D%200.00205%201%2F%C2%B0F)
-
-
+[Air - Thermophysical Properties](https://www.engineeringtoolbox.com/air-properties-d_156.html#:~:text=Specific%20heat%20capacity%20(Cv,K%20%3D%200.00205%201%2F%C2%B0F))
 
 * [Air - Thermal Conductivity](https://www.engineeringtoolbox.com/air-properties-viscosity-conductivity-heat-capacity-d_1509.html)
 * [Air Density Calculator](https://www.engineeringtoolbox.com/air-density-specific-weight-d_600.html)
