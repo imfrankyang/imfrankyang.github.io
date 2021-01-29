@@ -34,22 +34,34 @@ Anti-virus or anti-malware software
 
 ### Operating system
 * [Redhat](https://developers.redhat.com/products/rhel/download)
+
 * [Centos](https://www.centos.org/)
+
 * [Ubuntu](https://www.ubuntu.com/)
+
 * [Win10](https://www.microsoft.com/zh-cn/software-download/windows10)
+
 * [macOS Bug Sur](https://www.apple.com/macos/big-sur/)
 
+  
+
+
+
 ## List of STRONGLY not recommended software
+
 * **360**
 
 <img src="index.assets/image-20210120222659506.png" alt="image-20210120222659506" style="zoom: 33%;" />
 
 * XX电脑管家
-* 2345好压
+
+* 2345
+
+  <img src="index.assets/image-20210127161425191.png" alt="image-20210127161425191" style="zoom: 40%;" />
+
 * 驱动精灵
+
 * ...to be continued...
-
-
 
 
 

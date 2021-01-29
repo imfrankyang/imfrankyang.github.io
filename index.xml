@@ -13,16 +13,20 @@
     <guid>https://lianfengyeo.github.io/paper-tools/</guid>
     <description><![CDATA[tools online Dry Air Properties
 Air - Thermophysical Properties
- Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator  ]]></description>
+ Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water
+ Water - Specific Heat  hydraulic diameter calculator]]></description>
 </item><item>
     <title>My wiki</title>
     <link>https://lianfengyeo.github.io/my-wiki/</link>
     <pubDate>Wed, 20 Jan 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/my-wiki/</guid>
-    <description><![CDATA[list of something Jim Keller
+    <description><![CDATA[list of something somebody
+Jim Keller
 John Gruber
-Linus Torvalds]]></description>
+Linus Torvalds
+engine
+General Electric J79]]></description>
 </item><item>
     <title>LaTeX notes</title>
     <link>https://lianfengyeo.github.io/latex1/</link>
@@ -36,7 +40,7 @@ Linus Torvalds]]></description>
     <pubDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/openfoam1/</guid>
-    <description><![CDATA[version  The OpenFOAM Foundation OpenFOAM基金会版 ESI集团版  ]]></description>
+    <description><![CDATA[version  The OpenFOAM Foundation OpenFOAM基金会版 ESI集团版  Toturial OpenFOAM &ldquo;CFD NINJA / ANSYS CFD&rdquo;]]></description>
 </item><item>
     <title>Tips for research tools</title>
     <link>https://lianfengyeo.github.io/tips/</link>
@@ -55,7 +59,9 @@ https://www.voidtools.com/
 https://www.7-zip.org/
 Input Method Editor Windows 10 IME
 Norton/Avast/Microsoft Defender Antivirus in Windows10 Anti-virus or anti-malware software
-Operating system  Redhat Centos Ubuntu Win10 macOS Bug Sur  List of STRONGLY not recommended software  360   XX电脑管家 2345好压 驱动精灵 &hellip;to be continued&hellip;  hardware CPU  AMD EPYC  Mellanox  mlxup - Mellanox Update and Query Utility Mellanox OFED for Windows - WinOF / WinOF-2 Linux Drivers Mellanox EN Driver for Linux Firmware Downloads  ]]></description>
+Operating system   Redhat
+  Centos
+  Ubuntu]]></description>
 </item><item>
     <title>Matlab notes</title>
     <link>https://lianfengyeo.github.io/matlab/</link>

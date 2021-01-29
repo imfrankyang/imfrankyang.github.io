@@ -12,5 +12,14 @@
 * [Air - Density at varying pressure and constant temperatures](https://www.engineeringtoolbox.com/air-temperature-pressure-density-d_771.html)
 * [Air - Prandtl Number](https://www.engineeringtoolbox.com/air-prandtl-number-viscosity-heat-capacity-thermal-conductivity-d_2009.html)
 * [Air Viscosity Calculator](https://www.engineeringtoolbox.com/air-absolute-kinematic-viscosity-d_601.html)
+* [Air Specific heat](https://www.engineeringtoolbox.com/air-specific-heat-capacity-d_705.html)
 
 
+
+water
+
+* [Water - Specific Heat](https://www.engineeringtoolbox.com/specific-heat-capacity-water-d_660.html)
+
+
+
+[hydraulic diameter calculator](https://www.engineeringtoolbox.com/hydraulic-equivalent-diameter-d_458.html)

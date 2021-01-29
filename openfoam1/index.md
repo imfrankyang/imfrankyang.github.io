@@ -7,3 +7,6 @@
 
 
 
+## Toturial
+[OpenFOAM "CFD NINJA / ANSYS CFD"](https://www.youtube.com/playlist?list=PLd23hHm4FCRdFxcjAqEMd6W2cikPaaNXS)  
+

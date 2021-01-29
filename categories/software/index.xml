@@ -11,7 +11,8 @@
     <guid>https://lianfengyeo.github.io/paper-tools/</guid>
     <description><![CDATA[tools online Dry Air Properties
 Air - Thermophysical Properties
- Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator  ]]></description>
+ Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water
+ Water - Specific Heat  hydraulic diameter calculator]]></description>
 </item><item>
     <title>Tips for research tools</title>
     <link>https://lianfengyeo.github.io/tips/</link>
@@ -30,6 +31,8 @@ https://www.voidtools.com/
 https://www.7-zip.org/
 Input Method Editor Windows 10 IME
 Norton/Avast/Microsoft Defender Antivirus in Windows10 Anti-virus or anti-malware software
-Operating system  Redhat Centos Ubuntu Win10 macOS Bug Sur  List of STRONGLY not recommended software  360   XX电脑管家 2345好压 驱动精灵 &hellip;to be continued&hellip;  hardware CPU  AMD EPYC  Mellanox  mlxup - Mellanox Update and Query Utility Mellanox OFED for Windows - WinOF / WinOF-2 Linux Drivers Mellanox EN Driver for Linux Firmware Downloads  ]]></description>
+Operating system   Redhat
+  Centos
+  Ubuntu]]></description>
 </item></channel>
 </rss>
