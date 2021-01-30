@@ -34,7 +34,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "code","wordcount":  515 ,
+                        }],"genre": "posts","keywords": "code","wordcount":  460 ,
         "url": "https:\/\/lianfengyeo.github.io\/code1\/","datePublished": "2020-12-09T10:09:30+01:00","dateModified": "2020-12-09T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -120,7 +120,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">CODE</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/academic/"><i class="far fa-folder fa-fw"></i>Academic</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-09">2020-12-09</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;515 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-09">2020-12-09</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;460 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;3 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -135,16 +135,19 @@
     <li><a href="#python">Python</a></li>
     <li><a href="#machine-learning">Machine Learning</a></li>
     <li><a href="#git">git</a></li>
-    <li><a href="#intel-oneapi-base-toolkit-intel-parallel-studio">Intel oneAPI Base Toolkit (intel parallel studio)</a>
+    <li><a href="#complier">complier</a>
       <ul>
-        <li><a href="#install">install</a></li>
-        <li><a href="#usage">usage</a></li>
+        <li><a href="#intel-oneapi-base-toolkit-intel-parallel-studio">Intel oneAPI Base Toolkit (intel parallel studio)</a></li>
+        <li><a href="#gcc">GCC</a></li>
+        <li><a href="#cmake">CMake</a></li>
       </ul>
     </li>
-    <li><a href="#gcc">GCC</a></li>
-    <li><a href="#cmake">CMake</a></li>
-    <li><a href="#intel-mpi">intel mpi</a></li>
-    <li><a href="#mpi-programming">mpi programming</a></li>
+    <li><a href="#mpi">mpi</a>
+      <ul>
+        <li><a href="#intel-mpi">intel mpi</a></li>
+        <li><a href="#mpi-programming">mpi programming</a></li>
+      </ul>
+    </li>
     <li><a href="#gpu-computing">GPU Computing</a>
       <ul>
         <li><a href="#cuda">CUDA</a></li>
@@ -184,20 +187,19 @@
 <h2 id="python">Python</h2>
 <ul>
 <li><a href="https://docs.python.org/3/contents.html" target="_blank" rel="noopener noreffer">Python Documentation contents</a></li>
-<li>anaconda
+<li>anaconda</li>
+</ul>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
-bash Anaconda3-2020.11-Linux-x86_64.sh
+<pre class="chroma"><code class="language-bash" data-lang="bash">  wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+  bash Anaconda3-2020.11-Linux-x86_64.sh
 </code></pre></td></tr></table>
 </div>
-</div></li>
-</ul>
-<h2 id="machine-learning">Machine Learning</h2>
+</div><h2 id="machine-learning">Machine Learning</h2>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa" target="_blank" rel="noopener noreffer">Learn With Me: Intro to Machine Learning</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin" target="_blank" rel="noopener noreffer">有趣的机器学习 &ldquo;Morvan&rdquo;</a></li>
@@ -207,7 +209,9 @@ bash Anaconda3-2020.11-Linux-x86_64.sh
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLXO45tsB95cKysjmSNln65YoUt9lwEl7-" target="_blank" rel="noopener noreffer">Git 版本管理 教学 tutorial &ldquo;Morvan&rdquo;</a></li>
 </ul>
-<h2 id="intel-oneapi-base-toolkit-intel-parallel-studio">Intel oneAPI Base Toolkit (intel parallel studio)</h2>
+<h2 id="complier">complier</h2>
+<h3 id="intel-oneapi-base-toolkit-intel-parallel-studio">Intel oneAPI Base Toolkit (intel parallel studio)</h3>
+<p><strong>document</strong></p>
 <ul>
 <li>
 <p><a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank" rel="noopener noreffer">Intel homepage</a></p>
@@ -262,7 +266,18 @@ bash Anaconda3-2020.11-Linux-x86_64.sh
 <p><a href="https://software.intel.com/content/www/us/en/develop/articles/qualify-for-free-software.html" target="_blank" rel="noopener noreffer">Free Intel® Software Development Tools</a></p>
 </li>
 </ul>
-<h3 id="install">install</h3>
+<p><strong>pre-install</strong></p>
+<ul>
+<li>
+<p>MacOS</p>
+<p>Install Xcode, then go to <a href="developer.apple.com" rel="">developer.apple.com</a> and download Command Line Tools for your Xcode version.</p>
+</li>
+<li>
+<p>Windows</p>
+<p>Install latest Visual Studio Community edition</p>
+</li>
+</ul>
+<p><strong>install</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -270,55 +285,54 @@ bash Anaconda3-2020.11-Linux-x86_64.sh
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
+</span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash">sudo sh ./&lt;installer&gt;.sh     //launch the GUI Installer as the root 
 sh ./&lt;installer&gt;.sh    //launch the GUI Installer as the current user
 
+<span class="c1">#default location</span>
 /opt/intel/oneapi
 C:<span class="se">\P</span>rogram Files <span class="o">(</span>x86<span class="o">)</span><span class="se">\I</span>ntel<span class="se">\o</span>neAPI
 </code></pre></td></tr></table>
 </div>
-</div><p>For MacOS and Windows, there is a distinct step you need to do first:</p>
-<ol>
-<li>
-<p>MacOS: Install Xcode, then go to developer.apple.com and download and install Command Line Tools for your Xcode version</p>
-</li>
-<li>
-<p>Windows: Install latest Visual Studio Community edition</p>
-</li>
-<li>
-<p>install the oneAPI Base Toolkit with these options<br>
+</div><ol>
+<li>install the oneAPI <strong>Base</strong> Toolkit with these options<br>
 threaded building blocks<br>
 C++ compiler<br>
 C++ Library<br>
 Math Kernal Library<br>
-(optional) GDB debugger</p>
-</li>
-<li>
-<p>Install the oneAPI HPC toolkit with these options<br>
+(optional) GDB debugger</li>
+<li>Install the oneAPI <strong>HPC</strong> toolkit with these options<br>
 Intel MPI library<br>
 Intel C++ compiler<br>
-Intel Fortran compiler</p>
-</li>
+Intel Fortran compiler</li>
 </ol>
-<h3 id="usage">usage</h3>
-<p>Windows<br>
-On Windows a Start menu shortcut for a oneAPI command prompt is installed. CMake et al should just find the Intel compiler when in the oneAPI command prompt. Otherwise run setvars.bat as per oneAPI documentation.</p>
-<p>Linux<br>
-each time you wish to use Intel oneAPI, do</p>
+<p><strong>usage</strong></p>
+<ul>
+<li>
+<p>Windows</p>
+<p>OneAPI command prompt is installed in Start menu. Or run setvars.bat</p>
+</li>
+<li>
+<p>Linux</p>
+</li>
+</ul>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
+</span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash">. /opt/intel/oneapi/setvars.sh
+or
 ~/intel/oneapi/setvars.sh
 </code></pre></td></tr></table>
 </div>
-</div><p>MacOS<br>
-each time you wish to use Intel oneAPI, do</p>
+</div><ul>
+<li>MacOS</li>
+</ul>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -327,9 +341,10 @@ each time you wish to use Intel oneAPI, do</p>
 <pre class="chroma"><code class="language-bash" data-lang="bash">. /opt/intel/oneapi/setvars.sh
 </code></pre></td></tr></table>
 </div>
-</div><p>If upon compiling a C program you get errors like stdio.h isn’t found, be sure you’ve installed Xcode Command Line Tools.
-<br>
-<br></p>
+</div><blockquote>
+<p><strong>Errors like stdio.h isn&rsquo;t found</strong>
+be sure you&rsquo;ve installed Xcode Command Line Tools.</p>
+</blockquote>
 <ul>
 <li>
 <p><a href="https://software.intel.com/content/www/us/en/develop/articles/intel-oneapi-hpc-toolkit-release-notes.html" target="_blank" rel="noopener noreffer">Intel® oneAPI HPC Toolkit Release Notes</a></p>
@@ -347,16 +362,17 @@ each time you wish to use Intel oneAPI, do</p>
 <p><a href="https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-library-release-notes.html" target="_blank" rel="noopener noreffer">Intel® MPI Library Release Notes</a></p>
 </li>
 </ul>
-<h2 id="gcc">GCC</h2>
+<h3 id="gcc">GCC</h3>
 <ul>
 <li><a href="https://gcc.gnu.org/" target="_blank" rel="noopener noreffer">GCC, the GNU Compiler Collection</a>
 <a href="http://ftp.gnu.org/gnu/gcc/" target="_blank" rel="noopener noreffer">[download]</a><br>
 gfortran supports 95 2003 2008 2018</li>
 </ul>
-<h2 id="cmake">CMake</h2>
+<h3 id="cmake">CMake</h3>
 <p><a href="https://gitlab.kitware.com/cmake/community" target="_blank" rel="noopener noreffer">CMake Community Wiki</a>
 <a href="https://cmake.org/cmake/help/latest/index.html#" target="_blank" rel="noopener noreffer">CMake Documentation</a></p>
-<h2 id="intel-mpi">intel mpi</h2>
+<h2 id="mpi">mpi</h2>
+<h3 id="intel-mpi">intel mpi</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -370,8 +386,6 @@ gfortran supports 95 2003 2008 2018</li>
 </span><span class="lnt"> 9
 </span><span class="lnt">10
 </span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash">env:
@@ -385,16 +399,17 @@ or
 
 mpiicc -o <span class="nb">test</span>  test.c
 mpirun -r ssh -f mpd.hosts -n &lt;<span class="c1"># of processes&gt; ./test</span>
-
-
 </code></pre></td></tr></table>
 </div>
-</div><h2 id="mpi-programming">mpi programming</h2>
+</div><h3 id="mpi-programming">mpi programming</h3>
 <ul>
 <li><a href="https://easyhpc.net/" target="_blank" rel="noopener noreffer">easyhpc</a></li>
 </ul>
 <h2 id="gpu-computing">GPU Computing</h2>
-<p><a href="https://www.bu.edu/pasi/materials/" target="_blank" rel="noopener noreffer">programming courses collections</a></p>
+<ul>
+<li><a href="https://www.bu.edu/pasi/materials/" target="_blank" rel="noopener noreffer">programming courses collections</a></li>
+<li><a href="https://www.youtube.com/watch?v=COjvWNpxnxc&amp;feature=emb_logo" target="_blank" rel="noopener noreffer">Programming GPUs with Fortran</a></li>
+</ul>
 <h3 id="cuda">CUDA</h3>
 <ul>
 <li><a href="https://developer.nvidia.com/cuda-toolkit-archive" target="_blank" rel="noopener noreffer">CUDA archive</a></li>

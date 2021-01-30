@@ -1,16 +1,12 @@
 # CODE
 
-## Linux Tutorial
 
+## Linux Tutorial
 {{<link "https://thelinuxcluster.com/">}}  
 
-
-
 ## Ubuntu
-
 * [List of releases](https://wiki.ubuntu.com/Releases)  
 * [releases downloads](https://releases.ubuntu.com/)  
-
 
 ## Fortran
 * [fcode](http://v.fcode.cn/)
@@ -23,15 +19,13 @@
 * [Mistakes in Fortran 90 Programs That Might Surprise You](http://www.cs.rpi.edu/~szymansk/OOF90/bugs.html)
 * [Clion Fortran](https://www.jetbrains.com/help/clion/fortran-support.html)
 
-
 ## Python
 * [Python Documentation contents](https://docs.python.org/3/contents.html)  
 * anaconda
-  ```bash
+```bash
   wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
   bash Anaconda3-2020.11-Linux-x86_64.sh
-  ```
-
+```
 
 ## Machine Learning
 * [Learn With Me: Intro to Machine Learning](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)
@@ -42,8 +36,10 @@
 ## git 
 * [Git 版本管理 教学 tutorial "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cKysjmSNln65YoUt9lwEl7-)
 
+## complier
+### Intel oneAPI Base Toolkit (intel parallel studio)
+**document**
 
-## Intel oneAPI Base Toolkit (intel parallel studio)
 * [Intel homepage](https://www.intel.com/content/www/us/en/homepage.html)  
 * [Get the Intel® oneAPI Base Toolkit](https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/download.html)  
 * [Get the Intel® oneAPI HPC Toolkit](https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit/download.html)  
@@ -66,48 +62,56 @@
 * [Installing Intel® oneAPI Toolkits via APT](https://software.intel.com/content/www/us/en/develop/articles/installing-intel-oneapi-toolkits-via-apt.html)  
 * [Free Intel® Software Development Tools](https://software.intel.com/content/www/us/en/develop/articles/qualify-for-free-software.html)  
 
-### install
+**pre-install**
+
+- MacOS
+
+  Install Xcode, then go to [developer.apple.com](developer.apple.com) and download Command Line Tools for your Xcode version.
+
+- Windows
+
+  Install latest Visual Studio Community edition  
+
+**install**
+
 ```bash  
 sudo sh ./<installer>.sh     //launch the GUI Installer as the root 
 sh ./<installer>.sh    //launch the GUI Installer as the current user
 
+#default location
 /opt/intel/oneapi
 C:\Program Files (x86)\Intel\oneAPI
 ```
 
-For MacOS and Windows, there is a distinct step you need to do first:
-1. MacOS: Install Xcode, then go to developer.apple.com and download and install Command Line Tools for your Xcode version
-2. Windows: Install latest Visual Studio Community edition  
+1. install the oneAPI **Base** Toolkit with these options  
+    threaded building blocks  
+    C++ compiler  
+    C++ Library  
+    Math Kernal Library  
+    (optional) GDB debugger  
+2. Install the oneAPI **HPC** toolkit with these options  
+    Intel MPI library  
+    Intel C++ compiler  
+    Intel Fortran compiler  
 
-3. install the oneAPI Base Toolkit with these options  
-threaded building blocks  
-C++ compiler  
-C++ Library  
-Math Kernal Library  
-(optional) GDB debugger  
-2. Install the oneAPI HPC toolkit with these options  
-Intel MPI library  
-Intel C++ compiler  
-Intel Fortran compiler  
+**usage**
 
-### usage
-Windows  
-On Windows a Start menu shortcut for a oneAPI command prompt is installed. CMake et al should just find the Intel compiler when in the oneAPI command prompt. Otherwise run setvars.bat as per oneAPI documentation.
+- Windows  
 
-Linux  
-each time you wish to use Intel oneAPI, do
+  OneAPI command prompt is installed in Start menu. Or run setvars.bat
+
+- Linux  
 ```bash
 . /opt/intel/oneapi/setvars.sh
+or
 ~/intel/oneapi/setvars.sh
 ```
-MacOS  
-each time you wish to use Intel oneAPI, do
+- MacOS  
 ```bash
 . /opt/intel/oneapi/setvars.sh
 ```
-If upon compiling a C program you get errors like stdio.h isn’t found, be sure you’ve installed Xcode Command Line Tools.
-<br>
-<br>
+> **Errors like stdio.h isn't found**
+> be sure you've installed Xcode Command Line Tools.
 
 * [Intel® oneAPI HPC Toolkit Release Notes](https://software.intel.com/content/www/us/en/develop/articles/intel-oneapi-hpc-toolkit-release-notes.html)  
 * [Intel® Fortran Compiler for oneAPI Release Notes](https://software.intel.com/content/www/us/en/develop/articles/intel-oneapi-fortran-compiler-release-notes.html#top)  
@@ -117,17 +121,18 @@ If upon compiling a C program you get errors like stdio.h isn’t found, be sure
 * [Intel® MPI Library Release Notes](https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-library-release-notes.html)  
 
 
-## GCC 
+### GCC 
 * [GCC, the GNU Compiler Collection](https://gcc.gnu.org/)
   [[download]](http://ftp.gnu.org/gnu/gcc/)  
   gfortran supports 95 2003 2008 2018
 
 
-## CMake
+### CMake
 [CMake Community Wiki](https://gitlab.kitware.com/cmake/community)
 [CMake Documentation](https://cmake.org/cmake/help/latest/index.html#)
 
-## intel mpi
+## mpi 
+### intel mpi
 ```bash
 env:
 source /opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/bin/mpivars.sh intel64
@@ -140,14 +145,14 @@ export LD_LIBRARY_PATH=/opt/intel/impi/2018.0.128/lib64
 
 mpiicc -o test  test.c
 mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
-
-
 ```
 
-## mpi programming
+### mpi programming
 * [easyhpc](https://easyhpc.net/)
+
 ## GPU Computing
-[programming courses collections](https://www.bu.edu/pasi/materials/)
+* [programming courses collections](https://www.bu.edu/pasi/materials/)
+* [Programming GPUs with Fortran](https://www.youtube.com/watch?v=COjvWNpxnxc&feature=emb_logo)
 
 ### CUDA
 * [CUDA archive](https://developer.nvidia.com/cuda-toolkit-archive) 
