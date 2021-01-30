@@ -110,8 +110,11 @@ or
 ```bash
 . /opt/intel/oneapi/setvars.sh
 ```
-> **Errors like stdio.h isn't found**
-> be sure you've installed Xcode Command Line Tools.
+{{< admonition type=warning title="error and solution" open=true >}}
+**Errors like stdio.h isn't found**
+
+be sure you've installed Xcode Command Line Tools.
+{{< /admonition >}}
 
 * [Intel® oneAPI HPC Toolkit Release Notes](https://software.intel.com/content/www/us/en/develop/articles/intel-oneapi-hpc-toolkit-release-notes.html)  
 * [Intel® Fortran Compiler for oneAPI Release Notes](https://software.intel.com/content/www/us/en/develop/articles/intel-oneapi-fortran-compiler-release-notes.html#top)  
@@ -128,8 +131,8 @@ or
 
 
 ### CMake
-[CMake Community Wiki](https://gitlab.kitware.com/cmake/community)
-[CMake Documentation](https://cmake.org/cmake/help/latest/index.html#)
+* [CMake Community Wiki](https://gitlab.kitware.com/cmake/community)
+* [CMake Documentation](https://cmake.org/cmake/help/latest/index.html#)
 
 ## mpi 
 ### intel mpi
