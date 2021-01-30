@@ -124,7 +124,7 @@ or
 ### GCC 
 * [GCC, the GNU Compiler Collection](https://gcc.gnu.org/)
   [[download]](http://ftp.gnu.org/gnu/gcc/)  
-  gfortran supports 95 2003 2008 2018
+* gfortran supports 95 2003 2008 2018
 
 
 ### CMake
