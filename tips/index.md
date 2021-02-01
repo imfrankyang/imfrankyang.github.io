@@ -57,11 +57,11 @@ Anti-virus or anti-malware software
 
 
 
-## List of STRONGLY not recommended software
+## List of STRONGLY NOT recommended software forever
 
 * **360**
 
-<img src="index.assets/image-20210120222659506.png" alt="image-20210120222659506" style="zoom: 33%;" />
+<img src="index.assets/image-20210120222659506.png" alt="image-20210120222659506" style="zoom: 29%;" />
 
 * XX电脑管家
 
