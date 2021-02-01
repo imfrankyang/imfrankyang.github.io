@@ -61,7 +61,7 @@ Anti-virus or anti-malware software
 
 * **360**
 
-<img src="index.assets/image-20210120222659506.png" alt="image-20210120222659506" style="zoom: 29%;" />
+  <img src="index.assets/image-20210120222659506.png" alt="image-20210120222659506" style="zoom: 29%;" />
 
 * XX电脑管家
 
