@@ -29,6 +29,16 @@ a free and open-source file archiver
 ### Input Method Editor
 Windows 10 IME
 
+### anydesk/teamviewer/todesk
+
+remote control software
+
+{{<link "https://www.anydesk.com/">}}
+
+{{<link "https://www.teamviewer.com/">}}
+
+{{<link "https://www.todesk.com/">}}
+
 ### Norton/Avast/Microsoft Defender Antivirus in Windows10
 Anti-virus or anti-malware software
 
