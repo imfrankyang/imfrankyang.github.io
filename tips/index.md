@@ -59,15 +59,14 @@ Anti-virus or anti-malware software
 
 ## List of STRONGLY NOT recommended software forever
 
-* **360**
-
-  <img src="index.assets/image-20210120222659506.png" alt="image-20210120222659506" style="zoom: 29%;" />
+* **360**  
+<img src="index.assets/image-20210120222659506.png" align="center"/>
 
 * XX电脑管家
 
 * 2345
 
-  <img src="index.assets/image-20210127161425191.png" alt="image-20210127161425191" style="zoom: 40%;" />
+  <img src="index.assets/image-20210127161425191.png" alt="image-20210127161425191"  />
 
 * 驱动精灵
 
