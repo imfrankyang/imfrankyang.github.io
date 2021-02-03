@@ -3,9 +3,22 @@
         <title>Life and Work</title>
         <link>https://lianfengyeo.github.io/</link>
         <description>Life and Work</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 24 Jan 2021 10:09:30 &#43;0100</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 03 Feb 2021 10:09:30 &#43;0100</lastBuildDate>
             <atom:link href="https://lianfengyeo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Tips for English writing</title>
+    <link>https://lianfengyeo.github.io/english_writing/</link>
+    <pubDate>Wed, 03 Feb 2021 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/english_writing/</guid>
+    <description><![CDATA[Tips for English writing hyphen连字符 /en dash连接号 /em dash破折号 hyphen: &ldquo;-&rdquo;
+ 单词没写完需要换行 check-in 323-4837448 My name is John，j-o-h-n  en dash: &ldquo;–&rdquo; 宽度和字母 n 相近，有了En dash 这个名字。
+  September 18–October 30 10 a.m–11 a.m 1–2 hours
+  pp. 89–101 80–120 kph chapters 6–9
+  east–west Rail，即东西线铁路 Shanghai–London flight，即上海至伦敦的航班
+  3–2 ，即比分为3比2
+  当句子中已经使用了 from…to 句型时，为了保证句子的平衡性和完整性，不能再使用en-dash (–)进行替代。 I work every day from 9 am to 5 pm.]]></description>
+</item><item>
     <title>Paper tools</title>
     <link>https://lianfengyeo.github.io/paper-tools/</link>
     <pubDate>Sun, 24 Jan 2021 10:09:30 &#43;0100</pubDate>
@@ -39,7 +52,7 @@ General Electric J79]]></description>
     <pubDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/openfoam1/</guid>
-    <description><![CDATA[version  The OpenFOAM Foundation OpenFOAM基金会版 ESI集团版  Toturial  OpenFOAM &ldquo;CFD NINJA / ANSYS CFD&rdquo; Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo;   ]]></description>
+    <description><![CDATA[version  The OpenFOAM Foundation OpenFOAM基金会版 ESI集团版  Toturial  OpenFOAM &ldquo;CFD NINJA / ANSYS CFD&rdquo; Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo; OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot;  ]]></description>
 </item><item>
     <title>Tips for research tools</title>
     <link>https://lianfengyeo.github.io/tips/</link>
@@ -89,11 +102,10 @@ Create customizable rectangular ROI normxcorr2 [example]  ]]></description>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cfd1/</guid>
     <description><![CDATA[-- CFDer capabilities:
- Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD channel   Antony Jameson (CFD, code) [homepage] [googlescholar] [scopus] [wiki]
-  Dudley Brain Spalding [wiki] [Royal Society]
-  David Gosman [homepage]
-  Aidan Wimshurst [youtube] [udemy]
-  Alistair Revell [homepage] [youtube]]]></description>
+ Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD channel  Antony Jameson (20 November 1934 CFD, code)
+[homepage] [googlescholar] [scopus] [wiki] Dietrich Küchemann (11 September 1911 – 23 February 1976)
+[wiki] Dudley Brain Spalding (9 January 1923 – 27 November 2016)
+[wiki] [Royal Society] David Gosman]]></description>
 </item><item>
     <title>Guide to Hugo</title>
     <link>https://lianfengyeo.github.io/guide-to-hugo/</link>

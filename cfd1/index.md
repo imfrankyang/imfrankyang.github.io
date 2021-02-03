@@ -1,7 +1,9 @@
 # CFD collection
 
 
-<!-- {{< mermaid >}}
+<!-- 
+
+{{< mermaid >}}
 graph LR;
     A{CFD required skills} --> B[Fluid dynamics]
     A --> C[Numerical analysis]
@@ -9,7 +11,9 @@ graph LR;
     A --> E[programming]
     A --> F[Post-processing]
     A --> G[...]
-{{< /mermaid >}} -->
+{{< /mermaid >}} 
+
+-->
 
 **CFDer capabilities:**
 * Fluid dynamics
@@ -33,52 +37,45 @@ graph LR;
 
 
 ## CFD channel
-* Antony Jameson (CFD, code)
+* Antony Jameson (20 November 1934 CFD, code)  
 [[homepage]](http://aero-comlab.stanford.edu/jameson/) 
 [[googlescholar]](https://scholar.google.com/citations?hl=en&user=74eUkXgAAAAJ&view_op=list_works&citft=1&email_for_op=dlxiaochemi%40gmail.com&sortby=pubdate) 
 [[scopus]](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57198148688&zone=) 
 [[wiki]](https://www.wikiwand.com/en/Antony_Jameson)  
-
-* Dudley Brain Spalding
+* Dietrich Küchemann (11 September 1911 – 23 February 1976)  
+[[wiki]](https://en.wikipedia.org/wiki/Dietrich_K%C3%BCchemann)  
+* Dudley Brain Spalding (9 January 1923 – 27 November 2016)  
 [[wiki]](https://www.wikiwand.com/en/Brian_Spalding) 
 [[Royal Society]](https://royalsocietypublishing.org/doi/10.1098/rsbm.2018.0024) 
-
-* David Gosman
+* David Gosman  
 [[homepage]](https://www.imperial.ac.uk/people/d.gosman/publications.html) 
-
-* Aidan Wimshurst 
+* Aidan Wimshurst   
 [[youtube]](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg) 
 [[udemy]](https://www.udemy.com/user/aidan-wimshurst/)  
-
-* Alistair Revell 
+* Alistair Revell  
 [[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html) 
 [[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
-
-* 李新亮 (CFD)
+* 李新亮 (CFD)  
 [[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
 [[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
-
-* Ligrani, Phillip M.  (cooling)
+* Ligrani, Phillip M.  (cooling)  
   [[homepage]](https://www.uah.edu/eng/departments/mae/faculty-staff/phillip-ligrani)
   [[personal website]](https://ligrani.com/)
   [[scopus]](https://www.scopus.com/authid/detail.uri?authorId=7007125186)  
 
-* [Dietrich Küchemann](https://en.wikipedia.org/wiki/Dietrich_K%C3%BCchemann)
-  
-  
-  
+**ansys tutorial**  
+https://www.youtube.com/c/SimuTechGroup
 
-<br>
-<br>
-<br>
+**organization**  
 
 * [ERCOFTAC](https://www.ercoftac.org/)  
-
 * [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)
 
-* 
-
 ## Fluid dynamics
+**course**
+
+* [MECH241 Fluid Mechanics I "queens university"](https://www.youtube.com/channel/UC7rvAZwkBWhJdTKb6guga4A/playlists)   
+
 * Steve Brunton
   [[homepage1]](https://www.me.washington.edu/facultyfinder/steve-brunton)
   [[homepage2]](https://www.eigensteve.com/)
@@ -89,16 +86,15 @@ graph LR;
   [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
   [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)
   [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
-
 * Brian D. Storey (Fluid dynamics and heat transfer)
   [[homepage]](http://faculty.olin.edu/bstorey/)  
   [Lectures for Transport Phenomena course "Storey"](https://www.youtube.com/playlist?list=PLwAYtqaThyg97crC9yjdmUsNmtcai3pFP)  
 * [Microfluidics Lectures "IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm)  
-
 * Ron Hugo (fluid, heat transfer)
-  [[youtube]](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q)  
+  [[youtube]](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q) 
 
-### Material derivative
+**Material derivative**
+
 * [wiki](https://www.wikiwand.com/en/Material_derivative)  
 * [Material derivative](https://www.youtube.com/watch?v=BLVY69SYVBQ)  
 * [Material derivative and Leibniz rule](https://www.youtube.com/watch?v=8tHpMMF4RQ0)  
@@ -222,9 +218,10 @@ how to determine the $\Delta$T
   [[github openpiv-python]](https://github.com/OpenPIV/openpiv-python)
   [[youtube]](https://www.youtube.com/channel/UCMgp5JQQtqn9vXcrbuMefXw/featured)  
   [readthedocs](https://openpiv.readthedocs.io/en/latest/index.html)  
+  
 
+**cross-correlation**
 
-### cross-correlation
 * [Part 2: Convolution and Cross-Correlation - G. Jensen](https://www.youtube.com/watch?v=MQm6ZP1F6ms)  
 * [Lecture 11: Micro Particle Image Velocimetry (Part 2, Flow Tracing Particles)](https://www.youtube.com/watch?v=Pj7BCBQfpX4&list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm&index=10)  
 
@@ -252,7 +249,6 @@ how to determine the $\Delta$T
 * [University of Göttingen](https://www.uni-goettingen.de/en/1.html)  [[wiki]](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen)
 ## Journal
 * [Annual Review of Fluid Mechanics](https://www.annualreviews.org/journal/fluid)  
-
 
 
 
