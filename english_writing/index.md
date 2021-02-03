@@ -2,13 +2,15 @@
 
 
 ## hyphen连字符 /en dash连接号 /em dash破折号
-hyphen: "-"
+**hyphen**: "-"
+
 - 单词没写完需要换行
 - check-in
 - 323-4837448
 - My name is John，j-o-h-n
 
-en dash: "–" 宽度和字母 n 相近，有了En dash 这个名字。
+**en dash**: "–" 宽度和字母 n 相近，有了En dash 这个名字。
+
 - September 18–October 30
   10 a.m–11 a.m
   1–2 hours
@@ -31,9 +33,9 @@ en dash: "–" 宽度和字母 n 相近，有了En dash 这个名字。
   The Yuan Dynasty–style vase
 - 避免和减号混淆，有的地方最好不要用 en dash
   −4 to −6°C **√**
-  
 
-em dash: "—" 宽度和字母M相近， 有了 Em dash 这个名字。
+**em dash**: "—" 宽度和字母M相近， 有了 Em dash 这个名字。
+
 - 补充对句子其他部分而言相对不重要的信息
   To get to London from here—you are heading there, right?—you need a car.
   
