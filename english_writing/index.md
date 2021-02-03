@@ -53,7 +53,7 @@
 - en dash: option + minus
 - em dash: option + shift + minus
 
-**in Word: ** 
+**in Word:**
 - en dash: ctrl+ 小键盘的减号
 - em dash: ctrl+ alt + 小键盘的减号
 
