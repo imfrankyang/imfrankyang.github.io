@@ -59,9 +59,12 @@ graph LR;
 [[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
 [[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
 * Ligrani, Phillip M.  (cooling)  
-  [[homepage]](https://www.uah.edu/eng/departments/mae/faculty-staff/phillip-ligrani)
-  [[personal website]](https://ligrani.com/)
-  [[scopus]](https://www.scopus.com/authid/detail.uri?authorId=7007125186)  
+[[homepage]](https://www.uah.edu/eng/departments/mae/faculty-staff/phillip-ligrani)
+[[personal website]](https://ligrani.com/)
+[[scopus]](https://www.scopus.com/authid/detail.uri?authorId=7007125186)  
+* 东岳流体  
+[CFD中文网](https://cfd-china.com/)  
+[东岳流体 AKAD](http://dyfluid.com/)  
 
 **ansys tutorial**  
 https://www.youtube.com/c/SimuTechGroup
