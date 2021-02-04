@@ -3,12 +3,24 @@
         <title>CFD - Tag - Life and Work</title>
         <link>https://lianfengyeo.github.io/tags/cfd/</link>
         <description>CFD - Tag - Life and Work</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/cfd/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 04 Feb 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/cfd/" rel="self" type="application/rss+xml" /><item>
+    <title>CFD hardware</title>
+    <link>https://lianfengyeo.github.io/cfd_hardware/</link>
+    <pubDate>Thu, 04 Feb 2021 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/cfd_hardware/</guid>
+    <description><![CDATA[hardware CPU   AMD EPYC
+  EPYC - AMD
+  Xeon Platinum - Intel
+  CPU benchmark
+  Ansys Fluent EPYC benchmark
+  Mellanox  mlxup - Mellanox Update and Query Utility Mellanox OFED for Windows - WinOF / WinOF-2 Linux Drivers Mellanox EN Driver for Linux Firmware Downloads  server  Dell EMC PowerEdge  ]]></description>
+</item><item>
     <title>CFD collection</title>
-    <link>https://lianfengyeo.github.io/cfd1/</link>
+    <link>https://lianfengyeo.github.io/cfd_collection/</link>
     <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/cfd1/</guid>
+    <guid>https://lianfengyeo.github.io/cfd_collection/</guid>
     <description><![CDATA[-- CFDer capabilities:
  Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD channel  Antony Jameson (20 November 1934 CFD, code)
 [homepage] [googlescholar] [scopus] [wiki] Dietrich Küchemann (11 September 1911 – 23 February 1976)
