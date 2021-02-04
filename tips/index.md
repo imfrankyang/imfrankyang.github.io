@@ -74,16 +74,5 @@ Anti-virus or anti-malware software
 
 
 
-## hardware
-### CPU
-* [AMD EPYC](https://www.amd.com/en/products/epyc-server) 
-
-### Mellanox
-* [mlxup - Mellanox Update and Query Utility](https://www.mellanox.com/support/firmware/mlxup-mft)
-* [Mellanox OFED for Windows - WinOF / WinOF-2](https://www.mellanox.com/products/adapter-software/ethernet/windows/winof-2)
-* [Linux Drivers](https://www.mellanox.com/products/infiniband-drivers/linux/mlnx_ofed)
-* [Mellanox EN Driver for Linux](https://www.mellanox.com/products/ethernet-drivers/linux/mlnx_en)
-* [Firmware Downloads](https://www.mellanox.com/support/firmware/firmware-downloads)
-
 
 
