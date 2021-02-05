@@ -3,7 +3,7 @@
 
 ## list of something
 
-**somebody**
+**someone**
 
 [Jim Keller](https://en.wikipedia.org/wiki/Jim_Keller_(engineer))  
 [John Gruber](https://en.wikipedia.org/wiki/John_Gruber)  

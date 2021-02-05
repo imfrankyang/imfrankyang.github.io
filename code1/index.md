@@ -2,7 +2,8 @@
 
 
 ## Linux Tutorial
-{{<link "https://thelinuxcluster.com/">}}  
+- {{<link "https://thelinuxcluster.com/">}}  
+- [Learn CentOS "LearnLinuxTV"](https://www.youtube.com/watch?v=Mi6GUcSW5xs&list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
 
 ## Ubuntu
 * [List of releases](https://wiki.ubuntu.com/Releases)  
