@@ -18,4 +18,5 @@
 
 ### server
 - [Dell EMC PowerEdge](https://i.dell.com/sites/csdocuments/Product_Docs/en/us/dell_emc_poweredge_rack_quick_compare_table.pdf)
+- [supermicro SYS-2049U-TR4](https://www.supermicro.com/zh_cn/products/system/2U/2049/SYS-2049U-TR4.cfm)
 

@@ -72,6 +72,16 @@ graph LR;
 [CFD中文网](https://cfd-china.com/)  
 [东岳流体 AKAD](http://dyfluid.com/)  
 
+
+
+**知乎专栏**
+
+[一起来学CFD](https://www.zhihu.com/column/cfdnotebook)
+
+
+
+
+
 **ansys tutorial**  
 https://www.youtube.com/c/SimuTechGroup
 
@@ -89,7 +99,7 @@ https://www.youtube.com/c/SimuTechGroup
 **course**
 
 * [MECH241 Fluid Mechanics I "queens university"](https://www.youtube.com/channel/UC7rvAZwkBWhJdTKb6guga4A/playlists)   
-
+* [Fluid Mechanics](https://farside.ph.utexas.edu/teaching/336L/Fluid/)
 * Steve Brunton
   [[homepage1]](https://www.me.washington.edu/facultyfinder/steve-brunton)
   [[homepage2]](https://www.eigensteve.com/)

@@ -40,6 +40,8 @@
   [[youtube]](https://www.youtube.com/watch?v=VPZD_aij8H0&list=WL&index=67)  
 
 ## Calculus
+* [向量分析 vector analysis](https://www.youtube.com/playlist?list=PLn4oMMSpc3YnBlRV3ThL2Z5sG0cK8VTTr)
+  - Stokes 定理 Stokes' Theorem
 * [微積分-李柏堅 "CUSTCourses"](https://www.youtube.com/c/CUSTCourses/playlists?view=50&sort=dd&shelf_id=18)
 * [Crash Course Trigonometry "James Hamblin"](https://www.youtube.com/playlist?list=PLNr8B4XHL5kHugFwIm1F064iJTJaXhdrh)
 * [Vector Calculus for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)  

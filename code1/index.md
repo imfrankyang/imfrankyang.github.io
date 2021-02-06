@@ -1,7 +1,7 @@
 # CODE
 
 
-## Linux Tutorial
+## Linux tutorial
 - {{<link "https://thelinuxcluster.com/">}}  
 - [Learn CentOS "LearnLinuxTV"](https://www.youtube.com/watch?v=Mi6GUcSW5xs&list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
 
@@ -19,6 +19,10 @@
 * [ustc](http://micro.ustc.edu.cn/Fortran/)
 * [Mistakes in Fortran 90 Programs That Might Surprise You](http://www.cs.rpi.edu/~szymansk/OOF90/bugs.html)
 * [Clion Fortran](https://www.jetbrains.com/help/clion/fortran-support.html)
+
+**知乎专栏**
+
+- https://www.zhihu.com/column/c_1217883438453407744
 
 ## Python
 * [Python Documentation contents](https://docs.python.org/3/contents.html)  
@@ -166,5 +170,7 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
 * [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)  
 * [CUDA 编程入门: 8 小时掌握 GPU 计算](https://www.youtube.com/playlist?list=PLSVM68VUM1eWsEX0yPliaL3pTZoKqJWfi)
 
+## Tecplot
+[PyTecplot document](https://www.tecplot.com/docs/pytecplot/)
 
 
