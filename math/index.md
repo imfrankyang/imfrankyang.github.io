@@ -1,4 +1,4 @@
-# CFD collection
+# Mathematics
 
 
 ## Math
