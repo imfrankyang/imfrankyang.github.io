@@ -4,8 +4,8 @@
 ## hardware
 ### CPU
 - [AMD EPYC](https://www.amd.com/en/products/epyc-server) 
-- [wikichip EPYC](https://en.wikichip.org/wiki/amd/epyc)
-- [Xeon Platinum - Intel](https://en.wikichip.org/wiki/intel/xeon_platinum)
+- [wikichip EPYC - AMD](https://en.wikichip.org/wiki/amd/epyc)
+- [wikichip Xeon Platinum - Intel](https://en.wikichip.org/wiki/intel/xeon_platinum)
 
 - [CPU benchmark](https://www.cpu-monkey.com/en/cpu_benchmark-cinebench_r20_multi_core-10)
 - [Ansys Fluent EPYC benchmark](https://www.amd.com/system/files/documents/amd-epyc-7Fx2-ansys-fluent.pdf)
