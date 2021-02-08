@@ -108,7 +108,7 @@ https://www.youtube.com/c/SimuTechGroup
   [[DATA DRIVEN SCIENCE & ENGINEERING]](http://databookuw.com/)  
   [[DYNAMIC MODE DECOMPOSITION]](http://dmdbook.com/)  
   [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
-  [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)
+  [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)  
   [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
 * Brian D. Storey (Fluid dynamics and heat transfer)
   [[homepage]](http://faculty.olin.edu/bstorey/)  

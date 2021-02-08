@@ -63,6 +63,8 @@
   [[youtube]](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
 * [MTH 225 Differential Equations](https://math.libretexts.org/Courses/Monroe_Community_College/MTH_225_Differential_Equations)
 
+- [Ordinary Differential Equations "DarrenOngCL"](https://www.youtube.com/user/DarrenOngCL/playlists)
+
 ## Measurement technique
 * [Stanford Signals and Systems 1987 "Alan V. Oppenheim"](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)  
   [[youtube]](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B)  
