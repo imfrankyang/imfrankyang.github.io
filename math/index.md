@@ -65,27 +65,6 @@
 
 - [Ordinary Differential Equations "DarrenOngCL"](https://www.youtube.com/user/DarrenOngCL/playlists)
 
-## Measurement technique
-* [Stanford Signals and Systems 1987 "Alan V. Oppenheim"](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)  
-  [[youtube]](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B)  
-* [Stanford Signals and Systems 2011 "Dennis Freeman"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)  
-  [[youtube]](https://www.youtube.com/watch?v=-FHm2pQmiSM&list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)  
-* [Signal Processing and Data Acquisition "Bahga Lab IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR2HnGtlOHZmKyjm6QzX_l1g)  
-* [Digital Signal Processing (ECSE-4530) Lectures, Fall 2014 "Rich Radke"❤️](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)  
-  DSP Lecture 4: The Fourier Series
-  * impulse period signal --> fourier series
-  * http://falstad.com/fourier/
-  * FS doesn't work
-
-  DSP Lecture 5: the Fourier Transform
-  * FT
-  * Dirac delta function (δ function)
-  * duality
-  DSP Lecture 13 The Sampling Theorem
-  * Nyquist theorem two time o the Frequency, how to confirm the Frequency of the system eg. rotor
-
-* [MIT Signal Processing: Continuous and Discrete "Derek Rowell"](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/)
-
 ## Fourier
 * [Fourier Analysis "Steve Brunton"](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC&index=17)  
 * [How the Fourier Transform Works, an online course | Signal Processing | Signals and Systems "Mark Newman"](https://www.youtube.com/watch?v=R2wC8Oujm8M&list=PLWMUMyAolbNuWse5uM3HBwkrJEVsWOLd6)  

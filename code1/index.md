@@ -173,4 +173,7 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
 ## Tecplot
 [PyTecplot document](https://www.tecplot.com/docs/pytecplot/)
 
+## Vmware
+tutorial
+[Catlin Wu youtube](https://www.youtube.com/c/CatlinWu/videos)
 

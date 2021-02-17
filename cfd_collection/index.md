@@ -2,7 +2,6 @@
 
 
 <!-- 
-
 {{< mermaid >}}
 graph LR;
     A{CFD required skills} --> B[Fluid dynamics]
@@ -12,9 +11,9 @@ graph LR;
     A --> F[Post-processing]
     A --> G[...]
 {{< /mermaid >}} 
-
 -->
 
+## CFD
 **CFDer capabilities:**
 * Fluid dynamics
 * Gas dynamics
@@ -34,25 +33,30 @@ graph LR;
 * English ability
 * ...
 
-## CFD software
+**CFD software**
 - https://new.aerodynamic-solutions.com/services
+- AVBP 
+  https://www.cerfacs.fr/avbp7x/index.php
+  https://cerfacs.fr/en/
 
-## CFD infomation
+**CFD forum**
 - http://www.cfdreview.com/
 - https://www.cfd-online.com/
-- 
+- 东岳流体  
+  [CFD中文网](https://cfd-china.com/)  
+  [东岳流体 AKAD](http://dyfluid.com/)  
 
-## CFD channel
+**CFD channel**
 * Dietrich Küchemann (11 September 1911 – 23 February 1976)  
 [[wiki]](https://en.wikipedia.org/wiki/Dietrich_K%C3%BCchemann)  
 * Dudley Brain Spalding (9 January 1923 – 27 November 2016)  
 [[wiki]](https://www.wikiwand.com/en/Brian_Spalding) 
 [[Royal Society]](https://royalsocietypublishing.org/doi/10.1098/rsbm.2018.0024) 
 * Antony Jameson (20 November 1934 CFD, code)  
-  [[homepage]](http://aero-comlab.stanford.edu/jameson/) 
-  [[googlescholar]](https://scholar.google.com/citations?hl=en&user=74eUkXgAAAAJ&view_op=list_works&citft=1&email_for_op=dlxiaochemi%40gmail.com&sortby=pubdate) 
-  [[scopus]](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57198148688&zone=) 
-  [[wiki]](https://www.wikiwand.com/en/Antony_Jameson)  
+[[homepage]](http://aero-comlab.stanford.edu/jameson/) 
+[[googlescholar]](https://scholar.google.com/citations?hl=en&user=74eUkXgAAAAJ&view_op=list_works&citft=1&email_for_op=dlxiaochemi%40gmail.com&sortby=pubdate) 
+[[scopus]](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57198148688&zone=) 
+[[wiki]](https://www.wikiwand.com/en/Antony_Jameson)  
 * David Gosman (tutor: Spalding)  
 [[homepage]](https://www.imperial.ac.uk/people/d.gosman/publications.html) 
 * Aidan Wimshurst (tutor: Spalding)    
@@ -61,64 +65,64 @@ graph LR;
 * Alistair Revell (tutor: Spalding)   
 [[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html) 
 [[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
-* 李新亮 (CFD)  
-[[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
-[[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
 * Ligrani, Phillip M.  (cooling)  
 [[homepage]](https://www.uah.edu/eng/departments/mae/faculty-staff/phillip-ligrani)
 [[personal website]](https://ligrani.com/)
 [[scopus]](https://www.scopus.com/authid/detail.uri?authorId=7007125186)  
-* 东岳流体  
-[CFD中文网](https://cfd-china.com/)  
-[东岳流体 AKAD](http://dyfluid.com/)  
 
-
+**course**
+*  Prof. S. A. E. Miller, Ph.D.
+[Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)
+* 李新亮 (CFD)  
+[[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
+[[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
 
 **知乎专栏**
-
-[一起来学CFD](https://www.zhihu.com/column/cfdnotebook)
-
-
-
-
+- [一起来学CFD](https://www.zhihu.com/column/cfdnotebook)
+- [伯颜的咸鱼日记](https://www.zhihu.com/column/c_1231170461943713792)
 
 **ansys tutorial**  
-https://www.youtube.com/c/SimuTechGroup
+
+- SimuTechGroup  
+  https://www.youtube.com/c/SimuTechGroup
+- ANSYS CFD tutorials and courses  
+  [NACA 0012 3D Turbulent Simulation at Re = 3 Million](https://www.youtube.com/playlist?list=PL8nfXsTP607IOuOLDpMw86pLxw7LswffA)
 
 **organization**  
 
-* [ERCOFTAC](https://www.ercoftac.org/)  
-* [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)
-* [Air Force Research Laboratory](https://www.afrl.af.mil/)
+- [ERCOFTAC](https://www.ercoftac.org/)  
+- [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)
+- [Air Force Research Laboratory](https://www.afrl.af.mil/)
 
 ## Fluid dynamics
-**someone**
+**celebrity**
+
 - [Sir George Stokes, 1st Baronet](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)
 - [Claude-Louis Navier](https://en.wikipedia.org/wiki/Claude-Louis_Navier)
 
 **course**
 
-* [MECH241 Fluid Mechanics I "queens university"](https://www.youtube.com/channel/UC7rvAZwkBWhJdTKb6guga4A/playlists)   
-* [Fluid Mechanics](https://farside.ph.utexas.edu/teaching/336L/Fluid/)
-* Steve Brunton
+- [MECH241 Fluid Mechanics I "queens university"](https://www.youtube.com/channel/UC7rvAZwkBWhJdTKb6guga4A/playlists)   
+- [Fluid Mechanics](https://farside.ph.utexas.edu/teaching/336L/Fluid/)
+- Steve Brunton
   [[homepage1]](https://www.me.washington.edu/facultyfinder/steve-brunton)
   [[homepage2]](https://www.eigensteve.com/)
-  [[googlescholar]](https://scholar.google.com/citations?hl=en&user=TjzWdigAAAAJ&view_op=list_works&citft=1&email_for_op=dlxiaochemi%40gmail.com&gmla=AJsN-F6YNUOTnS738rn1IHs1_SpA6gCVT0k-nxlRvI3RGBt--t9O9XEHAwEAGR37HZ3maJSdXDJtIPi6CMDutijzixG0-QhtyVKJRwKLXv2OJk7LWHA8qondQ87X9EZpkfcJh6zsO2nebbLHoVfiHWHpQg9PhTBqGd6zcnL4HG09aC47YGTQWOcf0WFJ7XCmAHHik_PyiiqCxHEd5YHcZJYvyj__BDBdgDAEzScObXdj-qT1U7hBh6HDHSw1ntqhNK_hwxGNH9AI)
+  [[googlescholar]](https://scholar.google.com/citations?hl=en&user=TjzWdigAAAAJ)  
   [[youtube]](https://www.youtube.com/c/Eigensteve/featured)  
   [[DATA DRIVEN SCIENCE & ENGINEERING]](http://databookuw.com/)  
   [[DYNAMIC MODE DECOMPOSITION]](http://dmdbook.com/)  
   [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)  
   [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)  
   [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
-* Brian D. Storey (Fluid dynamics and heat transfer)
+- Brian D. Storey (Fluid dynamics and heat transfer)
   [[homepage]](http://faculty.olin.edu/bstorey/)  
   [Lectures for Transport Phenomena course "Storey"](https://www.youtube.com/playlist?list=PLwAYtqaThyg97crC9yjdmUsNmtcai3pFP)  
-* [Microfluidics Lectures "IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm)  
+- [Microfluidics Lectures "IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm)  
 * Ron Hugo (fluid, heat transfer)
   [[youtube]](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q) 
+* [Introduction to Compressible Flow - Prof. S. A. E. Miller, Ph.D.](https://www.youtube.com/playlist?list=PLbiOzt50Bx-ntmxUzPRCOLLTxrVwG8RG6)  
 
 **Material derivative**
-
 * [wiki](https://www.wikiwand.com/en/Material_derivative)  
 * [Material derivative](https://www.youtube.com/watch?v=BLVY69SYVBQ)  
 * [Material derivative and Leibniz rule](https://www.youtube.com/watch?v=8tHpMMF4RQ0)  
@@ -128,6 +132,12 @@ https://www.youtube.com/c/SimuTechGroup
 
 ## Multiphase Microfluidics
 * [Multiphase Microfluidics "IITG"](https://www.youtube.com/playlist?list=PLC25ItV4rcpdcMPaHObUHhIOUAgJbrZjx)  
+
+## Data-driven
+**von Karman Institute for Fluid Dynamics**
+[The Proper Orthogonal Decomposition (Prof. Scott T.M. Dawson)](https://www.youtube.com/watch?v=TcqBbtWTcIc)
+
+
 
 ## PIV Particle Image Velocimetry
 * [Particle Image Velocimetry (PIV) Explained - How do we see airflow in wind tunnels?](https://www.youtube.com/watch?v=JbuuhpQCWz8)  
@@ -151,14 +161,42 @@ how to determine the $\Delta$T
   [[github openpiv-python]](https://github.com/OpenPIV/openpiv-python)
   [[youtube]](https://www.youtube.com/channel/UCMgp5JQQtqn9vXcrbuMefXw/featured)  
   [readthedocs](https://openpiv.readthedocs.io/en/latest/index.html)  
-  
 
 **cross-correlation**
 
 * [Part 2: Convolution and Cross-Correlation - G. Jensen](https://www.youtube.com/watch?v=MQm6ZP1F6ms)  
 * [Lecture 11: Micro Particle Image Velocimetry (Part 2, Flow Tracing Particles)](https://www.youtube.com/watch?v=Pj7BCBQfpX4&list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm&index=10)  
 
+## Measurement technique
 
+* [Stanford Signals and Systems 1987 "Alan V. Oppenheim"](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)  
+  [[youtube]](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B)  
+
+* [Stanford Signals and Systems 2011 "Dennis Freeman"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)  
+  [[youtube]](https://www.youtube.com/watch?v=-FHm2pQmiSM&list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)  
+
+* [Signal Processing and Data Acquisition "Bahga Lab IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR2HnGtlOHZmKyjm6QzX_l1g)  
+
+* [Digital Signal Processing (ECSE-4530) Lectures, Fall 2014 "Rich Radke"❤️](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)  
+  DSP Lecture 4: The Fourier Series
+
+  * impulse period signal --> fourier series
+  * http://falstad.com/fourier/
+  * FS doesn't work
+
+  DSP Lecture 5: the Fourier Transform
+
+  * FT
+  * Dirac delta function (δ function)
+  * duality
+    DSP Lecture 13 The Sampling Theorem
+  * Nyquist theorem two time o the Frequency, how to confirm the Frequency of the system eg. rotor
+
+* [MIT Signal Processing: Continuous and Discrete "Derek Rowell"](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/)
+
+## Experiment
+**Wind tunnel**
+[NASA Langley Full-Scale Tunnel Memories](https://www.youtube.com/playlist?list=PLbiOzt50Bx-lKChPJQErUDRXrtdP7U4kw)  
 
 
 

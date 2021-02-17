@@ -33,3 +33,6 @@
 ### Others
 
 - [djvu to pdf](https://djvu2pdf.com/)
+- [download subtitles](https://downsub.com/)
+
+
