@@ -62,7 +62,7 @@ graph LR;
 * Aidan Wimshurst (tutor: Spalding)    
 [[youtube]](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg) 
 [[udemy]](https://www.udemy.com/user/aidan-wimshurst/)  
-* Alistair Revell (tutor: Spalding)   
+* Alistair Revell   
 [[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html) 
 [[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
 * Ligrani, Phillip M.  (cooling)  

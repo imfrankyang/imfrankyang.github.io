@@ -76,4 +76,8 @@
 
 
 
+- 泛函分析
+https://www.bilibili.com/video/BV1SD4y1o7sP
+https://liveclass.org.cn/cloudCourse/#/courseDetail/BZ1920200132350_14083
+
 <!-- {{< link "" >}}   -->
