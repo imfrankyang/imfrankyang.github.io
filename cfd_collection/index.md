@@ -48,13 +48,20 @@ graph LR;
   [东岳流体 AKAD](http://dyfluid.com/)  
 
 **course**
-*  Prof. S. A. E. Miller, Ph.D.
-[Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)
+*  Prof. S. A. E. Miller, Ph.D.  
+[Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
 * 李新亮 (CFD)  
 [[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
 [[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
+*  Aidan Wimshurst  
+[[youtube]](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)  
+[[udemy]](https://www.udemy.com/user/aidan-wimshurst/)  
+* Alistair Revell  
+[[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html)   
+[[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
 
 **知乎专栏**
+
 - [一起来学CFD](https://www.zhihu.com/column/cfdnotebook)
 - [伯颜的咸鱼日记](https://www.zhihu.com/column/c_1231170461943713792)
 
