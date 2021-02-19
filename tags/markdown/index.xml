@@ -4,11 +4,11 @@
         <link>https://lianfengyeo.github.io/tags/markdown/</link>
         <description>markdown - Tag - Life and Work</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 27 Nov 2020 22:55:58 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/markdown/" rel="self" type="application/rss+xml" /><item>
-    <title>Markdown notes</title>
-    <link>https://lianfengyeo.github.io/markdown1/</link>
+    <title>Guide to Markdown</title>
+    <link>https://lianfengyeo.github.io/guide-to-markdown/</link>
     <pubDate>Fri, 27 Nov 2020 22:55:58 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/markdown1/</guid>
+    <guid>https://lianfengyeo.github.io/guide-to-markdown/</guid>
     <description><![CDATA[Markdown Reference  Markdown Syntax &lsquo;getgrav&rsquo; 教你Markdown+VSCODE实现最完美流畅写作体验  Markdown notes  heading
  1 2 3 4 5  ## h2 Heading ### h3 Heading #### h4 Heading ##### h5 Heading ###### h6 Heading    开头空格
  1  &amp;emsp;    This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.]]></description>

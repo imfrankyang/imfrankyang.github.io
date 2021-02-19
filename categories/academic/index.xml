@@ -5,10 +5,10 @@
         <description>Academic - Category - Life and Work</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 18 Feb 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/categories/academic/" rel="self" type="application/rss+xml" /><item>
     <title>Celebrities in history</title>
-    <link>https://lianfengyeo.github.io/cfder/</link>
+    <link>https://lianfengyeo.github.io/celebrities-in-history/</link>
     <pubDate>Thu, 18 Feb 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/cfder/</guid>
+    <guid>https://lianfengyeo.github.io/celebrities-in-history/</guid>
     <description><![CDATA[Dietrich Küchemann (11 September 1911 – 23 February 1976) [wiki]
 Dudley Brain Spalding (9 January 1923 – 27 November 2016)  Dudley_Brian_Spalding  [wiki] [Royal Society]
 Antony Jameson (20 November 1934 CFD, code) 中心差分离散的有限体积法
@@ -18,10 +18,10 @@ Ligrani, Phillip M. (cooling) [homepage] [personal website] [scopus]
 陈大燮 http://me.sjtu.edu.cn/alumni_known/2642.html  --]]></description>
 </item><item>
     <title>CFD hardware</title>
-    <link>https://lianfengyeo.github.io/cfd_hardware/</link>
+    <link>https://lianfengyeo.github.io/cfd-hardware/</link>
     <pubDate>Thu, 04 Feb 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/cfd_hardware/</guid>
+    <guid>https://lianfengyeo.github.io/cfd-hardware/</guid>
     <description><![CDATA[hardware CPU   AMD EPYC
   wikichip EPYC - AMD
   wikichip Xeon Platinum - Intel
@@ -29,11 +29,11 @@ Ligrani, Phillip M. (cooling) [homepage] [personal website] [scopus]
   Ansys Fluent EPYC benchmark
   Mellanox  mlxup - Mellanox Update and Query Utility Mellanox OFED for Windows - WinOF / WinOF-2 Linux Drivers Mellanox EN Driver for Linux Firmware Downloads  server  Dell EMC PowerEdge supermicro SYS-2049U-TR4  ]]></description>
 </item><item>
-    <title>Tips for English writing</title>
-    <link>https://lianfengyeo.github.io/english_writing/</link>
+    <title>English writing</title>
+    <link>https://lianfengyeo.github.io/english-writing/</link>
     <pubDate>Wed, 03 Feb 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/english_writing/</guid>
+    <guid>https://lianfengyeo.github.io/english-writing/</guid>
     <description><![CDATA[hyphen连字符 /en dash连接号 /em dash破折号 hyphen: &ldquo;-&rdquo;
  单词没写完需要换行 check-in 323-4837448 My name is John，j-o-h-n  en dash: &ldquo;–&rdquo; 宽度和字母 n 相近，有了En dash 这个名字。
   September 18–October 30 10 a.m–11 a.m 1–2 hours
@@ -53,26 +53,26 @@ Air - Thermophysical Properties
  Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water  Water - Specific Heat  CFD tools  hydraulic diameter calculator  Others  djvu to pdf download subtitles  ]]></description>
 </item><item>
     <title>OpenFOAM</title>
-    <link>https://lianfengyeo.github.io/openfoam1/</link>
+    <link>https://lianfengyeo.github.io/openfoam/</link>
     <pubDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/openfoam1/</guid>
+    <guid>https://lianfengyeo.github.io/openfoam/</guid>
     <description><![CDATA[version  The OpenFOAM Foundation OpenFOAM基金会版 ESI集团版  Toturial  OpenFOAM &ldquo;CFD NINJA / ANSYS CFD&rdquo; Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo; OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot;  ]]></description>
 </item><item>
     <title>Matlab notes</title>
-    <link>https://lianfengyeo.github.io/matlab/</link>
+    <link>https://lianfengyeo.github.io/matlab-notes/</link>
     <pubDate>Wed, 16 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/matlab/</guid>
+    <guid>https://lianfengyeo.github.io/matlab-notes/</guid>
     <description><![CDATA[function  montage
 Display multiple image frames as rectangular montage colon, : drawrectangle
 Create customizable rectangular ROI normxcorr2 [example]  ]]></description>
 </item><item>
-    <title>CODE</title>
-    <link>https://lianfengyeo.github.io/code1/</link>
+    <title>Linux env</title>
+    <link>https://lianfengyeo.github.io/linux-env/</link>
     <pubDate>Wed, 09 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/code1/</guid>
+    <guid>https://lianfengyeo.github.io/linux-env/</guid>
     <description><![CDATA[Linux tutorial  https://thelinuxcluster.com/ Learn CentOS &ldquo;LearnLinuxTV&rdquo;  Ubuntu  List of releases releases downloads  Fortran   fcode [bilibili]
   15分钟Fortran从0到够用 #030
   [Fortran Tuto 2] Basics about variables
@@ -83,10 +83,10 @@ Create customizable rectangular ROI normxcorr2 [example]  ]]></description>
  https://www.zhihu.com/column/c_1217883438453407744  Python  Python Documentation contents anaconda  1 2  wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh bash Anaconda3-2020.]]></description>
 </item><item>
     <title>Mathematics</title>
-    <link>https://lianfengyeo.github.io/math/</link>
+    <link>https://lianfengyeo.github.io/mathematics/</link>
     <pubDate>Wed, 02 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/math/</guid>
+    <guid>https://lianfengyeo.github.io/mathematics/</guid>
     <description><![CDATA[Math  lockdown math Lecture Collection | Mathematics: Making the Invisible Visible &ldquo;Stanford&rdquo; 2017新东方考研数学强化班 高数 张宇 2021版张宇高等数学考研数学基础30讲高等数学 Math for Liberal Studies Lectures &ldquo;James Hamblin&rdquo;  Linear algebra   MIT Linear Algebra &ldquo;Gilbert Strang&quot;❤️
 [youtube]
 [youtube (with extra)]
@@ -98,10 +98,10 @@ Create customizable rectangular ROI normxcorr2 [example]  ]]></description>
   3blue1brown]]></description>
 </item><item>
     <title>CFD collection</title>
-    <link>https://lianfengyeo.github.io/cfd_collection/</link>
+    <link>https://lianfengyeo.github.io/cfd-collection/</link>
     <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://lianfengyeo.github.io/cfd_collection/</guid>
+    <guid>https://lianfengyeo.github.io/cfd-collection/</guid>
     <description><![CDATA[-- CFD CFDer capabilities:
  Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD software
  https://new.aerodynamic-solutions.com/services AVBP https://www.cerfacs.fr/avbp7x/index.php https://cerfacs.fr/en/  CFD forum
