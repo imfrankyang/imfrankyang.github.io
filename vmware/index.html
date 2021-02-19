@@ -6,14 +6,10 @@
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
         <title>Vmware - Life and Work</title><meta name="Description" content="Life and Work"><meta property="og:title" content="Vmware" />
-<meta property="og:description" content="Vmware tutorial
-Catlin Wu youtube
-WorkStation虚拟机迁移到 ESXi
-WorkStation虚拟机多个磁盘文件合并成一个
-1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 MyNewImage.vmdk   ssh登陆到vSphere
-1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   update
-https://www.vediotalk.com/archives/3956
- Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip -p ESXi-7.0U1c-17325551-standard reboot   true  ESXi 7." />
+<meta property="og:description" content="Vmware tutorial Catlin Wu youtube
+WorkStation to ESXi
+ WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update https://www.vediotalk.com/archives/3956
+ Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://lianfengyeo.github.io/vmware/" />
 <meta property="og:image" content="https://lianfengyeo.github.io/logo.png"/>
@@ -23,14 +19,10 @@ https://www.vediotalk.com/archives/3956
 <meta name="twitter:image" content="https://lianfengyeo.github.io/logo.png"/>
 
 <meta name="twitter:title" content="Vmware"/>
-<meta name="twitter:description" content="Vmware tutorial
-Catlin Wu youtube
-WorkStation虚拟机迁移到 ESXi
-WorkStation虚拟机多个磁盘文件合并成一个
-1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 MyNewImage.vmdk   ssh登陆到vSphere
-1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   update
-https://www.vediotalk.com/archives/3956
- Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip -p ESXi-7.0U1c-17325551-standard reboot   true  ESXi 7."/>
+<meta name="twitter:description" content="Vmware tutorial Catlin Wu youtube
+WorkStation to ESXi
+ WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update https://www.vediotalk.com/archives/3956
+ Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7."/>
 <meta name="application-name" content="Life and Work">
 <meta name="apple-mobile-web-app-title" content="Life and Work"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -48,7 +40,7 @@ https://www.vediotalk.com/archives/3956
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "software","wordcount":  67 ,
+                        }],"genre": "posts","keywords": "software","wordcount":  227 ,
         "url": "https:\/\/lianfengyeo.github.io\/vmware\/","datePublished": "2021-02-08T10:09:30+01:00","dateModified": "2021-02-08T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -134,8 +126,8 @@ https://www.vediotalk.com/archives/3956
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Vmware</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/software/"><i class="far fa-folder fa-fw"></i>Software</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-02-08">2021-02-08</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;67 words&nbsp;
-                <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;</div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-02-08">2021-02-08</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;227 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;2 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
                     <span>Contents</span>
@@ -147,19 +139,23 @@ https://www.vediotalk.com/archives/3956
   </ul>
 </nav></div>
             </div><div class="content" id="content"><h2 id="vmware">Vmware</h2>
-<p><strong>tutorial</strong></p>
-<p><a href="https://www.youtube.com/c/CatlinWu/videos" target="_blank" rel="noopener noreffer">Catlin Wu youtube</a></p>
-<p><strong>WorkStation虚拟机迁移到 ESXi</strong></p>
-<p>WorkStation虚拟机多个磁盘文件合并成一个</p>
+<p><strong>tutorial</strong>
+<a href="https://www.youtube.com/c/CatlinWu/videos" target="_blank" rel="noopener noreffer">Catlin Wu youtube</a></p>
+<p><strong>WorkStation to ESXi</strong></p>
+<ol>
+<li>WorkStation虚拟机多个磁盘文件合并成一个</li>
+</ol>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;d:\VMLinux\vmdkname.vmdk&#34;</span> -t <span class="m">0</span> MyNewImage.vmdk
+<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;d:\VMLinux\vmdkname.vmdk&#34;</span> -t <span class="m">0</span> vmdknamenew.vmdk
 </code></pre></td></tr></table>
 </div>
-</div><p>ssh登陆到vSphere</p>
+</div><ol start="2">
+<li>ssh登陆到vSphere</li>
+</ol>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -170,8 +166,8 @@ https://www.vediotalk.com/archives/3956
 vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin
 </code></pre></td></tr></table>
 </div>
-</div><p><strong>update</strong></p>
-<p><a href="https://www.vediotalk.com/archives/3956">https://www.vediotalk.com/archives/3956</a></p>
+</div><p><strong>ESXi update</strong>
+<a href="https://www.vediotalk.com/archives/3956">https://www.vediotalk.com/archives/3956</a></p>
 <ol>
 <li>Download patches <a href="https://my.vmware.com/group/vmware/patch#search">https://my.vmware.com/group/vmware/patch#search</a></li>
 <li>升级包上传</li>
@@ -192,16 +188,138 @@ esxcli software profile update -d  /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-1
 reboot
 </code></pre></td></tr></table>
 </div>
+</div><p><strong>VMware to Virtualbox</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\OVFTool\ovftool.exe&#34;</span> <span class="s2">&#34;D:\vmware.vmx&#34;</span>  <span class="s2">&#34;D:\vmware.ovf&#34;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>vmware安装macos</strong></p>
+<p>下载<a href="https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar" target="_blank" rel="noopener noreffer">vmware tools</a>
+com.vmware.fusion.zip.tar放到unlocker/tools/</p>
+<p><strong>vmware 压缩硬盘</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">#mac 系统内</span>
+cat /dev/zero &gt; wipefile<span class="p">;</span> rm wipefile
+sudo /Library/Application<span class="se">\ </span>Support/VMware<span class="se">\ </span>Tools/vmware-tools-cli disk shrink /
+
+<span class="c1">#win </span>
+<span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -k <span class="s2">&#34;D:\vmware.vmdk&#34;</span> 
+
+<span class="c1">#linux 系统内</span>
+sudo rm -rf .cache/
+sudo /usr/bin/vmware-toolbox-cmd disk list
+sudo vmware-toolbox-cmd disk shrink /
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="c1">#重命名vmdk文件</span>
+<span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -n <span class="s2">&#34;source.vmdk&#34;</span> <span class="s2">&#34;target.vmdk&#34;</span>
+<span class="c1">#合并硬盘</span>
+<span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;C:\vmware1.vmdk&#34;</span> -t <span class="m">0</span> <span class="s2">&#34;C:\vmware2.vmdk&#34;</span>
+<span class="c1">#分割硬盘</span>
+<span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;C:\vmware1.vmdk&#34;</span> -t <span class="m">1</span> <span class="s2">&#34;C:\vmware2.vmdk&#34;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>-r参数指定源磁盘文件
+-t参数指定输出虚拟磁盘文件的类型，其值为以下类型之一：
+0：创建一个包含在单一虚拟文件中的可增长虚拟磁盘
+1：创建一个被分割为每个文件2GB大小的可增长虚拟磁盘
+2：创建一个包含在单一虚拟文件中的预分配虚拟磁盘
+3：创建一个被分割为每个文件2GB大小的预分配虚拟磁盘</p>
+<p><strong>open vm tools</strong>
+<a href="https://github.com/vmware/open-vm-tools">https://github.com/vmware/open-vm-tools</a>
+<a href="https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html">https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">sudo apt install open-vm-tools
+sudo apt install open-vm-tools-desktop
+</code></pre></td></tr></table>
+</div>
 </div><div class="details admonition tip open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-lightbulb fa-fw"></i>true<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-lightbulb fa-fw"></i>Tip<i class="details-icon fas fa-angle-right fa-fw"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content"><p>ESXi 7.0 后多出VMFS-L的空间如何删除VMFSL</p>
-<p>引导后，按Shift+O键<br>
+<p>u盘引导后，按Shift+O键<br>
 autoPartitionOSDataSize=8192<br>
 注意大小写，回车安装即可。</p>
 </div>
+        </div>
+    </div>
+<div class="details admonition tip open">
+        <div class="details-summary admonition-title">
+            <i class="icon fas fa-lightbulb fa-fw"></i>Tip<i class="details-icon fas fa-angle-right fa-fw"></i>
+        </div>
+        <div class="details-content">
+            <div class="admonition-content"><p>网卡无法启动的解决方法</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">系统自带的NetworkManager这个管理套件影响到网卡的启动，关掉就可以解决
+systemctl stop NetworkManager	<span class="c1">#停止NetworkManager</span>
+systemctl disable NetworkManager	<span class="c1">#并使其失效，开机不启动</span>
+systemctl start network		<span class="c1">#启动网络后就OK了</span>
+</code></pre></td></tr></table>
+</div>
+</div></div>
+        </div>
+    </div>
+<div class="details admonition tip open">
+        <div class="details-summary admonition-title">
+            <i class="icon fas fa-lightbulb fa-fw"></i>Tip<i class="details-icon fas fa-angle-right fa-fw"></i>
+        </div>
+        <div class="details-content">
+            <div class="admonition-content"><p>linux虚拟机缩放</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">xrandr --output Virtual1 --scale 0.9x0.9
+xrandr --output Virtual1 --scale 1x1
+xrandr --output Virtual1 --scale 0.4x0.4
+</code></pre></td></tr></table>
+</div>
+</div></div>
         </div>
     </div>
 </div><div class="post-footer" id="post-footer">
