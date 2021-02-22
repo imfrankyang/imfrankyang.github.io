@@ -6,9 +6,11 @@
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
         <title>Vmware - Life and Work</title><meta name="Description" content="Life and Work"><meta property="og:title" content="Vmware" />
-<meta property="og:description" content="Vmware tutorial Catlin Wu youtube
+<meta property="og:description" content="Vmware tutorial
+Catlin Wu youtube
 WorkStation to ESXi
- WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update https://www.vediotalk.com/archives/3956
+ WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update
+https://www.vediotalk.com/archives/3956
  Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://lianfengyeo.github.io/vmware/" />
@@ -19,9 +21,11 @@ WorkStation to ESXi
 <meta name="twitter:image" content="https://lianfengyeo.github.io/logo.png"/>
 
 <meta name="twitter:title" content="Vmware"/>
-<meta name="twitter:description" content="Vmware tutorial Catlin Wu youtube
+<meta name="twitter:description" content="Vmware tutorial
+Catlin Wu youtube
 WorkStation to ESXi
- WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update https://www.vediotalk.com/archives/3956
+ WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update
+https://www.vediotalk.com/archives/3956
  Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7."/>
 <meta name="application-name" content="Life and Work">
 <meta name="apple-mobile-web-app-title" content="Life and Work"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
@@ -139,7 +143,7 @@ WorkStation to ESXi
   </ul>
 </nav></div>
             </div><div class="content" id="content"><h2 id="vmware">Vmware</h2>
-<p><strong>tutorial</strong>
+<p><strong>tutorial</strong><br>
 <a href="https://www.youtube.com/c/CatlinWu/videos" target="_blank" rel="noopener noreffer">Catlin Wu youtube</a></p>
 <p><strong>WorkStation to ESXi</strong></p>
 <ol>
@@ -166,7 +170,7 @@ WorkStation to ESXi
 vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin
 </code></pre></td></tr></table>
 </div>
-</div><p><strong>ESXi update</strong>
+</div><p><strong>ESXi update</strong><br>
 <a href="https://www.vediotalk.com/archives/3956">https://www.vediotalk.com/archives/3956</a></p>
 <ol>
 <li>Download patches <a href="https://my.vmware.com/group/vmware/patch#search">https://my.vmware.com/group/vmware/patch#search</a></li>
@@ -198,7 +202,7 @@ reboot
 </code></pre></td></tr></table>
 </div>
 </div><p><strong>vmware安装macos</strong></p>
-<p>下载<a href="https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar" target="_blank" rel="noopener noreffer">vmware tools</a>
+<p>下载<a href="https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar" target="_blank" rel="noopener noreffer">vmware tools</a><br>
 com.vmware.fusion.zip.tar放到unlocker/tools/</p>
 <p><strong>vmware 压缩硬盘</strong></p>
 <div class="highlight"><div class="chroma">
@@ -253,8 +257,8 @@ sudo vmware-toolbox-cmd disk shrink /
 1：创建一个被分割为每个文件2GB大小的可增长虚拟磁盘
 2：创建一个包含在单一虚拟文件中的预分配虚拟磁盘
 3：创建一个被分割为每个文件2GB大小的预分配虚拟磁盘</p>
-<p><strong>open vm tools</strong>
-<a href="https://github.com/vmware/open-vm-tools">https://github.com/vmware/open-vm-tools</a>
+<p><strong>open vm tools</strong><br>
+<a href="https://github.com/vmware/open-vm-tools">https://github.com/vmware/open-vm-tools</a><br>
 <a href="https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html">https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">

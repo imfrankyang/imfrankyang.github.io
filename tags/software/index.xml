@@ -9,9 +9,11 @@
     <pubDate>Mon, 08 Feb 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/vmware/</guid>
-    <description><![CDATA[Vmware tutorial Catlin Wu youtube
+    <description><![CDATA[Vmware tutorial
+Catlin Wu youtube
 WorkStation to ESXi
- WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update https://www.vediotalk.com/archives/3956
+ WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update
+https://www.vediotalk.com/archives/3956
  Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7.]]></description>
 </item><item>
     <title>Paper tools</title>
@@ -21,7 +23,7 @@ WorkStation to ESXi
     <guid>https://lianfengyeo.github.io/paper-tools/</guid>
     <description><![CDATA[Tools online air Dry Air Properties
 Air - Thermophysical Properties
- Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water  Water - Specific Heat  CFD tools  hydraulic diameter calculator  Others  djvu to pdf download subtitles  ]]></description>
+ Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water  Water - Specific Heat  CFD tools  hydraulic diameter calculator MATERIALS THERMAL PROPERTIES DATABASE  Others  djvu to pdf download subtitles  ]]></description>
 </item><item>
     <title>Research tools</title>
     <link>https://lianfengyeo.github.io/research-tools/</link>

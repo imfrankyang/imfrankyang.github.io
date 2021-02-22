@@ -2,10 +2,10 @@
 
 
 ## Vmware
-**tutorial**
+**tutorial**  
 [Catlin Wu youtube](https://www.youtube.com/c/CatlinWu/videos)
 
-**WorkStation to ESXi**
+**WorkStation to ESXi**  
 
 1. WorkStation虚拟机多个磁盘文件合并成一个
 
@@ -18,7 +18,7 @@ cd /vmfs/volumes/虚拟机文件夹/
 vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin
 ```
 
-**ESXi update**
+**ESXi update**  
 https://www.vediotalk.com/archives/3956
 
 1. Download patches https://my.vmware.com/group/vmware/patch#search	
@@ -38,7 +38,7 @@ reboot
 ```
 **vmware安装macos**
 
-下载[vmware tools](https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar)
+下载[vmware tools](https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar)  
 com.vmware.fusion.zip.tar放到unlocker/tools/
 
 **vmware 压缩硬盘**
@@ -72,9 +72,9 @@ sudo vmware-toolbox-cmd disk shrink /
 2：创建一个包含在单一虚拟文件中的预分配虚拟磁盘
 3：创建一个被分割为每个文件2GB大小的预分配虚拟磁盘
 
-**open vm tools**
-https://github.com/vmware/open-vm-tools
-https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html
+**open vm tools**  
+https://github.com/vmware/open-vm-tools  
+https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html  
 ```bash
 sudo apt install open-vm-tools
 sudo apt install open-vm-tools-desktop
