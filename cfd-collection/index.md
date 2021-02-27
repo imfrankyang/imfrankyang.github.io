@@ -48,17 +48,23 @@ graph LR;
   [东岳流体 AKAD](http://dyfluid.com/)  
 
 **course**
-*  Prof. S. A. E. Miller, Ph.D.  
-[Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
+* Prof. S. A. E. Miller, Ph.D.  
+  [Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
+
 * 李新亮 (CFD)  
-[[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
-[[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
-*  Aidan Wimshurst  
-[[youtube]](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)  
-[[udemy]](https://www.udemy.com/user/aidan-wimshurst/)  
+  [[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
+  [[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
+
+* Aidan Wimshurst  
+  [[youtube]](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)  
+  [[udemy]](https://www.udemy.com/user/aidan-wimshurst/)  
+
 * Alistair Revell  
-[[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html)   
-[[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
+  [[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html)   
+  [[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
+
+* Josua Meyer
+  [Heat Transfer Lectures (2019) by Prof Josua Meyer](https://www.youtube.com/c/HeatTransferUP/playlists)
 
 **知乎专栏**
 
@@ -104,7 +110,12 @@ graph LR;
 - [Microfluidics Lectures "IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm)  
 * Ron Hugo (fluid, heat transfer)
   [[youtube]](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q) 
+  
 * [Introduction to Compressible Flow - Prof. S. A. E. Miller, Ph.D.](https://www.youtube.com/playlist?list=PLbiOzt50Bx-ntmxUzPRCOLLTxrVwG8RG6)  
+
+* Jousef Murad
+
+  [youtube](https://www.youtube.com/c/TheEngiineer)
 
 **Material derivative**
 * [wiki](https://www.wikiwand.com/en/Material_derivative)  
@@ -119,7 +130,14 @@ graph LR;
 
 ## Data-driven
 **von Karman Institute for Fluid Dynamics**
-[The Proper Orthogonal Decomposition (Prof. Scott T.M. Dawson)](https://www.youtube.com/watch?v=TcqBbtWTcIc)
+[lecture 1 Analysis, Modeling and Control of the Cylinder Wake (Prof. Bernd R. Noack)](https://www.youtube.com/watch?v=iehMMhDqmys)
+[lecture3 The Proper Orthogonal Decomposition (Prof. Scott T.M. Dawson)](https://www.youtube.com/watch?v=TcqBbtWTcIc)
+
+[lecture11 Nonlinear Dynamical Systems (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=BL190kyt-rk)
+[lecture12 Methods for System Identification (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=TL86S3mmlqg)
+[lecture13 Introduction to Machine Learning Methods (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=wSOClPEsAcs)
+[lecture14 Machine Learning in Fluids: Pairing Methods with Problems (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=NJri74lQg2Y)
+
 
 
 

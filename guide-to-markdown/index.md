@@ -42,9 +42,11 @@ The third paragraph
 ```
 >insert image
 ```markdown
-![steve and MacBook Air 2](/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
+![steve and MacBook Air 2](Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
 ```
-![steve and MacBook Air 2](/markdown1/Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
+![steve and MacBook Air 2](Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
+
+![Steve_Jobs_with_MacBook_Air_2](Steve_Jobs_with_MacBook_Air_2.jpg)
 
 >insert link 
 ```markdown
