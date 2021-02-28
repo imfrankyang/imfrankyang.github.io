@@ -93,7 +93,22 @@ graph LR;
 **course**
 
 - [MECH241 Fluid Mechanics I "queens university"](https://www.youtube.com/channel/UC7rvAZwkBWhJdTKb6guga4A/playlists)   
+
 - [Fluid Mechanics](https://farside.ph.utexas.edu/teaching/336L/Fluid/)
+
+- Brian D. Storey (Fluid dynamics and heat transfer)
+  [[homepage]](http://faculty.olin.edu/bstorey/)  
+  [Lectures for Transport Phenomena course "Storey"](https://www.youtube.com/playlist?list=PLwAYtqaThyg97crC9yjdmUsNmtcai3pFP)  
+
+- [Microfluidics Lectures "IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm)  
+- Ron Hugo (fluid, heat transfer)
+  [[youtube]](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q) 
+  
+- [Introduction to Compressible Flow - Prof. S. A. E. Miller, Ph.D.](https://www.youtube.com/playlist?list=PLbiOzt50Bx-ntmxUzPRCOLLTxrVwG8RG6)  
+
+- Jousef Murad
+  [youtube](https://www.youtube.com/c/TheEngiineer)
+
 - Steve Brunton
   [[homepage1]](https://www.me.washington.edu/facultyfinder/steve-brunton)
   [[homepage2]](https://www.eigensteve.com/)
@@ -104,18 +119,11 @@ graph LR;
   [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)  
   [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)  
   [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
-- Brian D. Storey (Fluid dynamics and heat transfer)
-  [[homepage]](http://faculty.olin.edu/bstorey/)  
-  [Lectures for Transport Phenomena course "Storey"](https://www.youtube.com/playlist?list=PLwAYtqaThyg97crC9yjdmUsNmtcai3pFP)  
-- [Microfluidics Lectures "IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm)  
-* Ron Hugo (fluid, heat transfer)
-  [[youtube]](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q) 
-  
-* [Introduction to Compressible Flow - Prof. S. A. E. Miller, Ph.D.](https://www.youtube.com/playlist?list=PLbiOzt50Bx-ntmxUzPRCOLLTxrVwG8RG6)  
 
-* Jousef Murad
-
-  [youtube](https://www.youtube.com/c/TheEngiineer)
+- Nathan Kutz
+  [homepage](https://faculty.washington.edu/kutz/)
+  [googlescholar](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en)
+  [youtube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/featured)
 
 **Material derivative**
 * [wiki](https://www.wikiwand.com/en/Material_derivative)  
@@ -137,6 +145,11 @@ graph LR;
 [lecture12 Methods for System Identification (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=TL86S3mmlqg)
 [lecture13 Introduction to Machine Learning Methods (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=wSOClPEsAcs)
 [lecture14 Machine Learning in Fluids: Pairing Methods with Problems (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=NJri74lQg2Y)
+
+
+
+Nathan Kutz
+[POD introduction 1](https://www.youtube.com/watch?v=YX24Jgd90uY)
 
 
 

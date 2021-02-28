@@ -24,6 +24,7 @@
 <img src="index.assets/Brian_Launder.gif" width="300" align="bottom" />
 <figcaption>Brian_Launder</figcaption>
 </center>
+
 [wiki](https://en.wikipedia.org/wiki/Brian_Launder)
 [researchgate](https://www.researchgate.net/profile/Brian-Launder)  
 [homepage](https://www.research.manchester.ac.uk/portal/brian.launder.html)
@@ -35,7 +36,6 @@
 <img src="index.assets/Antony_Jameson.jpg" width="300" align="bottom" />
 <figcaption>Antony Jameson</figcaption>
 </center>
-
 中心差分离散的有限体积法  
 [homepage](http://aero-comlab.stanford.edu/jameson/) 
 [googlescholar](https://scholar.google.com/citations?hl=en&user=74eUkXgAAAAJ&view_op=list_works&citft=1&email_for_op=dlxiaochemi%40gmail.com&sortby=pubdate) 
@@ -48,6 +48,7 @@
 <img src="index.assets/David_Gosman.jpg" width="300" align="bottom" />
 <figcaption>David Gosman</figcaption>
 </center>
+
 [homepage](https://www.imperial.ac.uk/people/d.gosman/publications.html) 
 
 [Icons of CFD: David Gosman](https://www.hpctoday.com/best-practices/icons-of-cfd-david-gosman/)
