@@ -83,6 +83,7 @@ Anti-virus or anti-malware software
 - [国产App为什么如此“臃肿”？！](https://www.cnblogs.com/SNSD-99/p/14383023.html)
 - [现在的很多国产软件为何如此恶臭？](https://www.zhihu.com/question/434638074)
 - [最流氓的软件可以流氓到什么程度？](https://www.zhihu.com/question/29129310/answers/updated)
+- [如何评价苏州思杰马克丁软件公司？](https://www.zhihu.com/question/46746200)
 
 
 

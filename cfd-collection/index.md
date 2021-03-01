@@ -84,6 +84,13 @@ graph LR;
 - [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)
 - [Air Force Research Laboratory](https://www.afrl.af.mil/)
 
+youtube channel
+
+[JoshTheEngineer](https://www.youtube.com/channel/UCQq2_Dk2MvGGqi8-eBVwRww)
+https://github.com/jte0419/
+
+
+
 ## Fluid dynamics
 **celebrity**
 
