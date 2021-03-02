@@ -5,6 +5,8 @@
 **tutorial**  
 [Catlin Wu youtube](https://www.youtube.com/c/CatlinWu/videos)
 
+
+
 **WorkStation to ESXi**  
 
 1. WorkStation虚拟机多个磁盘文件合并成一个
@@ -17,6 +19,8 @@
 cd /vmfs/volumes/虚拟机文件夹/
 vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin
 ```
+
+
 
 **ESXi update**  
 https://www.vediotalk.com/archives/3956
@@ -32,14 +36,21 @@ esxcli software profile update -d  /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-1
 reboot
 ```
 
+
+
 **VMware to Virtualbox**
+
 ```shell
 "C:\Program Files (x86)\VMware\VMware Workstation\OVFTool\ovftool.exe" "D:\vmware.vmx"  "D:\vmware.ovf"
 ```
+
+
 **vmware安装macos**
 
 下载[vmware tools](https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar)  
 com.vmware.fusion.zip.tar放到unlocker/tools/
+
+
 
 **vmware 压缩硬盘**
 
@@ -65,20 +76,25 @@ sudo vmware-toolbox-cmd disk shrink /
 #分割硬盘
 "C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe" -r "C:\vmware1.vmdk" -t 1 "C:\vmware2.vmdk"
 ```
--r参数指定源磁盘文件
--t参数指定输出虚拟磁盘文件的类型，其值为以下类型之一：
-0：创建一个包含在单一虚拟文件中的可增长虚拟磁盘
-1：创建一个被分割为每个文件2GB大小的可增长虚拟磁盘
-2：创建一个包含在单一虚拟文件中的预分配虚拟磁盘
-3：创建一个被分割为每个文件2GB大小的预分配虚拟磁盘
+-r参数指定源磁盘文件  
+-t参数指定输出虚拟磁盘文件的类型，其值为以下类型之一：  
+0：创建一个包含在单一虚拟文件中的可增长虚拟磁盘  
+1：创建一个被分割为每个文件2GB大小的可增长虚拟磁盘  
+2：创建一个包含在单一虚拟文件中的预分配虚拟磁盘  
+3：创建一个被分割为每个文件2GB大小的预分配虚拟磁盘  
+
+
 
 **open vm tools**  
 https://github.com/vmware/open-vm-tools  
 https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html  
+
 ```bash
 sudo apt install open-vm-tools
 sudo apt install open-vm-tools-desktop
 ```
+
+
 
 {{< admonition tip "" true >}}
 ESXi 7.0 后多出VMFS-L的空间如何删除VMFSL
@@ -87,6 +103,8 @@ u盘引导后，按Shift+O键
 autoPartitionOSDataSize=8192  
 注意大小写，回车安装即可。  
 {{< /admonition >}}
+
+
 
 {{< admonition tip ""  true >}}
 网卡无法启动的解决方法
@@ -99,12 +117,18 @@ systemctl start network		#启动网络后就OK了
 ```
 {{< /admonition >}}
 
+
+
 {{< admonition tip ""  true >}}
 linux虚拟机缩放
+
 ```bash
 xrandr --output Virtual1 --scale 0.9x0.9
 xrandr --output Virtual1 --scale 1x1
 xrandr --output Virtual1 --scale 0.4x0.4
 ```
 {{< /admonition >}}
+
+
+
 

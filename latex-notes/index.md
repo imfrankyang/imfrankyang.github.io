@@ -1,97 +1,53 @@
 # LaTeX notes
 
 
-# reference
+**reference**
+
 * [katex](https://katex.org/docs/supported.html)
+* https://matnoble.me/tech/latex/latex/
+
+
 
 # LaTeX
+
 ## equation
+
+$\tilde{x}$
 ```latex
-xxx\\
-for $x = a, b$, or $c$.\\
-for $x = a$, $b$, or $c$.\\
-for $x = a, b, or\,\,c$.\\
-for $x = a,\,b,\,or\,\,c$.\\
-for $x = a$, $b$, or~$c$.\\
-$x_1,\cdots, x_n$\\
-$x_1,\ldots, x_n$\\
-$\sim $ %∼
 
-%\[  111=\frac{a}{b}   \] \\
-%$$   111=\frac{a}{b}   $$ \\
-%\(  111=\frac{a}{b}   \) \\
-%$  111=\frac{a}{b}   $\\
-
-\begin{align} %等号对齐
-111 &=\frac{a}{b}\delta\\  %\nonumber
-\bm {111} &=\frac{a}{\rm{b}}+\int_1^2{xdx}  
-\end{align}
-
-\begin{gather}  %多行多个序号
-    3(a-x) = 3.5x + a - 1 \\
-    3a - 3x = 3.5x + a -1 \\
-    a = \frac{13}{4}x - \frac{1}{2} 
-\end{gather}
-
-\begin{equation} %多行一个序号
-\begin{gathered}
-3(a-x) = 3.5x + a - 1 \\
-3a - 3x = 3.5x + a - 1 \\
-a = \frac{13}{4}x - \frac{1}{2}
-\end{gathered}
-\end{equation}
-
-this is a equation(\ref{eq.1})
-\begin{equation} 
-\begin{split} 
-\label{eq.1}
-x&=1\\
-& =3\\
-& =4444
-\end{split} 
-\end{equation}
-
-This is a equation example
-$
-x=\begin{cases}
-    \dfrac{x-1}{2},\!\!&\text{if}~x=0\\
-    2+\dfrac{x-1}{2},\!\!&x=1\\
-\end{cases}
-$
-$
-x=\begin{dcases}   %dcases 使用 \usepackage{mathtools}
-    \frac{x-1}{2},\!\!&\text{if}~x=0\\
-    2+\frac{x-1}{2},\!\!&x=1\\
-\end{dcases}
-$
-therefore
-
-$$
-\left[ \begin{matrix}
-    1&      2\\
-    3&      4\\
-\end{matrix} \right] 
-$$
-$$
-\left[\begin{array} {cc}
-    1&2\\
-    3&4\\
-\end{array}\right]
-$$
-
-\begin{align}
-\left[\begin{array} {cc}
-    1&2\\
-    3&4\\
-\end{array}\right]
-\end{align}
-
-
- \label{YY}\\
-
+$\tilde{x}$
 ```
 
+$\widetilde{x_2}$
+```latex
+$\widetilde{x_2}$
+```
+
+$\tilde{A}_2$
+```latex
+$\tilde{A}_2$
+```
+
+$\widetilde{A}_2$
+```latex
+$\widetilde{A}_2$
+```
+
+$x_1,\cdots, x_n$
+```latex
+$x_1,\cdots, x_n$
+```
+
+$x_1,\ldots, x_n$
+```latex
+$x_1,\ldots, x_n$
+```
+
+
+
+
 ## Greek alphabet
+
 | Lowercase | Uppercase |        latex         |
 | :-------: | :-------: | :------------------: |
 |     α     |     A     |        \alpha        |
@@ -122,7 +78,7 @@ $$
 ## 数学符号
 |       符号       |       LATEX code        |              Description              |
 | :--------------: | :---------------------: | :-----------------------------------: |
-|       根号       |       \sqrt[3]{3}       |             $\sqrt[3]{3}$             |
+|       根号       |       \sqrt[3]{12}       |             $\sqrt[3]{12}$             |
 |       分数       |    \frac{分子}{分母}    |             $\frac{1}{2}$             |
 |       求和       |   \sum_{下标}^{上标}    |          $\sum_{n=1}^{100}$           |
 |      上划线      |     \overline{式子}     |            $\overline{a}$             |
@@ -150,7 +106,7 @@ $$
 |       无穷       |         \infty          |               $\infty$                |
 |       任意       |         \forall         |               $\forall$               |
 |       存在       |         \exists         |               $\exists$               |
-|       向量       |         \vec{w}         |               $\vec{A}$               |
+|       向量       |         \vec{A}         |               $\vec{A}$               |
 |     向量点乘     |          \cdot          |                $\cdot$                |
 
 ## spacing
@@ -170,9 +126,12 @@ $$
 * \scriptstyle         上下标的标准尺寸     简记 S
 * \scriptscriptstyle   更低层的上下标的标准尺寸   简记 SS
 
+<br>
+
 [What commands are there for horizontal spacing?](https://tex.stackexchange.com/questions/74353/what-commands-are-there-for-horizontal-spacing?newreg=a57b9d48fa7d404b87f5da9c7ed1664d)  
 There are a number of horizontal spacing macros for LaTeX:  
 **math mode:** `$\:$`
+
 1. `\,` inserts a `.16667em` space in text mode, or `\thinmuskip` (equivalent to `3mu`) in math mode; there's an equivalent `\thinspace` macro;
 2. `\!` is the *negative* equivalent to `\,`; there's an equivalent `\negthinspace` macro;
 3. `\>` (or `\:`) inserts a `.2222em` space in text mode, or `\medmuskip` (equivalent to `4.0mu plus 2.0mu minus 4.0mu`) in math mode; there's an equivalent `\medspace`;
@@ -244,4 +203,13 @@ There are a number of horizontal spacing macros for LaTeX:
   \verb|$a~b$|                    & $a~b$ \\
   \verb|a\hfill b|                & a\hfill b \\
   \verb|$a\hfill b$|              & $a\hfill b$
-  ```
+
+```
+
+```
+
+```
+
+```
+
+```

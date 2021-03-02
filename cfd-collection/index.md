@@ -34,10 +34,21 @@ graph LR;
 * ...
 
 **CFD software**
-- https://new.aerodynamic-solutions.com/services
-- AVBP 
-  https://www.cerfacs.fr/avbp7x/index.php
+
+- nek5000  
+  https://nek5000.mcs.anl.gov/
+  
+- nekRS
+  https://github.com/Nek5000/nekRS
+
+- SU2
+  https://su2code.github.io/
+  
+- AVBP   
+  https://www.cerfacs.fr/avbp7x/index.php  
   https://cerfacs.fr/en/
+  
+- https://new.aerodynamic-solutions.com
 
 **CFD forum**
 
@@ -48,6 +59,7 @@ graph LR;
   [东岳流体 AKAD](http://dyfluid.com/)  
 
 **course**
+
 * Prof. S. A. E. Miller, Ph.D.  
   [Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
 
@@ -70,6 +82,7 @@ graph LR;
 
 - [一起来学CFD](https://www.zhihu.com/column/cfdnotebook)
 - [伯颜的咸鱼日记](https://www.zhihu.com/column/c_1231170461943713792)
+- [学习杂记](https://www.zhihu.com/column/c_1233358747226763264)
 
 **ansys tutorial**  
 
@@ -84,10 +97,12 @@ graph LR;
 - [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)
 - [Air Force Research Laboratory](https://www.afrl.af.mil/)
 
-youtube channel
+**youtube channel**
 
-[JoshTheEngineer](https://www.youtube.com/channel/UCQq2_Dk2MvGGqi8-eBVwRww)
-https://github.com/jte0419/
+- [JoshTheEngineer](https://www.youtube.com/channel/UCQq2_Dk2MvGGqi8-eBVwRww)
+  matlab airfoil
+  http://www.joshtheengineer.com/panel-methods/
+  https://github.com/jte0419/
 
 
 
@@ -100,22 +115,16 @@ https://github.com/jte0419/
 **course**
 
 - [MECH241 Fluid Mechanics I "queens university"](https://www.youtube.com/channel/UC7rvAZwkBWhJdTKb6guga4A/playlists)   
-
 - [Fluid Mechanics](https://farside.ph.utexas.edu/teaching/336L/Fluid/)
-
 - Brian D. Storey (Fluid dynamics and heat transfer)
   [[homepage]](http://faculty.olin.edu/bstorey/)  
   [Lectures for Transport Phenomena course "Storey"](https://www.youtube.com/playlist?list=PLwAYtqaThyg97crC9yjdmUsNmtcai3pFP)  
-
 - [Microfluidics Lectures "IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm)  
 - Ron Hugo (fluid, heat transfer)
   [[youtube]](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q) 
-  
 - [Introduction to Compressible Flow - Prof. S. A. E. Miller, Ph.D.](https://www.youtube.com/playlist?list=PLbiOzt50Bx-ntmxUzPRCOLLTxrVwG8RG6)  
-
 - Jousef Murad
   [youtube](https://www.youtube.com/c/TheEngiineer)
-
 - Steve Brunton
   [[homepage1]](https://www.me.washington.edu/facultyfinder/steve-brunton)
   [[homepage2]](https://www.eigensteve.com/)
@@ -126,11 +135,13 @@ https://github.com/jte0419/
   [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)  
   [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)  
   [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
-
 - Nathan Kutz
   [homepage](https://faculty.washington.edu/kutz/)
   [googlescholar](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en)
   [youtube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/featured)
+  
+- boundary layer
+  [天津大学 老师自制课程](https://space.bilibili.com/176075/video)  
 
 **Material derivative**
 * [wiki](https://www.wikiwand.com/en/Material_derivative)  

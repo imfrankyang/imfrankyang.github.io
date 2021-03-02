@@ -5,47 +5,37 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-        <title>Vmware - Life and Work</title><meta name="Description" content="Life and Work"><meta property="og:title" content="Vmware" />
-<meta property="og:description" content="Vmware tutorial
-Catlin Wu youtube
-WorkStation to ESXi
- WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update
-https://www.vediotalk.com/archives/3956
- Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7." />
+        <title>LaTeX notes - Life and Work</title><meta name="Description" content="LaTeX collection"><meta property="og:title" content="LaTeX notes" />
+<meta property="og:description" content="LaTeX collection" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://lianfengyeo.github.io/vmware/" /><meta property="og:image" content="https://lianfengyeo.github.io/logo.png"/><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-02-08T10:09:30&#43;01:00" />
-<meta property="article:modified_time" content="2021-02-08T10:09:30&#43;01:00" />
+<meta property="og:url" content="https://lianfengyeo.github.io/latex-installation/" /><meta property="og:image" content="https://lianfengyeo.github.io/logo.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-03-02T10:09:30&#43;01:00" />
+<meta property="article:modified_time" content="2021-03-02T10:09:30&#43;01:00" />
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://lianfengyeo.github.io/logo.png"/>
 
-<meta name="twitter:title" content="Vmware"/>
-<meta name="twitter:description" content="Vmware tutorial
-Catlin Wu youtube
-WorkStation to ESXi
- WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update
-https://www.vediotalk.com/archives/3956
- Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7."/>
+<meta name="twitter:title" content="LaTeX notes"/>
+<meta name="twitter:description" content="LaTeX collection"/>
 <meta name="application-name" content="Life and Work">
 <meta name="apple-mobile-web-app-title" content="Life and Work"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://lianfengyeo.github.io/vmware/" /><link rel="prev" href="https://lianfengyeo.github.io/cfd-hardware/" /><link rel="next" href="https://lianfengyeo.github.io/celebrities-in-history/" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"><script type="application/ld+json">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://lianfengyeo.github.io/latex-installation/" /><link rel="prev" href="https://lianfengyeo.github.io/celebrities-in-history/" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
-        "headline": "Vmware",
+        "headline": "LaTeX notes",
         "inLanguage": "en",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https:\/\/lianfengyeo.github.io\/vmware\/"
+            "@id": "https:\/\/lianfengyeo.github.io\/latex-installation\/"
         },"image": [{
                             "@type": "ImageObject",
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "software","wordcount":  227 ,
-        "url": "https:\/\/lianfengyeo.github.io\/vmware\/","datePublished": "2021-02-08T10:09:30+01:00","dateModified": "2021-02-08T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+                        }],"genre": "posts","keywords": "LaTeX","wordcount":  281 ,
+        "url": "https:\/\/lianfengyeo.github.io\/latex-installation\/","datePublished": "2021-03-02T10:09:30+01:00","dateModified": "2021-03-02T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
                     "@type": "ImageObject",
@@ -55,7 +45,7 @@ https://www.vediotalk.com/archives/3956
                 }},"author": {
                 "@type": "Person",
                 "name": "Yeo"
-            },"description": ""
+            },"description": "LaTeX collection"
     }
     </script></head>
     <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
@@ -67,7 +57,7 @@ https://www.vediotalk.com/archives/3956
         </div>
         <div class="menu">
             <div class="menu-inner"><a class="menu-item" href="/posts/"> Posts </a><a class="menu-item" href="/tags/"> Tags </a><a class="menu-item" href="/categories/"> Categories </a><a class="menu-item" href="/about/"> About </a><a class="menu-item" href="https://github.com/lianfengyeo" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i>  </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="Select Language">English<i class="fas fa-chevron-right fa-fw"></i>
-                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/vmware/" selected>English</option></select>
+                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/latex-installation/" selected>English</option></select>
                     </a><span class="menu-item search" id="search-desktop">
                         <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
                         <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
@@ -114,7 +104,7 @@ https://www.vediotalk.com/archives/3956
                 </div><a class="menu-item" href="/posts/" title="">Posts</a><a class="menu-item" href="/tags/" title="">Tags</a><a class="menu-item" href="/categories/" title="">Categories</a><a class="menu-item" href="/about/" title="">About</a><a class="menu-item" href="https://github.com/lianfengyeo" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
                 <i class="fas fa-adjust fa-fw"></i>
             </a><a href="javascript:void(0);" class="menu-item" title="Select Language">English<i class="fas fa-chevron-right fa-fw"></i>
-                    <select class="language-select" onchange="location = this.value;"><option value="/vmware/" selected>English</option></select>
+                    <select class="language-select" onchange="location = this.value;"><option value="/latex-installation/" selected>English</option></select>
                 </a></div>
     </div>
 </header>
@@ -128,9 +118,9 @@ https://www.vediotalk.com/archives/3956
                 <div class="container"><div class="toc" id="toc-auto">
             <h2 class="toc-title">Contents</h2>
             <div class="toc-content" id="toc-content-auto"></div>
-        </div><article class="page single"><h1 class="single-title animated flipInX">Vmware</h1><div class="post-meta">
-            <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/software/"><i class="far fa-folder fa-fw"></i>Software</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-02-08">2021-02-08</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;227 words&nbsp;
+        </div><article class="page single"><h1 class="single-title animated flipInX">LaTeX notes</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/latex/"><i class="far fa-folder fa-fw"></i>LaTeX</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-03-02">2021-03-02</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;281 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;2 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -139,72 +129,55 @@ https://www.vediotalk.com/archives/3956
                 </div>
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
-    <li><a href="#vmware">Vmware</a></li>
+    <li><a href="#install-on-ubuntu-texlive">install on ubuntu Texlive</a></li>
+    <li><a href="#install-on-mac">install on Mac</a></li>
+    <li><a href="#reference">reference</a></li>
   </ul>
 </nav></div>
-            </div><div class="content" id="content"><h2 id="vmware">Vmware</h2>
-<p><strong>tutorial</strong><br>
-<a href="https://www.youtube.com/c/CatlinWu/videos" target="_blank" rel="noopener noreffer">Catlin Wu youtube</a></p>
-<p><strong>WorkStation to ESXi</strong></p>
-<ol>
-<li>WorkStation虚拟机多个磁盘文件合并成一个</li>
-</ol>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;d:\VMLinux\vmdkname.vmdk&#34;</span> -t <span class="m">0</span> vmdknamenew.vmdk
-</code></pre></td></tr></table>
-</div>
-</div><ol start="2">
-<li>ssh登陆到vSphere</li>
-</ol>
+            </div><div class="content" id="content"><h2 id="install-on-ubuntu-texlive">install on ubuntu Texlive</h2>
+<p><a href="https://www.tug.org/texlive/">https://www.tug.org/texlive/</a></p>
+<p><strong>method 1</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">cd</span> /vmfs/volumes/虚拟机文件夹/
-vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">sudo apt install texlive-latex-extra
+sudo apt install texlive-full
 </code></pre></td></tr></table>
 </div>
-</div><p><strong>ESXi update</strong><br>
-<a href="https://www.vediotalk.com/archives/3956">https://www.vediotalk.com/archives/3956</a></p>
-<ol>
-<li>Download patches <a href="https://my.vmware.com/group/vmware/patch#search">https://my.vmware.com/group/vmware/patch#search</a></li>
-<li>升级包上传</li>
-<li>开启ESXI的SSH功能</li>
-<li>ssh 输入</li>
-</ol>
+</div><p>texlive-base - 160 MB
+texlive-latex-recommended - 203 MB
+texlive - 269 MB
+texlive-latex-extra - 464 MB
+texlive-full - 5903 MB</p>
+<p><strong>method 2</strong> full iso</p>
+<p>download iso file from <a href="https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/">https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/</a></p>
+<p>uninstall first</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">vmware -vl
-esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip
-esxcli software profile update -d  /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip -p ESXi-7.0U1c-17325551-standard
-reboot
+<pre class="chroma"><code class="language-bash" data-lang="bash">sudo apt purge texlive*
+sudo rm -rf /usr/local/texlive/*
+rm -rf ~/.texlive*
+sudo rm -rf /usr/local/share/texmf
+sudo rm -rf /var/lib/texmf
+sudo rm -rf /etc/texmf
+sudo apt remove tex-common --purge
+find -L /usr/local/bin/ -lname /usr/local/texlive/*/bin/* <span class="p">|</span> sudo xargs rm
 </code></pre></td></tr></table>
 </div>
-</div><p><strong>VMware to Virtualbox</strong></p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\OVFTool\ovftool.exe&#34;</span> <span class="s2">&#34;D:\vmware.vmx&#34;</span>  <span class="s2">&#34;D:\vmware.ovf&#34;</span>
-</code></pre></td></tr></table>
-</div>
-</div><p><strong>vmware安装macos</strong></p>
-<p>下载<a href="https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar" target="_blank" rel="noopener noreffer">vmware tools</a><br>
-com.vmware.fusion.zip.tar放到unlocker/tools/</p>
-<p><strong>vmware 压缩硬盘</strong></p>
+</div><p>install</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -217,23 +190,45 @@ com.vmware.fusion.zip.tar放到unlocker/tools/</p>
 </span><span class="lnt"> 8
 </span><span class="lnt"> 9
 </span><span class="lnt">10
-</span><span class="lnt">11
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">#mac 系统内</span>
-cat /dev/zero &gt; wipefile<span class="p">;</span> rm wipefile
-sudo /Library/Application<span class="se">\ </span>Support/VMware<span class="se">\ </span>Tools/vmware-tools-cli disk shrink /
+<pre class="chroma"><code class="language-bash" data-lang="bash">sudo apt-get install perl-tk perl-doc
 
-<span class="c1">#win </span>
-<span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -k <span class="s2">&#34;D:\vmware.vmdk&#34;</span> 
+sudo mount -o loop texlive.iso /mnt
+<span class="nb">cd</span> /mnt 
+sudo ./install-tl
 
-<span class="c1">#linux 系统内</span>
-sudo rm -rf .cache/
-sudo /usr/bin/vmware-toolbox-cmd disk list
-sudo vmware-toolbox-cmd disk shrink /
+<span class="c1">#env .bashrc</span>
+<span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:/usr/local/texlive/2020/bin/x86_64-linux
+<span class="nb">export</span> <span class="nv">MANPATH</span><span class="o">=</span>/usr/local/texlive/2020/texmf-dist/doc/man
+<span class="nb">export</span> <span class="nv">INFOPATH</span><span class="o">=</span>/usr/local/texlive/2020/texmf-dist/doc/info
 </code></pre></td></tr></table>
 </div>
-</div><div class="highlight"><div class="chroma">
+</div><p><strong>method 3</strong></p>
+<p>download <code>install-tl-unx.tar.gz</code> from <a href="https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/">https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">wget https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/install-tl-unx.tar.gz
+tar -xzf install-tl-unx.tar.gz
+
+sudo ./install-tl -repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/
+sudo ./install-tl -gui -repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/
+sudo apt-get install perl-tk perl-doc
+
+</code></pre></td></tr></table>
+</div>
+</div><p>update Texlive</p>
+<p><a href="https://www.tug.org/texlive/tlmgr.html">https://www.tug.org/texlive/tlmgr.html</a></p>
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -243,31 +238,39 @@ sudo vmware-toolbox-cmd disk shrink /
 </span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="c1">#重命名vmdk文件</span>
-<span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -n <span class="s2">&#34;source.vmdk&#34;</span> <span class="s2">&#34;target.vmdk&#34;</span>
-<span class="c1">#合并硬盘</span>
-<span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;C:\vmware1.vmdk&#34;</span> -t <span class="m">0</span> <span class="s2">&#34;C:\vmware2.vmdk&#34;</span>
-<span class="c1">#分割硬盘</span>
-<span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;C:\vmware1.vmdk&#34;</span> -t <span class="m">1</span> <span class="s2">&#34;C:\vmware2.vmdk&#34;</span>
+<pre class="chroma"><code class="language-bash" data-lang="bash">sudo tlmgr option repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet
+tlmgr repository <span class="nb">set</span> http://mirror.hust.edu.cn/CTAN/systems/texlive/tlnet	<span class="c1">#华中科技大学的镜像</span>
+
+tlmgr update --self
+tlmgr update --all
+tlmgr update --list	<span class="c1">#列出需要更新的包</span>
 </code></pre></td></tr></table>
 </div>
-</div><p>-r参数指定源磁盘文件<br>
--t参数指定输出虚拟磁盘文件的类型，其值为以下类型之一：<br>
-0：创建一个包含在单一虚拟文件中的可增长虚拟磁盘<br>
-1：创建一个被分割为每个文件2GB大小的可增长虚拟磁盘<br>
-2：创建一个包含在单一虚拟文件中的预分配虚拟磁盘<br>
-3：创建一个被分割为每个文件2GB大小的预分配虚拟磁盘</p>
-<p><strong>open vm tools</strong><br>
-<a href="https://github.com/vmware/open-vm-tools">https://github.com/vmware/open-vm-tools</a><br>
-<a href="https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html">https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html</a></p>
+</div><p>test</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo apt install open-vm-tools
-sudo apt install open-vm-tools-desktop
+<pre class="chroma"><code class="language-bash" data-lang="bash">vi hello.tex
+<span class="se">\d</span>ocumentclass<span class="o">[</span>UTF8<span class="o">]{</span>ctexart<span class="o">}</span>
+<span class="se">\b</span>egin<span class="o">{</span>document<span class="o">}</span>
+欢迎来到 <span class="se">\T</span>eX<span class="o">{}</span> 世界！
+<span class="se">\e</span>nd<span class="o">{</span>document<span class="o">}</span>
+
+xelatex hello
+lualatex hello
+
+xelatex -v	<span class="c1">#test if succeed</span>
 </code></pre></td></tr></table>
 </div>
 </div><div class="details admonition tip open">
@@ -275,19 +278,7 @@ sudo apt install open-vm-tools-desktop
             <i class="icon fas fa-lightbulb fa-fw"></i>Tip<i class="details-icon fas fa-angle-right fa-fw"></i>
         </div>
         <div class="details-content">
-            <div class="admonition-content"><p>ESXi 7.0 后多出VMFS-L的空间如何删除VMFSL</p>
-<p>u盘引导后，按Shift+O键<br>
-autoPartitionOSDataSize=8192<br>
-注意大小写，回车安装即可。</p>
-</div>
-        </div>
-    </div>
-<div class="details admonition tip open">
-        <div class="details-summary admonition-title">
-            <i class="icon fas fa-lightbulb fa-fw"></i>Tip<i class="details-icon fas fa-angle-right fa-fw"></i>
-        </div>
-        <div class="details-content">
-            <div class="admonition-content"><p>网卡无法启动的解决方法</p>
+            <div class="admonition-content"><p>sudo does not find tlmgr</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -296,10 +287,10 @@ autoPartitionOSDataSize=8192<br>
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">系统自带的NetworkManager这个管理套件影响到网卡的启动，关掉就可以解决
-systemctl stop NetworkManager	<span class="c1">#停止NetworkManager</span>
-systemctl disable NetworkManager	<span class="c1">#并使其失效，开机不启动</span>
-systemctl start network		<span class="c1">#启动网络后就OK了</span>
+<pre class="chroma"><code class="language-bash" data-lang="bash">sudo visudo
+修改secure_path
+Defaults        <span class="nv">secure_path</span><span class="o">=</span><span class="s2">&#34;/usr/local/texlive/2020/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin&#34;</span>
+
 </code></pre></td></tr></table>
 </div>
 </div></div>
@@ -310,7 +301,23 @@ systemctl start network		<span class="c1">#启动网络后就OK了</span>
             <i class="icon fas fa-lightbulb fa-fw"></i>Tip<i class="details-icon fas fa-angle-right fa-fw"></i>
         </div>
         <div class="details-content">
-            <div class="admonition-content"><p>linux虚拟机缩放</p>
+            <div class="admonition-content"><p>要在整个系统中使用 TEX 字体，还需要将 TEX 自带的配置文件复制到系统目录下</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">sudo cp /usr/local/texlive/2020/texmf-var/fonts/conf/texlive-fontconfig.conf /etc/fonts/conf.d/09-texlive.conf
+sudo fc-cache -fv	<span class="c1">#刷新字体数据库</span>
+</code></pre></td></tr></table>
+</div>
+</div></div>
+        </div>
+    </div>
+<h2 id="install-on-mac">install on Mac</h2>
+<p>UNIX 安装同ubuntu
+env</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -318,41 +325,44 @@ systemctl start network		<span class="c1">#启动网络后就OK了</span>
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">xrandr --output Virtual1 --scale 0.9x0.9
-xrandr --output Virtual1 --scale 1x1
-xrandr --output Virtual1 --scale 0.4x0.4
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">echo &#34;export MANPATH=${MANPATH}:/usr/local/texlive/2020/texmf-dist/doc/man&#34; &gt;&gt; ~/.bashrc
+echo &#34;export INFOPATH=${INFOPATH}:/usr/local/texlive/2020/texmf-dist/doc/info&#34; &gt;&gt; ~/.bashrc
+echo &#34;export PATH=${PATH}:/usr/local/texlive/2020/bin/x86_64-darwin&#34; &gt;&gt; ~/.bashrc
 </code></pre></td></tr></table>
 </div>
-</div></div>
-        </div>
-    </div>
+</div><h2 id="reference">reference</h2>
+<ul>
+<li><a href="https://matnoble.me/tech/ubuntu/install-texlive/#%E5%AE%89%E8%A3%85" target="_blank" rel="noopener noreffer">Windows + Ubuntu 安装配置更新卸载 TeXLive 指南</a></li>
+<li><a href="https://www.tug.org/texlive/quickinstall.html">https://www.tug.org/texlive/quickinstall.html</a></li>
+<li><a href="https://www.tug.org/texlive/doc/install-tl.html">https://www.tug.org/texlive/doc/install-tl.html</a></li>
+<li><a href="https://www.bilibili.com/video/BV1tg4y1B7f3?t=1016">https://www.bilibili.com/video/BV1tg4y1B7f3?t=1016</a></li>
+</ul>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>Updated on 2021-02-08</span>
+                <span>Updated on 2021-03-02</span>
             </div>
             <div class="post-info-license"></div>
         </div>
         <div class="post-info-line">
             <div class="post-info-md"><span>
-                            <a class="link-to-markdown" href="/vmware/index.md" target="_blank">Read Markdown</a>
+                            <a class="link-to-markdown" href="/latex-installation/index.md" target="_blank">Read Markdown</a>
                         </span></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://lianfengyeo.github.io/vmware/" data-title="Vmware" data-hashtags="software"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://lianfengyeo.github.io/vmware/" data-title="Vmware"><i class="fab fa-weibo fa-fw"></i></a></span>
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://lianfengyeo.github.io/latex-installation/" data-title="LaTeX notes" data-hashtags="LaTeX"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://lianfengyeo.github.io/latex-installation/" data-title="LaTeX notes"><i class="fab fa-weibo fa-fw"></i></a></span>
             </div>
         </div>
     </div>
 
     <div class="post-info-more">
-        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/software/">software</a></section>
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/latex/">LaTeX</a></section>
         <section>
             <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
         </section>
     </div>
 
-    <div class="post-nav"><a href="/cfd-hardware/" class="prev" rel="prev" title="CFD hardware"><i class="fas fa-angle-left fa-fw"></i>CFD hardware</a>
-            <a href="/celebrities-in-history/" class="next" rel="next" title="Celebrities in history">Celebrities in history<i class="fas fa-angle-right fa-fw"></i></a></div>
+    <div class="post-nav"><a href="/celebrities-in-history/" class="prev" rel="prev" title="Celebrities in history"><i class="fas fa-angle-left fa-fw"></i>Celebrities in history</a></div>
 </div>
 <div id="comments"><div id="utterances"></div><noscript>
                 Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">Utterances</a>.

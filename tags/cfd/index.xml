@@ -50,12 +50,17 @@ Ligrani, Phillip M.]]></description>
     <guid>https://lianfengyeo.github.io/cfd-collection/</guid>
     <description><![CDATA[-- CFD CFDer capabilities:
  Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD software
- https://new.aerodynamic-solutions.com/services AVBP https://www.cerfacs.fr/avbp7x/index.php https://cerfacs.fr/en/  CFD forum
+  nek5000
+https://nek5000.mcs.anl.gov/
+  nekRS https://github.com/Nek5000/nekRS
+  SU2 https://su2code.github.io/
+  AVBP
+https://www.cerfacs.fr/avbp7x/index.php
+https://cerfacs.fr/en/
+  https://new.aerodynamic-solutions.com
+  CFD forum
  http://www.cfdreview.com/ https://www.cfd-online.com/ 东岳流体
 CFD中文网
-东岳流体 AKAD  course
-  Prof. S. A. E. Miller, Ph.D.
-Introduction to Computational Fluid Dynamics (CFD)
-  李新亮 (CFD)]]></description>
+东岳流体 AKAD  course]]></description>
 </item></channel>
 </rss>

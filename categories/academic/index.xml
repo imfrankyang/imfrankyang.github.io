@@ -56,7 +56,7 @@ Air - Thermophysical Properties
     <pubDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/openfoam/</guid>
-    <description><![CDATA[version  The OpenFOAM Foundation OpenFOAM基金会版 ESI集团版  Toturial  OpenFOAM &ldquo;CFD NINJA / ANSYS CFD&rdquo; Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo; OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot;  ]]></description>
+    <description><![CDATA[version  The OpenFOAM Foundation OpenFOAM基金会版 ESI集团版  Toturial  OpenFOAM &ldquo;CFD NINJA / ANSYS CFD&rdquo; Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo; OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot; Introduction to OpenFOAM @ Ghent University (May'16)  ]]></description>
 </item><item>
     <title>Matlab notes</title>
     <link>https://lianfengyeo.github.io/matlab-notes/</link>
@@ -103,12 +103,17 @@ Create customizable rectangular ROI normxcorr2 [example]  ]]></description>
     <guid>https://lianfengyeo.github.io/cfd-collection/</guid>
     <description><![CDATA[-- CFD CFDer capabilities:
  Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD software
- https://new.aerodynamic-solutions.com/services AVBP https://www.cerfacs.fr/avbp7x/index.php https://cerfacs.fr/en/  CFD forum
+  nek5000
+https://nek5000.mcs.anl.gov/
+  nekRS https://github.com/Nek5000/nekRS
+  SU2 https://su2code.github.io/
+  AVBP
+https://www.cerfacs.fr/avbp7x/index.php
+https://cerfacs.fr/en/
+  https://new.aerodynamic-solutions.com
+  CFD forum
  http://www.cfdreview.com/ https://www.cfd-online.com/ 东岳流体
 CFD中文网
-东岳流体 AKAD  course
-  Prof. S. A. E. Miller, Ph.D.
-Introduction to Computational Fluid Dynamics (CFD)
-  李新亮 (CFD)]]></description>
+东岳流体 AKAD  course]]></description>
 </item></channel>
 </rss>
