@@ -15,4 +15,6 @@
 
 
 
+**知乎专栏**
 
+- [OpenFOAM 汪洋](https://www.zhihu.com/column/c_1159886892669030400)

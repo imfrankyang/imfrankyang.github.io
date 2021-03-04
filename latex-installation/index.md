@@ -1,4 +1,4 @@
-# LaTeX notes
+# LaTeX installation
 
 
 ## install on ubuntu Texlive
