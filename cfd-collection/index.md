@@ -78,8 +78,19 @@ graph LR;
 **知乎专栏**
 
 - [一起来学CFD](https://www.zhihu.com/column/cfdnotebook)
+
 - [伯颜的咸鱼日记](https://www.zhihu.com/column/c_1231170461943713792)
+
 - [学习杂记](https://www.zhihu.com/column/c_1233358747226763264)
+
+- [计算科学与工程 汪洋](https://www.zhihu.com/column/c_1057964471238111232)
+
+  `18.085-Gilbert Strang`  
+  [Computational Science and Engineering I](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)
+
+  `2.097- Qiqi Wang`  
+  [learning-modules](https://learning-modules.mit.edu/materials/index.html?uuid=/course/16/fa18/16.920#materials)
+  
 
 **ansys tutorial**  
 
@@ -97,8 +108,11 @@ graph LR;
 **youtube channel**
 
 - [JoshTheEngineer](https://www.youtube.com/channel/UCQq2_Dk2MvGGqi8-eBVwRww)
+  
   matlab airfoil
+  
   http://www.joshtheengineer.com/panel-methods/
+
   https://github.com/jte0419/
 
 

@@ -12,7 +12,6 @@
   [[youtube]](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)  
   [[youtube (with extra)]](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)  
   [[bilibili]](https://www.bilibili.com/video/BV1zx411g7gq)
-
 * [MIT Matrix Methods in Data Analysis, Signal Processing, and Machine Learning "Gilbert Strang"](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
   [[youtube]](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 * [MIT A 2020 Vision of Linear Algebra, Spring 2020 "Gilbert Strang"](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)  
@@ -24,9 +23,9 @@
   逆矩阵 inverse matrix
 * [线性代数复习 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yndn02KC17SkfCmS1RA-8Sf)
 * [linear algebra review(线性代数复习 英文版) "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3YmYkfj_WeN3HFOkKMXj9yRY)
-
 * [Matrix Algebra for Engineers "Jeffrey Chasnov"](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx)  
   Gaussian elimination | Lecture 10 | Matrix Algebra for Engineers
+* [线性代数 万门大学 童哲](https://www.youtube.com/watch?v=ove0ywl962M&list=PL1rUBzS6ux6peJ_VDGlfRmxmrkjKdboue)
 * [四都教育罗玉文](https://www.sudoedu.com/%e8%a7%86%e9%a2%91%e8%af%be%e7%a8%8b/)
   [四都教育罗玉文 youku](https://i.youku.com/i/UMzA1MzIwMjM3Ng==/playlists?spm=a2hzp.8244740.0.0)
 * [Bard College " Jim Belk"](http://faculty.bard.edu/~belk/math213f15/)
