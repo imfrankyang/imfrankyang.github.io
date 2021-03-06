@@ -88,6 +88,7 @@ $x_1,\ldots, x_n$
 |      约等于      |         \approx         |               $\approx$               |
 |     小于等于     |          \leq           |                $\leq$                 |
 |     大于等于     |          \geq           |                $\geq$                 |
+|     不等于     |          \neq          |                $\neq$                 |
 | 字母顶部的小折线 |       \hat{字母}        |               $\hat{}$                |
 |     相似符号     |          \sim           |                $\sim$                 |
 |      下注释      | \arg \underset{y}{\max} |       $\arg \underset{y}{\max}$       |

@@ -71,9 +71,10 @@ graph LR;
 * Alistair Revell  
   [[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html)   
   [[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
-* Josua Meyer
+* Josua Meyer  
   [Heat Transfer Lectures (2019) by Prof Josua Meyer](https://www.youtube.com/c/HeatTransferUP/playlists)
-* [汪洋 bilibili](https://space.bilibili.com/196986312/video)
+* [汪洋 bilibili](https://space.bilibili.com/196986312/video)  
+  [cfd course](https://space.bilibili.com/381553233)
 
 **知乎专栏**
 
@@ -110,7 +111,7 @@ graph LR;
 - [JoshTheEngineer](https://www.youtube.com/channel/UCQq2_Dk2MvGGqi8-eBVwRww)
   
   matlab airfoil
-  
+
   http://www.joshtheengineer.com/panel-methods/
 
   https://github.com/jte0419/

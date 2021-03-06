@@ -44,6 +44,7 @@ Anti-virus or anti-malware software
 
 ### Dictionary
 - 欧路词典Eudic
+  
 - GoldenDict
   Download: [64bit](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/Qt5-based/64bit/)
   Theme：`C:\Users\xxx\AppData\Roaming\GoldenDict\styles`
@@ -59,7 +60,7 @@ Anti-virus or anti-malware software
 
 * [macOS Bug Sur](https://www.apple.com/macos/big-sur/)
 
-  
+
 
 
 
