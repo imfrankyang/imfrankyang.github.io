@@ -41,18 +41,17 @@
 * [2021版张宇考研数学基础30讲线性代数完整版](https://www.bilibili.com/video/BV1LV411o7q9)  
 
 * [线性代数 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yl8eQQCob5nr43ACJGHQhmt)  
-  逆矩阵 inverse matrix
+  - 逆矩阵 inverse matrix
 
 * [线性代数复习 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yndn02KC17SkfCmS1RA-8Sf)
 
 * [linear algebra review(线性代数复习 英文版) "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3YmYkfj_WeN3HFOkKMXj9yRY)
 
 * [Matrix Algebra for Engineers "Jeffrey Chasnov"](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx)  
-  Gaussian elimination | Lecture 10 | Matrix Algebra for Engineers
+  - Gaussian elimination | Lecture 10 | Matrix Algebra for Engineers
 
 * [线性代数 万门大学 童哲](https://www.youtube.com/watch?v=ove0ywl962M&list=PL1rUBzS6ux6peJ_VDGlfRmxmrkjKdboue)  
-* [【万门大学】线性代数](https://www.youtube.com/playlist?list=PL0GyqFMD-UCH7c_kURb1bm38t_JQJBAEk)
-
+* [【万门大学】线性代数❤️](https://www.youtube.com/playlist?list=PL0GyqFMD-UCH7c_kURb1bm38t_JQJBAEk)
 
 * [四都教育罗玉文](https://www.sudoedu.com/%e8%a7%86%e9%a2%91%e8%af%be%e7%a8%8b/)  
   [四都教育罗玉文 youku](https://i.youku.com/i/UMzA1MzIwMjM3Ng==/playlists?spm=a2hzp.8244740.0.0)
@@ -63,8 +62,8 @@
 
 * [线性代数-山东大学数学学院-秦静](https://www.bilibili.com/video/BV1i741157ju)
 
-**blog**
-[我的线代书架](https://ccjou.wordpress.com/2011/10/14/%E6%88%91%E7%9A%84%E7%B7%9A%E4%BB%A3%E6%9B%B8%E6%9E%B6/)
+**blog**  
+- [我的线代书架](https://ccjou.wordpress.com/2011/10/14/%E6%88%91%E7%9A%84%E7%B7%9A%E4%BB%A3%E6%9B%B8%E6%9E%B6/)
 
 
 ## Probability
@@ -94,9 +93,11 @@
 * [Calculus "James Hamblin"](https://www.youtube.com/playlist?list=PLNr8B4XHL5kFc8sV2RD5hU0MSjnJvAiiP)
 
 ## Differential Equations
-* [Differential Equations for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w)  
+* [Differential Equations for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w)
+*   
 * [MIT Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler "Gilbert Strang"](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/)  
   [[youtube]](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
+
 * [MTH 225 Differential Equations](https://math.libretexts.org/Courses/Monroe_Community_College/MTH_225_Differential_Equations)
 
 - [Ordinary Differential Equations "DarrenOngCL"](https://www.youtube.com/user/DarrenOngCL/playlists)
@@ -112,7 +113,7 @@
 
 
 
-- 泛函分析
+## 泛函分析
 https://www.bilibili.com/video/BV1SD4y1o7sP
 https://liveclass.org.cn/cloudCourse/#/courseDetail/BZ1920200132350_14083
 

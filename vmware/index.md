@@ -1,10 +1,9 @@
 # Vmware
 
 
-## Vmware
+
 **tutorial**  
 [Catlin Wu youtube](https://www.youtube.com/c/CatlinWu/videos)
-
 
 
 **WorkStation to ESXi**  
@@ -21,8 +20,8 @@ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin
 ```
 
 
+**ESXi update**
 
-**ESXi update**  
 https://www.vediotalk.com/archives/3956
 
 1. Download patches https://my.vmware.com/group/vmware/patch#search	
@@ -37,7 +36,6 @@ reboot
 ```
 
 
-
 **VMware to Virtualbox**
 
 ```shell
@@ -49,7 +47,6 @@ reboot
 
 下载[vmware tools](https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar)  
 com.vmware.fusion.zip.tar放到unlocker/tools/
-
 
 
 **vmware 压缩硬盘**
@@ -71,8 +68,10 @@ sudo vmware-toolbox-cmd disk shrink /
 ```shell
 #重命名vmdk文件
 "C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe" -n "source.vmdk" "target.vmdk"
+
 #合并硬盘
 "C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe" -r "C:\vmware1.vmdk" -t 0 "C:\vmware2.vmdk"
+
 #分割硬盘
 "C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe" -r "C:\vmware1.vmdk" -t 1 "C:\vmware2.vmdk"
 ```
