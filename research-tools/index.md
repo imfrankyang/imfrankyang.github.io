@@ -65,18 +65,18 @@ Anti-virus or anti-malware software
 ## List of STRONGLY NOT recommended software forever
 
 * **360**  
-<img src="index.assets/image-20210120222659506.png" align="center"/>
 
 <center>
-<img src="index.assets/David_Gosman.jpg" width="300" align="bottom" />
-<figcaption>David Gosman</figcaption>
+<img src="index.assets/image-20210120222659506.png" width="700" align="bottom" />
 </center>
 
 * XX电脑管家
 
 * 2345
 
-  <img src="index.assets/image-20210127161425191.png" alt="image-20210127161425191"  />
+<center>
+<img src="index.assets/image-20210127161425191.png" width="700" align="bottom" />
+</center>
 
 * 驱动精灵
 
