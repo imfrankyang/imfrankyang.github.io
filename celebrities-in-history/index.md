@@ -16,8 +16,9 @@
 <img src="index.assets/Dudley_Brian_Spalding.jpg" width="300" align="bottom" />
 <figcaption>Dudley Brian Spalding</figcaption>
 </center>
-[wiki](https://www.wikiwand.com/en/Brian_Spalding) 
-[Royal Society](https://royalsocietypublishing.org/doi/10.1098/rsbm.2018.0024) 
+
+[wiki](https://www.wikiwand.com/en/Brian_Spalding)  
+[Royal Society](https://royalsocietypublishing.org/doi/10.1098/rsbm.2018.0024)  
 
 ### Brian Launder
 <center>
@@ -25,7 +26,7 @@
 <figcaption>Brian_Launder</figcaption>
 </center>
 
-[wiki](https://en.wikipedia.org/wiki/Brian_Launder)
+[wiki](https://en.wikipedia.org/wiki/Brian_Launder)  
 [researchgate](https://www.researchgate.net/profile/Brian-Launder)  
 [homepage](https://www.research.manchester.ac.uk/portal/brian.launder.html)
 [googlescholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=Y3JbAK8AAAAJ)
@@ -36,10 +37,11 @@
 <img src="index.assets/Antony_Jameson.jpg" width="300" align="bottom" />
 <figcaption>Antony Jameson</figcaption>
 </center>
+
 中心差分离散的有限体积法  
-[homepage](http://aero-comlab.stanford.edu/jameson/) 
-[googlescholar](https://scholar.google.com/citations?hl=en&user=74eUkXgAAAAJ&view_op=list_works&citft=1&email_for_op=dlxiaochemi%40gmail.com&sortby=pubdate) 
-[scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57198148688&zone=) 
+[homepage](http://aero-comlab.stanford.edu/jameson/)  
+[googlescholar](https://scholar.google.com/citations?hl=en&user=74eUkXgAAAAJ&view_op=list_works&citft=1&email_for_op=dlxiaochemi%40gmail.com&sortby=pubdate)  
+[scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57198148688&zone=)  
 [wiki](https://www.wikiwand.com/en/Antony_Jameson)  
 
 ### David Gosman 
@@ -53,14 +55,35 @@
 
 [Icons of CFD: David Gosman](https://www.hpctoday.com/best-practices/icons-of-cfd-david-gosman/)
 
+<br><br><br>
 
-### Ligrani, Phillip M.  (cooling)  
-[homepage](https://www.uah.edu/eng/departments/mae/faculty-staff/phillip-ligrani)
-[personal website](https://ligrani.com/)
-[scopus](https://www.scopus.com/authid/detail.uri?authorId=7007125186)  
+### [Sir George Stokes, 1st Baronet](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Ggstokes.jpg" width="300" align="bottom" />
+<figcaption>George Stokes</figcaption>
+</center>
+
+
+### [Claude-Louis Navier](https://en.wikipedia.org/wiki/Claude-Louis_Navier)
 
 ### 陈大燮
+
+<center>
+<img src="http://me.sjtu.edu.cn/Mg_Admin/images/teacher_photo/zmxy/5OK_D3B%7BNR%607WUNXSG6%5D6HT.jpg" width="300" align="bottom" />
+<figcaption>陈大燮</figcaption>
+</center>
+
 {{< link "http://me.sjtu.edu.cn/alumni_known/2642.html" >}}  
+
+<br><br><br>
+
+### Ligrani, Phillip M.  (cooling experiment)  
+[homepage](https://www.uah.edu/eng/departments/mae/faculty-staff/phillip-ligrani)  
+[personal website](https://ligrani.com/)  
+[scopus](https://www.scopus.com/authid/detail.uri?authorId=7007125186)  
+
+
 
 
 

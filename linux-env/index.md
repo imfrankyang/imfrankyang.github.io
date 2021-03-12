@@ -2,8 +2,11 @@
 
 
 ## Linux tutorial
-- {{<link "https://thelinuxcluster.com/">}}  
+- [Linux Cluster Blog](https://thelinuxcluster.com/) is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux
+  
 - [Learn CentOS "LearnLinuxTV"](https://www.youtube.com/watch?v=Mi6GUcSW5xs&list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
+- [计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)](https://www.bilibili.com/video/BV1x7411H7wa)
+
 
 ## Ubuntu
 * [List of releases](https://wiki.ubuntu.com/Releases)  
@@ -39,7 +42,12 @@
 
 
 ## git 
-* [Git 版本管理 教学 tutorial "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cKysjmSNln65YoUt9lwEl7-)
+**tutorial**
+- [Lecture 6 - Version Control (git) (2020)](https://www.bilibili.com/video/BV1x7411H7wa?p=6)
+
+- [Git 版本管理 教学 tutorial "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cKysjmSNln65YoUt9lwEl7-)
+
+git 命令教程 https://www.bookstack.cn/read/git-tutorial/docs-basic.md
 
 ## complier
 ### Intel oneAPI Base Toolkit (intel parallel studio)
@@ -173,7 +181,5 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
 ## Tecplot
 [PyTecplot document](https://www.tecplot.com/docs/pytecplot/)
 
-## Vmware
-tutorial
-[Catlin Wu youtube](https://www.youtube.com/c/CatlinWu/videos)
+
 

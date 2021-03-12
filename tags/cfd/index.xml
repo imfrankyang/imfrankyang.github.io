@@ -4,17 +4,44 @@
         <link>https://lianfengyeo.github.io/tags/cfd/</link>
         <description>CFD - Tag - Life and Work</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 18 Feb 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/cfd/" rel="self" type="application/rss+xml" /><item>
+    <title>CFD collection</title>
+    <link>https://lianfengyeo.github.io/cfd-collection/</link>
+    <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/cfd-collection/</guid>
+    <description><![CDATA[-- CFD CFDer capabilities:
+ Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD software
+  nek5000
+https://nek5000.mcs.anl.gov/
+  nekRS https://github.com/Nek5000/nekRS
+  SU2 https://su2code.github.io/
+  AVBP
+https://www.cerfacs.fr/avbp7x/index.php
+https://cerfacs.fr/en/
+  https://new.aerodynamic-solutions.com
+  dolfyn https://www.dolfyn.net/
+  CFD forum
+  http://www.cfdreview.com/
+  https://www.]]></description>
+</item><item>
     <title>Celebrities in history</title>
     <link>https://lianfengyeo.github.io/celebrities-in-history/</link>
     <pubDate>Thu, 18 Feb 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/celebrities-in-history/</guid>
     <description><![CDATA[Dietrich Küchemann (11 September 1911 – 23 February 1976)  Dietrich Küchemann  wiki
-Dudley Brain Spalding (9 January 1923 – 27 November 2016)  Dudley Brian Spalding  [wiki](https://www.wikiwand.com/en/Brian_Spalding) [Royal Society](https://royalsocietypublishing.org/doi/10.1098/rsbm.2018.0024) Brian Launder  Brian_Launder  wiki researchgate
+Dudley Brain Spalding (9 January 1923 – 27 November 2016)  Dudley Brian Spalding  wiki
+Royal Society
+Brian Launder  Brian_Launder  wiki
+researchgate
 homepage googlescholar
-Antony Jameson (20 November 1934 CFD, code)  Antony Jameson  中心差分离散的有限体积法 [homepage](http://aero-comlab.stanford.edu/jameson/) [googlescholar](https://scholar.google.com/citations?hl=en&user=74eUkXgAAAAJ&view_op=list_works&citft=1&email_for_op=dlxiaochemi%40gmail.com&sortby=pubdate) [scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57198148688&zone=) [wiki](https://www.wikiwand.com/en/Antony_Jameson) David Gosman  David Gosman  homepage
-Icons of CFD: David Gosman
-Ligrani, Phillip M.]]></description>
+Antony Jameson (20 November 1934 CFD, code)  Antony Jameson  中心差分离散的有限体积法
+homepage
+googlescholar
+scopus
+wiki
+David Gosman  David Gosman  homepage
+Icons of CFD: David Gosman]]></description>
 </item><item>
     <title>CFD hardware</title>
     <link>https://lianfengyeo.github.io/cfd-hardware/</link>
@@ -41,25 +68,5 @@ Ligrani, Phillip M.]]></description>
 陈莉楠
 微分方程指数矩阵 (At) | MIT 18.06SC 线性代数, 秋 2011 行列式 | MIT 18.06SC 线性代数, 秋 2011
 三维空间的子空间 | MIT 18.]]></description>
-</item><item>
-    <title>CFD collection</title>
-    <link>https://lianfengyeo.github.io/cfd-collection/</link>
-    <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
-    <author>Author</author>
-    <guid>https://lianfengyeo.github.io/cfd-collection/</guid>
-    <description><![CDATA[-- CFD CFDer capabilities:
- Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD software
-  nek5000
-https://nek5000.mcs.anl.gov/
-  nekRS https://github.com/Nek5000/nekRS
-  SU2 https://su2code.github.io/
-  AVBP
-https://www.cerfacs.fr/avbp7x/index.php
-https://cerfacs.fr/en/
-  https://new.aerodynamic-solutions.com
-  CFD forum
- http://www.cfdreview.com/ https://www.cfd-online.com/ 东岳流体
-CFD中文网
-东岳流体 AKAD  course]]></description>
 </item></channel>
 </rss>

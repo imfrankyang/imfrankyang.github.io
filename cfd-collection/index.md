@@ -14,6 +14,7 @@ graph LR;
 -->
 
 ## CFD
+
 **CFDer capabilities:**
 * Fluid dynamics
 * Gas dynamics
@@ -50,31 +51,53 @@ graph LR;
   
 - https://new.aerodynamic-solutions.com
 
+- dolfyn
+  https://www.dolfyn.net/
+
 **CFD forum**
 
 - http://www.cfdreview.com/
+
 - https://www.cfd-online.com/
+
 - 东岳流体  
   [CFD中文网](https://cfd-china.com/)  
+    [2016目录](https://www.cfd-china.com/topic/666/2016%E7%9B%AE%E5%BD%95)  
   [东岳流体 AKAD](http://dyfluid.com/)  
 
-**course**
+**Course**
+
+- 陶文铨院士  
+  [计算传热学的近代进展 PPT](http://nht.xjtu.edu.cn/jxzy/jscrxdjdjz.htm)  
+  [Numerical Heat Transfer PPT](http://nht.xjtu.edu.cn/jxzy/szcrx.htm)  
+
+- [ME 702 - Computational Fluid Dynamics - Video Lesson 1](https://www.youtube.com/watch?v=cDy5XGOokBY&list=PL30F4C5ABCE62CB61)  
+  [bilibili](https://www.bilibili.com/video/av41449459/)
 
 * Prof. S. A. E. Miller, Ph.D.  
   [Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
+
 * 李新亮 (CFD)  
   [[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
   [[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
+
 * Aidan Wimshurst  
   [[youtube]](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)  
   [[udemy]](https://www.udemy.com/user/aidan-wimshurst/)  
+
 * Alistair Revell  
   [[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html)   
   [[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
+
 * Josua Meyer  
   [Heat Transfer Lectures (2019) by Prof Josua Meyer](https://www.youtube.com/c/HeatTransferUP/playlists)
-* [汪洋 bilibili](https://space.bilibili.com/196986312/video)  
+
+* 汪洋  
+  [bilibili](https://space.bilibili.com/196986312/video)  
   [cfd course](https://space.bilibili.com/381553233)
+
+- tensor
+  [Tensor Calculus](https://www.youtube.com/playlist?list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_)
 
 **知乎专栏**
 
@@ -93,67 +116,99 @@ graph LR;
   [learning-modules](https://learning-modules.mit.edu/materials/index.html?uuid=/course/16/fa18/16.920#materials)
   
 
-**ansys tutorial**  
+**Ansys tutorial**  
 
-- SimuTechGroup  
-  https://www.youtube.com/c/SimuTechGroup
-- ANSYS CFD tutorials and courses  
-  [NACA 0012 3D Turbulent Simulation at Re = 3 Million](https://www.youtube.com/playlist?list=PL8nfXsTP607IOuOLDpMw86pLxw7LswffA)
+- [SimuTechGroup](https://www.youtube.com/c/SimuTechGroup)  
 
-**organization**  
+- [ANSYS CFD tutorials and courses](https://www.youtube.com/c/AdvancedEngineeringSolutions)  
+  - [NACA 0012 3D Turbulent Simulation at Re = 3 Million](https://www.youtube.com/playlist?list=PL8nfXsTP607IOuOLDpMw86pLxw7LswffA)
+
+- [CFD NINJA / ANSYS CFD](https://www.youtube.com/channel/UC3XvZi4o5YZoh7LXY45YI6g)
+
+
+**Organization**  
 
 - [ERCOFTAC](https://www.ercoftac.org/)  
-- [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)
-- [Air Force Research Laboratory](https://www.afrl.af.mil/)
+- [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)  
+- [Air Force Research Laboratory](https://www.afrl.af.mil/)  
 
-**youtube channel**
 
-- [JoshTheEngineer](https://www.youtube.com/channel/UCQq2_Dk2MvGGqi8-eBVwRww)
-  
-  matlab airfoil
+**CFD channel**
 
-  http://www.joshtheengineer.com/panel-methods/
+- JoshTheEngineer (python matlab airfoil)  
+ [youtube](https://www.youtube.com/channel/UCQq2_Dk2MvGGqi8-eBVwRww)  
+  http://www.joshtheengineer.com/panel-methods/  
+  https://github.com/jte0419/  
 
-  https://github.com/jte0419/
+- 流沙  
+  [youku](https://i.youku.com/i/UMzE1MjM1ODIw/videos?spm=a2hzp.8253869.0.0&order=1&page=1&last_item=&last_pn=4&last_vid=55659936)  
+  公众号 CFD之道  
+  [原创汇总2020年度](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247491910&idx=1&sn=851847b12f71b2aa76f038ab4f914905&chksm=e820c3eedf574af8faf06f9e60a9faeb68f2b252efb68671724e348e97f1c601eaf2fb4f8886#rd)  
+  [原创汇总2019年度](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&amp;mid=2247486841&amp;idx=1&amp;sn=3906abe882f98d4dbc418a0b94cf8022&amp;chksm=e8232fd1df54a6c7e07cda81e8b667c53ea914fd8ad4d7eff30de41fee6df1b01f002f707f80#rd)  
+  [原创汇总2018年度](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&amp;mid=2247485511&amp;idx=1&amp;sn=6e2becfa6aaa8abdaebb0494c7241c96&amp;chksm=e8232aefdf54a3f973f093f9eb557007c9015e013e5378aace8de8cba02d3d57074683965318#rd)  
+  [原创汇总2017年度](https://mp.weixin.qq.com/s/4RxeynS11LVzE43X_hmAgg)
 
+
+
+**Books**
+
+[有关流体力学或者计算流体力学的经典教材](https://www.zhihu.com/question/20988412/answer/1491155615)
 
 
 ## Fluid dynamics
-**celebrity**
 
-- [Sir George Stokes, 1st Baronet](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)
-- [Claude-Louis Navier](https://en.wikipedia.org/wiki/Claude-Louis_Navier)
 
-**course**
+**Course**
+- [Engineering MAE 130A. Intro to Fluid Mechanics](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7m8oL297GkRRszNN1Q-l6wb)  
+
+- [流体力学（清华大学）](https://www.bilibili.com/video/av92776453/)  
 
 - [MECH241 Fluid Mechanics I "queens university"](https://www.youtube.com/channel/UC7rvAZwkBWhJdTKb6guga4A/playlists)   
-- [Fluid Mechanics](https://farside.ph.utexas.edu/teaching/336L/Fluid/)
-- Brian D. Storey (Fluid dynamics and heat transfer)
+
+- [Fluid Mechanics](https://farside.ph.utexas.edu/teaching/336L/Fluid/)  
+
+- Brian D. Storey (Fluid dynamics and heat transfer)  
   [[homepage]](http://faculty.olin.edu/bstorey/)  
   [Lectures for Transport Phenomena course "Storey"](https://www.youtube.com/playlist?list=PLwAYtqaThyg97crC9yjdmUsNmtcai3pFP)  
+
 - [Microfluidics Lectures "IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm)  
-- Ron Hugo (fluid, heat transfer)
+
+- Ron Hugo (fluid, heat transfer)  
   [[youtube]](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q) 
+
 - [Introduction to Compressible Flow - Prof. S. A. E. Miller, Ph.D.](https://www.youtube.com/playlist?list=PLbiOzt50Bx-ntmxUzPRCOLLTxrVwG8RG6)  
-- Jousef Murad
+
+- Jousef Murad  
   [youtube](https://www.youtube.com/c/TheEngiineer)
-- Steve Brunton
+
+- CPPMechEngTutorials
+  [youtube](https://www.youtube.com/user/CPPMechEngTutorials/playlists)
+
+- Ahsan  
+  [Viscous Flow in Pipes - Fluid Mechanics](https://www.youtube.com/playlist?list=PLCUo9-NOPd64gqz3ebIsntl5XT7q5sz1x)  
+    Fully Developed Laminar Flow & Poiseuille's Law  
+
+- [重庆大学-工程流体力学](https://space.bilibili.com/508358011/video?tid=0&page=2&keyword=&order=pubdate)
+
+- Steve Brunton  
   [[homepage1]](https://www.me.washington.edu/facultyfinder/steve-brunton)
   [[homepage2]](https://www.eigensteve.com/)
-  [[googlescholar]](https://scholar.google.com/citations?hl=en&user=TjzWdigAAAAJ)  
+  [[googlescholar]](https://scholar.google.com/citations?hl=en&user=TjzWdigAAAAJ)
   [[youtube]](https://www.youtube.com/c/Eigensteve/featured)  
   [[DATA DRIVEN SCIENCE & ENGINEERING]](http://databookuw.com/)  
   [[DYNAMIC MODE DECOMPOSITION]](http://dmdbook.com/)  
   [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)  
   [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)  
   [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
-- Nathan Kutz
+
+- Nathan Kutz  
   [homepage](https://faculty.washington.edu/kutz/)
   [googlescholar](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en)
   [youtube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/featured)
   
-- boundary layer
-  [天津大学 老师自制课程](https://space.bilibili.com/176075/video)  
+
+**Boundary layer**
+- [天津大学老师自制课程](https://space.bilibili.com/176075/video)  
 
 **Material derivative**
 * [wiki](https://www.wikiwand.com/en/Material_derivative)  
@@ -167,21 +222,24 @@ graph LR;
 * [Multiphase Microfluidics "IITG"](https://www.youtube.com/playlist?list=PLC25ItV4rcpdcMPaHObUHhIOUAgJbrZjx)  
 
 ## Data-driven
-**von Karman Institute for Fluid Dynamics**
-[lecture 1 Analysis, Modeling and Control of the Cylinder Wake (Prof. Bernd R. Noack)](https://www.youtube.com/watch?v=iehMMhDqmys)
-[lecture3 The Proper Orthogonal Decomposition (Prof. Scott T.M. Dawson)](https://www.youtube.com/watch?v=TcqBbtWTcIc)
+**von Karman Institute for Fluid Dynamics**  
+[lecture 1 Analysis, Modeling and Control of the Cylinder Wake (Prof. Bernd R. Noack)](https://www.youtube.com/watch?v=iehMMhDqmys)  
+[lecture3 The Proper Orthogonal Decomposition (Prof. Scott T.M. Dawson)](https://www.youtube.com/watch?v=TcqBbtWTcIc)  
 
-[lecture11 Nonlinear Dynamical Systems (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=BL190kyt-rk)
-[lecture12 Methods for System Identification (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=TL86S3mmlqg)
-[lecture13 Introduction to Machine Learning Methods (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=wSOClPEsAcs)
-[lecture14 Machine Learning in Fluids: Pairing Methods with Problems (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=NJri74lQg2Y)
+[lecture11 Nonlinear Dynamical Systems (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=BL190kyt-rk)  
+[lecture12 Methods for System Identification (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=TL86S3mmlqg)  
+[lecture13 Introduction to Machine Learning Methods (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=wSOClPEsAcs)  
+[lecture14 Machine Learning in Fluids: Pairing Methods with Problems (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=NJri74lQg2Y)  
 
-
-
-Nathan Kutz
-[POD introduction 1](https://www.youtube.com/watch?v=YX24Jgd90uY)
-
-
+Nathan Kutz  
+- [POD introduction 1](https://www.youtube.com/watch?v=YX24Jgd90uY)  
+- [POD introduction 2](https://www.youtube.com/watch?v=X5GhhjpX0ao)  
+- [POD introduction 3](https://www.youtube.com/watch?v=sK0cUVD7mxw)  
+- [POD carlberg 1](https://www.youtube.com/watch?v=KOHxCIx04Dg)  
+- [POD carlberg 2](https://www.youtube.com/watch?v=MKL_AGo6Ktk)  
+- [POD carlberg 3](https://www.youtube.com/watch?v=9zASWKu002U)  
+- [POD carlberg 4](https://www.youtube.com/watch?v=j38c4hqsEI0)  
+- [POD carlberg 5](https://www.youtube.com/watch?v=wcH1BMRDOJY)  
 
 
 ## PIV Particle Image Velocimetry
@@ -207,7 +265,7 @@ how to determine the $\Delta$T
   [[youtube]](https://www.youtube.com/channel/UCMgp5JQQtqn9vXcrbuMefXw/featured)  
   [readthedocs](https://openpiv.readthedocs.io/en/latest/index.html)  
 
-**cross-correlation**
+**Cross-correlation**
 
 * [Part 2: Convolution and Cross-Correlation - G. Jensen](https://www.youtube.com/watch?v=MQm6ZP1F6ms)  
 * [Lecture 11: Micro Particle Image Velocimetry (Part 2, Flow Tracing Particles)](https://www.youtube.com/watch?v=Pj7BCBQfpX4&list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm&index=10)  
@@ -234,7 +292,9 @@ how to determine the $\Delta$T
   * FT
   * Dirac delta function (δ function)
   * duality
-    DSP Lecture 13 The Sampling Theorem
+  
+  DSP Lecture 13 The Sampling Theorem
+
   * Nyquist theorem two time o the Frequency, how to confirm the Frequency of the system eg. rotor
 
 * [MIT Signal Processing: Continuous and Discrete "Derek Rowell"](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/)
@@ -247,9 +307,16 @@ how to determine the $\Delta$T
 
 
 
+
+
+
+
 ## Thermodynamics
 * [Engineering Thermodynamics (Dr. Supreet Singh Bahga, IIT Delhi)](https://www.youtube.com/playlist?list=PLKQAlM7GPLR14jnA53I2jMfejfmArEmQe)
 * [Unit: Thermodynamics khanacademy](https://www.khanacademy.org/science/physics/thermodynamics)
+
+
+
 
 
 ## Image Processing
@@ -263,6 +330,11 @@ how to determine the $\Delta$T
 ## University
 * [Tel Aviv University](https://english.tau.ac.il/)  [[wiki]](https://www.wikiwand.com/en/Tel_Aviv_University)
 * [University of Göttingen](https://www.uni-goettingen.de/en/1.html)  [[wiki]](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen)
+
+
+
+
+
 ## Journal
 * [Annual Review of Fluid Mechanics](https://www.annualreviews.org/journal/fluid)  
 

@@ -60,14 +60,17 @@ Anti-virus or anti-malware software
 
 * [macOS Bug Sur](https://www.apple.com/macos/big-sur/)
 
-
-
-
+<br>
 
 ## List of STRONGLY NOT recommended software forever
 
 * **360**  
 <img src="index.assets/image-20210120222659506.png" align="center"/>
+
+<center>
+<img src="index.assets/David_Gosman.jpg" width="300" align="bottom" />
+<figcaption>David Gosman</figcaption>
+</center>
 
 * XX电脑管家
 
