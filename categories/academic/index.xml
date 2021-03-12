@@ -10,26 +10,61 @@
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cfd-collection/</guid>
     <description><![CDATA[-- CFD CFDer capabilities:
- Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD software
+ Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD forum
+  http://www.cfdreview.com/
+  https://www.cfd-online.com/
+  东岳流体
+CFD中文网
+2016目录
+东岳流体 AKAD
+  Course
+  Computational Methods in Aerospace Engineering MIT
+  陶文铨院士
+计算传热学的近代进展 PPT
+Numerical Heat Transfer PPT]]></description>
+</item><item>
+    <title>CFD software</title>
+    <link>https://lianfengyeo.github.io/cfd-software/</link>
+    <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/cfd-software/</guid>
+    <description><![CDATA[CFD software   OpenFOAM
+For more information please visit here
   nek5000
 https://nek5000.mcs.anl.gov/
-  nekRS https://github.com/Nek5000/nekRS
-  SU2 https://su2code.github.io/
+  nekRS
+https://github.com/Nek5000/nekRS
+  SU2
+https://su2code.github.io/
+  dolfyn
+https://www.dolfyn.net/
+  simscale Simulation Software | Engineering in the Cloud
+https://www.simscale.com/
+  code-saturne
+https://www.code-saturne.org/cms/
+  xflow
+https://www.3ds.com/products-services/simulia/products/xflow/
   AVBP
 https://www.cerfacs.fr/avbp7x/index.php
 https://cerfacs.fr/en/
   https://new.aerodynamic-solutions.com
-  dolfyn https://www.dolfyn.net/
-  CFD forum
-  http://www.cfdreview.com/
-  https://www.]]></description>
+  Post-processing   paraview
+https://www.paraview.org/
+  Gid
+https://www.gidhome.com/
+  Tecplot
+PyTecplot document]]></description>
 </item><item>
     <title>Scientist </title>
     <link>https://lianfengyeo.github.io/scientist/</link>
     <pubDate>Fri, 12 Mar 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/scientist/</guid>
-    <description><![CDATA[Scientist Giovanni Tanda cv_en.pdf cv_it.pdf]]></description>
+    <description><![CDATA[Scientist Giovanni Tanda
+cv_en.pdf cv_it.pdf
+Francesca Satta
+Marina Ubaldi
+Karen Thole]]></description>
 </item><item>
     <title>Celebrities in history</title>
     <link>https://lianfengyeo.github.io/celebrities-in-history/</link>
@@ -131,13 +166,13 @@ B = transpose(A)]]></description>
     <pubDate>Wed, 02 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/mathematics/</guid>
-    <description><![CDATA[Math  lockdown math Lecture Collection | Mathematics: Making the Invisible Visible &ldquo;Stanford&rdquo; 2017新东方考研数学强化班 高数 张宇 2021版张宇高等数学考研数学基础30讲高等数学 Math for Liberal Studies Lectures &ldquo;James Hamblin&rdquo;   Linear algebra course
+    <description><![CDATA[Math  lockdown math Lecture Collection | Mathematics: Making the Invisible Visible &ldquo;Stanford&rdquo; 2017新东方考研数学强化班 高数 张宇 2021版张宇高等数学考研数学基础30讲高等数学 Math for Liberal Studies Lectures &ldquo;James Hamblin&rdquo;  Linear algebra course
+Gilbert Strang
   [MIT Linear Algebra &ldquo;Gilbert Strang&quot;❤️
  18.06SC Linear Algebra (Fall 2011) 18.06 Linear Algebra (Spring 2010)  [youtube]
 [youtube (with extra)]
 [bilibili]
 陈莉楠
-微分方程指数矩阵 (At) | MIT 18.06SC 线性代数, 秋 2011 行列式 | MIT 18.06SC 线性代数, 秋 2011
-三维空间的子空间 | MIT 18.]]></description>
+微分方程指数矩阵 (At) | MIT 18.06SC 线性代数, 秋 2011 行列式 | MIT 18.06SC 线性代数, 秋 2011]]></description>
 </item></channel>
 </rss>

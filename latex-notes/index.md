@@ -3,8 +3,9 @@
 
 **reference**
 
-* [katex](https://katex.org/docs/supported.html)
-* https://matnoble.me/tech/latex/latex/
+- [katex](https://katex.org/docs/supported.html)
+  
+- https://matnoble.me/tech/latex/latex/
 
 
 

@@ -82,6 +82,12 @@ Anti-virus or anti-malware software
 
 * ...to be continued...
 
+### chrome extension
+- [Bookmarks clean up](https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl?hl=en)  
+Find and remove duplicated bookmarks
+
+
+
 **reference**
 
 - [国产App为什么如此“臃肿”？！](https://www.cnblogs.com/SNSD-99/p/14383023.html)

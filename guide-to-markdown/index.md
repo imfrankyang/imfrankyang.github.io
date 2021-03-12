@@ -3,8 +3,11 @@
 # Markdown
 
 ## Reference
-* [Markdown Syntax 'getgrav'](https://learn.getgrav.org/17/content/markdown)
-* [教你Markdown+VSCODE实现最完美流畅写作体验](https://www.bilibili.com/video/BV1si4y1472o)
+- [Markdown Syntax 'getgrav'](https://learn.getgrav.org/17/content/markdown)
+
+- [教你Markdown+VSCODE实现最完美流畅写作体验](https://www.bilibili.com/video/BV1si4y1472o)
+
+
 
 ## Markdown notes
 >heading

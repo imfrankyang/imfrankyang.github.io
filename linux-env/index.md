@@ -35,6 +35,9 @@
   bash Anaconda3-2020.11-Linux-x86_64.sh
 ```
 
+## java
+[Java SE Development Kit 15 Downloads](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
+
 ## Machine Learning
 * [Learn With Me: Intro to Machine Learning](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)
 * [有趣的机器学习 "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin)
@@ -47,7 +50,9 @@
 
 - [Git 版本管理 教学 tutorial "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cKysjmSNln65YoUt9lwEl7-)
 
-git 命令教程 https://www.bookstack.cn/read/git-tutorial/docs-basic.md
+- git命令  https://www.bookstack.cn/read/git-tutorial/docs-basic.md
+
+- [GitHub Documentation](https://docs.github.com/en) 
 
 ## complier
 ### Intel oneAPI Base Toolkit (intel parallel studio)
@@ -178,8 +183,6 @@ mpirun -r ssh -f mpd.hosts -n <# of processes> ./test
 * [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)  
 * [CUDA 编程入门: 8 小时掌握 GPU 计算](https://www.youtube.com/playlist?list=PLSVM68VUM1eWsEX0yPliaL3pTZoKqJWfi)
 
-## Tecplot
-[PyTecplot document](https://www.tecplot.com/docs/pytecplot/)
 
 
 

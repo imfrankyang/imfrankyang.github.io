@@ -34,26 +34,6 @@ graph LR;
 * English ability
 * ...
 
-**CFD software**
-
-- nek5000  
-  https://nek5000.mcs.anl.gov/
-  
-- nekRS
-  https://github.com/Nek5000/nekRS
-
-- SU2
-  https://su2code.github.io/
-  
-- AVBP   
-  https://www.cerfacs.fr/avbp7x/index.php  
-  https://cerfacs.fr/en/
-  
-- https://new.aerodynamic-solutions.com
-
-- dolfyn
-  https://www.dolfyn.net/
-
 **CFD forum**
 
 - http://www.cfdreview.com/
@@ -66,6 +46,8 @@ graph LR;
   [东岳流体 AKAD](http://dyfluid.com/)  
 
 **Course**
+
+- [Computational Methods in Aerospace Engineering MIT](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-90-computational-methods-in-aerospace-engineering-spring-2014/index.htm)
 
 - 陶文铨院士  
   [计算传热学的近代进展 PPT](http://nht.xjtu.edu.cn/jxzy/jscrxdjdjz.htm)  
@@ -155,10 +137,18 @@ graph LR;
 [有关流体力学或者计算流体力学的经典教材](https://www.zhihu.com/question/20988412/answer/1491155615)
 
 
+
+
+
+
+
 ## Fluid dynamics
 
 
 **Course**
+- [NSF Fluid Mechanics Series](https://www.youtube.com/playlist?list=PL0EC6527BE871ABA3)  
+  The classic fluid mechanics film courses and here is the [Notes](http://web.mit.edu/hml/notes.html)
+
 - [Engineering MAE 130A. Intro to Fluid Mechanics](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7m8oL297GkRRszNN1Q-l6wb)  
 
 - [流体力学（清华大学）](https://www.bilibili.com/video/av92776453/)  
@@ -187,6 +177,10 @@ graph LR;
 - Ahsan  
   [Viscous Flow in Pipes - Fluid Mechanics](https://www.youtube.com/playlist?list=PLCUo9-NOPd64gqz3ebIsntl5XT7q5sz1x)  
     Fully Developed Laminar Flow & Poiseuille's Law  
+
+
+- [Engineering Dynamics MIT](https://ocw.mit.edu/courses/mechanical-engineering/2-003sc-engineering-dynamics-fall-2011/index.htm)
+
 
 - [重庆大学-工程流体力学](https://space.bilibili.com/508358011/video?tid=0&page=2&keyword=&order=pubdate)
 
@@ -218,8 +212,18 @@ graph LR;
 * [The Material Derivative | Fluid Mechanics](https://www.youtube.com/watch?v=xlxK0VuY9yY)  
 * [Introductory Fluid Mechanics L1 p6: Acceleration - Material Derivative](https://www.youtube.com/watch?v=E71ZRi1cdIQ)  
 
+
+
+
+
 ## Multiphase Microfluidics
 * [Multiphase Microfluidics "IITG"](https://www.youtube.com/playlist?list=PLC25ItV4rcpdcMPaHObUHhIOUAgJbrZjx)  
+
+
+
+
+
+
 
 ## Data-driven
 **von Karman Institute for Fluid Dynamics**  
@@ -240,6 +244,12 @@ Nathan Kutz
 - [POD carlberg 3](https://www.youtube.com/watch?v=9zASWKu002U)  
 - [POD carlberg 4](https://www.youtube.com/watch?v=j38c4hqsEI0)  
 - [POD carlberg 5](https://www.youtube.com/watch?v=wcH1BMRDOJY)  
+
+
+
+
+
+
 
 
 ## PIV Particle Image Velocimetry
@@ -270,6 +280,13 @@ how to determine the $\Delta$T
 * [Part 2: Convolution and Cross-Correlation - G. Jensen](https://www.youtube.com/watch?v=MQm6ZP1F6ms)  
 * [Lecture 11: Micro Particle Image Velocimetry (Part 2, Flow Tracing Particles)](https://www.youtube.com/watch?v=Pj7BCBQfpX4&list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm&index=10)  
 
+
+
+
+
+
+
+
 ## Measurement technique
 
 * [Stanford Signals and Systems 1987 "Alan V. Oppenheim"](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)  
@@ -299,8 +316,17 @@ how to determine the $\Delta$T
 
 * [MIT Signal Processing: Continuous and Discrete "Derek Rowell"](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/)
 
+
+
+
+
+
+
 ## Experiment
 **Wind tunnel**
+
+[NASA Wind Tunnel intro](https://www.grc.nasa.gov/www/k-12/airplane/shortt.html)
+
 [NASA Langley Full-Scale Tunnel Memories](https://www.youtube.com/playlist?list=PLbiOzt50Bx-lKChPJQErUDRXrtdP7U4kw)  
 
 
@@ -312,10 +338,18 @@ how to determine the $\Delta$T
 
 
 ## Thermodynamics
-* [Engineering Thermodynamics (Dr. Supreet Singh Bahga, IIT Delhi)](https://www.youtube.com/playlist?list=PLKQAlM7GPLR14jnA53I2jMfejfmArEmQe)
-* [Unit: Thermodynamics khanacademy](https://www.khanacademy.org/science/physics/thermodynamics)
+- [Thermodynamics & Kinetics MIT](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/)  
+  [youtube](https://www.youtube.com/playlist?list=PLA62087102CC93765)
 
+- [Engineering Thermodynamics (Dr. Supreet Singh Bahga, IIT Delhi)](https://www.youtube.com/playlist?list=PLKQAlM7GPLR14jnA53I2jMfejfmArEmQe)
+  
+- [Unit: Thermodynamics khanacademy](https://www.khanacademy.org/science/physics/thermodynamics)
 
+- [NASA Propulsion index](https://www.grc.nasa.gov/www/k-12/airplane/shortp.html)
+
+- [NASA Hypersonic Aerodynamics Index](https://www.grc.nasa.gov/WWW/BGH/shorth.html)
+
+- [NASA Compressible Aerodynamics Index](https://www.grc.nasa.gov/www/k-12/airplane/shortc.html)
 
 
 

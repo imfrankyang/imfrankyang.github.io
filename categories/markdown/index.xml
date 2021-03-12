@@ -22,8 +22,10 @@ touch deploy.sh //content is as follows
     <pubDate>Fri, 27 Nov 2020 22:55:58 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/guide-to-markdown/</guid>
-    <description><![CDATA[Markdown Reference  Markdown Syntax &lsquo;getgrav&rsquo; 教你Markdown+VSCODE实现最完美流畅写作体验  Markdown notes  heading
+    <description><![CDATA[Markdown Reference   Markdown Syntax &lsquo;getgrav&rsquo;
+  教你Markdown+VSCODE实现最完美流畅写作体验
+  Markdown notes  heading
  1 2 3 4 5  ## h2 Heading ### h3 Heading #### h4 Heading ##### h5 Heading ###### h6 Heading    开头空格
- 1  &amp;emsp;    This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.]]></description>
+ 1  &amp;emsp;    This is the main body of the text.This is the main body of the text.This is the main body of the text.]]></description>
 </item></channel>
 </rss>

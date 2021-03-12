@@ -23,7 +23,9 @@ uninstall first
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/latex-notes/</guid>
     <description><![CDATA[reference
- katex https://matnoble.me/tech/latex/latex/  LaTeX equation $\tilde{x}$
+  katex
+  https://matnoble.me/tech/latex/latex/
+  LaTeX equation $\tilde{x}$
 1 2  $\tilde{x}$   $\widetilde{x_2}$
 1  $\widetilde{x_2}$   $\tilde{A}_2$
 1  $\tilde{A}_2$   $\widetilde{A}_2$
