@@ -76,6 +76,21 @@
 
 {{< link "http://me.sjtu.edu.cn/alumni_known/2642.html" >}}  
 
+### 吴仲华
+在清华大学动力工程系创办了中国第一个燃气轮机专业，任教研组主任。原热力发电设备教研组分成热电站及热网、锅炉设备、汽轮机三个教研组后，汽轮机教研组也并入燃气轮机教研组。
+
+1952发表《轴流、径流和混流式亚声速与超声速叶轮机械中三元流动的通用理论》
+"[A general theory of three-dimensional flow in subsonic and supersonic turbomachines of axial-, radial, and mixed-flow types](https://apps.dtic.mil/sti/citations/ADA380493)"
+
+1976年春，在西德慕尼黑第三届国际空气喷气发动机会议上宣读了《使用非正交曲线座标的叶轮机械三元流动基本方程及其解法》，在国际上被称为吴氏理论。
+
+吴仲华的夫人[李敏华](https://en.wikipedia.org/wiki/Li_Minhua)先生是著名固体力学家，中国科学院院士，MIT第一位女性学生获得机械工程博士学位。
+
+Reference  
+[Men of mechanics (7): 被遗忘的吴仲华](http://blog.sciencenet.cn/home.php?mod=space&uid=44316&do=blog&id=345961)
+
+[吴仲华先生年表](http://www.cas.cn/zt/jzt/yszt/jnwzhysdc90zn/spsj/200707/t20070725_2671523.shtml#)
+
 <br><br><br>
 
 ### Ligrani, Phillip M.  (cooling experiment)  

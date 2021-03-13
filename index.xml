@@ -3,7 +3,7 @@
         <title>Life and Work</title>
         <link>https://lianfengyeo.github.io/</link>
         <description>Life and Work</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 12 Mar 2021 10:09:30 &#43;0100</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 13 Mar 2021 10:09:30 &#43;0100</lastBuildDate>
             <atom:link href="https://lianfengyeo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>CFD collection</title>
@@ -25,9 +25,28 @@ CFD中文网
 计算传热学的近代进展 PPT
 Numerical Heat Transfer PPT]]></description>
 </item><item>
+    <title>OpenFOAM unit</title>
+    <link>https://lianfengyeo.github.io/openfoam-unit/</link>
+    <pubDate>Sat, 13 Mar 2021 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/openfoam-unit/</guid>
+    <description><![CDATA[OpenFOAM unit The international system of units (SI) is as follows.
+   No. Property SI unit USCS unit     1 Mass kilogram (kg) pound-mass (lbm)   2 Length metre (m) foot (ft)   3 Time second (s) second (s)   4 Temperature Kelvin (K) degree Rankine (R)   5 Quantity mole (mol) mole (mol)   6 Current ampere (A) ampere (A)   7 Luminous intensity candela (cd) candela (cd)    The Dimension [kg, m, s, K, mol, A, cd]]]></description>
+</item><item>
+    <title>Scientist </title>
+    <link>https://lianfengyeo.github.io/scientist/</link>
+    <pubDate>Fri, 12 Mar 2021 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/scientist/</guid>
+    <description><![CDATA[Scientist Giovanni Tanda
+cv_en.pdf cv_it.pdf
+Francesca Satta
+Marina Ubaldi
+Karen Thole]]></description>
+</item><item>
     <title>CFD software</title>
     <link>https://lianfengyeo.github.io/cfd-software/</link>
-    <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <pubDate>Wed, 10 Mar 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cfd-software/</guid>
     <description><![CDATA[CFD software   OpenFOAM
@@ -56,17 +75,6 @@ https://www.paraview.org/
 https://www.gidhome.com/
   Tecplot
 PyTecplot document]]></description>
-</item><item>
-    <title>Scientist </title>
-    <link>https://lianfengyeo.github.io/scientist/</link>
-    <pubDate>Fri, 12 Mar 2021 10:09:30 &#43;0100</pubDate>
-    <author>Author</author>
-    <guid>https://lianfengyeo.github.io/scientist/</guid>
-    <description><![CDATA[Scientist Giovanni Tanda
-cv_en.pdf cv_it.pdf
-Francesca Satta
-Marina Ubaldi
-Karen Thole]]></description>
 </item><item>
     <title>LaTeX installation</title>
     <link>https://lianfengyeo.github.io/latex-installation/</link>
@@ -206,7 +214,7 @@ https://ftp.lstc.com/anonymous/outgoing/lsprepost/]]></description>
   Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo;
   OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot;
   Introduction to OpenFOAM @ Ghent University (May'16)
-  Wolf Dynamics genova]]></description>
+  Wolf Dynamics]]></description>
 </item><item>
     <title>Research tools</title>
     <link>https://lianfengyeo.github.io/research-tools/</link>
@@ -243,19 +251,5 @@ Create customizable rectangular ROI
 a = det (A)
 B = A.'
 B = transpose(A)]]></description>
-</item><item>
-    <title>Linux env</title>
-    <link>https://lianfengyeo.github.io/linux-env/</link>
-    <pubDate>Wed, 09 Dec 2020 10:09:30 &#43;0100</pubDate>
-    <author>Author</author>
-    <guid>https://lianfengyeo.github.io/linux-env/</guid>
-    <description><![CDATA[Linux tutorial   Linux Cluster Blog is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux
-  Learn CentOS &ldquo;LearnLinuxTV&rdquo;
-  计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)
-  Ubuntu  List of releases releases downloads  Fortran   fcode [bilibili]
-  15分钟Fortran从0到够用 #030
-  [Fortran Tuto 2] Basics about variables
-  ustc
-  Mistakes in Fortran 90 Programs That Might Surprise You]]></description>
 </item></channel>
 </rss>

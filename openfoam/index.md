@@ -15,8 +15,11 @@
 - [OpenFoam for Windows Newbie Guide"Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YRhBU4IqSaToQ8_X543YQsZ)
 - [Introduction to OpenFOAM @ Ghent University (May'16)](https://www.youtube.com/playlist?list=PLqxhJj6bcnY9RoIgzeF6xDh5L9bbeK3BL)
 
-- [Wolf Dynamics](https://www.youtube.com/channel/UCNNBm3KxVS1rGeCVUU1p61g) genova 
-  
+- Wolf Dynamics  
+  A tutorial from University of genova  
+  [youtube](https://www.youtube.com/channel/UCNNBm3KxVS1rGeCVUU1p61g)  
+  [website](http://www.wolfdynamics.com/tutorials.html?layout=edit)  
+   
 
 
 
@@ -36,5 +39,4 @@
 
 https://marinecfd.xyz/post/
 
-热那亚大学
-http://www.wolfdynamics.com/tutorials.html?layout=edit
+

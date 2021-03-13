@@ -3,7 +3,15 @@
         <title>OpenFOAM - Tag - Life and Work</title>
         <link>https://lianfengyeo.github.io/tags/openfoam/</link>
         <description>OpenFOAM - Tag - Life and Work</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/openfoam/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 13 Mar 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/openfoam/" rel="self" type="application/rss+xml" /><item>
+    <title>OpenFOAM unit</title>
+    <link>https://lianfengyeo.github.io/openfoam-unit/</link>
+    <pubDate>Sat, 13 Mar 2021 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/openfoam-unit/</guid>
+    <description><![CDATA[OpenFOAM unit The international system of units (SI) is as follows.
+   No. Property SI unit USCS unit     1 Mass kilogram (kg) pound-mass (lbm)   2 Length metre (m) foot (ft)   3 Time second (s) second (s)   4 Temperature Kelvin (K) degree Rankine (R)   5 Quantity mole (mol) mole (mol)   6 Current ampere (A) ampere (A)   7 Luminous intensity candela (cd) candela (cd)    The Dimension [kg, m, s, K, mol, A, cd]]]></description>
+</item><item>
     <title>OpenFOAM</title>
     <link>https://lianfengyeo.github.io/openfoam/</link>
     <pubDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</pubDate>
@@ -13,6 +21,6 @@
   Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo;
   OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot;
   Introduction to OpenFOAM @ Ghent University (May'16)
-  Wolf Dynamics genova]]></description>
+  Wolf Dynamics]]></description>
 </item></channel>
 </rss>
