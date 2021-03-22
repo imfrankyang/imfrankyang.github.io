@@ -84,7 +84,7 @@
 
 1976年春，在西德慕尼黑第三届国际空气喷气发动机会议上宣读了《使用非正交曲线座标的叶轮机械三元流动基本方程及其解法》，在国际上被称为吴氏理论。
 
-吴仲华的夫人[李敏华](https://en.wikipedia.org/wiki/Li_Minhua)先生是著名固体力学家，中国科学院院士，MIT第一位女性学生获得机械工程博士学位。
+吴仲华的夫人[李敏华](https://en.wikipedia.org/wiki/Li_Minhua)是著名固体力学家，中国科学院院士，MIT第一位女性学生获得机械工程博士学位。
 
 Reference  
 [Men of mechanics (7): 被遗忘的吴仲华](http://blog.sciencenet.cn/home.php?mod=space&uid=44316&do=blog&id=345961)
@@ -97,6 +97,18 @@ Reference
 [homepage](https://www.uah.edu/eng/departments/mae/faculty-staff/phillip-ligrani)  
 [personal website](https://ligrani.com/)  
 [scopus](https://www.scopus.com/authid/detail.uri?authorId=7007125186)  
+
+
+
+
+
+<br><br><br><br><br><br>
+
+Author: Yeo  
+许可协议: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)  
+转载或引用本文时请遵守许可协议，注明出处、不得用于商业用途！
+
+
 
 
 

@@ -39,10 +39,12 @@ Numerical Heat Transfer PPT]]></description>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/scientist/</guid>
     <description><![CDATA[Scientist Giovanni Tanda
-cv_en.pdf cv_it.pdf
 Francesca Satta
 Marina Ubaldi
-Karen Thole]]></description>
+Karen Thole
+film cooling experiment PSU
+Philipp Schlatter
+LES DNS NACA airfoil plate KTH]]></description>
 </item><item>
     <title>CFD software</title>
     <link>https://lianfengyeo.github.io/cfd-software/</link>
@@ -116,7 +118,7 @@ Icons of CFD: David Gosman]]></description>
     <description><![CDATA[tutorial
 Catlin Wu youtube
 WorkStation to ESXi
- WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update
+ WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update
 https://www.vediotalk.com/archives/3956
  Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip -p ESXi-7.]]></description>
 </item><item>

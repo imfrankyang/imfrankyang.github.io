@@ -11,7 +11,7 @@
 1. WorkStation虚拟机多个磁盘文件合并成一个
 
 ```shell
-"C:\Program Files (x86)\VMware\VMware Player\vmware-vdiskmanager.exe" -r "d:\VMLinux\vmdkname.vmdk" -t 0 vmdknamenew.vmdk
+"C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe" -r "d:\VMLinux\vmdkname.vmdk" -t 0 vmdknamenew.vmdk
 ```
 2. ssh登陆到vSphere
 ```bash
