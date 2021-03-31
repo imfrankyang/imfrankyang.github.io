@@ -1,9 +1,11 @@
-# Linux env
+# Linux envrionment
 
 
 ## Linux tutorial
+**bolg**
 - [Linux Cluster Blog](https://thelinuxcluster.com/) is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux
-  
+
+**Video tutorial**
 - [Learn CentOS "LearnLinuxTV"](https://www.youtube.com/watch?v=Mi6GUcSW5xs&list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
 - [计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)](https://www.bilibili.com/video/BV1x7411H7wa)
 
@@ -42,7 +44,11 @@
 * [Learn With Me: Intro to Machine Learning](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)
 * [有趣的机器学习 "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin)
 * [秒懂神经网络 Neural Networks](https://www.youtube.com/playlist?list=PLXO45tsB95cJ0U2DKySDmhRqQI9IaGxck)
-
+  
+* [深度强化学习Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLvOO0btloRnsiqM72G4Uid0UWljikENlU)  
+ [Shusen Wang](http://wangshusen.github.io/)
+ [homepage school](https://faculty.stevens.edu/swang134)
+ [googlescholar](https://scholar.google.com/citations?user=HAf4pEoAAAAJ&hl=en)
 
 ## git 
 **tutorial**

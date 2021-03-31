@@ -104,8 +104,9 @@ Reference
 
 <br><br><br><br><br><br>
 
+---
 Author: Yeo  
-许可协议: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)  
+License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)  
 转载或引用本文时请遵守许可协议，注明出处、不得用于商业用途！
 
 

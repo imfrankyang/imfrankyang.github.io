@@ -1,5 +1,28 @@
-# My wiki
+# 
 
+**---
+weight: 5
+title: "My wiki"
+date: 2021-01-20T10:09:30+01:00
+lastmod: 2021-01-20T10:09:30+01:00
+draft: false
+author: "Yeo"
+authorLink: "https://lianfengyeo.github.io"
+description: "Just my pinboard"
+resources:
+#- name: "featured-image"
+#  src: "featured-image.jpg"
+# - name: "featured-image-preview"
+#   src: "featured-image-preview.jpg"
+
+tags: ["Miscellaneous"]
+categories: ["Miscellaneous"]
+
+lightgallery: true
+
+math:
+  enable: true
+---
 
 ## list of something
 
@@ -51,3 +74,6 @@ LS-PrePost
 LS-Pre­Post is an ad­vanced pre and post-proces­sor that is de­liv­ered free with LS-DY­NA.  
 https://www.lstc.com/products/ls-prepost  
 https://ftp.lstc.com/anonymous/outgoing/lsprepost/
+
+
+
