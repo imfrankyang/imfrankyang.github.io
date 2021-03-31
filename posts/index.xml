@@ -161,6 +161,40 @@ I work every day from 9am–5pm.]]></description>
 Air - Thermophysical Properties
  Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water  Water - Specific Heat  CFD tools  hydraulic diameter calculator MATERIALS THERMAL PROPERTIES DATABASE  Others  djvu to pdf download subtitles  ]]></description>
 </item><item>
+    <title>My wiki</title>
+    <link>https://lianfengyeo.github.io/my-wiki/</link>
+    <pubDate>Wed, 20 Jan 2021 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/my-wiki/</guid>
+    <description><![CDATA[list of something Ace
+Jim Keller
+John Gruber
+Linus Torvalds
+陶文铨
+找最SCI的故事：致敬陶文铨！耄耋院士，传道授业
+《开讲啦》 西安交通大学教授 国际数值传热学知名专家陶文铨院士
+陈大燮
+engine
+General Electric J79
+Bookmarks
+Chinese Academy of Sciences
+中国科学院院士列表
+世界空气污染：实时空气质量指数地图
+screen motion test
+GetHosp
+收录了 792 家莆田系医院
+size-of-space
+ten-years-ago
+mdx词典下载
+RSM
+https://www.minitab.com/en-us/
+https://support.minitab.com/zh-cn/minitab/18/
+https://www.statease.com/
+LS-PrePost
+LS-Pre­Post is an ad­vanced pre and post-proces­sor that is de­liv­ered free with LS-DY­NA.
+https://www.lstc.com/products/ls-prepost
+https://ftp.lstc.com/anonymous/outgoing/lsprepost/]]></description>
+</item><item>
     <title>LaTeX notes</title>
     <link>https://lianfengyeo.github.io/latex-notes/</link>
     <pubDate>Sun, 27 Dec 2020 10:09:30 &#43;0100</pubDate>
@@ -281,29 +315,5 @@ touch deploy.sh //content is as follows
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/hello-world/</guid>
     <description><![CDATA[Hello World! This is the my first blog.😉 ————2020.11.27]]></description>
-</item><item>
-    <title></title>
-    <link>https://lianfengyeo.github.io/my-wiki/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://lianfengyeo.github.io/my-wiki/</guid>
-    <description><![CDATA[**&mdash; weight: 5 title: &ldquo;My wiki&rdquo; date: 2021-01-20T10:09:30+01:00 lastmod: 2021-01-20T10:09:30+01:00 draft: false author: &ldquo;Yeo&rdquo; authorLink: &ldquo;https://lianfengyeo.github.io&rdquo; description: &ldquo;Just my pinboard&rdquo; resources: #- name: &ldquo;featured-image&rdquo;
-src: &ldquo;featured-image.jpg&rdquo; - name: &ldquo;featured-image-preview&rdquo; src: &ldquo;featured-image-preview.jpg&rdquo; tags: [&ldquo;Miscellaneous&rdquo;] categories: [&ldquo;Miscellaneous&rdquo;]
-lightgallery: true
-math: enable: true list of something Ace
-Jim Keller
-John Gruber
-Linus Torvalds
-陶文铨
-找最SCI的故事：致敬陶文铨！耄耋院士，传道授业
-《开讲啦》 西安交通大学教授 国际数值传热学知名专家陶文铨院士
-陈大燮
-engine
-General Electric J79
-Bookmarks
-Chinese Academy of Sciences
-中国科学院院士列表
-世界空气污染：实时空气质量指数地图
-screen motion test]]></description>
 </item></channel>
 </rss>

@@ -1,28 +1,5 @@
-# 
+# My wiki
 
-**---
-weight: 5
-title: "My wiki"
-date: 2021-01-20T10:09:30+01:00
-lastmod: 2021-01-20T10:09:30+01:00
-draft: false
-author: "Yeo"
-authorLink: "https://lianfengyeo.github.io"
-description: "Just my pinboard"
-resources:
-#- name: "featured-image"
-#  src: "featured-image.jpg"
-# - name: "featured-image-preview"
-#   src: "featured-image-preview.jpg"
-
-tags: ["Miscellaneous"]
-categories: ["Miscellaneous"]
-
-lightgallery: true
-
-math:
-  enable: true
----
 
 ## list of something
 
