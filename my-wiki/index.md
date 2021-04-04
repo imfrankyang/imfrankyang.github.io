@@ -11,10 +11,6 @@
 
 [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)  
 
-陶文铨  
-[找最SCI的故事：致敬陶文铨！耄耋院士，传道授业](https://www.bilibili.com/video/BV1et4y19753)  
-[《开讲啦》 西安交通大学教授 国际数值传热学知名专家陶文铨院士](https://www.youtube.com/watch?v=U-tYV8u_2s8)  
-[陈大燮](https://history.seu.edu.cn/2018/0404/c18669a212203/page.htm)  
 
 **engine**
 
@@ -32,8 +28,7 @@
 
 [screen motion test](https://www.testufo.com/)
 
-[GetHosp](http://fuchenxuan.cn/GetHosp/)  
-收录了 792 家莆田系医院
+[GetHosp](http://fuchenxuan.cn/GetHosp/) # 收录了 792 家莆田系医院
 
 [size-of-space](https://neal.fun/size-of-space/)
 

@@ -16,14 +16,14 @@
 ## Linear algebra  
 ### course
 
-Gilbert Strang
-- MIT Linear Algebra "Gilbert Strang"❤️
+**Gilbert Strang**
+- MIT 18.06 Linear Algebra "Gilbert Strang"❤️
   - [18.06SC Linear Algebra (Fall 2011)](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)  
     [18.06 Linear Algebra (Spring 2010)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
-    [[youtube]](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)  
-    [[youtube (with extra)]](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)  
-    [[bilibili]](https://www.bilibili.com/video/BV1zx411g7gq)
+    [youtube](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)  
+    [youtube (with extra)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)  
+    [bilibili](https://www.bilibili.com/video/BV1zx411g7gq)
 
     [**陈莉楠**](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw/search?query=%E9%99%88%E8%8E%89%E6%A5%A0)  
     - [微分方程指数矩阵 (At) | MIT 18.06SC 线性代数, 秋 2011](https://www.youtube.com/watch?v=nTM6ktBeiH4&list=WL&index=3&t=30s)
@@ -38,17 +38,20 @@ Gilbert Strang
   
     - [丁坤博 北京大学](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)
 
+- MIT 18.085 Gilbert Strang  
+  [Computational Science and Engineering I](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)
 
 - [MIT A 2020 Vision of Linear Algebra, Spring 2020 "Gilbert Strang"](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)  
-  [[youtube]](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)  
-  [[bilibili]](https://www.bilibili.com/video/BV1Ki4y147Kh?p=1)
+  [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)  
+  [bilibili](https://www.bilibili.com/video/BV1Ki4y147Kh?p=1)
 
 
 - [MIT Matrix Methods in Data Analysis, Signal Processing, and Machine Learning "Gilbert Strang"](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
-  [[youtube]](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+  [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
 
-Yuwen Luo
+
+**Yuwen Luo**
 - [线性代数 linear algebra "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yl8eQQCob5nr43ACJGHQhmt)  
   - 逆矩阵 inverse matrix
 
@@ -56,7 +59,9 @@ Yuwen Luo
 
 - [linear algebra review(线性代数复习 英文版) "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3YmYkfj_WeN3HFOkKMXj9yRY)
 
-<br><br>
+
+
+**Miscellaneous**
 
 - [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  
 
@@ -64,12 +69,11 @@ Yuwen Luo
 
 - [2021版张宇考研数学基础30讲线性代数完整版](https://www.bilibili.com/video/BV1LV411o7q9)  
 
-
-
 - [Matrix Algebra for Engineers "Jeffrey Chasnov"](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx)  
   - Gaussian elimination | Lecture 10 | Matrix Algebra for Engineers
 
 - [线性代数 万门大学 童哲](https://www.youtube.com/watch?v=ove0ywl962M&list=PL1rUBzS6ux6peJ_VDGlfRmxmrkjKdboue)  
+
 - [【万门大学】线性代数❤️](https://www.youtube.com/playlist?list=PL0GyqFMD-UCH7c_kURb1bm38t_JQJBAEk)
 
 - [四都教育罗玉文](https://www.sudoedu.com/%e8%a7%86%e9%a2%91%e8%af%be%e7%a8%8b/)  
@@ -101,7 +105,7 @@ Yuwen Luo
 
 ## Statistics
 - [MIT Statistics for Applications "Philippe Rigollet"](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)  
-  [[youtube]](https://www.youtube.com/watch?v=VPZD_aij8H0&list=WL&index=67)  
+  [youtube](https://www.youtube.com/watch?v=VPZD_aij8H0&list=WL&index=67)  
 
 
 
@@ -110,16 +114,15 @@ Yuwen Luo
 
 ## Calculus
 
-- [微積分-李柏堅 "CUSTCourses"](https://www.youtube.com/c/CUSTCourses/playlists?view=50&sort=dd&shelf_id=18)
-- [Crash Course Trigonometry "James Hamblin"](https://www.youtube.com/playlist?list=PLNr8B4XHL5kHugFwIm1F064iJTJaXhdrh)
-- [Vector Calculus for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)  
+**MIT**
+- [Highlights of Calculus "Gilbert Strang"](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
+  [bilibili](https://www.bilibili.com/video/av61776318/)
 
-
-- [MIT Single Variable Calculus "David Jerison"](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)  
+- [Single Variable Calculus "David Jerison"](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)  
   [[youtube 18.01]](https://www.youtube.com/playlist?list=PLE2215608E2574180)  
   [[youtube 18.01SC]](https://www.youtube.com/playlist?list=PL47FB68AD27EE8019)  
 
-Yuwen Luo  
+**Yuwen Luo**  
 - [多元微积分 calculus of several variables "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3YnNqTwyg3Lt-5dymCNArbza)
 - [multivariable calculus, calculus of several variables(多元微积分英文版) "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3YlhUGbbxDURDQnDgzPUUN1e)
 - [向量分析 vector analysis "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3YnBlRV3ThL2Z5sG0cK8VTTr)
@@ -129,20 +132,15 @@ Yuwen Luo
 - [calculus "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yn6Oj9Fj9jsAb1AscAefHIR)
 - [微积分复习 calculus review and summary "Yuwen Luo"](https://www.youtube.com/playlist?list=PLn4oMMSpc3Yma1Pq-QTIqHVw2G8mkrWcl)
 
-<br><br>
-
-- [Highlights of Calculus Gilbert Strang MIT ](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
-  [bilibili](https://www.bilibili.com/video/av61776318/)
-
+**Miscellaneous**
 
 - [Calculus "James Hamblin"](https://www.youtube.com/playlist?list=PLNr8B4XHL5kFc8sV2RD5hU0MSjnJvAiiP)
-
 - [清华大学 微积分 78讲](https://www.bilibili.com/video/av22429434/)
-
 - [【俄亥俄州立大学】 Calculus One #微积分基础（Coursera精选）](https://www.bilibili.com/video/av64578050/?p=1)
-
 - [【Coursera】《微积分》Multivariate Calculus（英文）](https://www.bilibili.com/video/av45853362?p=2)
-
+- [微積分-李柏堅 "CUSTCourses"](https://www.youtube.com/c/CUSTCourses/playlists?view=50&sort=dd&shelf_id=18)
+- [Crash Course Trigonometry "James Hamblin"](https://www.youtube.com/playlist?list=PLNr8B4XHL5kHugFwIm1F064iJTJaXhdrh)
+- [Vector Calculus for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)  
 
 
 
@@ -190,3 +188,7 @@ https://liveclass.org.cn/cloudCourse/#/courseDetail/BZ1920200132350_14083
 
 
 <!-- {{< link "" >}}   -->
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[youtube]: youtube "youtube"
+[//end]: # "Autogenerated link references"

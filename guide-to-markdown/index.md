@@ -10,7 +10,9 @@
 
 
 ## Markdown notes
->heading
+
+### heading
+
 ```markdown
 ## h2 Heading
 ### h3 Heading
@@ -19,46 +21,40 @@
 ###### h6 Heading
 ```
 
->开头空格
+### 开头空格
 ```markdown
 &emsp;
 ```
 &emsp;&emsp;This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.This 
 
->空行
+### 空行
 ```markdown
 The second paragraph
-<br>
-<br>
-<br>
+<br><br><br>
 The third paragraph
 ```
 The second paragraph
-<br>
-<br>
-<br>
+<br><br><br>
 The third paragraph
 
->Blockquotes
+### Blockquotes
 ```markdown
 >Blockquotes
 ```
->insert image
+
+### insert image
 ```markdown
 ![steve and MacBook Air 2](Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
 ```
 ![steve and MacBook Air 2](Steve_Jobs_with_MacBook_Air_2.jpg "Steve Jobs with MacBook Air2")
 
-![Steve_Jobs_with_MacBook_Air_2](Steve_Jobs_with_MacBook_Air_2.jpg)
-
->insert link 
+### insert link 
 ```markdown
 [homepage](https://lianfengyeo.github.io)
 ```
 [homepage](https://lianfengyeo.github.io)  
-[theme of loveit](https://hugoloveit.com/zh-cn/)  
 
->justify
+### justify (html)
 ```markdown
 <p align = "justify"> 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
@@ -68,31 +64,31 @@ Markdown is a lightweight markup language with plain-text-formatting syntax. Its
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
 </p>
 
->左对齐
+### 左对齐
 ```markdown
 <p align="left">左对齐</p>
 ```
 <p align="left">左对齐</p>
 
->右对齐
+### 右对齐
 ```markdown
 <p align="right">右对齐</p>
 ```
 <p align="right">右对齐</p>
 
->居中
+### 居中
 ```markdown
 <center>居中</center>
 ```
 <center>居中</center>
 
->equation
-
-默认的公式块分割符是 `$$/$$` 和 `\\[/\\]`
-默认的行内公式分割符是 `$/$` 和 `\\(/\\)`
+### equation
+默认的行内公式分割符是 `$equ$` 和 `\\( equ \\)`
+默认的公式块分割符是 `$$ equ $$` 和 `\\[ equ \\]`
 ```markdown
+#行内公式
 $c = \pm\sqrt{a^2 + b^2}$
-
+#公式块
 $$
 c = \pm\sqrt{a^2 + b^2}
 $$
@@ -103,18 +99,18 @@ $$
 c = \pm\sqrt{a^2 + b^2}
 $$
 
->bold
+### bold
 ```markdown
 **This is bold fonts**
 ```
 **This is bold fonts**
 
->italic
+### italic
 ```markdown
 *italic*
 ```
 
->emoji render
+### emoji render
 [fontawesome](https://fontawesome.com/icons?d=gallery)  
 <!-- 不渲染emoji时，前面的：变成{?:} eg:{?:}joy:    -->
 
@@ -126,6 +122,13 @@ $$
 去露营啦! :(fas fa-campground fa-fw): 很快就回来.
 
 真开心! :(far fa-grin-tears):
+
+
+
+
+
+
+
 
 
 # BUILD-IN SHORTCODE 

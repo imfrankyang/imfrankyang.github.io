@@ -48,6 +48,10 @@ film cooling, experiment, PSU
   Philipp Schlatter
 googlescholar
 LES, DNS, NACA airfoil, plate, KTH
+  陶文铨
+找最SCI的故事：致敬陶文铨！耄耋院士，传道授业
+《开讲啦》 西安交通大学教授 国际数值传热学知名专家陶文铨院士
+陈大燮
   ]]></description>
 </item><item>
     <title>CFD software</title>
@@ -170,10 +174,6 @@ Air - Thermophysical Properties
 Jim Keller
 John Gruber
 Linus Torvalds
-陶文铨
-找最SCI的故事：致敬陶文铨！耄耋院士，传道授业
-《开讲啦》 西安交通大学教授 国际数值传热学知名专家陶文铨院士
-陈大燮
 engine
 General Electric J79
 Bookmarks
@@ -181,8 +181,7 @@ Chinese Academy of Sciences
 中国科学院院士列表
 世界空气污染：实时空气质量指数地图
 screen motion test
-GetHosp
-收录了 792 家莆田系医院
+GetHosp # 收录了 792 家莆田系医院
 size-of-space
 ten-years-ago
 mdx词典下载
@@ -264,11 +263,11 @@ B = transpose(A)]]></description>
     <guid>https://lianfengyeo.github.io/linux-env/</guid>
     <description><![CDATA[Linux tutorial bolg
  Linux Cluster Blog is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux  Video tutorial
- Learn CentOS &ldquo;LearnLinuxTV&rdquo; 计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)  Ubuntu  List of releases releases downloads  Fortran   fcode [bilibili]
+ Learn CentOS &ldquo;LearnLinuxTV&rdquo; 计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)  Ubuntu
+ List of releases releases downloads Mirror Tsinghua  CentOS
+ Mirror Tsinghua Centos6 Mirror Tsinghua Centos7 8  Fortran   fcode [bilibili]
   15分钟Fortran从0到够用 #030
-  [Fortran Tuto 2] Basics about variables
-  ustc
-  Mistakes in Fortran 90 Programs That Might Surprise You]]></description>
+  [Fortran Tuto 2] Basics about variables]]></description>
 </item><item>
     <title>Mathematics</title>
     <link>https://lianfengyeo.github.io/mathematics/</link>
@@ -276,12 +275,12 @@ B = transpose(A)]]></description>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/mathematics/</guid>
     <description><![CDATA[Math  lockdown math Lecture Collection | Mathematics: Making the Invisible Visible &ldquo;Stanford&rdquo; 2017新东方考研数学强化班 高数 张宇 2021版张宇高等数学考研数学基础30讲高等数学 Math for Liberal Studies Lectures &ldquo;James Hamblin&rdquo;  Linear algebra course Gilbert Strang
-  MIT Linear Algebra &ldquo;Gilbert Strang&quot;❤️
+  MIT 18.06 Linear Algebra &ldquo;Gilbert Strang&quot;❤️
   18.06SC Linear Algebra (Fall 2011)
 18.06 Linear Algebra (Spring 2010)
-[youtube]
-[youtube (with extra)]
-[bilibili]
+youtube
+youtube (with extra)
+bilibili
 陈莉楠
  微分方程指数矩阵 (At) | MIT 18.06SC 线性代数, 秋 2011 行列式 | MIT 18.06SC 线性代数, 秋 2011 三维空间的子空间 | MIT 18.]]></description>
 </item><item>
@@ -305,9 +304,7 @@ touch deploy.sh //content is as follows
     <guid>https://lianfengyeo.github.io/guide-to-markdown/</guid>
     <description><![CDATA[Markdown Reference   Markdown Syntax &lsquo;getgrav&rsquo;
   教你Markdown+VSCODE实现最完美流畅写作体验
-  Markdown notes  heading
- 1 2 3 4 5  ## h2 Heading ### h3 Heading #### h4 Heading ##### h5 Heading ###### h6 Heading    开头空格
- 1  &amp;emsp;    This is the main body of the text.This is the main body of the text.This is the main body of the text.]]></description>
+  Markdown notes heading 1 2 3 4 5  ## h2 Heading ### h3 Heading #### h4 Heading ##### h5 Heading ###### h6 Heading   开头空格 1  &amp;emsp;    This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.]]></description>
 </item><item>
     <title>Hello World</title>
     <link>https://lianfengyeo.github.io/hello-world/</link>

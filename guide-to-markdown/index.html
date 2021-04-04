@@ -33,7 +33,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/guide-to-markdown\/featured-image.jpg",
                             "width":  1420 ,
                             "height":  708 
-                        }],"genre": "posts","keywords": "markdown","wordcount":  7085 ,
+                        }],"genre": "posts","keywords": "markdown","wordcount":  7088 ,
         "url": "https:\/\/lianfengyeo.github.io\/guide-to-markdown\/","datePublished": "2020-11-27T22:55:58+01:00","dateModified": "2020-11-27T22:55:58+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -119,7 +119,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Guide to Markdown</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/markdown/"><i class="far fa-folder fa-fw"></i>Markdown</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-11-27">2020-11-27</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;7085 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-11-27">2020-11-27</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;7088 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;34 minutes&nbsp;</div>
         </div><div class="featured-image"><img
         class="lazyload"
@@ -136,7 +136,24 @@
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
     <li><a href="#reference">Reference</a></li>
-    <li><a href="#markdown-notes">Markdown notes</a></li>
+    <li><a href="#markdown-notes">Markdown notes</a>
+      <ul>
+        <li><a href="#heading">heading</a></li>
+        <li><a href="#开头空格">开头空格</a></li>
+        <li><a href="#空行">空行</a></li>
+        <li><a href="#blockquotes">Blockquotes</a></li>
+        <li><a href="#insert-image">insert image</a></li>
+        <li><a href="#insert-link">insert link</a></li>
+        <li><a href="#justify-html">justify (html)</a></li>
+        <li><a href="#左对齐">左对齐</a></li>
+        <li><a href="#右对齐">右对齐</a></li>
+        <li><a href="#居中">居中</a></li>
+        <li><a href="#equation">equation</a></li>
+        <li><a href="#bold">bold</a></li>
+        <li><a href="#italic">italic</a></li>
+        <li><a href="#emoji-render">emoji render</a></li>
+      </ul>
+    </li>
   </ul>
 
   <ul>
@@ -328,9 +345,7 @@
 </li>
 </ul>
 <h2 id="markdown-notes">Markdown notes</h2>
-<blockquote>
-<p>heading</p>
-</blockquote>
+<h3 id="heading">heading</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -347,9 +362,7 @@
 </span><span class="gu">###### h6 Heading
 </span></code></pre></td></tr></table>
 </div>
-</div><blockquote>
-<p>开头空格</p>
-</blockquote>
+</div><h3 id="开头空格">开头空格</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -359,33 +372,23 @@
 </code></pre></td></tr></table>
 </div>
 </div><p>  This is the main body of the text.This is the main body of the text.This is the main body of the text.This is the main body of the text.This</p>
-<blockquote>
-<p>空行</p>
-</blockquote>
+<h3 id="空行">空行</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-markdown" data-lang="markdown">The second paragraph
-<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;&lt;</span><span class="nt">br</span><span class="p">&gt;&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
 The third paragraph
 </code></pre></td></tr></table>
 </div>
 </div><p>The second paragraph
-<br>
-<br>
-<br>
+<br><br><br>
 The third paragraph</p>
-<blockquote>
-<p>Blockquotes</p>
-</blockquote>
+<h3 id="blockquotes">Blockquotes</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -394,9 +397,7 @@ The third paragraph</p>
 <pre class="chroma"><code class="language-markdown" data-lang="markdown">&gt;Blockquotes
 </code></pre></td></tr></table>
 </div>
-</div><blockquote>
-<p>insert image</p>
-</blockquote>
+</div><h3 id="insert-image">insert image</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -415,17 +416,7 @@ The third paragraph</p>
             alt="/guide-to-markdown/Steve_Jobs_with_MacBook_Air_2.jpg" />
     </a><figcaption class="image-caption">Steve Jobs with MacBook Air2</figcaption>
     </figure></p>
-<p><img
-        class="lazyload"
-        src="/svg/loading.min.svg"
-        data-src="Steve_Jobs_with_MacBook_Air_2.jpg"
-        data-srcset="/guide-to-markdown/Steve_Jobs_with_MacBook_Air_2.jpg, Steve_Jobs_with_MacBook_Air_2.jpg 1.5x, /guide-to-markdown/Steve_Jobs_with_MacBook_Air_2.jpg 2x"
-        data-sizes="auto"
-        alt="/guide-to-markdown/Steve_Jobs_with_MacBook_Air_2.jpg"
-        title="Steve_Jobs_with_MacBook_Air_2" /></p>
-<blockquote>
-<p>insert link</p>
-</blockquote>
+<h3 id="insert-link">insert link</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -434,11 +425,8 @@ The third paragraph</p>
 <pre class="chroma"><code class="language-markdown" data-lang="markdown">[<span class="nt">homepage</span>](<span class="na">https://lianfengyeo.github.io</span>)
 </code></pre></td></tr></table>
 </div>
-</div><p><a href="https://lianfengyeo.github.io" target="_blank" rel="noopener noreffer">homepage</a><br>
-<a href="https://hugoloveit.com/zh-cn/" target="_blank" rel="noopener noreffer">theme of loveit</a></p>
-<blockquote>
-<p>justify</p>
-</blockquote>
+</div><p><a href="https://lianfengyeo.github.io" target="_blank" rel="noopener noreffer">homepage</a></p>
+<h3 id="justify-html">justify (html)</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -454,9 +442,7 @@ Markdown is a lightweight markup language with plain-text-formatting syntax. Its
 </div><p align = "justify"> 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] 
 </p>
-<blockquote>
-<p>左对齐</p>
-</blockquote>
+<h3 id="左对齐">左对齐</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -466,9 +452,7 @@ Markdown is a lightweight markup language with plain-text-formatting syntax. Its
 </code></pre></td></tr></table>
 </div>
 </div><p align="left">左对齐</p>
-<blockquote>
-<p>右对齐</p>
-</blockquote>
+<h3 id="右对齐">右对齐</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -478,9 +462,7 @@ Markdown is a lightweight markup language with plain-text-formatting syntax. Its
 </code></pre></td></tr></table>
 </div>
 </div><p align="right">右对齐</p>
-<blockquote>
-<p>居中</p>
-</blockquote>
+<h3 id="居中">居中</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -490,11 +472,9 @@ Markdown is a lightweight markup language with plain-text-formatting syntax. Its
 </code></pre></td></tr></table>
 </div>
 </div><center>居中</center>
-<blockquote>
-<p>equation</p>
-</blockquote>
-<p>默认的公式块分割符是 <code>$$/$$</code> 和 <code>\\[/\\]</code>
-默认的行内公式分割符是 <code>$/$</code> 和 <code>\\(/\\)</code></p>
+<h3 id="equation">equation</h3>
+<p>默认的行内公式分割符是 <code>$equ$</code> 和 <code>\\( equ \\)</code>
+默认的公式块分割符是 <code>$$ equ $$</code> 和 <code>\\[ equ \\]</code></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -502,11 +482,13 @@ Markdown is a lightweight markup language with plain-text-formatting syntax. Its
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
+</span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">$c = \pm\sqrt{a^2 + b^2}$
-
-$$
+<pre class="chroma"><code class="language-markdown" data-lang="markdown"><span class="gh">#行内公式
+</span><span class="gh"></span>$c = \pm\sqrt{a^2 + b^2}$
+<span class="gh">#公式块
+</span><span class="gh"></span>$$
 c = \pm\sqrt{a^2 + b^2}
 $$
 </code></pre></td></tr></table>
@@ -515,9 +497,7 @@ $$
 <p>$$
 c = \pm\sqrt{a^2 + b^2}
 $$</p>
-<blockquote>
-<p>bold</p>
-</blockquote>
+<h3 id="bold">bold</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -527,9 +507,7 @@ $$</p>
 </code></pre></td></tr></table>
 </div>
 </div><p><strong>This is bold fonts</strong></p>
-<blockquote>
-<p>italic</p>
-</blockquote>
+<h3 id="italic">italic</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -538,10 +516,8 @@ $$</p>
 <pre class="chroma"><code class="language-markdown" data-lang="markdown">*italic*
 </code></pre></td></tr></table>
 </div>
-</div><blockquote>
-<p>emoji render
-<a href="https://fontawesome.com/icons?d=gallery" target="_blank" rel="noopener noreffer">fontawesome</a></p>
-</blockquote>
+</div><h3 id="emoji-render">emoji render</h3>
+<p><a href="https://fontawesome.com/icons?d=gallery" target="_blank" rel="noopener noreffer">fontawesome</a></p>
 <!-- 不渲染emoji时，前面的：变成: eg::joy:    -->
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -8021,7 +7997,7 @@ But sometimes you may want to start a set of <code>typeit</code> contents in ord
                 Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">Utterances</a>.
             </noscript></div></article></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.81.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.82.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
                 </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020 - 2021</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Lianfengyeo</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" target="_blank">CC BY-NC-ND 4.0</a></span></div>
         </div>
     </footer></div>
