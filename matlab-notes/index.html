@@ -34,7 +34,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "matlab","wordcount":  47 ,
+                        }],"genre": "posts","keywords": "matlab","wordcount":  67 ,
         "url": "https:\/\/lianfengyeo.github.io\/matlab-notes\/","datePublished": "2020-12-16T10:09:30+01:00","dateModified": "2020-12-16T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -120,7 +120,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Matlab notes</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/academic/"><i class="far fa-folder fa-fw"></i>Academic</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-16">2020-12-16</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;47 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-16">2020-12-16</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;67 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -150,16 +150,52 @@ Display multiple image frames as rectangular montage</p>
 Create customizable rectangular ROI</p>
 </li>
 <li>
-<p><a href="https://www.mathworks.com/help/images/ref/normxcorr2.html" target="_blank" rel="noopener noreffer">normxcorr2</a>
+<p><a href="https://www.mathworks.com/help/images/ref/normxcorr2.html" target="_blank" rel="noopener noreffer">normxcorr2</a><br>
+Normalized 2-D cross-correlation 
 <a href="https://www.mathworks.com/help/images/registering-an-image-using-normalized-cross-correlation.html" target="_blank" rel="noopener noreffer">[example]</a></p>
 </li>
+<li>
+<p><a href="https://www.mathworks.com/help/matlab/ref/transpose.html?searchHighlight=transpose&amp;s_tid=srchtitle" target="_blank" rel="noopener noreffer">transpose, .'</a></p>
+</li>
 </ul>
-<h3 id="script">script</h3>
-<p>A= [1 2 3 4 ; 5 6 7 8; 1 2 9 10; 2 5 11 12]</p>
-<p>a = det (A)</p>
-<p>B = A.'<br>
-B = transpose(A)</p>
-</div><div class="post-footer" id="post-footer">
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-matlab" data-lang="matlab"><span class="n">B</span> <span class="p">=</span> <span class="n">A</span><span class="p">.</span><span class="o">&#39;</span>  
+<span class="n">B</span> <span class="p">=</span> <span class="n">transpose</span><span class="p">(</span><span class="n">A</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="script">script</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-matlab" data-lang="matlab">#<span class="n">matrix</span> 
+<span class="n">A</span> <span class="p">=</span> <span class="p">[</span><span class="mi">1</span> <span class="mi">2</span> <span class="mi">3</span> <span class="mi">4</span> <span class="p">;</span> <span class="mi">5</span> <span class="mi">6</span> <span class="mi">7</span> <span class="mi">8</span><span class="p">;</span> <span class="mi">1</span> <span class="mi">2</span> <span class="mi">9</span> <span class="mi">10</span><span class="p">;</span> <span class="mi">2</span> <span class="mi">5</span> <span class="mi">11</span> <span class="mi">12</span><span class="p">]</span>
+
+#<span class="n">Determinate</span>
+<span class="n">a</span> <span class="p">=</span> <span class="n">det</span> <span class="p">(</span><span class="n">A</span><span class="p">)</span>
+
+
+
+
+
+</code></pre></td></tr></table>
+</div>
+</div></div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
