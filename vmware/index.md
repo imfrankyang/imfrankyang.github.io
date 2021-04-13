@@ -2,11 +2,11 @@
 
 
 
-**tutorial**  
+### tutorial  
 [Catlin Wu youtube](https://www.youtube.com/c/CatlinWu/videos)
 
 
-**WorkStation to ESXi**  
+### VMware Workstation to ESXi  
 
 1. WorkStation虚拟机多个磁盘文件合并成一个
 
@@ -19,8 +19,7 @@ cd /vmfs/volumes/虚拟机文件夹/
 vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin
 ```
 
-
-**ESXi update**
+### ESXi update
 
 https://www.vediotalk.com/archives/3956
 
@@ -36,45 +35,50 @@ reboot
 ```
 
 
-**VMware to Virtualbox**
+## VMware Workstation to Virtualbox**
 
 ```shell
 "C:\Program Files (x86)\VMware\VMware Workstation\OVFTool\ovftool.exe" "D:\vmware.vmx"  "D:\vmware.ovf"
 ```
 
 
-**vmware安装macos**
+### VMware Workstation 安装macos
 
-下载[vmware tools](https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar)  
-com.vmware.fusion.zip.tar放到unlocker/tools/
+下载[com.vmware.fusion.zip.tar](https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar)，放到unlocker/tools/
 
 
-**vmware 压缩硬盘**
+### VMware Workstation 硬盘操作
 
+**压缩硬盘**
 ```bash
-#mac 系统内
+#mac虚拟机内
 cat /dev/zero > wipefile; rm wipefile
 sudo /Library/Application\ Support/VMware\ Tools/vmware-tools-cli disk shrink /
 
-#win 
+#win主系统 
 "C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe" -k "D:\vmware.vmdk" 
 
-#linux 系统内
+#linux虚拟内
 sudo rm -rf .cache/
 sudo /usr/bin/vmware-toolbox-cmd disk list
 sudo vmware-toolbox-cmd disk shrink /
 ```
 
+**重命名vmdk文件**
 ```shell
-#重命名vmdk文件
 "C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe" -n "source.vmdk" "target.vmdk"
+```
 
-#合并硬盘
+**合并硬盘**
+```shell
 "C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe" -r "C:\vmware1.vmdk" -t 0 "C:\vmware2.vmdk"
+```
 
-#分割硬盘
+**分割硬盘**
+```shell
 "C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe" -r "C:\vmware1.vmdk" -t 1 "C:\vmware2.vmdk"
 ```
+
 -r参数指定源磁盘文件  
 -t参数指定输出虚拟磁盘文件的类型，其值为以下类型之一：  
 0：创建一个包含在单一虚拟文件中的可增长虚拟磁盘  
@@ -83,20 +87,49 @@ sudo vmware-toolbox-cmd disk shrink /
 3：创建一个被分割为每个文件2GB大小的预分配虚拟磁盘  
 
 
+### vmware tools
+```
+#install
+sudo ./vmware-tools-distrib/vmware-install.pl
 
-**open vm tools**  
-https://github.com/vmware/open-vm-tools  
-https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html  
-
-```bash
-sudo apt install open-vm-tools
-sudo apt install open-vm-tools-desktop
+#uninstall
+sudo ./vmware-tools-distrib/bin/vmware-uninstall-tools.pl
 ```
 
-
-
 {{< admonition tip "" true >}}
-ESXi 7.0 后多出VMFS-L的空间如何删除VMFSL
+当再次安装Vmware Tools出现错误。
+
+安装前把 /usr/lib/vmware-tools删除： rm -rvf /usr/lib/vmware-tools
+{{< /admonition >}}
+
+### open vm tools
+
+- https://github.com/vmware/open-vm-tools  
+- https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html  
+
+**install**
+```bash
+#ubuntu
+sudo apt install open-vm-tools
+sudo apt install open-vm-tools-desktop
+
+#centos
+sudo yum install open-vm-tools
+sudo yum install open-vm-tools-desktop
+```
+
+**uninstall**
+```bash
+#ubuntu
+apt remove open-vm-tools-desktop
+
+#centos8
+dnf remove open-vm-tools
+```
+
+### 常见问题
+{{< admonition tip "" true >}}
+安装ESXi 7.0 后多出VMFS-L的空间如何删除VMFSL
 
 u盘引导后，按Shift+O键  
 autoPartitionOSDataSize=8192  

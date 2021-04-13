@@ -3,7 +3,7 @@
 
 ## CFD software
 - OpenFOAM  
-  For more information please visit [here](https://lianfengyeo.github.io/openfoam/)
+  For more information please refer to the previous paper [click here](https://lianfengyeo.github.io/openfoam/)
 
 - nek5000  
   https://nek5000.mcs.anl.gov/

@@ -19,6 +19,7 @@
 CFD中文网
 2016目录
 东岳流体 AKAD
+  https://forum.cfdac.com/
   Course
   Computational Methods in Aerospace Engineering MIT
   陶文铨院士
@@ -62,7 +63,7 @@ LES, DNS, NACA airfoil, plate, KTH
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cfd-software/</guid>
     <description><![CDATA[CFD software   OpenFOAM
-For more information please visit here
+For more information please refer to the previous paper click here
   nek5000
 https://nek5000.mcs.anl.gov/
   nekRS
@@ -84,9 +85,7 @@ https://cerfacs.fr/en/
   Post-processing   paraview
 https://www.paraview.org/
   Gid
-https://www.gidhome.com/
-  Tecplot
-PyTecplot document]]></description>
+https://www.gidhome.com/]]></description>
 </item><item>
     <title>LaTeX installation</title>
     <link>https://lianfengyeo.github.io/latex-installation/</link>
@@ -125,12 +124,9 @@ Icons of CFD: David Gosman]]></description>
     <pubDate>Mon, 08 Feb 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/vmware/</guid>
-    <description><![CDATA[tutorial
-Catlin Wu youtube
-WorkStation to ESXi
- WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update
-https://www.vediotalk.com/archives/3956
- Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip -p ESXi-7.]]></description>
+    <description><![CDATA[tutorial Catlin Wu youtube
+VMware Workstation to ESXi  WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update https://www.vediotalk.com/archives/3956
+ Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7.]]></description>
 </item><item>
     <title>CFD hardware</title>
     <link>https://lianfengyeo.github.io/cfd-hardware/</link>
@@ -217,10 +213,10 @@ https://ftp.lstc.com/anonymous/outgoing/lsprepost/]]></description>
     <pubDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/openfoam/</guid>
-    <description><![CDATA[version  The OpenFOAM Foundation OpenFOAM基金会版 ESI集团版  Document  User Guide ESI  installation  Unofficial OpenFOAM wiki Installing OpenFOAM 8 in your new Linux virtual machine Installing OpenFOAM v2006 in your new Linux virtual machine  Toturial   OpenFOAM &ldquo;CFD NINJA / ANSYS CFD&rdquo;
-  Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo;
-  OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot;
-  Introduction to OpenFOAM @ Ghent University (May'16)]]></description>
+    <description><![CDATA[version  The OpenFOAM Foundation 基金会版 ESI集团版  installation  Unofficial OpenFOAM wiki Category:Installing OpenFOAM on Linux - OpenFOAMWiki gcc Compatibility for old OpenFOAM  OpenFOAM基金会版
+ OpenFOAM github OpenFOAM focal amd64 SourceForge Install v8 on Ubuntu Install OpenFOAM 8 video  ESI集团版
+ Install OpenFOAM v2006 video OpenFOAM® Installation From Source OpenFOAM® Build Guide BUILD ThirdParty OpenFOAM® System Requirements  Document   OpenFOAM User Guide Foundation
+  OpenFOAM User Guide ESI]]></description>
 </item><item>
     <title>Research tools</title>
     <link>https://lianfengyeo.github.io/research-tools/</link>

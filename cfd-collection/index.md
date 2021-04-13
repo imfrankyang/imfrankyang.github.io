@@ -34,6 +34,8 @@ graph LR;
 * English ability
 * ...
 
+
+
 **CFD forum**
 
 - http://www.cfdreview.com/
@@ -44,6 +46,9 @@ graph LR;
   [CFD中文网](https://cfd-china.com/)  
     [2016目录](https://www.cfd-china.com/topic/666/2016%E7%9B%AE%E5%BD%95)  
   [东岳流体 AKAD](http://dyfluid.com/)  
+
+- https://forum.cfdac.com/
+
 
 **Course**
 
@@ -81,6 +86,25 @@ graph LR;
 - tensor
   [Tensor Calculus](https://www.youtube.com/playlist?list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_)
 
+- 2.097- Qiqi Wang  
+  [Num Methods for Part Diff Eq materials mit](https://learning-modules.mit.edu/materials/index.html?uuid=/course/16/fa18/16.920#materials)
+
+
+
+University of Michigan
+
+Main courses included:
+• Computational Fluid Dynamics (ME523)
+• Advanced Heat Transfer (ME530)
+• Interned Dynamics (ME540)
+• Analytical methods in mechanics (ME501)
+• Introduction to Turbulent Flows (AERO525)
+• Introduction to Numerical Methods (MATH471)
+
+
+
+
+
 **知乎专栏**
 
 - [一起来学CFD](https://www.zhihu.com/column/cfdnotebook)
@@ -93,9 +117,12 @@ graph LR;
 
 
 
-  `2.097- Qiqi Wang`  
-  [learning-modules](https://learning-modules.mit.edu/materials/index.html?uuid=/course/16/fa18/16.920#materials)
-  
+
+
+
+
+
+
 
 **Ansys tutorial**  
 
@@ -107,11 +134,17 @@ graph LR;
 - [CFD NINJA / ANSYS CFD](https://www.youtube.com/channel/UC3XvZi4o5YZoh7LXY45YI6g)
 
 
+
+
+
 **Organization**  
 
 - [ERCOFTAC](https://www.ercoftac.org/)  
 - [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)  
 - [Air Force Research Laboratory](https://www.afrl.af.mil/)  
+
+
+
 
 
 **CFD channel**
@@ -131,11 +164,13 @@ graph LR;
 
 
 
+
+
 **Books**
 
 [有关流体力学或者计算流体力学的经典教材](https://www.zhihu.com/question/20988412/answer/1491155615)
 
-
+[CFD 书单](https://forum.cfdac.com/t/topic/377)
 
 
 
@@ -200,8 +235,14 @@ graph LR;
   [youtube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/featured)
   
 
+
+
+
 **Boundary layer**
 - [天津大学老师自制课程](https://space.bilibili.com/176075/video)  
+
+
+
 
 **Material derivative**
 * [wiki](https://www.wikiwand.com/en/Material_derivative)  
@@ -273,6 +314,9 @@ how to determine the $\Delta$T
   [[github openpiv-python]](https://github.com/OpenPIV/openpiv-python)
   [[youtube]](https://www.youtube.com/channel/UCMgp5JQQtqn9vXcrbuMefXw/featured)  
   [readthedocs](https://openpiv.readthedocs.io/en/latest/index.html)  
+
+
+
 
 **Cross-correlation**
 

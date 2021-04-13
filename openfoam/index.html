@@ -34,7 +34,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "OpenFOAM","wordcount":  97 ,
+                        }],"genre": "posts","keywords": "OpenFOAM","wordcount":  150 ,
         "url": "https:\/\/lianfengyeo.github.io\/openfoam\/","datePublished": "2020-12-26T10:09:30+01:00","dateModified": "2020-12-26T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -120,7 +120,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">OpenFOAM</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/academic/"><i class="far fa-folder fa-fw"></i>Academic</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-26">2020-12-26</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;97 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-26">2020-12-26</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;150 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -129,26 +129,51 @@
                 </div>
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
-    <li><a href="#version">version</a></li>
-    <li><a href="#document">Document</a></li>
-    <li><a href="#installation">installation</a></li>
-    <li><a href="#toturial">Toturial</a></li>
+    <li>
+      <ul>
+        <li><a href="#version">version</a></li>
+        <li><a href="#installation">installation</a></li>
+        <li><a href="#document">Document</a></li>
+        <li><a href="#toturial">Toturial</a></li>
+        <li><a href="#pyfoam">PyFoam</a></li>
+      </ul>
+    </li>
   </ul>
 </nav></div>
             </div><div class="content" id="content"><h2 id="version">version</h2>
 <ul>
-<li><a href="https://openfoam.org/" target="_blank" rel="noopener noreffer">The OpenFOAM Foundation  OpenFOAM基金会版</a></li>
+<li><a href="https://openfoam.org/" target="_blank" rel="noopener noreffer">The OpenFOAM Foundation 基金会版</a></li>
 <li><a href="https://www.openfoam.com/" target="_blank" rel="noopener noreffer">ESI集团版</a></li>
-</ul>
-<h2 id="document">Document</h2>
-<ul>
-<li><a href="https://www.openfoam.com/documentation/user-guide/" target="_blank" rel="noopener noreffer">User Guide ESI</a></li>
 </ul>
 <h2 id="installation">installation</h2>
 <ul>
 <li><a href="https://openfoamwiki.net/index.php/Main_Page" target="_blank" rel="noopener noreffer">Unofficial OpenFOAM wiki</a></li>
-<li><a href="https://www.youtube.com/watch?v=zWX2wCXDNNA&amp;list=PLoI86R1JVvv-wuvCrpq28pOzS77s1GBz1&amp;index=3" target="_blank" rel="noopener noreffer">Installing OpenFOAM 8 in your new Linux virtual machine</a></li>
-<li><a href="https://www.youtube.com/watch?v=mhh6GBBpvnk&amp;list=PLoI86R1JVvv-wuvCrpq28pOzS77s1GBz1&amp;index=4" target="_blank" rel="noopener noreffer">Installing OpenFOAM v2006 in your new Linux virtual machine</a></li>
+<li><a href="https://openfoamwiki.net/index.php/Category:Installing_OpenFOAM_on_Linux" target="_blank" rel="noopener noreffer">Category:Installing OpenFOAM on Linux - OpenFOAMWiki</a></li>
+<li><a href="https://openfoamwiki.net/index.php/Installation/Compatibility_Matrix" target="_blank" rel="noopener noreffer">gcc Compatibility for old OpenFOAM</a></li>
+</ul>
+<p><strong>OpenFOAM基金会版</strong></p>
+<ul>
+<li><a href="https://github.com/OpenFOAM" target="_blank" rel="noopener noreffer">OpenFOAM github</a></li>
+<li><a href="https://sourceforge.net/projects/foam/files/foam/ubuntu/dists/focal/main/binary-amd64/" target="_blank" rel="noopener noreffer">OpenFOAM focal amd64 SourceForge</a></li>
+<li><a href="https://openfoam.org/download/8-ubuntu/" target="_blank" rel="noopener noreffer">Install v8 on Ubuntu</a></li>
+<li><a href="https://www.youtube.com/watch?v=zWX2wCXDNNA" target="_blank" rel="noopener noreffer">Install OpenFOAM 8 video</a></li>
+</ul>
+<p><strong>ESI集团版</strong></p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=mhh6GBBpvnk" target="_blank" rel="noopener noreffer">Install OpenFOAM v2006 video</a></li>
+<li><a href="https://www.openfoam.com/download/install-source.php" target="_blank" rel="noopener noreffer">OpenFOAM® Installation From Source</a></li>
+<li><a href="https://www.openfoam.com/code/build-guide.php" target="_blank" rel="noopener noreffer">OpenFOAM® Build Guide</a></li>
+<li><a href="https://develop.openfoam.com/Development/ThirdParty-common/blob/develop/BUILD.md" target="_blank" rel="noopener noreffer">BUILD ThirdParty</a></li>
+<li><a href="https://www.openfoam.com/documentation/system-requirements.php" target="_blank" rel="noopener noreffer">OpenFOAM®  System Requirements</a></li>
+</ul>
+<h2 id="document">Document</h2>
+<ul>
+<li>
+<p><a href="https://cfd.direct/openfoam/user-guide/" target="_blank" rel="noopener noreffer">OpenFOAM User Guide Foundation</a></p>
+</li>
+<li>
+<p><a href="https://www.openfoam.com/documentation/user-guide/index.php" target="_blank" rel="noopener noreffer">OpenFOAM User Guide ESI</a></p>
+</li>
 </ul>
 <h2 id="toturial">Toturial</h2>
 <ul>
@@ -156,10 +181,8 @@
 <p><a href="https://www.youtube.com/playlist?list=PLd23hHm4FCRdFxcjAqEMd6W2cikPaaNXS" target="_blank" rel="noopener noreffer">OpenFOAM &ldquo;CFD NINJA / ANSYS CFD&rdquo;</a></p>
 </li>
 <li>
-<p><a href="https://www.youtube.com/playlist?list=PLhPfNw4V4_YT9OgqS7ZPlot_Ucxzc6pQJ" target="_blank" rel="noopener noreffer">Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo;</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/playlist?list=PLhPfNw4V4_YRhBU4IqSaToQ8_X543YQsZ" target="_blank" rel="noopener noreffer">OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot;</a></p>
+<p><a href="https://www.youtube.com/playlist?list=PLhPfNw4V4_YT9OgqS7ZPlot_Ucxzc6pQJ" target="_blank" rel="noopener noreffer">Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo;</a>
+<a href="https://www.youtube.com/playlist?list=PLhPfNw4V4_YRhBU4IqSaToQ8_X543YQsZ" target="_blank" rel="noopener noreffer">OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot;</a></p>
 </li>
 <li>
 <p><a href="https://www.youtube.com/playlist?list=PLqxhJj6bcnY9RoIgzeF6xDh5L9bbeK3BL" target="_blank" rel="noopener noreffer">Introduction to OpenFOAM @ Ghent University (May'16)</a></p>
@@ -192,8 +215,28 @@ A tutorial from University of genova<br>
 </ul>
 <p><strong>blog</strong></p>
 <ul>
-<li><a href="https://marinecfd.xyz/post/" target="_blank" rel="noopener noreffer">OpenFOAM 之道</a></li>
+<li>
+<p><a href="https://marinecfd.xyz/post/" target="_blank" rel="noopener noreffer">OpenFOAM 之道</a></p>
+</li>
+<li>
+<p><a href="http://xiaopingqiu.github.io/" target="_blank" rel="noopener noreffer">Giskard&rsquo;s CFD Learning Tricks</a></p>
+</li>
+<li>
+<p><a href="http://blog.sina.com.cn/openfoamresearch" target="_blank" rel="noopener noreffer">bolg 苏军伟</a></p>
+</li>
 </ul>
+<h2 id="pyfoam">PyFoam</h2>
+<p>install python and download from <a href="https://pypi.org/project/PyFoam/">https://pypi.org/project/PyFoam/</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">pip install PyFoam
+</code></pre></td></tr></table>
+</div>
+</div><p>郭志馗 <a href="https://gitlab.com/hydrothermal-openfoam/scipyfoam">https://gitlab.com/hydrothermal-openfoam/scipyfoam</a>
+command of PyFoam <a href="http://openfoamwiki.net/index.php/Contrib_PyFoam">http://openfoamwiki.net/index.php/Contrib_PyFoam</a></p>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">

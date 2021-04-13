@@ -17,6 +17,7 @@
 CFD中文网
 2016目录
 东岳流体 AKAD
+  https://forum.cfdac.com/
   Course
   Computational Methods in Aerospace Engineering MIT
   陶文铨院士
@@ -60,7 +61,7 @@ LES, DNS, NACA airfoil, plate, KTH
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cfd-software/</guid>
     <description><![CDATA[CFD software   OpenFOAM
-For more information please visit here
+For more information please refer to the previous paper click here
   nek5000
 https://nek5000.mcs.anl.gov/
   nekRS
@@ -82,9 +83,7 @@ https://cerfacs.fr/en/
   Post-processing   paraview
 https://www.paraview.org/
   Gid
-https://www.gidhome.com/
-  Tecplot
-PyTecplot document]]></description>
+https://www.gidhome.com/]]></description>
 </item><item>
     <title>Celebrities in history</title>
     <link>https://lianfengyeo.github.io/celebrities-in-history/</link>
@@ -145,10 +144,10 @@ Air - Thermophysical Properties
     <pubDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/openfoam/</guid>
-    <description><![CDATA[version  The OpenFOAM Foundation OpenFOAM基金会版 ESI集团版  Document  User Guide ESI  installation  Unofficial OpenFOAM wiki Installing OpenFOAM 8 in your new Linux virtual machine Installing OpenFOAM v2006 in your new Linux virtual machine  Toturial   OpenFOAM &ldquo;CFD NINJA / ANSYS CFD&rdquo;
-  Introductory C++ for OpenFoam Users &ldquo;Theo Ong&rdquo;
-  OpenFoam for Windows Newbie Guide&quot;Theo Ong&quot;
-  Introduction to OpenFOAM @ Ghent University (May'16)]]></description>
+    <description><![CDATA[version  The OpenFOAM Foundation 基金会版 ESI集团版  installation  Unofficial OpenFOAM wiki Category:Installing OpenFOAM on Linux - OpenFOAMWiki gcc Compatibility for old OpenFOAM  OpenFOAM基金会版
+ OpenFOAM github OpenFOAM focal amd64 SourceForge Install v8 on Ubuntu Install OpenFOAM 8 video  ESI集团版
+ Install OpenFOAM v2006 video OpenFOAM® Installation From Source OpenFOAM® Build Guide BUILD ThirdParty OpenFOAM® System Requirements  Document   OpenFOAM User Guide Foundation
+  OpenFOAM User Guide ESI]]></description>
 </item><item>
     <title>Matlab notes</title>
     <link>https://lianfengyeo.github.io/matlab-notes/</link>
