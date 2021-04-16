@@ -6,6 +6,7 @@
 - [Linux Cluster Blog](https://thelinuxcluster.com/) is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux
 
 **Video tutorial**
+- [莫烦 linux 建议教学](https://mofanpy.com/tutorials/others/linux-basic/)
 - [Learn CentOS "LearnLinuxTV"](https://www.youtube.com/watch?v=Mi6GUcSW5xs&list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
 - [计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)](https://www.bilibili.com/video/BV1x7411H7wa)
 
@@ -35,13 +36,61 @@
 
 
 
+
 ## Python
-* [Python Documentation contents](https://docs.python.org/3/contents.html)  
-* anaconda  
+
+#### anaconda  
   install
 ```bash
   wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
   bash Anaconda3-2020.11-Linux-x86_64.sh
+```
+
+
+- [Python Documentation contents](https://docs.python.org/3/contents.html)  
+- https://www.runoob.com/python/python-tutorial.html
+- [Python 入門教學課程](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)
+
+
+**numpy**
+- https://www.runoob.com/numpy/numpy-tutorial.html
+- [Python NumPy 入門教學課程](https://www.youtube.com/watch?v=nJUMpIo5rmg&list=PL-g0fdC5RMboq4yOQmvwYXamPDL4uZYEL)
+
+
+## julia
+https://docs.julialang.org/en/v1/
+
+https://www.youtube.com/c/TheJuliaLanguage/videos
+
+#### install julia
+
+1. download from https://julialang.org/downloads/
+2. decompress
+```bash
+tar zxf julia-1.6.0-linux-x86_64.tar.gz 
+cd julia-1.6.0
+```
+
+env
+```bash
+export PATH=~/julia-1.6.0/bin/:$PATH
+```
+
+test
+```julia
+#!/usr/bin/env julia
+println("Greetings! 你好! こんにちわ! 안녕하세요?")
+```
+
+install packages
+```bash
+julia   # activate julia env
+
+using Pkg
+Pkg.add("Plots")
+Pkg.update("Plots")
+Pkg.rm("Plots")
+
 ```
 
 
@@ -231,7 +280,7 @@ Download old version from [CUDA archive](https://developer.nvidia.com/cuda-toolk
 - [CUDA source code](https://developer.download.nvidia.com/compute/cuda/opensource/)
 - [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)  
   
-- [CUDA 编程入门: 8 小时掌握 GPU 计算](https://www.youtube.com/playlist?list=PLSVM68VUM1eWsEX0yPliaL3pTZoKqJWfi)
+- [CUDA 编程入门: 8 小时掌握 GPU 计算 (失效)](https://www.youtube.com/playlist?list=PLSVM68VUM1eWsEX0yPliaL3pTZoKqJWfi)
 
 
 ## Machine Learning

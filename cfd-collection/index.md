@@ -58,8 +58,14 @@ graph LR;
   [计算传热学的近代进展 PPT](http://nht.xjtu.edu.cn/jxzy/jscrxdjdjz.htm)  
   [Numerical Heat Transfer PPT](http://nht.xjtu.edu.cn/jxzy/szcrx.htm)  
 
-- [ME 702 - Computational Fluid Dynamics - Video Lesson 1](https://www.youtube.com/watch?v=cDy5XGOokBY&list=PL30F4C5ABCE62CB61)  
+- Lorena Barba  
+  *GPU computing, python*  
+  波士顿大学机械工程系[Lorena Barba](https://lorenabarba.com/)教授制作课程**ME 702**，CFDPython在课程中使用(Barba教授后来搬到乔治华盛顿大学),胡坤根据CFDPython编写了Julia CFD系列文章，位于[原创汇总2020年度](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247491910&idx=1&sn=851847b12f71b2aa76f038ab4f914905&chksm=e820c3eedf574af8faf06f9e60a9faeb68f2b252efb68671724e348e97f1c601eaf2fb4f8886#rd)  
+  [CFDPython intro](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)  
+  [CFDPython github](https://github.com/barbagroup/CFDPython)  
+  [ME 702 - Computational Fluid Dynamics - Video Lesson 1](https://www.youtube.com/watch?v=cDy5XGOokBY&list=PL30F4C5ABCE62CB61)  
   [bilibili](https://www.bilibili.com/video/av41449459/)
+  
 
 * Prof. S. A. E. Miller, Ph.D.  
   [Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
@@ -91,15 +97,6 @@ graph LR;
 
 
 
-University of Michigan
-
-Main courses included:
-• Computational Fluid Dynamics (ME523)
-• Advanced Heat Transfer (ME530)
-• Interned Dynamics (ME540)
-• Analytical methods in mechanics (ME501)
-• Introduction to Turbulent Flows (AERO525)
-• Introduction to Numerical Methods (MATH471)
 
 
 
@@ -154,7 +151,7 @@ Main courses included:
   http://www.joshtheengineer.com/panel-methods/  
   https://github.com/jte0419/  
 
-- 流沙  
+- 流沙 胡坤  
   [youku](https://i.youku.com/i/UMzE1MjM1ODIw/videos?spm=a2hzp.8253869.0.0&order=1&page=1&last_item=&last_pn=4&last_vid=55659936)  
   公众号 CFD之道  
   [原创汇总2020年度](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247491910&idx=1&sn=851847b12f71b2aa76f038ab4f914905&chksm=e820c3eedf574af8faf06f9e60a9faeb68f2b252efb68671724e348e97f1c601eaf2fb4f8886#rd)  
