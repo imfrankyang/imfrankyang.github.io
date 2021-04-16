@@ -62,7 +62,7 @@ https://docs.julialang.org/en/v1/
 
 https://www.youtube.com/c/TheJuliaLanguage/videos
 
-#### install julia
+### install julia
 
 1. download from https://julialang.org/downloads/
 2. decompress
