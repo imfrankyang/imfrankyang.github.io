@@ -34,7 +34,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "OpenFOAM","wordcount":  274 ,
+                        }],"genre": "posts","keywords": "OpenFOAM","wordcount":  407 ,
         "url": "https:\/\/lianfengyeo.github.io\/openfoam-unit\/","datePublished": "2021-03-13T10:09:30+01:00","dateModified": "2021-03-13T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -120,7 +120,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">OpenFOAM unit</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/academic/"><i class="far fa-folder fa-fw"></i>Academic</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-03-13">2021-03-13</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;274 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-03-13">2021-03-13</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;407 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;2 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -216,109 +216,109 @@
 <td style="text-align:left">velocity $V$</td>
 <td>$m/s$</td>
 <td>$m^1 \cdot s^{-1}$</td>
-<td></td>
+<td>[0 1 -1 0 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">temperature $T$</td>
 <td>$K$</td>
 <td>$K^1$</td>
-<td></td>
+<td>[0 0 0 1 0 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">concentration $C_i$</td>
 <td>$kg/m^3$</td>
 <td>$kg^1 \cdot m^{3}$</td>
-<td></td>
+<td>[1 3 0 0 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">body force $\vec{f}$</td>
 <td>$N/m^3$</td>
 <td>$kg^1 \cdot m^{-2} \cdot s^{-2}$</td>
-<td></td>
+<td>[ 1 -2 -2 0 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">stress tensor $\tau$</td>
 <td>$N/m^2$</td>
 <td>$kg^1 \cdot m^{-1} \cdot s^{-2}$</td>
-<td></td>
+<td>[1 -1 -2 0 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">thermal conductivity $\lambda$</td>
 <td>$W/(m \cdot K)$</td>
 <td>$kg^1 \cdot m^{-1} \cdot s^{-3} \cdot K^{-1}$</td>
-<td></td>
+<td>[1 -1 -3 -1 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">mass diffusivity $D_i$</td>
 <td>$m^2/s$</td>
 <td>$m^2 \cdot s^{-1}$</td>
-<td></td>
+<td>[0 2 -1 0 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">能量源项 $S_f$</td>
 <td>$W/m^3$</td>
 <td>$kg^1 \cdot m^{-1} \cdot s^{-3}$</td>
-<td></td>
+<td>[1 -1 -3 0 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">density $\rho$</td>
 <td>$kg/m^3$</td>
 <td>$kg^1 \cdot m^{3}$</td>
-<td></td>
+<td>[1 3 0 0 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">specific heat capacity $c_p$ <br> 导热系数 热导率</td>
 <td>$J/(kg \cdot K)$</td>
 <td>$m^2 \cdot s^{-2} \cdot K^{-1}$</td>
-<td></td>
+<td>[0 2 -2 -1 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://zh.wikipedia.org/zh-cn/%e7%83%ad%e8%86%a8%e8%83%80%e7%b3%bb%e6%95%b0" target="_blank" rel="noopener noreffer">Coefficient of thermal expansion</a> $\beta$<br>热膨胀系数</td>
 <td>$1/K$</td>
 <td>$K^{-1}$</td>
-<td></td>
+<td>[0 0 0 -1 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">gravitational acceleration $\vec{g}$</td>
 <td>$m/s^2$</td>
 <td>$m^1 \cdot s^{-2}$</td>
-<td></td>
+<td>[0 1 -2 0 0 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://zh.wikipedia.org/zh-cn/%e6%b0%a3%e9%ab%94%e5%b8%b8%e6%95%b8" target="_blank" rel="noopener noreffer">gas constant</a> $R$</td>
 <td>$J/(mol \cdot K)$</td>
 <td>$kg^1 \cdot m^1 \cdot s^{-2} \cdot K^{-1} \cdot mol^{-1}$</td>
-<td></td>
+<td>[1 1 -2 -1 -1 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">molar mass $M$</td>
 <td>$kg/mol$</td>
-<td>$kg^{-1} \cdot mol^{-1}$</td>
-<td></td>
+<td>$kg^{1} \cdot mol^{-1}$</td>
+<td>[1 0 0 0 -1 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Enthalpy_of_fusion" target="_blank" rel="noopener noreffer">Enthalpy of fusion</a> $\Delta h$ <br> (latent) heat of fusion <br> 熔化潜热 熔化热 活化焓</td>
 <td>$J/mol$</td>
-<td>$kg^1 \cdot m^1 \cdot s^{-2} \cdot K^{-1} \cdot mol^{-1}$</td>
-<td></td>
+<td>$kg^1 \cdot m^1 \cdot s^{-2} \cdot mol^{-1}$</td>
+<td>[1 1 -2 0 -1 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left">活化能 $E$</td>
 <td>$J/mol$</td>
 <td>$kg^1 \cdot m^1 \cdot s^{-2} \cdot mol^{-1}$</td>
-<td></td>
+<td>[1 1 -2 0 -1 0 0]</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Entropy_of_fusion" target="_blank" rel="noopener noreffer">Entropy of fusion</a> $\Delta S$ <br> 活化熵</td>
 <td>$J/(K \cdot mol)$</td>
 <td>$kg^1 \cdot m^1 \cdot s^{-2} \cdot K^{-1} \cdot mol^{-1}$</td>
-<td></td>
+<td>[1 1 -2 -1 -1 0 0]</td>
 </tr>
 <tr>
-<td style="text-align:left"></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="text-align:left">kinematic viscosity $\nu$</td>
+<td>$m^2/s$</td>
+<td>$m^2 \cdot s^{-1}$</td>
+<td>[0 2 -1 0 0 0 0]</td>
 </tr>
 </tbody>
 </table>

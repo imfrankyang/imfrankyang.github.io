@@ -4,6 +4,7 @@
 ## Linux tutorial
 **bolg**
 - [Linux Cluster Blog](https://thelinuxcluster.com/) is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux
+- [Linux 命令收藏](https://openfoam.top/linuxLearning/)
 
 **Video tutorial**
 - [莫烦 linux 建议教学](https://mofanpy.com/tutorials/others/linux-basic/)
@@ -88,6 +89,8 @@ julia   # activate julia env
 
 using Pkg
 Pkg.add("Plots")
+Pkg.add("PyPlot")
+
 Pkg.update("Plots")
 Pkg.rm("Plots")
 
@@ -204,6 +207,8 @@ source /opt/intel/oneapi/setvars.sh
 
 临时使用 terminal：  
 ```bash
+source /opt/intel/oneapi/setvars.sh
+or
 . /opt/intel/oneapi/setvars.sh
 or
 ~/intel/oneapi/setvars.sh

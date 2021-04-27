@@ -2,9 +2,9 @@
 
 
 ## version
-- [The OpenFOAM Foundation 基金会版](https://openfoam.org/)
+- [Foundation 基金会版](https://openfoam.org/)
 - [ESI集团版](https://www.openfoam.com/)
-
+- [OpenFOAM-extend](http://foam-extend.org)
 
 
 
@@ -13,37 +13,73 @@
 - [Category:Installing OpenFOAM on Linux - OpenFOAMWiki](https://openfoamwiki.net/index.php/Category:Installing_OpenFOAM_on_Linux)
 - [gcc Compatibility for old OpenFOAM](https://openfoamwiki.net/index.php/Installation/Compatibility_Matrix)
 
-**OpenFOAM基金会版**
-- [OpenFOAM github](https://github.com/OpenFOAM)  
-- [OpenFOAM focal amd64 SourceForge](https://sourceforge.net/projects/foam/files/foam/ubuntu/dists/focal/main/binary-amd64/)  
+**Foundation version 基金会版**
+Download from [OpenFOAM github](https://github.com/OpenFOAM) or [OpenFOAM focal amd64 SourceForge](https://sourceforge.net/projects/foam/files/foam/ubuntu/dists/focal/main/binary-amd64/)
+
+Installation tutorial
+
 - [Install v8 on Ubuntu](https://openfoam.org/download/8-ubuntu/)
 - [Install OpenFOAM 8 video](https://www.youtube.com/watch?v=zWX2wCXDNNA)  
+- [OpenFOAM安装](http://dyfluid.com/docs/install.html)
 
-**ESI集团版**
-- [Install OpenFOAM v2006 video](https://www.youtube.com/watch?v=mhh6GBBpvnk)  
-- [OpenFOAM® Installation From Source](https://www.openfoam.com/download/install-source.php)
-- [OpenFOAM® Build Guide](https://www.openfoam.com/code/build-guide.php)
-- [BUILD ThirdParty](https://develop.openfoam.com/Development/ThirdParty-common/blob/develop/BUILD.md)
-- [OpenFOAM®  System Requirements](https://www.openfoam.com/documentation/system-requirements.php)
+
+**ESI Group version 集团版**
+Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
+
+- [OpenFOAM Installation From Source](https://www.openfoam.com/download/install-source.php)
+- [Install OpenFOAM v2006 video](https://www.youtube.com/watch?v=mhh6GBBpvnk) 
+
+- [OpenFOAM gitlab](https://develop.openfoam.com/Development/openfoam)
+- [BUILD ThirdParty](https://develop.openfoam.com/Development/ThirdParty-common)
+
+
 
 ## Document
 - [OpenFOAM User Guide Foundation](https://cfd.direct/openfoam/user-guide/)
 
 - [OpenFOAM User Guide ESI](https://www.openfoam.com/documentation/user-guide/index.php)
 
+- [OpenFOAM: User Guide  v2012 ESI](https://www.openfoam.com/documentation/guides/latest/doc/index.html)
+
 ## Toturial
 
 - [OpenFOAM "CFD NINJA / ANSYS CFD"](https://www.youtube.com/playlist?list=PLd23hHm4FCRdFxcjAqEMd6W2cikPaaNXS)  
   
-- [Introductory C++ for OpenFoam Users "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YT9OgqS7ZPlot_Ucxzc6pQJ)
-  [OpenFoam for Windows Newbie Guide"Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YRhBU4IqSaToQ8_X543YQsZ)
+- Theo Ong  
+  [Introductory C++ for OpenFoam Users "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YT9OgqS7ZPlot_Ucxzc6pQJ)  
+  [OpenFoam for Windows Newbie Guide "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YRhBU4IqSaToQ8_X543YQsZ)  
+  [OpenFOAM Intermediate "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YSpWX6mSOlwWEOKVa6i_iuE)
   
 - [Introduction to OpenFOAM @ Ghent University (May'16)](https://www.youtube.com/playlist?list=PLqxhJj6bcnY9RoIgzeF6xDh5L9bbeK3BL)
 
-- Wolf Dynamics  
+- Wolf Dynamics (Joël Guerrero)  
   A tutorial from University of genova  
   [youtube](https://www.youtube.com/channel/UCNNBm3KxVS1rGeCVUU1p61g)  
   [website](http://www.wolfdynamics.com/tutorials.html?layout=edit)  
+
+- Prof. Hrojve Jasak  
+  https://foam-extend.fsb.hr/openfoam/tutorials/
+
+- Asmaa Hadane  
+  [youtube](https://www.youtube.com/channel/UCuxa0_vuFRihBaHRWzgjuJA/playlists)  
+
+- Tobias Holzmann
+  His [book](https://holzmann-cfd.com/community/publications/mathematics-numerics-derivations-and-openfoam) and his [youtube channel](https://www.youtube.com/channel/UCLMLJc3tV_tNRlWoVFaSRGw). Also his [explanation of OpenFoam for beginners](https://holzmann-cfd.com/community/learn-openfoam)
+
+- Jószef Nagy  
+  [youtube](https://www.youtube.com/channel/UCjdgpuxuAxH9BqheyE82Vvw) and his [Patreon](https://www.patreon.com/user/posts?u=15620295) has additional videos. 
+
+- https://wiki.openfoam.com/index.php?title=Tutorials
+
+
+**course**
+
+- CFD with OpenSource Software  
+  The course is form Chalmers University of Technology by Prof. Håkan Nilsson
+http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
+
+
+
 
 - 郭志馗kuí  
   [homepage](http://www.klsg.org.cn/redir.php?catalog_id=21348&object_id=216608)  
@@ -55,19 +91,22 @@
 **知乎专栏**
 
 - [OpenFOAM 汪洋](https://www.zhihu.com/column/c_1159886892669030400)
-
 - [OpenFOAM Studio](https://www.zhihu.com/column/openfoam)
-
 - [OpenFOAM移植优化](https://www.zhihu.com/column/c_1274359249582018560)
 
 
 **blog**
 
 - [OpenFOAM 之道](https://marinecfd.xyz/post/) 
-
 - [Giskard's CFD Learning Tricks](http://xiaopingqiu.github.io/)
-
 - [bolg 苏军伟](http://blog.sina.com.cn/openfoamresearch)
+- [OpenFOAM 成长之路](https://openfoam.top/archives/)
+- [Robin Knowles](https://www.cfdengine.com/newsletter/)
+- [All About CFD…Tom’s Blog](https://allaboutcfd-tomersblog.com/)
+- [The Answer is 27](https://theansweris27.com/blog/)
+
+
+
 
 
 ## PyFoam

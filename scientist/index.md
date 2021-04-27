@@ -8,7 +8,7 @@
 - [Chi-Wang Shu 舒其望](https://en.wikipedia.org/wiki/Chi-Wang_Shu)  
   [googlescholar](https://scholar.google.com/citations?user=Vp7sSw4AAAAJ&hl=en)  
 
-Favourite
+# Favourite
 
 - [Giovanni Tanda](https://rubrica.unige.it/personale/VUdAU19r)  
 
@@ -28,4 +28,10 @@ Favourite
 [《开讲啦》 西安交通大学教授 国际数值传热学知名专家陶文铨院士](https://www.youtube.com/watch?v=U-tYV8u_2s8)  
 [陈大燮](https://history.seu.edu.cn/2018/0404/c18669a212203/page.htm)  
 
+- Alessandro Bottaro  
+  https://rubrica.unige.it/personale/VUZBWFtr  
+  https://scholar.google.com/citations?user=0hNz7q0AAAAJ&hl=en   
+
+- Jacqueline H. Chen  
+  https://scholar.google.com/citations?user=W9N01MkAAAAJ&hl=en  
 

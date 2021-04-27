@@ -13,7 +13,7 @@
 VMware Workstation to ESXi  WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update https://www.vediotalk.com/archives/3956
  Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7.]]></description>
 </item><item>
-    <title>Research tools</title>
+    <title>Research tools(software)</title>
     <link>https://lianfengyeo.github.io/research-tools/</link>
     <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
@@ -39,11 +39,10 @@ Dictionary   欧路词典Eudic]]></description>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/linux-env/</guid>
     <description><![CDATA[Linux tutorial bolg
- Linux Cluster Blog is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux  Video tutorial
+ Linux Cluster Blog is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux Linux 命令收藏  Video tutorial
  莫烦 linux 建议教学 Learn CentOS &ldquo;LearnLinuxTV&rdquo; 计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)  Ubuntu
  List of releases releases downloads Mirror Tsinghua  CentOS
  Mirror Tsinghua Centos6 Mirror Tsinghua Centos7 8  Fortran   fcode [bilibili]
-  15分钟Fortran从0到够用 #030
-  [Fortran Tuto 2] Basics about variables]]></description>
+  15分钟Fortran从0到够用 #030]]></description>
 </item></channel>
 </rss>

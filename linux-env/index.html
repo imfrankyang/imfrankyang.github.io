@@ -34,7 +34,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "code","wordcount":  656 ,
+                        }],"genre": "posts","keywords": "code","wordcount":  666 ,
         "url": "https:\/\/lianfengyeo.github.io\/linux-env\/","datePublished": "2020-12-09T10:09:30+01:00","dateModified": "2020-12-09T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -120,7 +120,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Linux envrionment</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/software/"><i class="far fa-folder fa-fw"></i>Software</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-09">2020-12-09</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;656 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-09">2020-12-09</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;666 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;4 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -171,6 +171,7 @@
 <p><strong>bolg</strong></p>
 <ul>
 <li><a href="https://thelinuxcluster.com/" target="_blank" rel="noopener noreffer">Linux Cluster Blog</a> is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux</li>
+<li><a href="https://openfoam.top/linuxLearning/" target="_blank" rel="noopener noreffer">Linux 命令收藏</a></li>
 </ul>
 <p><strong>Video tutorial</strong></p>
 <ul>
@@ -286,12 +287,16 @@
 </span><span class="lnt">5
 </span><span class="lnt">6
 </span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash">julia   <span class="c1"># activate julia env</span>
 
 using Pkg
 Pkg.add<span class="o">(</span><span class="s2">&#34;Plots&#34;</span><span class="o">)</span>
+Pkg.add<span class="o">(</span><span class="s2">&#34;PyPlot&#34;</span><span class="o">)</span>
+
 Pkg.update<span class="o">(</span><span class="s2">&#34;Plots&#34;</span><span class="o">)</span>
 Pkg.rm<span class="o">(</span><span class="s2">&#34;Plots&#34;</span><span class="o">)</span>
 
@@ -439,9 +444,13 @@ or
 <pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">. /opt/intel/oneapi/setvars.sh
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">source</span> /opt/intel/oneapi/setvars.sh
+or
+. /opt/intel/oneapi/setvars.sh
 or
 ~/intel/oneapi/setvars.sh
 </code></pre></td></tr></table>

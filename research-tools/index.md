@@ -1,4 +1,4 @@
-# Research tools
+# Research tools(software)
 
 
 ## List of recommended software
@@ -33,11 +33,11 @@ Windows 10 IME
 
 remote control software
 
-{{<link "https://www.anydesk.com/">}}
+{{<link "https://www.anydesk.com/">}}  <br>
 
-{{<link "https://www.teamviewer.com/">}}
+{{<link "https://www.teamviewer.com/">}}  <br>
 
-{{<link "https://www.todesk.com/">}}
+{{<link "https://www.todesk.com/">}}  <br>
 
 ### Norton/Avast/Microsoft Defender Antivirus in Windows10
 Anti-virus or anti-malware software
@@ -45,9 +45,17 @@ Anti-virus or anti-malware software
 ### Dictionary
 - 欧路词典Eudic
   
-- GoldenDict
-  Download: [64bit](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/Qt5-based/64bit/)
-  Theme：`C:\Users\xxx\AppData\Roaming\GoldenDict\styles`
+- GoldenDict  
+  Download: [64bit](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/Qt5-based/64bit/)  
+  Theme location：`C:\Users\xxx\AppData\Roaming\GoldenDict\styles`
+
+### ffmpeg
+A complete, cross-platform solution to record, convert and stream audio and video.  
+{{<link "https://ffmpeg.org/">}}  
+
+
+
+
 
 ### Operating system
 * [Redhat](https://developers.redhat.com/products/rhel/download)
@@ -64,23 +72,23 @@ Anti-virus or anti-malware software
 
 ## List of STRONGLY NOT recommended software forever
 
-* **360**  
+- **360**  
 
 <center>
 <img src="index.assets/image-20210120222659506.png" width="700" align="bottom" />
 </center>
 
-* XX电脑管家
+- XX电脑管家
 
-* 2345
+- **2345**
 
 <center>
 <img src="index.assets/image-20210127161425191.png" width="700" align="bottom" />
 </center>
 
-* 驱动精灵
+- 驱动精灵
 
-* ...to be continued...
+- ...to be continued...
 
 ### chrome extension
 - [Bookmarks clean up](https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl?hl=en)  

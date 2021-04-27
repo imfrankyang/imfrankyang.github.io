@@ -40,8 +40,7 @@ Numerical Heat Transfer PPT]]></description>
     <description><![CDATA[Scientist   计算流体力学知名专家 wiki list
   Chi-Wang Shu 舒其望
 googlescholar
-  Favourite
-  Giovanni Tanda
+  Favourite   Giovanni Tanda
   Francesca Satta
   Marina Ubaldi
   Karen Thole
@@ -53,6 +52,11 @@ LES, DNS, NACA airfoil, plate, KTH
 找最SCI的故事：致敬陶文铨！耄耋院士，传道授业
 《开讲啦》 西安交通大学教授 国际数值传热学知名专家陶文铨院士
 陈大燮
+  Alessandro Bottaro
+https://rubrica.unige.it/personale/VUZBWFtr
+https://scholar.google.com/citations?user=0hNz7q0AAAAJ&amp;hl=en
+  Jacqueline H. Chen
+https://scholar.google.com/citations?user=W9N01MkAAAAJ&amp;hl=en
   ]]></description>
 </item><item>
     <title>CFD software</title>
@@ -159,7 +163,7 @@ I work every day from 9am–5pm.]]></description>
     <guid>https://lianfengyeo.github.io/paper-tools/</guid>
     <description><![CDATA[Tools online air Dry Air Properties
 Air - Thermophysical Properties
- Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water  Water - Specific Heat  CFD tools  hydraulic diameter calculator MATERIALS THERMAL PROPERTIES DATABASE  Others  djvu to pdf download subtitles  ]]></description>
+ Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water  Water - Specific Heat  CFD tools  hydraulic diameter calculator MATERIALS THERMAL PROPERTIES DATABASE  Others  djvu to pdf download subtitles  Search engine  知网海外版  Journal  science  Download paper  Download paper of cnki https://www.]]></description>
 </item><item>
     <title>My wiki</title>
     <link>https://lianfengyeo.github.io/my-wiki/</link>
@@ -198,6 +202,7 @@ https://ftp.lstc.com/anonymous/outgoing/lsprepost/]]></description>
     <description><![CDATA[reference
   katex
   https://matnoble.me/tech/latex/latex/
+  http://sirlis.cn/research-tips-math-symbols/
   LaTeX equation $\tilde{x}$
 1 2  $\tilde{x}$   $\widetilde{x_2}$
 1  $\widetilde{x_2}$   $\tilde{A}_2$
@@ -211,12 +216,14 @@ https://ftp.lstc.com/anonymous/outgoing/lsprepost/]]></description>
     <pubDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/openfoam/</guid>
-    <description><![CDATA[version  The OpenFOAM Foundation 基金会版 ESI集团版  installation  Unofficial OpenFOAM wiki Category:Installing OpenFOAM on Linux - OpenFOAMWiki gcc Compatibility for old OpenFOAM  OpenFOAM基金会版
- OpenFOAM github OpenFOAM focal amd64 SourceForge Install v8 on Ubuntu Install OpenFOAM 8 video  ESI集团版
- Install OpenFOAM v2006 video OpenFOAM® Installation From Source OpenFOAM® Build Guide BUILD ThirdParty OpenFOAM® System Requirements  Document   OpenFOAM User Guide Foundation
-  OpenFOAM User Guide ESI]]></description>
+    <description><![CDATA[version  Foundation 基金会版 ESI集团版 OpenFOAM-extend  installation  Unofficial OpenFOAM wiki Category:Installing OpenFOAM on Linux - OpenFOAMWiki gcc Compatibility for old OpenFOAM  Foundation version 基金会版 Download from OpenFOAM github or OpenFOAM focal amd64 SourceForge
+Installation tutorial
+ Install v8 on Ubuntu Install OpenFOAM 8 video OpenFOAM安装  ESI Group version 集团版 Download from SourceForge
+  OpenFOAM Installation From Source
+  Install OpenFOAM v2006 video
+  OpenFOAM gitlab]]></description>
 </item><item>
-    <title>Research tools</title>
+    <title>Research tools(software)</title>
     <link>https://lianfengyeo.github.io/research-tools/</link>
     <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
@@ -257,12 +264,11 @@ Normalized 2-D cross-correlation [example]
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/linux-env/</guid>
     <description><![CDATA[Linux tutorial bolg
- Linux Cluster Blog is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux  Video tutorial
+ Linux Cluster Blog is a collection of how-to and tutorials for Linux Cluster and Enterprise Linux Linux 命令收藏  Video tutorial
  莫烦 linux 建议教学 Learn CentOS &ldquo;LearnLinuxTV&rdquo; 计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)  Ubuntu
  List of releases releases downloads Mirror Tsinghua  CentOS
  Mirror Tsinghua Centos6 Mirror Tsinghua Centos7 8  Fortran   fcode [bilibili]
-  15分钟Fortran从0到够用 #030
-  [Fortran Tuto 2] Basics about variables]]></description>
+  15分钟Fortran从0到够用 #030]]></description>
 </item><item>
     <title>Mathematics</title>
     <link>https://lianfengyeo.github.io/mathematics/</link>

@@ -38,7 +38,7 @@ VMware Workstation to ESXi  WorkStation虚拟机多个磁盘文件合并成一�
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "software","wordcount":  277 ,
+                        }],"genre": "posts","keywords": "software","wordcount":  345 ,
         "url": "https:\/\/lianfengyeo.github.io\/vmware\/","datePublished": "2021-02-08T10:09:30+01:00","dateModified": "2021-02-08T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -124,7 +124,7 @@ VMware Workstation to ESXi  WorkStation虚拟机多个磁盘文件合并成一�
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Vmware</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/software/"><i class="far fa-folder fa-fw"></i>Software</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-02-08">2021-02-08</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;277 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-02-08">2021-02-08</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;345 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;2 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -140,14 +140,12 @@ VMware Workstation to ESXi  WorkStation虚拟机多个磁盘文件合并成一�
             <li><a href="#tutorial">tutorial</a></li>
             <li><a href="#vmware-workstation-to-esxi">VMware Workstation to ESXi</a></li>
             <li><a href="#esxi-update">ESXi update</a></li>
-          </ul>
-        </li>
-        <li><a href="#vmware-workstation-to-virtualbox">VMware Workstation to Virtualbox**</a>
-          <ul>
+            <li><a href="#vmware-workstation-to-virtualbox">VMware Workstation to Virtualbox**</a></li>
             <li><a href="#vmware-workstation-安装macos">VMware Workstation 安装macos</a></li>
             <li><a href="#vmware-workstation-硬盘操作">VMware Workstation 硬盘操作</a></li>
             <li><a href="#vmware-tools">vmware tools</a></li>
             <li><a href="#open-vm-tools">open vm tools</a></li>
+            <li><a href="#vmware-扩大硬盘">vmware 扩大硬盘</a></li>
             <li><a href="#常见问题">常见问题</a></li>
           </ul>
         </li>
@@ -204,7 +202,7 @@ esxcli software profile update -d  /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-1
 reboot
 </code></pre></td></tr></table>
 </div>
-</div><h2 id="vmware-workstation-to-virtualbox">VMware Workstation to Virtualbox**</h2>
+</div><h3 id="vmware-workstation-to-virtualbox">VMware Workstation to Virtualbox**</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -348,7 +346,35 @@ apt remove open-vm-tools-desktop
 dnf remove open-vm-tools
 </code></pre></td></tr></table>
 </div>
-</div><h3 id="常见问题">常见问题</h3>
+</div><h3 id="vmware-扩大硬盘">vmware 扩大硬盘</h3>
+<ol>
+<li>add a new virtual disk</li>
+<li>clone disk</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">   dd if=/dev/sdb  of=/dev/sdc
+</code></pre></td></tr></table>
+</div>
+</div><ol start="3">
+<li>remove the old virtual disk and start</li>
+<li>there is a error: the root filesystem requires a manual fsck</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">fsck -yf /dev/sda1
+</code></pre></td></tr></table>
+</div>
+</div><ol start="5">
+<li>resize disk in disk app</li>
+</ol>
+<h3 id="常见问题">常见问题</h3>
 <div class="details admonition tip open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-lightbulb fa-fw"></i>Tip<i class="details-icon fas fa-angle-right fa-fw"></i>
@@ -366,7 +392,30 @@ autoPartitionOSDataSize=8192<br>
             <i class="icon fas fa-lightbulb fa-fw"></i>Tip<i class="details-icon fas fa-angle-right fa-fw"></i>
         </div>
         <div class="details-content">
-            <div class="admonition-content"><p>网卡无法启动的解决方法</p>
+            <div class="admonition-content">网卡无法启动的解决方法</div>
+        </div>
+    </div>
+<ol>
+<li>虚拟机设置里删除旧网卡，重新添加网卡</li>
+<li>ifconfig ens33 up</li>
+<li>/sbin/dhclient</li>
+</ol>
+<p>如果设置里面network没有网络信息，输入：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">sudo service network-manager stop
+sudo rm /var/lib/NetworkManager/NetworkManager.state
+sudo vim /etc/NetworkManager/NetworkManager.conf 
+sudo service network-manager restart
+</code></pre></td></tr></table>
+</div>
+</div><p>备用方法</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -376,15 +425,12 @@ autoPartitionOSDataSize=8192<br>
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash">系统自带的NetworkManager这个管理套件影响到网卡的启动，关掉就可以解决
-systemctl stop NetworkManager	<span class="c1">#停止NetworkManager</span>
-systemctl disable NetworkManager	<span class="c1">#并使其失效，开机不启动</span>
-systemctl start network		<span class="c1">#启动网络后就OK了</span>
+systemctl stop NetworkManager       <span class="c1"># 停止NetworkManager</span>
+systemctl disable NetworkManager    <span class="c1"># 并使其失效，开机不启动</span>
+systemctl start network             <span class="c1"># 启动网络后就OK了</span>
 </code></pre></td></tr></table>
 </div>
-</div></div>
-        </div>
-    </div>
-<div class="details admonition tip open">
+</div><div class="details admonition tip open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-lightbulb fa-fw"></i>Tip<i class="details-icon fas fa-angle-right fa-fw"></i>
         </div>

@@ -37,3 +37,14 @@
 - [download subtitles](https://downsub.com/)
 
 
+### Search engine
+
+- [知网海外版](https://oversea.cnki.net/index/)
+
+### Journal
+
+- [science](https://science.sciencemag.org/)
+
+### Download paper
+
+- Download paper of cnki  https://www.cn-ki.net/

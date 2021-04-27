@@ -7,7 +7,7 @@
   
 - https://matnoble.me/tech/latex/latex/
 
-
+- http://sirlis.cn/research-tips-math-symbols/
 
 # LaTeX
 
@@ -208,10 +208,6 @@ There are a number of horizontal spacing macros for LaTeX:
 
 ```
 
-```
 
-```
 
-```
 
-```

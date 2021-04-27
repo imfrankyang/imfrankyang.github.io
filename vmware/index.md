@@ -35,7 +35,7 @@ reboot
 ```
 
 
-## VMware Workstation to Virtualbox**
+### VMware Workstation to Virtualbox**
 
 ```shell
 "C:\Program Files (x86)\VMware\VMware Workstation\OVFTool\ovftool.exe" "D:\vmware.vmx"  "D:\vmware.ovf"
@@ -127,6 +127,25 @@ apt remove open-vm-tools-desktop
 dnf remove open-vm-tools
 ```
 
+### vmware 扩大硬盘
+1. add a new virtual disk
+2. clone disk
+```
+   dd if=/dev/sdb  of=/dev/sdc
+```
+3. remove the old virtual disk and start
+4. there is a error: the root filesystem requires a manual fsck 
+```
+fsck -yf /dev/sda1
+```
+5. resize disk in disk app   
+
+
+
+
+
+
+
 ### 常见问题
 {{< admonition tip "" true >}}
 安装ESXi 7.0 后多出VMFS-L的空间如何删除VMFSL
@@ -140,14 +159,27 @@ autoPartitionOSDataSize=8192
 
 {{< admonition tip ""  true >}}
 网卡无法启动的解决方法
+{{< /admonition >}}
 
+1. 虚拟机设置里删除旧网卡，重新添加网卡
+2. ifconfig ens33 up
+3. /sbin/dhclient
+
+如果设置里面network没有网络信息，输入：
+```bash
+sudo service network-manager stop
+sudo rm /var/lib/NetworkManager/NetworkManager.state
+sudo vim /etc/NetworkManager/NetworkManager.conf 
+sudo service network-manager restart
+```
+备用方法
 ```bash
 系统自带的NetworkManager这个管理套件影响到网卡的启动，关掉就可以解决
-systemctl stop NetworkManager	#停止NetworkManager
-systemctl disable NetworkManager	#并使其失效，开机不启动
-systemctl start network		#启动网络后就OK了
+systemctl stop NetworkManager       # 停止NetworkManager
+systemctl disable NetworkManager    # 并使其失效，开机不启动
+systemctl start network             # 启动网络后就OK了
 ```
-{{< /admonition >}}
+
 
 
 
