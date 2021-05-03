@@ -35,11 +35,11 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
 
 
 ## Document
-- [OpenFOAM User Guide Foundation](https://cfd.direct/openfoam/user-guide/)
+- [OpenFOAM User Guide Foundation](https://cfd.direct/openfoam/user-guide/)  
+- [OpenFOAM c++ source code guide](https://cpp.openfoam.org/v8/)  
 
-- [OpenFOAM User Guide ESI](https://www.openfoam.com/documentation/user-guide/index.php)
-
-- [OpenFOAM: User Guide  v2012 ESI](https://www.openfoam.com/documentation/guides/latest/doc/index.html)
+- [OpenFOAM User Guide ESI](https://www.openfoam.com/documentation/user-guide/index.php)  
+- [OpenFOAM: User Guide  v2012 ESI](https://www.openfoam.com/documentation/guides/latest/doc/index.html)  
 
 ## Toturial
 
@@ -48,7 +48,8 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
 - Theo Ong  
   [Introductory C++ for OpenFoam Users "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YT9OgqS7ZPlot_Ucxzc6pQJ)  
   [OpenFoam for Windows Newbie Guide "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YRhBU4IqSaToQ8_X543YQsZ)  
-  [OpenFOAM Intermediate "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YSpWX6mSOlwWEOKVa6i_iuE)
+  [OpenFOAM Intermediate "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YSpWX6mSOlwWEOKVa6i_iuE)  
+  [OpenFOAM Heat Transfer](https://www.youtube.com/playlist?list=PLhPfNw4V4_YR2Qa3Q9-AzNSF2J9Dc4_qT)
   
 - [Introduction to OpenFOAM @ Ghent University (May'16)](https://www.youtube.com/playlist?list=PLqxhJj6bcnY9RoIgzeF6xDh5L9bbeK3BL)
 

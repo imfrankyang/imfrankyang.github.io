@@ -97,3 +97,9 @@ http://blog.sciencenet.cn/blog-437026-733739.html
 [为什么英语里没有书名号？ - 知乎](https://www.zhihu.com/question/33271098/answer/137878739)
 
 
+
+
+## English learning
+- Type the key word and get the pronunciation in the video. Support En Ch It and even sign Languages!...  
+  https://youglish.com/
+

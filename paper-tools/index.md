@@ -26,8 +26,9 @@
 
 ### CFD tools
 
-- [hydraulic diameter calculator](https://www.engineeringtoolbox.com/hydraulic-equivalent-diameter-d_458.html)
-- [MATERIALS THERMAL PROPERTIES DATABASE](https://thermtest.com/materials-database#)
+- [estimate k epsilon omega](https://www.cfd-online.com/Tools/turbulence.php)  
+- [hydraulic diameter calculator](https://www.engineeringtoolbox.com/hydraulic-equivalent-diameter-d_458.html)  
+- [MATERIALS THERMAL PROPERTIES DATABASE](https://thermtest.com/materials-database#)  
 
 
 

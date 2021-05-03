@@ -47,7 +47,9 @@
   bash Anaconda3-2020.11-Linux-x86_64.sh
 ```
 
-
+### tutorial
+- MorvanZhou  
+  https://github.com/MorvanZhou/tutorials
 - [Python Documentation contents](https://docs.python.org/3/contents.html)  
 - https://www.runoob.com/python/python-tutorial.html
 - [Python 入門教學課程](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)
@@ -56,6 +58,10 @@
 **numpy**
 - https://www.runoob.com/numpy/numpy-tutorial.html
 - [Python NumPy 入門教學課程](https://www.youtube.com/watch?v=nJUMpIo5rmg&list=PL-g0fdC5RMboq4yOQmvwYXamPDL4uZYEL)
+
+
+
+
 
 
 ## julia

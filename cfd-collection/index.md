@@ -249,6 +249,7 @@ graph LR;
 
 **Material derivative**
 * [wiki](https://www.wikiwand.com/en/Material_derivative)  
+* [Fluid Kinematics - Part 2 (The Acceleration Field and Material Derivative)](https://www.youtube.com/watch?v=gWJFlavhkTc)
 * [Material derivative](https://www.youtube.com/watch?v=BLVY69SYVBQ)  
 * [Material derivative and Leibniz rule](https://www.youtube.com/watch?v=8tHpMMF4RQ0)  
 * [Aside: The material derivative](https://www.youtube.com/watch?v=l4F2bZgwcpU)  
