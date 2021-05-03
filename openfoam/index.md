@@ -10,10 +10,10 @@
 
 ## installation
 - [Unofficial OpenFOAM wiki](https://openfoamwiki.net/index.php/Main_Page)  
-- [Category:Installing OpenFOAM on Linux - OpenFOAMWiki](https://openfoamwiki.net/index.php/Category:Installing_OpenFOAM_on_Linux)
+- [Category:Installing OpenFOAM on Linux - OpenFOAMWiki](https://openfoamwiki.net/index.php/Category:Installing_OpenFOAM_on_Linux)  
 - [gcc Compatibility for old OpenFOAM](https://openfoamwiki.net/index.php/Installation/Compatibility_Matrix)
 
-**Foundation version 基金会版**
+**Foundation version 基金会版**  
 Download from [OpenFOAM github](https://github.com/OpenFOAM) or [OpenFOAM focal amd64 SourceForge](https://sourceforge.net/projects/foam/files/foam/ubuntu/dists/focal/main/binary-amd64/)
 
 Installation tutorial
@@ -23,7 +23,7 @@ Installation tutorial
 - [OpenFOAM安装](http://dyfluid.com/docs/install.html)
 
 
-**ESI Group version 集团版**
+**ESI Group version 集团版**  
 Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
 
 - [OpenFOAM Installation From Source](https://www.openfoam.com/download/install-source.php)

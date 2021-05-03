@@ -218,9 +218,11 @@ https://ftp.lstc.com/anonymous/outgoing/lsprepost/]]></description>
     <pubDate>Sat, 26 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/openfoam/</guid>
-    <description><![CDATA[version  Foundation 基金会版 ESI集团版 OpenFOAM-extend  installation  Unofficial OpenFOAM wiki Category:Installing OpenFOAM on Linux - OpenFOAMWiki gcc Compatibility for old OpenFOAM  Foundation version 基金会版 Download from OpenFOAM github or OpenFOAM focal amd64 SourceForge
+    <description><![CDATA[version  Foundation 基金会版 ESI集团版 OpenFOAM-extend  installation  Unofficial OpenFOAM wiki Category:Installing OpenFOAM on Linux - OpenFOAMWiki gcc Compatibility for old OpenFOAM  Foundation version 基金会版
+Download from OpenFOAM github or OpenFOAM focal amd64 SourceForge
 Installation tutorial
- Install v8 on Ubuntu Install OpenFOAM 8 video OpenFOAM安装  ESI Group version 集团版 Download from SourceForge
+ Install v8 on Ubuntu Install OpenFOAM 8 video OpenFOAM安装  ESI Group version 集团版
+Download from SourceForge
   OpenFOAM Installation From Source
   Install OpenFOAM v2006 video
   OpenFOAM gitlab]]></description>
