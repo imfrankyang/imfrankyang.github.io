@@ -9,6 +9,8 @@
 
 - http://sirlis.cn/research-tips-math-symbols/
 
+- http://kuing.orzweb.net/viewthread.php?tid=5
+
 # LaTeX
 
 ## equation

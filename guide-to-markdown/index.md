@@ -99,6 +99,28 @@ $$
 c = \pm\sqrt{a^2 + b^2}
 $$
 
+
+等号对齐
+```
+$$
+\begin{align}
+
+F(x) & =  {\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{x}e^{-t^{2}/2}\,dt \\
+     & =  {\frac {1}{2}}\left[1+\operatorname {erf} \left({\frac {x}{\sqrt {2}}}\right)\right]
+
+\end{align}
+$$
+```
+
+
+
+
+
+
+
+
+
+
 ### bold
 ```markdown
 **This is bold fonts**

@@ -35,3 +35,8 @@
 - Jacqueline H. Chen  
   https://scholar.google.com/citations?user=W9N01MkAAAAJ&hl=en  
 
+- Parviz Moin  
+  http://web.stanford.edu/group/fpc/cgi-bin/fpcwiki/People/ParvizMoin  
+
+- 刘艳
+  http://faculty.dlut.edu.cn/20060316/zh_CN/lwcg/717722/list/2.htm  

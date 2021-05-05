@@ -58,9 +58,6 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
   [youtube](https://www.youtube.com/channel/UCNNBm3KxVS1rGeCVUU1p61g)  
   [website](http://www.wolfdynamics.com/tutorials.html?layout=edit)  
 
-- Prof. Hrojve Jasak  
-  https://foam-extend.fsb.hr/openfoam/tutorials/
-
 - Asmaa Hadane  
   [youtube](https://www.youtube.com/channel/UCuxa0_vuFRihBaHRWzgjuJA/playlists)  
 
@@ -70,7 +67,18 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
 - Jószef Nagy  
   [youtube](https://www.youtube.com/channel/UCjdgpuxuAxH9BqheyE82Vvw) and his [Patreon](https://www.patreon.com/user/posts?u=15620295) has additional videos. 
 
-- https://wiki.openfoam.com/index.php?title=Tutorials
+- several days training programming  
+  https://wiki.openfoam.com/index.php?title=Tutorials
+
+- cfd.at  
+  https://www.cfd.at/tutorials
+
+- DD Fluids  
+  https://www.youtube.com/c/DDFluids/videos
+
+- Hyper Lyceum  
+  https://www.youtube.com/channel/UCRezzmom8mDl01fcv0z7_jg
+
 
 
 **course**
@@ -79,6 +87,8 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
   The course is form Chalmers University of Technology by Prof. Håkan Nilsson
 http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
 
+- Prof. Hrojve Jasak  
+  https://foam-extend.fsb.hr/openfoam/tutorials/
 
 
 
@@ -107,6 +117,11 @@ http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
 - [The Answer is 27](https://theansweris27.com/blog/)
 
 
+
+**Forum**
+- [cfd-online](https://www.cfd-online.com/Forums/openfoam/)
+- [cfdac](https://forum.cfdac.com/)
+- [CFD WITH A MISSION](https://caefn.com/) 
 
 
 
