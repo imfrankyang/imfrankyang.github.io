@@ -233,7 +233,7 @@ graph LR;
 
 
 - [Engineering Dynamics MIT](https://ocw.mit.edu/courses/mechanical-engineering/2-003sc-engineering-dynamics-fall-2011/index.htm)
-- 
+
 
 
 - [工程流体力学 重庆大学](https://space.bilibili.com/508358011/video?tid=0&page=2&keyword=&order=pubdate)
