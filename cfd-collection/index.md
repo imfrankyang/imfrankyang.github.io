@@ -199,7 +199,7 @@ graph LR;
 
 - [Engineering MAE 130A. Intro to Fluid Mechanics](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7m8oL297GkRRszNN1Q-l6wb)  
 
-- [流体力学（清华大学）](https://www.bilibili.com/video/av92776453/)  
+- [流体力学 清华大学](https://www.bilibili.com/video/av92776453/)  
 
 - [我所理解的流体力学 王洪伟 北航](https://www.youtube.com/playlist?list=PL4PKngxUXbAgcPAp51zwQugcR_iV3uvSE)
 
