@@ -20,22 +20,27 @@
 - [Mirror Tsinghua Centos6](https://mirror.tuna.tsinghua.edu.cn/help/centos-vault/)
 - [Mirror Tsinghua Centos7 8](https://mirror.tuna.tsinghua.edu.cn/help/centos/)
 
+
+
+<br><br><br>
+
+
 ## Fortran
 * [fcode](http://v.fcode.cn/)
   [[bilibili]](https://www.bilibili.com/video/BV1tx411u7o4)
-* [15分钟Fortran从0到够用 #030](https://www.bilibili.com/video/BV1Lv41117Lz)
+
 * [[Fortran Tuto 2] Basics about variables](https://www.youtube.com/watch?v=GSJL6E1A6gM&list=PLvkU6i2iQ2fprrVmmkNP_V36mh0BMnS5L&index=2)
 
 
-* [ustc](http://micro.ustc.edu.cn/Fortran/)
+* [ustc doc](http://micro.ustc.edu.cn/Fortran/)
 * [Mistakes in Fortran 90 Programs That Might Surprise You](http://www.cs.rpi.edu/~szymansk/OOF90/bugs.html)
 * [Clion Fortran](https://www.jetbrains.com/help/clion/fortran-support.html)
 
-**知乎专栏**
-
-- https://www.zhihu.com/column/c_1217883438453407744
 
 
+
+
+<br><br><br>
 
 
 ## Python
@@ -48,6 +53,7 @@
 ```
 
 ### tutorial
+
 - MorvanZhou  
   https://github.com/MorvanZhou/tutorials
 - [Python Documentation contents](https://docs.python.org/3/contents.html)  
@@ -55,9 +61,32 @@
 - [Python 入門教學課程](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)
 
 
-**numpy**
-- https://www.runoob.com/numpy/numpy-tutorial.html
+**numpy**  
 - [Python NumPy 入門教學課程](https://www.youtube.com/watch?v=nJUMpIo5rmg&list=PL-g0fdC5RMboq4yOQmvwYXamPDL4uZYEL)
+
+
+NumPy 官网 http://www.numpy.org/  
+NumPy 源代码：https://github.com/numpy/numpy  
+SciPy 官网：https://www.scipy.org/  
+SciPy 源代码：https://github.com/scipy/scipy  
+Matplotlib 官网：https://matplotlib.org/  
+Matplotlib 源代码：https://github.com/matplotlib/matplotlib  
+
+NumPy官方文档  
+https://numpy.org/doc/stable/user/whatisnumpy.html
+
+runoob  
+https://www.runoob.com/numpy/numpy-tutorial.html
+
+from-python-to-numpy  
+https://www.labri.fr/perso/nrougier/from-python-to-numpy
+
+
+
+
+<br><br><br>
+
+
 
 
 

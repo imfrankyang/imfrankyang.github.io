@@ -3,7 +3,7 @@
         <title>Academic - Category - Life and Work</title>
         <link>https://lianfengyeo.github.io/categories/academic/</link>
         <description>Academic - Category - Life and Work</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 13 Mar 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/categories/academic/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 05 May 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/categories/academic/" rel="self" type="application/rss+xml" /><item>
     <title>CFD collection</title>
     <link>https://lianfengyeo.github.io/cfd-collection/</link>
     <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
@@ -17,12 +17,27 @@
 CFD中文网
 2016目录
 东岳流体 AKAD
-  https://forum.cfdac.com/
+  https://forum.cfdac.com/ （openfoam）
+  硫酸亚铜 博客园
   Course
   Computational Methods in Aerospace Engineering MIT
-  陶文铨院士
-计算传热学的近代进展 PPT
-Numerical Heat Transfer PPT]]></description>
+  陶文铨院士]]></description>
+</item><item>
+    <title>OpenFOAM wall function</title>
+    <link>https://lianfengyeo.github.io/openfoam-wall-function/</link>
+    <pubDate>Wed, 05 May 2021 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/openfoam-wall-function/</guid>
+    <description><![CDATA[#Tutorial
+  OpenFOAMの壁関数
+CFD for Rotating Machinery using OpenFOAM
+  OpenFOAM 中的壁面函数（一）
+  OpenFOAM中的壁面函数选择
+  OpenFOAM中的wall function到底是怎么弄的【未完成】
+   k-omega model Near-wall treatment for k-omega models The Menter Shear Stress Transport Turbulence Model
+fvSchemes https://chengpengzhao.com/2019-12-15-fvschemes-xue-xi/
+controlDict https://chengpengzhao.com/2019-12-04-controldict-wen-jian-xue-xi/
+reference]]></description>
 </item><item>
     <title>OpenFOAM unit</title>
     <link>https://lianfengyeo.github.io/openfoam-unit/</link>
@@ -83,11 +98,11 @@ https://www.3ds.com/products-services/simulia/products/xflow/
   AVBP
 https://www.cerfacs.fr/avbp7x/index.php
 https://cerfacs.fr/en/
+  HiPSTAR
+https://cmg.soton.ac.uk/
   https://new.aerodynamic-solutions.com
   Post-processing   paraview
-https://www.paraview.org/
-  Gid
-https://www.gidhome.com/]]></description>
+https://www.paraview.org/]]></description>
 </item><item>
     <title>Celebrities in history</title>
     <link>https://lianfengyeo.github.io/celebrities-in-history/</link>
@@ -141,10 +156,7 @@ I work every day from 9am–5pm.]]></description>
     <guid>https://lianfengyeo.github.io/paper-tools/</guid>
     <description><![CDATA[Tools online air Dry Air Properties
 Air - Thermophysical Properties
- Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water  Water - Specific Heat  CFD tools   estimate k epsilon omega
-  hydraulic diameter calculator
-  MATERIALS THERMAL PROPERTIES DATABASE
-  estimate k epsilon omega]]></description>
+ Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water  Water - Specific Heat  CFD tools  y plus calculator 1 y plus calculator cfd-online estimate k epsilon omega hydraulic diameter calculator MATERIALS THERMAL PROPERTIES DATABASE estimate k epsilon omega  Others  djvu to pdf download subtitles  Search engine  知网海外版  Journal  science  Download paper   Download paper of cnki https://www.]]></description>
 </item><item>
     <title>OpenFOAM</title>
     <link>https://lianfengyeo.github.io/openfoam/</link>
@@ -173,7 +185,8 @@ Create customizable rectangular ROI
   normxcorr2
 Normalized 2-D cross-correlation [example]
   transpose, .'
-  1 2  B = A.&#39; B = transpose(A)   script 1 2 3 4 5 6 7 8 9 10  #matrix A = [1 2 3 4 ; 5 6 7 8; 1 2 9 10; 2 5 11 12] #Determinate a = det (A)   ]]></description>
+  1 2  B = A.&#39; B = transpose(A)   Optimization Toolbox™ 教程 https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html https://ww2.mathworks.cn/help/optim/ug/optim.problemdef.optimizationproblem.optimoptions.html
+script 1 2 3 4 5 6 7 8 9 10  #matrix A = [1 2 3 4 ; 5 6 7 8; 1 2 9 10; 2 5 11 12] #Determinate a = det (A)   ]]></description>
 </item><item>
     <title>Mathematics</title>
     <link>https://lianfengyeo.github.io/mathematics/</link>

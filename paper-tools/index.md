@@ -25,11 +25,11 @@
 
 
 ### CFD tools
-
+- [y plus calculator 1](http://www.pointwise.com/yplus/index.html)  
+- [y plus calculator cfd-online](https://www.cfd-online.com/Tools/yplus.php)  
 - [estimate k epsilon omega](https://www.cfd-online.com/Tools/turbulence.php)  
 - [hydraulic diameter calculator](https://www.engineeringtoolbox.com/hydraulic-equivalent-diameter-d_458.html)  
 - [MATERIALS THERMAL PROPERTIES DATABASE](https://thermtest.com/materials-database#)  
-
 - [estimate k epsilon omega](https://www.cfd-online.com/Wiki/Turbulence_free-stream_boundary_conditions)
 
 ### Others
@@ -49,3 +49,8 @@
 ### Download paper
 
 - Download paper of cnki  https://www.cn-ki.net/
+
+- https://docplayer.net/
+
+
+

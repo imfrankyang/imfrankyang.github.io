@@ -42,8 +42,6 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
 - [OpenFOAM: User Guide  v2012 ESI](https://www.openfoam.com/documentation/guides/latest/doc/index.html)  
 
 ## Toturial
-
-- [OpenFOAM "CFD NINJA / ANSYS CFD"](https://www.youtube.com/playlist?list=PLd23hHm4FCRdFxcjAqEMd6W2cikPaaNXS)  
   
 - Theo Ong  
   [Introductory C++ for OpenFoam Users "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YT9OgqS7ZPlot_Ucxzc6pQJ)  
@@ -51,33 +49,43 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
   [OpenFOAM Intermediate "Theo Ong"](https://www.youtube.com/playlist?list=PLhPfNw4V4_YSpWX6mSOlwWEOKVa6i_iuE)  
   [OpenFOAM Heat Transfer](https://www.youtube.com/playlist?list=PLhPfNw4V4_YR2Qa3Q9-AzNSF2J9Dc4_qT)
   
-- [Introduction to OpenFOAM @ Ghent University (May'16)](https://www.youtube.com/playlist?list=PLqxhJj6bcnY9RoIgzeF6xDh5L9bbeK3BL)
+- [Introduction to OpenFOAM Ghent University course](https://www.youtube.com/playlist?list=PLqxhJj6bcnY9RoIgzeF6xDh5L9bbeK3BL)
 
 - Wolf Dynamics (Joël Guerrero)  
   A tutorial from University of genova  
   [youtube](https://www.youtube.com/channel/UCNNBm3KxVS1rGeCVUU1p61g)  
   [website](http://www.wolfdynamics.com/tutorials.html?layout=edit)  
 
-- Asmaa Hadane  
-  [youtube](https://www.youtube.com/channel/UCuxa0_vuFRihBaHRWzgjuJA/playlists)  
-
 - Tobias Holzmann
   His [book](https://holzmann-cfd.com/community/publications/mathematics-numerics-derivations-and-openfoam) and his [youtube channel](https://www.youtube.com/channel/UCLMLJc3tV_tNRlWoVFaSRGw). Also his [explanation of OpenFoam for beginners](https://holzmann-cfd.com/community/learn-openfoam)
 
-- Jószef Nagy  
-  [youtube](https://www.youtube.com/channel/UCjdgpuxuAxH9BqheyE82Vvw) and his [Patreon](https://www.patreon.com/user/posts?u=15620295) has additional videos. 
-
-- several days training programming  
+- OPENFOAM WIKI TUTORIALS  
+  several days training programming and managed by ESI OpenFoam.  
   https://wiki.openfoam.com/index.php?title=Tutorials
 
 - cfd.at  
   https://www.cfd.at/tutorials
+
+
+
+- Jószef Nagy  
+  [youtube](https://www.youtube.com/channel/UCjdgpuxuAxH9BqheyE82Vvw) and his [Patreon](https://www.patreon.com/user/posts?u=15620295) has additional videos. 
 
 - DD Fluids  
   https://www.youtube.com/c/DDFluids/videos
 
 - Hyper Lyceum  
   https://www.youtube.com/channel/UCRezzmom8mDl01fcv0z7_jg
+
+- Chandan Bose  
+  https://www.youtube.com/c/ChandanBose1991/videos
+
+- Asmaa Hadane  
+  [youtube](https://www.youtube.com/channel/UCuxa0_vuFRihBaHRWzgjuJA/playlists)  
+
+- OpenFOAM "CFD NINJA / ANSYS CFD"  
+  https://www.youtube.com/playlist?list=PLd23hHm4FCRdFxcjAqEMd6W2cikPaaNXS)  
+
 
 
 
@@ -120,9 +128,16 @@ http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
 
 **Forum**
 - [cfd-online](https://www.cfd-online.com/Forums/openfoam/)
+  
 - [cfdac](https://forum.cfdac.com/)
+  
 - [CFD WITH A MISSION](https://caefn.com/) 
-
+  - [DES](https://caefn.com/openfoam/turbulence-model-hybrid)
+  - [DNS](https://caefn.com/openfoam/dns)
+  - [LES](https://caefn.com/openfoam/les)
+    - [keqn](https://caefn.com/openfoam/keqn-sgs-model)
+    - [wale](https://caefn.com/openfoam/wale-sgs-model)
+    - [smagorinsky](https://caefn.com/openfoam/smagorinsky-sgs-model)
 
 
 ## PyFoam
@@ -132,3 +147,4 @@ pip install PyFoam
 ```
 郭志馗 https://gitlab.com/hydrothermal-openfoam/scipyfoam
 command of PyFoam http://openfoamwiki.net/index.php/Contrib_PyFoam
+

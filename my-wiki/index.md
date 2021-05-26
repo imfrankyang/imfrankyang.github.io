@@ -36,6 +36,12 @@
 
 [mdx词典下载](https://downloads.freemdict.com/100G_Super_Big_Collection/)
 
+[Eng-Tips community](https://www.eng-tips.com/)  
+engineering forum  
+
+
+
+
 
 RSM  
 https://www.minitab.com/en-us/  

@@ -3,7 +3,23 @@
         <title>OpenFOAM - Tag - Life and Work</title>
         <link>https://lianfengyeo.github.io/tags/openfoam/</link>
         <description>OpenFOAM - Tag - Life and Work</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 13 Mar 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/openfoam/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 05 May 2021 10:09:30 &#43;0100</lastBuildDate><atom:link href="https://lianfengyeo.github.io/tags/openfoam/" rel="self" type="application/rss+xml" /><item>
+    <title>OpenFOAM wall function</title>
+    <link>https://lianfengyeo.github.io/openfoam-wall-function/</link>
+    <pubDate>Wed, 05 May 2021 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/openfoam-wall-function/</guid>
+    <description><![CDATA[#Tutorial
+  OpenFOAMの壁関数
+CFD for Rotating Machinery using OpenFOAM
+  OpenFOAM 中的壁面函数（一）
+  OpenFOAM中的壁面函数选择
+  OpenFOAM中的wall function到底是怎么弄的【未完成】
+   k-omega model Near-wall treatment for k-omega models The Menter Shear Stress Transport Turbulence Model
+fvSchemes https://chengpengzhao.com/2019-12-15-fvschemes-xue-xi/
+controlDict https://chengpengzhao.com/2019-12-04-controldict-wen-jian-xue-xi/
+reference]]></description>
+</item><item>
     <title>OpenFOAM unit</title>
     <link>https://lianfengyeo.github.io/openfoam-unit/</link>
     <pubDate>Sat, 13 Mar 2021 10:09:30 &#43;0100</pubDate>
