@@ -236,7 +236,7 @@ graph LR;
 - 
 
 
-- [重庆大学-工程流体力学](https://space.bilibili.com/508358011/video?tid=0&page=2&keyword=&order=pubdate)
+- [工程流体力学 重庆大学](https://space.bilibili.com/508358011/video?tid=0&page=2&keyword=&order=pubdate)
 
 
 - Steve Brunton  
