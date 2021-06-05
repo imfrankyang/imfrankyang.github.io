@@ -60,7 +60,7 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
   His [book](https://holzmann-cfd.com/community/publications/mathematics-numerics-derivations-and-openfoam) and his [youtube channel](https://www.youtube.com/channel/UCLMLJc3tV_tNRlWoVFaSRGw). Also his [explanation of OpenFoam for beginners](https://holzmann-cfd.com/community/learn-openfoam)
 
 - OPENFOAM WIKI TUTORIALS  
-  several days training programming and managed by ESI OpenFoam.  
+  "3 weeks" series training programming and managed by ESI OpenFoam.  
   https://wiki.openfoam.com/index.php?title=Tutorials
 
 - cfd.at  

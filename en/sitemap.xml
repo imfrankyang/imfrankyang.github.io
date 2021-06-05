@@ -3,7 +3,7 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>https://lianfengyeo.github.io/cfd-collection/</loc><lastmod>2020-12-01T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://lianfengyeo.github.io/openfoam-wall-function/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://lianfengyeo.github.io/openfoam-wall-function/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>https://lianfengyeo.github.io/openfoam-unit/</loc><lastmod>2021-03-13T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://lianfengyeo.github.io/scientist/</loc><lastmod>2021-03-12T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://lianfengyeo.github.io/cfd-software/</loc><lastmod>2021-03-10T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -23,8 +23,8 @@
             <loc>https://lianfengyeo.github.io/guide-to-hugo/</loc><lastmod>2020-11-29T10:10:37&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://lianfengyeo.github.io/guide-to-markdown/</loc><lastmod>2020-11-27T22:55:58&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://lianfengyeo.github.io/hello-world/</loc><lastmod>2020-11-27T21:20:25&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://lianfengyeo.github.io/categories/academic/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://lianfengyeo.github.io/categories/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://lianfengyeo.github.io/categories/academic/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://lianfengyeo.github.io/categories/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://lianfengyeo.github.io/zh-cn/categories/"
@@ -33,7 +33,7 @@
                     hreflang="en"
                     href="https://lianfengyeo.github.io/categories/"
                     /></url><url>
-            <loc>https://lianfengyeo.github.io/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://lianfengyeo.github.io/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://lianfengyeo.github.io/zh-cn/"
@@ -42,9 +42,9 @@
                     hreflang="en"
                     href="https://lianfengyeo.github.io/"
                     /></url><url>
-            <loc>https://lianfengyeo.github.io/tags/openfoam/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://lianfengyeo.github.io/posts/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://lianfengyeo.github.io/tags/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://lianfengyeo.github.io/tags/openfoam/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://lianfengyeo.github.io/posts/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://lianfengyeo.github.io/tags/</loc><lastmod>2021-05-05T10:09:30&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://lianfengyeo.github.io/zh-cn/tags/"

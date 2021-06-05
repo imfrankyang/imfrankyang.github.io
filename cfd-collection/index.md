@@ -51,6 +51,10 @@ graph LR;
 
 - [硫酸亚铜 博客园](https://www.cnblogs.com/liusuanyatong/)
 
+
+
+
+
 **Course**
 
 - [Computational Methods in Aerospace Engineering MIT](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-90-computational-methods-in-aerospace-engineering-spring-2014/index.htm)
@@ -58,6 +62,7 @@ graph LR;
 - 陶文铨院士  
   [计算传热学的近代进展 PPT](http://nht.xjtu.edu.cn/jxzy/jscrxdjdjz.htm)  
   [Numerical Heat Transfer PPT](http://nht.xjtu.edu.cn/jxzy/szcrx.htm)  
+  [传热学-陶文铨](https://www.bilibili.com/video/BV1t741137fa?p=2)
 
 - Lorena Barba  
   *GPU computing, python*  
@@ -71,11 +76,11 @@ graph LR;
 * Prof. S. A. E. Miller, Ph.D.  
   [Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
 
-* 李新亮 (CFD)  
+* 李新亮 CFD课程  
   [[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
   [[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
 
-- 刘建新 天津大学 CFD
+- 刘建新 天津大学 CFD课程
   https://www.bilibili.com/video/BV1vE411W7kV?p=1
 
 * Aidan Wimshurst  
@@ -86,14 +91,13 @@ graph LR;
   [[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html)   
   [[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
 
-* Josua Meyer  
-  [Heat Transfer Lectures (2019) by Prof Josua Meyer](https://www.youtube.com/c/HeatTransferUP/playlists)
-
 * 汪洋  
   [bilibili](https://space.bilibili.com/196986312/video)  
   [cfd course](https://space.bilibili.com/381553233)
 
-
+* Josua Meyer  
+  [Heat Transfer Lectures (2019) by Prof Josua Meyer](https://www.youtube.com/c/HeatTransferUP/playlists)
+  
 - 2.097- Qiqi Wang  
   [Num Methods for Part Diff Eq materials mit](https://learning-modules.mit.edu/materials/index.html?uuid=/course/16/fa18/16.920#materials)
 
@@ -105,11 +109,23 @@ graph LR;
 
 - Julien Reveillon  
   [googlescholar](https://scholar.google.com/citations?user=90nhq6wAAAAJ&hl=en)
-  https://www.julienreveillon.com/openfoam-learning-paths
+  His [website](https://www.julienreveillon.com/openfoam-learning-paths) collected series of CFD channels and materials.
 
 - tonysaad uCFD Lectures  
   http://www.tonysaad.net/uCFD/
-  
+
+- Tanmay Agrawal (youtube)  
+  [Simulating Fluid Flows Using Python](https://www.youtube.com/playlist?list=PLKSR9A4mJH5o_fRTxgVciOg7HjZMnHZ1x)  
+  [An Introduction to CFD using MATLAB](https://www.youtube.com/playlist?list=PLKSR9A4mJH5rvt_Lf007xbmJISRWA0xYS)  
+
+- Scientific Computing for DPhil Students Prof. Nick Trefethen from Oxford  
+  https://podcasts.ox.ac.uk/series/scientific-computing-dphil-students  
+  https://www.bilibili.com/video/BV1VE411Q7ue/
+
+- 计算传热学大叔  数值传热学
+  [bilibili](https://space.bilibili.com/524949337) Videos about Numerical Heat Transfer and CFD like Fluent.
+
+
 
 
 **知乎专栏**
@@ -132,6 +148,11 @@ graph LR;
 
 
 **Ansys tutorial**  
+
+- [A Hands-on Introduction to Engineering Simulations](https://learning.edx.org/course/course-v1:CornellX+ENGR2000X+1T2018/home)  
+  软件版本较新，基础视频
+  
+- [cornell university FLUENT Learning Modules](https://confluence.cornell.edu/display/SIMULATION/FLUENT+Learning+Modules)
 
 - [SimuTechGroup](https://www.youtube.com/c/SimuTechGroup)  
 
@@ -187,11 +208,6 @@ graph LR;
 
 
 **Course**
-
-- MIT 16.687 Private Pilot Ground School
-  [homepage](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/index.htm)  
-  [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25)  
-  In video 2 airplane aerodynamics, I believe using the Bernoulli equation to explain the airfoil is not accurate.
 
 
 - [NSF Fluid Mechanics Series](https://www.youtube.com/playlist?list=PL0EC6527BE871ABA3)  
@@ -287,8 +303,14 @@ graph LR;
 * [Multiphase Microfluidics "IITG"](https://www.youtube.com/playlist?list=PLC25ItV4rcpdcMPaHObUHhIOUAgJbrZjx)  
 
 
-
-
+## Aeronautics
+- MIT 16.687 Private Pilot Ground School
+  [homepage](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/index.htm)  
+  [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25)  
+  - [Airplane Aerodynamics](https://www.youtube.com/watch?v=edLnZgF9mUg&list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25&index=3)
+  In video 2 airplane aerodynamics, I believe using the Bernoulli equation to explain the airfoil is not accurate.  
+  - [Special Lecture: F-22 Flight Controls](https://www.youtube.com/watch?v=n068fel-W9I&list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25&index=22)
+  
 
 
 
