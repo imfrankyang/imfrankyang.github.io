@@ -36,20 +36,9 @@ graph LR;
 
 
 
-**CFD forum**
 
-- http://www.cfdreview.com/
 
-- https://www.cfd-online.com/
 
-- 东岳流体  
-  [CFD中文网](https://cfd-china.com/)  
-    [2016目录](https://www.cfd-china.com/topic/666/2016%E7%9B%AE%E5%BD%95)  
-  [东岳流体 AKAD](http://dyfluid.com/)  
-
-- https://forum.cfdac.com/ （openfoam）
-
-- [硫酸亚铜 博客园](https://www.cnblogs.com/liusuanyatong/)
 
 
 
@@ -73,29 +62,32 @@ graph LR;
   [bilibili](https://www.bilibili.com/video/av41449459/)
   
 
-* Prof. S. A. E. Miller, Ph.D.  
+- Prof. S. A. E. Miller, Ph.D.  
   [Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
 
-* 李新亮 CFD课程  
+- 李新亮 CFD课程  
   [[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
   [[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
 
+- 计算传热学大叔  数值传热学 
+  [bilibili](https://space.bilibili.com/524949337) Videos about Numerical Heat Transfer and CFD like Fluent.
+  
 - 刘建新 天津大学 CFD课程
   https://www.bilibili.com/video/BV1vE411W7kV?p=1
 
-* Aidan Wimshurst  
+- Aidan Wimshurst oxford   
   [[youtube]](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)  
   [[udemy]](https://www.udemy.com/user/aidan-wimshurst/)  
 
-* Alistair Revell  
+- Alistair Revell  
   [[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html)   
   [[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
 
-* 汪洋  
+- 汪洋  
   [bilibili](https://space.bilibili.com/196986312/video)  
   [cfd course](https://space.bilibili.com/381553233)
 
-* Josua Meyer  
+- Josua Meyer  
   [Heat Transfer Lectures (2019) by Prof Josua Meyer](https://www.youtube.com/c/HeatTransferUP/playlists)
   
 - 2.097- Qiqi Wang  
@@ -118,17 +110,22 @@ graph LR;
   [Simulating Fluid Flows Using Python](https://www.youtube.com/playlist?list=PLKSR9A4mJH5o_fRTxgVciOg7HjZMnHZ1x)  
   [An Introduction to CFD using MATLAB](https://www.youtube.com/playlist?list=PLKSR9A4mJH5rvt_Lf007xbmJISRWA0xYS)  
 
-- Scientific Computing for DPhil Students Prof. Nick Trefethen from Oxford  
-  https://podcasts.ox.ac.uk/series/scientific-computing-dphil-students  
-  https://www.bilibili.com/video/BV1VE411Q7ue/
 
-- 计算传热学大叔  数值传热学
-  [bilibili](https://space.bilibili.com/524949337) Videos about Numerical Heat Transfer and CFD like Fluent.
+**CFD forum**
 
+- http://www.cfdreview.com/
 
+- https://www.cfd-online.com/
 
+- 东岳流体  
+  [CFD中文网](https://cfd-china.com/)  
+    [2016目录](https://www.cfd-china.com/topic/666/2016%E7%9B%AE%E5%BD%95)  
+  [东岳流体 AKAD](http://dyfluid.com/)  
 
-**知乎专栏**
+- https://forum.cfdac.com/ （openfoam）
+
+**blog**
+- [硫酸亚铜 博客园](https://www.cnblogs.com/liusuanyatong/)
 
 - [一起来学CFD](https://www.zhihu.com/column/cfdnotebook)
 
@@ -137,13 +134,6 @@ graph LR;
 - [学习杂记](https://www.zhihu.com/column/c_1233358747226763264)
 
 - [计算科学与工程 汪洋](https://www.zhihu.com/column/c_1057964471238111232)
-
-
-
-
-
-
-
 
 
 
@@ -159,7 +149,7 @@ graph LR;
 - [ANSYS CFD tutorials and courses](https://www.youtube.com/c/AdvancedEngineeringSolutions)  
   - [NACA 0012 3D Turbulent Simulation at Re = 3 Million](https://www.youtube.com/playlist?list=PL8nfXsTP607IOuOLDpMw86pLxw7LswffA)
 
-- [CFD NINJA / ANSYS CFD](https://www.youtube.com/channel/UC3XvZi4o5YZoh7LXY45YI6g)
+- [CFD NINJA / ANSYS CFD youtube](https://www.youtube.com/channel/UC3XvZi4o5YZoh7LXY45YI6g)
 
 
 
@@ -195,11 +185,22 @@ graph LR;
 
 
 **Books**
+[天津大学 刘建新 推荐 计算流体力学教材](https://www.bilibili.com/video/BV1kq4y1j7Bn)
 
 [有关流体力学或者计算流体力学的经典教材](https://www.zhihu.com/question/20988412/answer/1491155615)
 
 [CFD 书单](https://forum.cfdac.com/t/topic/377)
 
+
+
+## Scientific Computing
+
+- Scientific Computing for DPhil Students Prof. Nick Trefethen from Oxford  
+  https://podcasts.ox.ac.uk/series/scientific-computing-dphil-students  
+  https://www.bilibili.com/video/BV1VE411Q7ue/
+
+- tensor
+  [Tensor Calculus](https://www.youtube.com/playlist?list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_)
 
 
 
@@ -255,35 +256,6 @@ graph LR;
 - [工程流体力学 重庆大学](https://space.bilibili.com/508358011/video?tid=0&page=2&keyword=&order=pubdate)
 
 
-- Steve Brunton  
-  [[homepage1]](https://www.me.washington.edu/facultyfinder/steve-brunton)
-  [[homepage2]](https://www.eigensteve.com/)
-  [[googlescholar]](https://scholar.google.com/citations?hl=en&user=TjzWdigAAAAJ)
-  [[youtube]](https://www.youtube.com/c/Eigensteve/featured)  
-  [[DATA DRIVEN SCIENCE & ENGINEERING]](http://databookuw.com/)  
-  [[DYNAMIC MODE DECOMPOSITION]](http://dmdbook.com/)  
-  [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)  
-  [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)  
-  [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
-
-
-- Nathan Kutz  
-  [homepage](https://faculty.washington.edu/kutz/)
-  [googlescholar](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en)
-  [youtube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/featured)
-
-- tensor
-  [Tensor Calculus](https://www.youtube.com/playlist?list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_)
-
-
-
-
-
-**Boundary layer**
-- [天津大学老师自制课程](https://space.bilibili.com/176075/video)  
-
-
-
 
 **Material derivative**
 * [wiki](https://www.wikiwand.com/en/Material_derivative)  
@@ -297,10 +269,8 @@ graph LR;
 
 
 
-
-
 ## Multiphase Microfluidics
-* [Multiphase Microfluidics "IITG"](https://www.youtube.com/playlist?list=PLC25ItV4rcpdcMPaHObUHhIOUAgJbrZjx)  
+- [Multiphase Microfluidics "IITG"](https://www.youtube.com/playlist?list=PLC25ItV4rcpdcMPaHObUHhIOUAgJbrZjx)  
 
 
 ## Aeronautics
@@ -334,43 +304,26 @@ Nathan Kutz
 - [POD carlberg 4](https://www.youtube.com/watch?v=j38c4hqsEI0)  
 - [POD carlberg 5](https://www.youtube.com/watch?v=wcH1BMRDOJY)  
 
+- Steve Brunton  POD DMD ML 
+  [[homepage1]](https://www.me.washington.edu/facultyfinder/steve-brunton)
+  [[homepage2]](https://www.eigensteve.com/)
+  [[googlescholar]](https://scholar.google.com/citations?hl=en&user=TjzWdigAAAAJ)
+  [[youtube]](https://www.youtube.com/c/Eigensteve/featured)  
+  [[DATA DRIVEN SCIENCE & ENGINEERING]](http://databookuw.com/)  
+  [[DYNAMIC MODE DECOMPOSITION]](http://dmdbook.com/)  
+  [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)  
+  [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)  
+  [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
+
+
+- Nathan Kutz  
+  [homepage](https://faculty.washington.edu/kutz/)
+  [googlescholar](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en)
+  [youtube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/featured)
 
 
 
 
-
-
-
-## PIV Particle Image Velocimetry
-* [Particle Image Velocimetry (PIV) Explained - How do we see airflow in wind tunnels?](https://www.youtube.com/watch?v=JbuuhpQCWz8)  
-If we want to see different planes at time t1, how to do it?  
-* [A Beginner's Introduction to Particle Image Velocimetry (PIV) using MATLAB - Part 1](https://www.youtube.com/watch?v=OZ6AKMA7zFY&feature=emb_rel_end)  
-* [Cross-Correlation for Particle Image Velocimetry (PIV) using MATLAB](https://www.youtube.com/watch?v=C6qefvUx7T0&feature=emb_rel_end)  
-* [Experimental Setup of Particle Image Velocimetry (PIV)](https://www.youtube.com/watch?v=noQGz2DrMXk&t=431s)  
-{{< link "https://www.velocimetry.net/principle.htm" >}}
-
-* [Introduction to PIV and Advanced Processing Methods for PIV and Time Resolved PIV](https://www.youtube.com/watch?v=EAE-33uRQiI)  
-1ms between the laser pulses  
-how to determine the $\Delta$T  
-* [[Week 07 lec 03] Particle Image Velocimetry0](https://www.youtube.com/watch?v=M21PQ52q_oc)  
-
-* [PIVlab matlab "William Thielicke"](https://www.mathworks.com/matlabcentral/fileexchange/27659-pivlab-particle-image-velocimetry-piv-tool-with-gui?s_tid=FX_rc3_behav)
-  [[github]](https://github.com/Shrediquette/PIVlab)
-  [[homepage]](https://www.blogger.com/profile/01217178163189555726)  
-
-* [openpiv](http://www.openpiv.net/openpiv-matlab/)
-  [[github openpiv-matlab]](https://github.com/OpenPIV/openpiv-matlab)
-  [[github openpiv-python]](https://github.com/OpenPIV/openpiv-python)
-  [[youtube]](https://www.youtube.com/channel/UCMgp5JQQtqn9vXcrbuMefXw/featured)  
-  [readthedocs](https://openpiv.readthedocs.io/en/latest/index.html)  
-
-
-
-
-**Cross-correlation**
-
-* [Part 2: Convolution and Cross-Correlation - G. Jensen](https://www.youtube.com/watch?v=MQm6ZP1F6ms)  
-* [Lecture 11: Micro Particle Image Velocimetry (Part 2, Flow Tracing Particles)](https://www.youtube.com/watch?v=Pj7BCBQfpX4&list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm&index=10)  
 
 
 
@@ -411,11 +364,39 @@ how to determine the $\Delta$T
 
 
 
+### PIV Particle Image Velocimetry
+* [Particle Image Velocimetry (PIV) Explained - How do we see airflow in wind tunnels?](https://www.youtube.com/watch?v=JbuuhpQCWz8)  
+If we want to see different planes at time t1, how to do it?  
+* [A Beginner's Introduction to Particle Image Velocimetry (PIV) using MATLAB - Part 1](https://www.youtube.com/watch?v=OZ6AKMA7zFY&feature=emb_rel_end)  
+* [Cross-Correlation for Particle Image Velocimetry (PIV) using MATLAB](https://www.youtube.com/watch?v=C6qefvUx7T0&feature=emb_rel_end)  
+* [Experimental Setup of Particle Image Velocimetry (PIV)](https://www.youtube.com/watch?v=noQGz2DrMXk&t=431s)  
+{{< link "https://www.velocimetry.net/principle.htm" >}}
+
+* [Introduction to PIV and Advanced Processing Methods for PIV and Time Resolved PIV](https://www.youtube.com/watch?v=EAE-33uRQiI)  
+1ms between the laser pulses  
+how to determine the $\Delta$T  
+* [[Week 07 lec 03] Particle Image Velocimetry0](https://www.youtube.com/watch?v=M21PQ52q_oc)  
+
+* [PIVlab matlab "William Thielicke"](https://www.mathworks.com/matlabcentral/fileexchange/27659-pivlab-particle-image-velocimetry-piv-tool-with-gui?s_tid=FX_rc3_behav)
+  [[github]](https://github.com/Shrediquette/PIVlab)
+  [[homepage]](https://www.blogger.com/profile/01217178163189555726)  
+
+* [openpiv](http://www.openpiv.net/openpiv-matlab/)
+  [[github openpiv-matlab]](https://github.com/OpenPIV/openpiv-matlab)
+  [[github openpiv-python]](https://github.com/OpenPIV/openpiv-python)
+  [[youtube]](https://www.youtube.com/channel/UCMgp5JQQtqn9vXcrbuMefXw/featured)  
+  [readthedocs](https://openpiv.readthedocs.io/en/latest/index.html)  
 
 
 
-## Experiment
-**Wind tunnel**
+
+**Cross-correlation**
+
+* [Part 2: Convolution and Cross-Correlation - G. Jensen](https://www.youtube.com/watch?v=MQm6ZP1F6ms)  
+* [Lecture 11: Micro Particle Image Velocimetry (Part 2, Flow Tracing Particles)](https://www.youtube.com/watch?v=Pj7BCBQfpX4&list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm&index=10)  
+
+
+### Wind tunnel
 
 [NASA Wind Tunnel intro](https://www.grc.nasa.gov/www/k-12/airplane/shortt.html)
 
@@ -445,10 +426,20 @@ how to determine the $\Delta$T
 
 - [MIT thermodynamics](https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node5.html)
 
+- [两相流动与传热 上交 MOOC](https://www.icourse163.org/learn/SJTU-1463186164?tid=1463997446#/learn/content?type=detail&id=1242676061&cid=1265810100)
+
+
+
+
+
 ## Image Processing
 * [Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015 "Rich Radke"](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)  
 * [Computer Vision for Visual Effects (ECSE-6969) Lectures Spring 2014 "Rich Radke"](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a)
 
+
+## Miscellaneous
+
+- [数值天气预报 南京信息工程大学 MOOC](https://www.icourse163.org/learn/NUIST-1001755245?tid=1001841363#/learn/content?type=detail&id=1002917451&cid=1003360643)
 
 
 
@@ -456,8 +447,6 @@ how to determine the $\Delta$T
 ## University
 * [Tel Aviv University](https://english.tau.ac.il/)  [[wiki]](https://www.wikiwand.com/en/Tel_Aviv_University)
 * [University of Göttingen](https://www.uni-goettingen.de/en/1.html)  [[wiki]](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen)
-
-
 
 
 
@@ -470,4 +459,6 @@ how to determine the $\Delta$T
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [youtube]: ../Mathematics/youtube "youtube"
+[googlescholar]: googlescholar "googlescholar"
+[homepage2]: homepage2 "homepage2"
 [//end]: # "Autogenerated link references"

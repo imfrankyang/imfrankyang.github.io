@@ -12,18 +12,18 @@
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cfd-collection/</guid>
     <description><![CDATA[-- CFD CFDer capabilities:
- Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  CFD forum
-  http://www.cfdreview.com/
-  https://www.cfd-online.com/
-  东岳流体
-CFD中文网
-2016目录
-东岳流体 AKAD
-  https://forum.cfdac.com/ （openfoam）
-  硫酸亚铜 博客园
-  Course
+ Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  Course
   Computational Methods in Aerospace Engineering MIT
-  陶文铨院士]]></description>
+  陶文铨院士
+计算传热学的近代进展 PPT
+Numerical Heat Transfer PPT
+传热学-陶文铨
+  Lorena Barba
+GPU computing, python
+波士顿大学机械工程系Lorena Barba教授制作课程ME 702，CFDPython在课程中使用(Barba教授后来搬到乔治华盛顿大学),胡坤根据CFDPython编写了Julia CFD系列文章，位于原创汇总2020年度
+CFDPython intro
+CFDPython github
+ME 702 - Computational Fluid Dynamics - Video Lesson 1]]></description>
 </item><item>
     <title>OpenFOAM wall function</title>
     <link>https://lianfengyeo.github.io/openfoam-wall-function/</link>
