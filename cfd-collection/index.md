@@ -66,8 +66,8 @@ graph LR;
   [Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
 
 - 李新亮 CFD课程  
-  [[homepage]](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
-  [[计算流体力学 2020 李新亮 中国科学院大学 bilibili]](https://www.bilibili.com/video/BV1GT4y1G7NA)  
+  [homepage](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
+  [计算流体力学 2020 李新亮 中国科学院大学 bilibili](https://www.bilibili.com/video/BV1GT4y1G7NA)  
 
 - 计算传热学大叔  数值传热学 
   [bilibili](https://space.bilibili.com/524949337) Videos about Numerical Heat Transfer and CFD like Fluent.
@@ -76,12 +76,12 @@ graph LR;
   https://www.bilibili.com/video/BV1vE411W7kV?p=1
 
 - Aidan Wimshurst oxford   
-  [[youtube]](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)  
-  [[udemy]](https://www.udemy.com/user/aidan-wimshurst/)  
+  [youtube](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)  
+  [udemy](https://www.udemy.com/user/aidan-wimshurst/)  
 
 - Alistair Revell  
-  [[homepage]](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html)   
-  [[youtube]](https://www.youtube.com/user/mcji8ar2/videos)  
+  [homepage](https://www.research.manchester.ac.uk/portal/en/researchers/alistair-revell(cffb9116-feac-4456-b611-8fa157f426ac).html)   
+  [youtube](https://www.youtube.com/user/mcji8ar2/videos)  
 
 - 汪洋  
   [bilibili](https://space.bilibili.com/196986312/video)  
@@ -90,12 +90,9 @@ graph LR;
 - Josua Meyer  
   [Heat Transfer Lectures (2019) by Prof Josua Meyer](https://www.youtube.com/c/HeatTransferUP/playlists)
   
-- 2.097- Qiqi Wang  
-  [Num Methods for Part Diff Eq materials mit](https://learning-modules.mit.edu/materials/index.html?uuid=/course/16/fa18/16.920#materials)
-
 
 - Jorg Schluter  
-- [[googlescholar]](https://scholar.google.com/citations?hl=en&user=VRNK9I8AAAAJ&view_op=list_works)
+- [googlescholar](https://scholar.google.com/citations?hl=en&user=VRNK9I8AAAAJ&view_op=list_works)
   https://www.youtube.com/watch?v=fAuG9PZwOfI  
   energy spectrum, RANS
 
@@ -202,6 +199,16 @@ graph LR;
 - tensor
   [Tensor Calculus](https://www.youtube.com/playlist?list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_)
 
+- 2.097- Qiqi Wang  
+  [youtube](https://www.youtube.com/c/QiqiWangGG/playlists?view=1&sort=dd&shelf_id=0)  
+  - Numerical methods for PDEs 2016 2017 2020  
+  - aerodynamics 2020fall
+  [Numerical methods for PDEs materials mit](https://learning-modules.mit.edu/materials/index.html?uuid=/course/16/fa18/16.920#materials)  
+  [Numerical methods for PDEs 2016 fall bilibili](https://www.bilibili.com/video/BV13E411Q7d5)  
+
+- Parallel Programming 平行程式课程
+  https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=231
+  https://www.bilibili.com/video/BV1Yt411W7td?p=2&spm_id_from=pageDriver
 
 
 
@@ -225,13 +232,13 @@ graph LR;
 - [Fluid Mechanics](https://farside.ph.utexas.edu/teaching/336L/Fluid/)  
 
 - Brian D. Storey (Fluid dynamics and heat transfer)  
-  [[homepage]](http://faculty.olin.edu/bstorey/)  
+  [homepage](http://faculty.olin.edu/bstorey/)  
   [Lectures for Transport Phenomena course "Storey"](https://www.youtube.com/playlist?list=PLwAYtqaThyg97crC9yjdmUsNmtcai3pFP)  
 
 - [Microfluidics Lectures "IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR1BlDadwMhIT6kk8YgpjQxm)  
 
 - Ron Hugo (fluid, heat transfer)  
-  [[youtube]](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q) 
+  [youtube](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q) 
 
 - [Introduction to Compressible Flow - Prof. S. A. E. Miller, Ph.D.](https://www.youtube.com/playlist?list=PLbiOzt50Bx-ntmxUzPRCOLLTxrVwG8RG6)  
 
@@ -285,44 +292,47 @@ graph LR;
 
 
 ## Data-driven
-**von Karman Institute for Fluid Dynamics**  
+- von Karman Institute for Fluid Dynamics  
 [lecture 1 Analysis, Modeling and Control of the Cylinder Wake (Prof. Bernd R. Noack)](https://www.youtube.com/watch?v=iehMMhDqmys)  
 [lecture3 The Proper Orthogonal Decomposition (Prof. Scott T.M. Dawson)](https://www.youtube.com/watch?v=TcqBbtWTcIc)  
-
 [lecture11 Nonlinear Dynamical Systems (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=BL190kyt-rk)  
 [lecture12 Methods for System Identification (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=TL86S3mmlqg)  
 [lecture13 Introduction to Machine Learning Methods (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=wSOClPEsAcs)  
 [lecture14 Machine Learning in Fluids: Pairing Methods with Problems (Prof. Steve L. Brunton)](https://www.youtube.com/watch?v=NJri74lQg2Y)  
 
-Nathan Kutz  
-- [POD introduction 1](https://www.youtube.com/watch?v=YX24Jgd90uY)  
-- [POD introduction 2](https://www.youtube.com/watch?v=X5GhhjpX0ao)  
-- [POD introduction 3](https://www.youtube.com/watch?v=sK0cUVD7mxw)  
-- [POD carlberg 1](https://www.youtube.com/watch?v=KOHxCIx04Dg)  
-- [POD carlberg 2](https://www.youtube.com/watch?v=MKL_AGo6Ktk)  
-- [POD carlberg 3](https://www.youtube.com/watch?v=9zASWKu002U)  
-- [POD carlberg 4](https://www.youtube.com/watch?v=j38c4hqsEI0)  
-- [POD carlberg 5](https://www.youtube.com/watch?v=wcH1BMRDOJY)  
-
-- Steve Brunton  POD DMD ML 
-  [[homepage1]](https://www.me.washington.edu/facultyfinder/steve-brunton)
-  [[homepage2]](https://www.eigensteve.com/)
-  [[googlescholar]](https://scholar.google.com/citations?hl=en&user=TjzWdigAAAAJ)
-  [[youtube]](https://www.youtube.com/c/Eigensteve/featured)  
-  [[DATA DRIVEN SCIENCE & ENGINEERING]](http://databookuw.com/)  
-  [[DYNAMIC MODE DECOMPOSITION]](http://dmdbook.com/)  
-  [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)  
-  [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)  
-  [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
-
-
 - Nathan Kutz  
   [homepage](https://faculty.washington.edu/kutz/)
-  [googlescholar](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en)
-  [youtube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/featured)
+  [googlescholar](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en)  
+  [youtube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/featured)  
+  - [POD introduction 1](https://www.youtube.com/watch?v=YX24Jgd90uY)  
+  - [POD introduction 2](https://www.youtube.com/watch?v=X5GhhjpX0ao)  
+  - [POD introduction 3](https://www.youtube.com/watch?v=sK0cUVD7mxw)  
+  - [POD carlberg 1](https://www.youtube.com/watch?v=KOHxCIx04Dg)  
+  - [POD carlberg 2](https://www.youtube.com/watch?v=MKL_AGo6Ktk)  
+  - [POD carlberg 3](https://www.youtube.com/watch?v=9zASWKu002U)  
+  - [POD carlberg 4](https://www.youtube.com/watch?v=j38c4hqsEI0)  
+  - [POD carlberg 5](https://www.youtube.com/watch?v=wcH1BMRDOJY)  
+
+- Steve Brunton POD DMD ML  
+  [homepage1](https://www.me.washington.edu/facultyfinder/steve-brunton)
+  [homepage2](https://www.eigensteve.com)
+  [googlescholar](https://scholar.google.com/citations?hl=en&user=TjzWdigAAAAJ)  
+  
+  1. [youtube channel](https://www.youtube.com/c/Eigensteve/featured)  
+    - [Fourier Analysis](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)  
+  
+  2. Books  
+  - [DATA DRIVEN SCIENCE & ENGINEERING](http://databookuw.com/)  
+  - [DYNAMIC MODE DECOMPOSITION](http://dmdbook.com/)  
+  
+  3. Course  
+  - [Engineering Mathematics (UW ME564 and ME565)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)  
+  - [ME 564 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me564/)  
+  - [ME 565 - Mechanical Engineering Analysis](http://faculty.washington.edu/sbrunton/me565/)  
 
 
 
+- [EGR 202 Dynamics UWMC](https://www.youtube.com/playlist?list=PLmjeuPDHP7zCJnea2qRaf74yDxSuMCK_t)
 
 
 
@@ -335,10 +345,10 @@ Nathan Kutz
 ## Measurement technique
 
 * [Stanford Signals and Systems 1987 "Alan V. Oppenheim"](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)  
-  [[youtube]](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B)  
+  [youtube](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B)  
 
 * [Stanford Signals and Systems 2011 "Dennis Freeman"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)  
-  [[youtube]](https://www.youtube.com/watch?v=-FHm2pQmiSM&list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)  
+  [youtube](https://www.youtube.com/watch?v=-FHm2pQmiSM&list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)  
 
 * [Signal Processing and Data Acquisition "Bahga Lab IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR2HnGtlOHZmKyjm6QzX_l1g)  
 
@@ -375,16 +385,16 @@ If we want to see different planes at time t1, how to do it?
 * [Introduction to PIV and Advanced Processing Methods for PIV and Time Resolved PIV](https://www.youtube.com/watch?v=EAE-33uRQiI)  
 1ms between the laser pulses  
 how to determine the $\Delta$T  
-* [[Week 07 lec 03] Particle Image Velocimetry0](https://www.youtube.com/watch?v=M21PQ52q_oc)  
+* [Week 07 lec 03] Particle Image Velocimetry0](https://www.youtube.com/watch?v=M21PQ52q_oc)  
 
 * [PIVlab matlab "William Thielicke"](https://www.mathworks.com/matlabcentral/fileexchange/27659-pivlab-particle-image-velocimetry-piv-tool-with-gui?s_tid=FX_rc3_behav)
-  [[github]](https://github.com/Shrediquette/PIVlab)
-  [[homepage]](https://www.blogger.com/profile/01217178163189555726)  
+  [github](https://github.com/Shrediquette/PIVlab)
+  [homepage](https://www.blogger.com/profile/01217178163189555726)  
 
 * [openpiv](http://www.openpiv.net/openpiv-matlab/)
-  [[github openpiv-matlab]](https://github.com/OpenPIV/openpiv-matlab)
-  [[github openpiv-python]](https://github.com/OpenPIV/openpiv-python)
-  [[youtube]](https://www.youtube.com/channel/UCMgp5JQQtqn9vXcrbuMefXw/featured)  
+  [github openpiv-matlab](https://github.com/OpenPIV/openpiv-matlab)
+  [github openpiv-python](https://github.com/OpenPIV/openpiv-python)
+  [youtube](https://www.youtube.com/channel/UCMgp5JQQtqn9vXcrbuMefXw/featured)  
   [readthedocs](https://openpiv.readthedocs.io/en/latest/index.html)  
 
 
@@ -411,6 +421,22 @@ how to determine the $\Delta$T
 
 
 ## Thermodynamics
+- Thermodynamics CPP Professor David Miller  
+  https://www.cpp.edu/meonline/thermodynamics.shtml  
+  [Thermodynamics I](https://www.youtube.com/playlist?list=PLZOZfX_TaWAH3zDurz4ds7jMFzhxhfKZV) and [Thermodynamics II](https://www.youtube.com/playlist?list=PLZOZfX_TaWAEraLrZ71gGVWTtzf4SmVTJ)  
+
+- [EGR 263 Thermodynamics  UWMC Engineering](https://www.youtube.com/playlist?list=PLmjeuPDHP7zAgkbNhvk8l9udV5Uu9Uxas)  
+
+- Professor Randall Manteufel University of Texas  
+  https://www.youtube.com/channel/UC56czEa9fgGKCHV-Lz-RZUQ/playlists  
+  
+
+
+- [16.Unified: Thermodynamics and Propulsion Prof. Z. S. Spakovszky](https://web.mit.edu/16.unified/www/SPRING/propulsion/notes/notes.html)  
+  MIT webpage  
+
+- [Introduction to Propulsion Systems MIT](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-50-introduction-to-propulsion-systems-spring-2012/index.htm)
+
 - [Thermodynamics & Kinetics MIT](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/)  
   [youtube](https://www.youtube.com/playlist?list=PLA62087102CC93765)
 
@@ -445,8 +471,8 @@ how to determine the $\Delta$T
 
 
 ## University
-* [Tel Aviv University](https://english.tau.ac.il/)  [[wiki]](https://www.wikiwand.com/en/Tel_Aviv_University)
-* [University of Göttingen](https://www.uni-goettingen.de/en/1.html)  [[wiki]](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen)
+* [Tel Aviv University](https://english.tau.ac.il/)  [wiki](https://www.wikiwand.com/en/Tel_Aviv_University)
+* [University of Göttingen](https://www.uni-goettingen.de/en/1.html)  [wiki](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen)
 
 
 
@@ -457,8 +483,4 @@ how to determine the $\Delta$T
 
 <!-- {{< link "" >}}   -->
 
-[//begin]: # "Autogenerated link references for markdown compatibility"
-[youtube]: ../Mathematics/youtube "youtube"
-[googlescholar]: googlescholar "googlescholar"
-[homepage2]: homepage2 "homepage2"
-[//end]: # "Autogenerated link references"
+

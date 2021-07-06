@@ -304,8 +304,21 @@ be sure you've installed Xcode Command Line Tools.
 
 ## Parallel Computing 
 
+### course  
+- [Parallel Computer Architecture and Programming Bryant Fall 2018 CMU](http://www.cs.cmu.edu/afs/cs/academic/class/15418-f18/www/schedule.html)  
+  [bilibili spring 2016 Kayvon](https://www.bilibili.com/video/BV16k4y1z7z9/)  
+  [slides](http://15418.courses.cs.cmu.edu/spring2017/home)  
+
+
 ### mpi tutorial
 * [easyhpc](https://easyhpc.net/)
+
+
+### intel Intrinsics  
+- [intel SSE，AVX，AVX2，AVX512 IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)  
+
+
+
 
 
 
@@ -314,6 +327,13 @@ be sure you've installed Xcode Command Line Tools.
 - [programming courses collections](https://www.bu.edu/pasi/materials/)
 - [Programming GPUs with Fortran](https://www.youtube.com/watch?v=COjvWNpxnxc&feature=emb_logo)
 
+
+
+
+
+
+
+
 ### CUDA
 Download old version from [CUDA archive](https://developer.nvidia.com/cuda-toolkit-archive) or the new one [CUDA 10.2](https://developer.nvidia.com/cuda-10.2-download-archive?target_os=Linux&target_arch=x86_64&target_distro=CentOS&target_version=6) for Ubuntu 18 16/Centos 8 7 6 or [CUDA 11](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=runfilelocal) for Ubuntu 20.04 18.04 16.04/Centos 8 7.
 
@@ -321,6 +341,11 @@ Download old version from [CUDA archive](https://developer.nvidia.com/cuda-toolk
 - [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)  
   
 - [CUDA 编程入门: 8 小时掌握 GPU 计算 (失效)](https://www.youtube.com/playlist?list=PLSVM68VUM1eWsEX0yPliaL3pTZoKqJWfi)
+
+
+
+
+
 
 
 ## Machine Learning

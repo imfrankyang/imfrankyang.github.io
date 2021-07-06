@@ -4,7 +4,7 @@
 
 ### Dietrich Küchemann (11 September 1911 – 23 February 1976)  
 <center>
-<img src="index.assets/Dietrich_Küchemann.jpg" width="300" align="bottom" />
+<img src="img/Dietrich_Küchemann.jpg" width="300" align="bottom" />
 <figcaption>Dietrich Küchemann</figcaption>
 </center>
 
@@ -13,7 +13,7 @@
 
 ### Dudley Brain Spalding (9 January 1923 – 27 November 2016)   
 <center>
-<img src="index.assets/Dudley_Brian_Spalding.jpg" width="300" align="bottom" />
+<img src="img/Dudley_Brian_Spalding.jpg" width="300" align="bottom" />
 <figcaption>Dudley Brian Spalding</figcaption>
 </center>
 
@@ -22,7 +22,7 @@
 
 ### Brian Launder
 <center>
-<img src="index.assets/Brian_Launder.gif" width="300" align="bottom" />
+<img src="img/Brian_Launder.gif" width="300" align="bottom" />
 <figcaption>Brian_Launder</figcaption>
 </center>
 
@@ -34,7 +34,7 @@
 ### Antony Jameson (20 November 1934 CFD, code)  
 
 <center>
-<img src="index.assets/Antony_Jameson.jpg" width="300" align="bottom" />
+<img src="img/Antony_Jameson.jpg" width="300" align="bottom" />
 <figcaption>Antony Jameson</figcaption>
 </center>
 
@@ -47,7 +47,7 @@
 ### David Gosman 
 
 <center>
-<img src="index.assets/David_Gosman.jpg" width="300" align="bottom" />
+<img src="img/David_Gosman.jpg" width="300" align="bottom" />
 <figcaption>David Gosman</figcaption>
 </center>
 
@@ -65,33 +65,55 @@
 </center>
 
 
-### [Claude-Louis Navier](https://en.wikipedia.org/wiki/Claude-Louis_Navier)
+### [Claude-Louis Navier](https://en.wikipedia.org/wiki/Claude-Louis_Navier)  
 
-### 陈大燮
 
-<center>
-<img src="http://me.sjtu.edu.cn/Mg_Admin/images/teacher_photo/zmxy/5OK_D3B%7BNR%607WUNXSG6%5D6HT.jpg" width="300" align="bottom" />
-<figcaption>陈大燮</figcaption>
-</center>
+### [Ludwig Prandtl](https://mathshistory.st-andrews.ac.uk/Biographies/Prandtl/)  
 
-{{< link "http://me.sjtu.edu.cn/alumni_known/2642.html" >}}  
+### Theodore von Kármán  
+加州理工学院（California Institute of Technology Caltech） 
+https://www.wikiwand.com/en/Theodore_von_K%C3%A1rm%C3%A1n  
 
-### 吴仲华
-在清华大学动力工程系创办了中国第一个燃气轮机专业，任教研组主任。原热力发电设备教研组分成热电站及热网、锅炉设备、汽轮机三个教研组后，汽轮机教研组也并入燃气轮机教研组。
 
-1952发表《轴流、径流和混流式亚声速与超声速叶轮机械中三元流动的通用理论》
-"[A general theory of three-dimensional flow in subsonic and supersonic turbomachines of axial-, radial, and mixed-flow types](https://apps.dtic.mil/sti/citations/ADA380493)"
 
-1976年春，在西德慕尼黑第三届国际空气喷气发动机会议上宣读了《使用非正交曲线座标的叶轮机械三元流动基本方程及其解法》，在国际上被称为吴氏理论。
 
-吴仲华的夫人[李敏华](https://en.wikipedia.org/wiki/Li_Minhua)是著名固体力学家，中国科学院院士，MIT第一位女性学生获得机械工程博士学位。
 
-Reference  
-[Men of mechanics (7): 被遗忘的吴仲华](http://blog.sciencenet.cn/home.php?mod=space&uid=44316&do=blog&id=345961)
+### China
+- 陈大燮
 
-[吴仲华先生年表](http://www.cas.cn/zt/jzt/yszt/jnwzhysdc90zn/spsj/200707/t20070725_2671523.shtml#)
+  <center>
+  <img src="http://me.sjtu.edu.cn/Mg_Admin/images/teacher_photo/zmxy/5OK_D3B%7BNR%607WUNXSG6%5D6HT.jpg" width="300" align="bottom" />
+  <figcaption>陈大燮</figcaption>
+  </center>
+
+  {{< link "http://me.sjtu.edu.cn/alumni_known/2642.html" >}}  
+
+- 吴仲华  
+  在清华大学动力工程系创办了中国第一个燃气轮机专业，任教研组主任。原热力发电设备教研组分成热电站及热网、锅炉设备、汽轮机三个教研组后，汽轮机教研组也并入燃气轮机教研组。
+
+  1952发表《轴流、径流和混流式亚声速与超声速叶轮机械中三元流动的通用理论》
+  "[A general theory of three-dimensional flow in subsonic and supersonic turbomachines of axial-, radial, and mixed-flow types](https://apps.dtic.mil/sti/citations/ADA380493)"
+
+  1976年春，在西德慕尼黑第三届国际空气喷气发动机会议上宣读了《使用非正交曲线座标的叶轮机械三元流动基本方程及其解法》，在国际上被称为吴氏理论。
+
+  吴仲华的夫人[李敏华](https://en.wikipedia.org/wiki/Li_Minhua)是著名固体力学家，中国科学院院士，MIT第一位女性学生获得机械工程博士学位。
+
+  Reference  
+  [Men of mechanics (7): 被遗忘的吴仲华](http://blog.sciencenet.cn/home.php?mod=space&uid=44316&do=blog&id=345961)
+
+  [吴仲华先生年表](http://www.cas.cn/zt/jzt/yszt/jnwzhysdc90zn/spsj/200707/t20070725_2671523.shtml#)
 
 <br><br><br>
+
+- 钱学森  
+  https://www.wikiwand.com/zh-hans/%E9%92%B1%E5%AD%A6%E6%A3%AE
+
+- 郭永怀  
+  https://www.wikiwand.com/zh-hans/%E9%83%AD%E6%B0%B8%E6%80%80
+
+
+
+
 
 ### Ligrani, Phillip M.  (cooling experiment)  
 [homepage](https://www.uah.edu/eng/departments/mae/faculty-staff/phillip-ligrani)  

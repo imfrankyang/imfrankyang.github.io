@@ -75,7 +75,7 @@ A complete, cross-platform solution to record, convert and stream audio and vide
 - **360**  
 
 <center>
-<img src="index.assets/image-20210120222659506.png" width="700" align="bottom" />
+<img src="img/image-20210120222659506.png" width="700" align="bottom" />
 </center>
 
 - XX电脑管家
@@ -83,7 +83,7 @@ A complete, cross-platform solution to record, convert and stream audio and vide
 - **2345**
 
 <center>
-<img src="index.assets/image-20210127161425191.png" width="700" align="bottom" />
+<img src="img/image-20210127161425191.png" width="700" align="bottom" />
 </center>
 
 - 驱动精灵

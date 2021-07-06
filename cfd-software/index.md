@@ -35,6 +35,15 @@ https://www.simscale.com/
 
 - https://new.aerodynamic-solutions.com
 
+- ADflow University of Michigan
+  https://arc.aiaa.org/doi/10.2514/1.I010796  
+  https://github.com/mdolab/adflow  
+  https://mdolab-adflow.readthedocs-hosted.com/en/latest/  
+
+
+
+
+
 ## Post-processing
 
 - paraview  
