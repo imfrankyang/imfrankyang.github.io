@@ -28,10 +28,15 @@ ME 702 - Computational Fluid Dynamics - Video Lesson 1]]></description>
     <pubDate>Mon, 05 Jul 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cs-collection/</guid>
-    <description><![CDATA[Course   了解技术 CS50’s Understanding Technology harvard David J. Malan
+    <description><![CDATA[c++ Course
+  了解技术
+CS50’s Understanding Technology / David J. Malan / harvard
 bilibili
-  CS50: Introduction to Computer Science bilibili
-  ]]></description>
+  CS50: Introduction to Computer Science / David J. Malan / harvard bilibili
+  Beginning Programming with C++
+  website
+ C++17 core language features runoob  Parallel computing   Performance Engineering of Software Systems Charles Julian MIT HPC入门课程
+  Applications of Parallel James Demmel Kathy Yelick Computers UC Berkeley CS267 并行计算大佬James Demmel和Kathy Yelick]]></description>
 </item><item>
     <title>OpenFOAM wall function</title>
     <link>https://lianfengyeo.github.io/openfoam-wall-function/</link>
@@ -187,7 +192,8 @@ I work every day from 9am–5pm.]]></description>
     <guid>https://lianfengyeo.github.io/paper-tools/</guid>
     <description><![CDATA[Tools online air Dry Air Properties
 Air - Thermophysical Properties
- Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  water  Water - Specific Heat  CFD tools  y plus calculator 1 y plus calculator cfd-online estimate k epsilon omega hydraulic diameter calculator MATERIALS THERMAL PROPERTIES DATABASE estimate k epsilon omega  Others  djvu to pdf download subtitles  Search engine  知网海外版  Journal  science  Download paper   Download paper of cnki https://www.]]></description>
+ Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  Compressible Aerodynamics Calculator
+water  Water - Specific Heat  CFD tools  y plus calculator 1 y plus calculator cfd-online estimate k epsilon omega hydraulic diameter calculator MATERIALS THERMAL PROPERTIES DATABASE estimate k epsilon omega  Others  djvu to pdf download subtitles  Search engine  知网海外版  Journal  science  Download paper   Download paper of cnki https://www.]]></description>
 </item><item>
     <title>My wiki</title>
     <link>https://lianfengyeo.github.io/my-wiki/</link>
@@ -257,7 +263,7 @@ Download from SourceForge
     <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/research-tools/</guid>
-    <description><![CDATA[List of recommended software zotero a free and open-source reference management software
+    <description><![CDATA[List of website  youglish is a search engine that you can input the English word and find the sentence in the video.  List of recommended software zotero a free and open-source reference management software
 https://www.zotero.org/
  Zotero | 01-为什么要用文献管理软件Zotero zotero 中文识别  typora a markdown editor
 https://typora.io/
@@ -267,10 +273,7 @@ everything a free desktop search utility
 https://www.voidtools.com/
 7-zip a free and open-source file archiver
 https://www.7-zip.org/
-Input Method Editor Windows 10 IME
-anydesk/teamviewer/todesk remote control software
-https://www.anydesk.com/ https://www.teamviewer.com/ https://www.todesk.com/ Norton/Avast/Microsoft Defender Antivirus in Windows10 Anti-virus or anti-malware software
-Dictionary   欧路词典Eudic]]></description>
+Input Method Editor Windows 10 IME]]></description>
 </item><item>
     <title>Matlab notes</title>
     <link>https://lianfengyeo.github.io/matlab-notes/</link>

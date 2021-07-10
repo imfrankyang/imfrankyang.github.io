@@ -16,7 +16,7 @@
 * [Air Viscosity Calculator](https://www.engineeringtoolbox.com/air-absolute-kinematic-viscosity-d_601.html)
 * [Air Specific heat](https://www.engineeringtoolbox.com/air-specific-heat-capacity-d_705.html)
 
-
+[Compressible Aerodynamics Calculator](http://www.dept.aoe.vt.edu/~devenpor/aoe3114/calc.html) 
 
 ### water
 

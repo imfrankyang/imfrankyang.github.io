@@ -131,12 +131,12 @@ Pkg.rm("Plots")
 
 ```
 
-
+<br><br><br>
 
 ## java
 [Java SE Development Kit 15 Downloads](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 
-
+<br><br><br>
 
 ## git 
 
@@ -147,7 +147,7 @@ Pkg.rm("Plots")
 - [Lecture 6 - Version Control (git) (2020)](https://www.bilibili.com/video/BV1x7411H7wa?p=6)
 - [Git 版本管理 教学 tutorial "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cKysjmSNln65YoUt9lwEl7-)
 
-
+<br><br><br>
 
 ## complier
 
@@ -215,6 +215,7 @@ sh ./<installer>.sh          #launch the GUI Installer as the current user
 
 #default location
 /opt/intel/oneapi
+
 C:\Program Files (x86)\Intel\oneAPI
 ```
 
@@ -230,6 +231,7 @@ C:\Program Files (x86)\Intel\oneAPI
     Intel Fortran compiler  
 
 **env set**
+
 For Intel oneAPI  
 - linux  
 
@@ -240,7 +242,7 @@ or
 source /opt/intel/oneapi/setvars.sh
 ```
 
-临时使用 terminal：  
+  临时使用 terminal：  
 ```bash
 source /opt/intel/oneapi/setvars.sh
 or
@@ -262,7 +264,8 @@ or
 For the intel parallel studio 2020
 ```bash
 source /opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/bin/mpivars.sh intel64
-or
+
+or bashrc:
 export PATH=$PATH:/opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/bin
 export LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/lib
 ```
@@ -289,10 +292,14 @@ be sure you've installed Xcode Command Line Tools.
 - https://zhuanlan.zhihu.com/p/347913888
 
 
+
+
 ### GCC 
 * [GCC, the GNU Compiler Collection](https://gcc.gnu.org/)
   [[download]](http://ftp.gnu.org/gnu/gcc/)  
 * gfortran supports 95 2003 2008 2018
+
+
 
 
 ### CMake
@@ -302,13 +309,10 @@ be sure you've installed Xcode Command Line Tools.
 
 
 
+<br><br><br>
+
+
 ## Parallel Computing 
-
-### course  
-- [Parallel Computer Architecture and Programming Bryant Fall 2018 CMU](http://www.cs.cmu.edu/afs/cs/academic/class/15418-f18/www/schedule.html)  
-  [bilibili spring 2016 Kayvon](https://www.bilibili.com/video/BV16k4y1z7z9/)  
-  [slides](http://15418.courses.cs.cmu.edu/spring2017/home)  
-
 
 ### mpi tutorial
 * [easyhpc](https://easyhpc.net/)
@@ -357,5 +361,4 @@ Download old version from [CUDA archive](https://developer.nvidia.com/cuda-toolk
   - [website](http://wangshusen.github.io/)
   - [homepage school](https://faculty.stevens.edu/swang134)
   - [googlescholar](https://scholar.google.com/citations?user=HAf4pEoAAAAJ&hl=en)
- 
-  [深度强化学习Deep Reinforcement Learning course](https://www.youtube.com/playlist?list=PLvOO0btloRnsiqM72G4Uid0UWljikENlU)  
+  - [深度强化学习Deep Reinforcement Learning course](https://www.youtube.com/playlist?list=PLvOO0btloRnsiqM72G4Uid0UWljikENlU)  

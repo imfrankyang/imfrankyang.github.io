@@ -34,7 +34,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "code","wordcount":  704 ,
+                        }],"genre": "posts","keywords": "code","wordcount":  692 ,
         "url": "https:\/\/lianfengyeo.github.io\/linux-env\/","datePublished": "2020-12-09T10:09:30+01:00","dateModified": "2020-12-09T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -120,7 +120,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Linux envrionment</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/software/"><i class="far fa-folder fa-fw"></i>Software</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-09">2020-12-09</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;704 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-09">2020-12-09</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;692 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;4 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -155,7 +155,6 @@
         </li>
         <li><a href="#parallel-computing">Parallel Computing</a>
           <ul>
-            <li><a href="#course">course</a></li>
             <li><a href="#mpi-tutorial">mpi tutorial</a></li>
             <li><a href="#intel-intrinsics">intel Intrinsics</a></li>
           </ul>
@@ -315,8 +314,10 @@ Pkg.rm<span class="o">(</span><span class="s2">&#34;Plots&#34;</span><span class
 
 </code></pre></td></tr></table>
 </div>
-</div><h2 id="java">java</h2>
+</div><p><br><br><br></p>
+<h2 id="java">java</h2>
 <p><a href="https://www.oracle.com/java/technologies/javase-jdk15-downloads.html" target="_blank" rel="noopener noreffer">Java SE Development Kit 15 Downloads</a></p>
+<p><br><br><br></p>
 <h2 id="git">git</h2>
 <ul>
 <li><a href="https://www.bookstack.cn/read/git-tutorial/docs-basic.md" target="_blank" rel="noopener noreffer">git命令查询</a></li>
@@ -327,6 +328,7 @@ Pkg.rm<span class="o">(</span><span class="s2">&#34;Plots&#34;</span><span class
 <li><a href="https://www.bilibili.com/video/BV1x7411H7wa?p=6" target="_blank" rel="noopener noreffer">Lecture 6 - Version Control (git) (2020)</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLXO45tsB95cKysjmSNln65YoUt9lwEl7-" target="_blank" rel="noopener noreffer">Git 版本管理 教学 tutorial &ldquo;Morvan&rdquo;</a></li>
 </ul>
+<p><br><br><br></p>
 <h2 id="complier">complier</h2>
 <h3 id="intel-oneapi-base-toolkit">Intel oneAPI Base Toolkit</h3>
 <p>Intel oneAPI is the new version for free and the old version is intel parallel studio.</p>
@@ -411,6 +413,7 @@ Pkg.rm<span class="o">(</span><span class="s2">&#34;Plots&#34;</span><span class
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span><span class="lnt">6
+</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash">sudo sh ./&lt;installer&gt;.sh     <span class="c1">#launch the GUI Installer as the root </span>
@@ -418,6 +421,7 @@ sh ./&lt;installer&gt;.sh          <span class="c1">#launch the GUI Installer as
 
 <span class="c1">#default location</span>
 /opt/intel/oneapi
+
 C:<span class="se">\P</span>rogram Files <span class="o">(</span>x86<span class="o">)</span><span class="se">\I</span>ntel<span class="se">\o</span>neAPI
 </code></pre></td></tr></table>
 </div>
@@ -433,8 +437,8 @@ Intel MPI library<br>
 Intel C++ compiler<br>
 Intel Fortran compiler</li>
 </ol>
-<p><strong>env set</strong>
-For Intel oneAPI</p>
+<p><strong>env set</strong></p>
+<p>For Intel oneAPI</p>
 <ul>
 <li>linux</li>
 </ul>
@@ -492,10 +496,12 @@ OneAPI command prompt is installed in Start menu. Or run setvars.bat</p>
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
+</span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">source</span> /opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/bin/mpivars.sh intel64
-or
+
+or bashrc:
 <span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:/opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/bin
 <span class="nb">export</span> <span class="nv">LD_LIBRARY_PATH</span><span class="o">=</span>/opt/intel/compilers_and_libraries_2020.4.304/linux/mpi/intel64/lib
 </code></pre></td></tr></table>
@@ -547,13 +553,8 @@ mpirun -r ssh -f mpd.hosts -n &lt;Number of processes&gt;  ./test
 <li><a href="https://gitlab.kitware.com/cmake/community" target="_blank" rel="noopener noreffer">CMake Community Wiki</a></li>
 <li><a href="https://cmake.org/cmake/help/latest/index.html#" target="_blank" rel="noopener noreffer">CMake Documentation</a></li>
 </ul>
+<p><br><br><br></p>
 <h2 id="parallel-computing">Parallel Computing</h2>
-<h3 id="course">course</h3>
-<ul>
-<li><a href="http://www.cs.cmu.edu/afs/cs/academic/class/15418-f18/www/schedule.html" target="_blank" rel="noopener noreffer">Parallel Computer Architecture and Programming Bryant Fall 2018 CMU</a><br>
-<a href="https://www.bilibili.com/video/BV16k4y1z7z9/" target="_blank" rel="noopener noreffer">bilibili spring 2016 Kayvon</a><br>
-<a href="http://15418.courses.cs.cmu.edu/spring2017/home" target="_blank" rel="noopener noreffer">slides</a></li>
-</ul>
 <h3 id="mpi-tutorial">mpi tutorial</h3>
 <ul>
 <li><a href="https://easyhpc.net/" target="_blank" rel="noopener noreffer">easyhpc</a></li>
@@ -597,8 +598,8 @@ mpirun -r ssh -f mpd.hosts -n &lt;Number of processes&gt;  ./test
 <li><a href="http://wangshusen.github.io/" target="_blank" rel="noopener noreffer">website</a></li>
 <li><a href="https://faculty.stevens.edu/swang134" target="_blank" rel="noopener noreffer">homepage school</a></li>
 <li><a href="https://scholar.google.com/citations?user=HAf4pEoAAAAJ&amp;hl=en" target="_blank" rel="noopener noreffer">googlescholar</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLvOO0btloRnsiqM72G4Uid0UWljikENlU" target="_blank" rel="noopener noreffer">深度强化学习Deep Reinforcement Learning course</a></li>
 </ul>
-<p><a href="https://www.youtube.com/playlist?list=PLvOO0btloRnsiqM72G4Uid0UWljikENlU" target="_blank" rel="noopener noreffer">深度强化学习Deep Reinforcement Learning course</a></p>
 </li>
 </ul>
 </div><div class="post-footer" id="post-footer">
