@@ -9,15 +9,17 @@
     <pubDate>Mon, 05 Jul 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cs-collection/</guid>
-    <description><![CDATA[c++ Course
-  了解技术
-CS50’s Understanding Technology / David J. Malan / harvard
+    <description><![CDATA[code Course
+  CS50’s Understanding Technology / David J. Malan / harvard
+website
 bilibili
-  CS50: Introduction to Computer Science / David J. Malan / harvard bilibili
-  Beginning Programming with C++
-  website
- C++17 core language features runoob  Parallel computing   Performance Engineering of Software Systems Charles Julian MIT HPC入门课程
-  Applications of Parallel James Demmel Kathy Yelick Computers UC Berkeley CS267 并行计算大佬James Demmel和Kathy Yelick]]></description>
+  CS50: Introduction to Computer Science / David J. Malan / harvard
+website
+ CS50 Lectures 2020 youtube https://cs50.harvard.edu/x/2021/labs/ https://cs50.readthedocs.io/# Walkthroughs Labs 2020 youtube Walkthroughs 2019 youtube  CS50 bilibili
+CS50 Shorts 知识集锦 bilibili
+  CS50&rsquo;s Introduction to Artificial Intelligence with Python 2020
+CS50 Python AI 2020 youtube
+  Beginning Programming with C++ / Raili Taylor]]></description>
 </item><item>
     <title>Linux envrionment</title>
     <link>https://lianfengyeo.github.io/linux-env/</link>
@@ -29,7 +31,6 @@ bilibili
  莫烦 linux 建议教学 Learn CentOS &ldquo;LearnLinuxTV&rdquo; 计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)  Ubuntu
  List of releases releases downloads Mirror Tsinghua  CentOS
  Mirror Tsinghua Centos6 Mirror Tsinghua Centos7 8  
-Fortran   fcode [bilibili]
-  [Fortran Tuto 2] Basics about variables]]></description>
+Fortran tutorial  fcode [bilibili]  -[Fortran Tuto 2] Basics about variables]]></description>
 </item></channel>
 </rss>

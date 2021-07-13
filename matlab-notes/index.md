@@ -1,6 +1,13 @@
 # Matlab notes
 
 
+## tutorial
+[科学计算与MATLAB语言 刘卫国 中南大学](https://www.youtube.com/playlist?list=PLBPbUxsZM4SYMRRX-lLE9P9i946XW7_AL)
+
+[New Ways to Work in Simulink](https://www.youtube.com/playlist?list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te)
+
+
+
 ## function
 - [montage](https://www.mathworks.com/help/images/ref/montage.html?searchHighlight=montage&s_tid=srchtitle)  
   Display multiple image frames as rectangular montage
@@ -21,9 +28,9 @@ B = transpose(A)
 ```
 
 
-Optimization Toolbox™ 教程
-https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html
-https://ww2.mathworks.cn/help/optim/ug/optim.problemdef.optimizationproblem.optimoptions.html
+Optimization Toolbox™ 教程  
+https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html  
+https://ww2.mathworks.cn/help/optim/ug/optim.problemdef.optimizationproblem.optimoptions.html  
 
 
 

@@ -41,6 +41,9 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
 - [OpenFOAM User Guide ESI](https://www.openfoam.com/documentation/user-guide/index.php)  
 - [OpenFOAM: User Guide  v2012 ESI](https://www.openfoam.com/documentation/guides/latest/doc/index.html)  
 
+
+
+
 ## Toturial
   
 - Theo Ong  
@@ -59,7 +62,13 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
 
 
 
-- [Introduction to OpenFOAM Ghent University course](https://www.youtube.com/playlist?list=PLqxhJj6bcnY9RoIgzeF6xDh5L9bbeK3BL)
+- Introduction to OpenFOAM / Kenneth Hoste / Ghent University
+  https://www.youtube.com/playlist?list=PLqxhJj6bcnY9RoIgzeF6xDh5L9bbeK3BL
+
+
+- CFD with OpenSource Software / Prof. Håkan Nilsson / Chalmers University of Technology  
+http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/  
+
 
 - Wolf Dynamics (Joël Guerrero)  
   A tutorial from University of genova  
@@ -82,39 +91,36 @@ Download from [SourceForge](https://sourceforge.net/projects/openfoam/)
   [youtube](https://www.youtube.com/channel/UCjdgpuxuAxH9BqheyE82Vvw) and his [Patreon](https://www.patreon.com/user/posts?u=15620295) has additional videos. 
 
 - DD Fluids  
-  https://www.youtube.com/c/DDFluids/videos
+  [youtube](https://www.youtube.com/c/DDFluids/videos)  
 
 - Hyper Lyceum  
-  https://www.youtube.com/channel/UCRezzmom8mDl01fcv0z7_jg
+  [youtube](https://www.youtube.com/channel/UCRezzmom8mDl01fcv0z7_jg)
 
 - Chandan Bose  
-  https://www.youtube.com/c/ChandanBose1991/videos
+  [youtube](https://www.youtube.com/c/ChandanBose1991/videos) 
 
 - Asmaa Hadane  
   [youtube](https://www.youtube.com/channel/UCuxa0_vuFRihBaHRWzgjuJA/playlists)  
 
-- OpenFOAM "CFD NINJA / ANSYS CFD"  
-  https://www.youtube.com/playlist?list=PLd23hHm4FCRdFxcjAqEMd6W2cikPaaNXS)  
+- CFD NINJA / ANSYS CFD  
+  [OpenFOAM playlist](https://www.youtube.com/playlist?list=PLd23hHm4FCRdFxcjAqEMd6W2cikPaaNXS)   
 
 
 
 
-**course**
-
-- CFD with OpenSource Software  
-  The course is form Chalmers University of Technology by Prof. Håkan Nilsson
-http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
-
-- Prof. Hrojve Jasak  
-  https://foam-extend.fsb.hr/openfoam/tutorials/
+- Prof. Hrvoje Jasak  
+  Dr. Hrvoje Jasak, co-author of OpenFOAM with Mr. Henry Weller  
+  https://www.lsc.phy.cam.ac.uk/staff/dr-hrvoje-jasak  
+  https://foam-extend.fsb.hr/openfoam/tutorials/  
 
 
 
-- 郭志馗kuí  
-  [homepage](http://www.klsg.org.cn/redir.php?catalog_id=21348&object_id=216608)  
-  [OpenFOAM post processing lecture](https://www.bilibili.com/video/BV1vy4y1t7vp)  
-  [Repository](https://github.com/lruepke/HTF_lecture) for lecture on HydrothermalFoam at Kiel University, Germany.  
-  [Lecture on HydrothermalFoam WS2020](https://lruepke.github.io/HTF_lecture/)  
+
+
+
+
+
+
 
 
 **知乎专栏**
@@ -158,3 +164,7 @@ pip install PyFoam
 郭志馗 https://gitlab.com/hydrothermal-openfoam/scipyfoam
 command of PyFoam http://openfoamwiki.net/index.php/Contrib_PyFoam
 
+
+## C++
+
+- http://dyfluid.com/docs/book/_book/

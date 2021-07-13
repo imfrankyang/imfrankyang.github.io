@@ -26,15 +26,22 @@
 
 
 ## Fortran
-* [fcode](http://v.fcode.cn/)
+
+### tutorial
+
+- [fcode](http://v.fcode.cn/)
   [[bilibili]](https://www.bilibili.com/video/BV1tx411u7o4)
 
-* [[Fortran Tuto 2] Basics about variables](https://www.youtube.com/watch?v=GSJL6E1A6gM&list=PLvkU6i2iQ2fprrVmmkNP_V36mh0BMnS5L&index=2)
+-[[Fortran Tuto 2] Basics about variables](https://www.youtube.com/watch?v=GSJL6E1A6gM&list=PLvkU6i2iQ2fprrVmmkNP_V36mh0BMnS5L&index=2)
 
+- [Python入门](https://www.youtube.com/playlist?list=PLq9fAEr-k3NxkPezuPpB4LaX8lOqIed3N)
 
-* [ustc doc](http://micro.ustc.edu.cn/Fortran/)
-* [Mistakes in Fortran 90 Programs That Might Surprise You](http://www.cs.rpi.edu/~szymansk/OOF90/bugs.html)
-* [Clion Fortran](https://www.jetbrains.com/help/clion/fortran-support.html)
+- [零基础Python教程](https://www.youtube.com/playlist?list=PLHtXVCtcbbo2D6Pd6VYlNJz2PPE1hmeCH)
+
+**doc**
+- [ustc doc](http://micro.ustc.edu.cn/Fortran/)
+- [Mistakes in Fortran 90 Programs That Might Surprise You](http://www.cs.rpi.edu/~szymansk/OOF90/bugs.html)
+- [Clion Fortran](https://www.jetbrains.com/help/clion/fortran-support.html)
 
 
 
@@ -55,16 +62,17 @@
 ### tutorial
 
 - MorvanZhou  
-  https://github.com/MorvanZhou/tutorials
+  https://github.com/MorvanZhou/tutorials  
 - [Python Documentation contents](https://docs.python.org/3/contents.html)  
-- https://www.runoob.com/python/python-tutorial.html
-- [Python 入門教學課程](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)
+- https://www.runoob.com/python/python-tutorial.html  
+- [Python 入門教學課程](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)  
+- [Python全套教程 2019最适合零基础 提供源码笔记](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFGvtKd7PI7AhsYmY-6FrJs)  
 
+### numpy
 
-**numpy**  
 - [Python NumPy 入門教學課程](https://www.youtube.com/watch?v=nJUMpIo5rmg&list=PL-g0fdC5RMboq4yOQmvwYXamPDL4uZYEL)
 
-
+**doc**
 NumPy 官网 http://www.numpy.org/  
 NumPy 源代码：https://github.com/numpy/numpy  
 SciPy 官网：https://www.scipy.org/  

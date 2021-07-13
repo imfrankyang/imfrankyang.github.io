@@ -9,7 +9,9 @@
     <pubDate>Wed, 16 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/matlab-notes/</guid>
-    <description><![CDATA[function   montage
+    <description><![CDATA[tutorial 科学计算与MATLAB语言 刘卫国 中南大学
+New Ways to Work in Simulink
+function   montage
 Display multiple image frames as rectangular montage
   colon, :
   drawrectangle
@@ -17,7 +19,9 @@ Create customizable rectangular ROI
   normxcorr2
 Normalized 2-D cross-correlation [example]
   transpose, .'
-  1 2  B = A.&#39; B = transpose(A)   Optimization Toolbox™ 教程 https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html https://ww2.mathworks.cn/help/optim/ug/optim.problemdef.optimizationproblem.optimoptions.html
+  1 2  B = A.&#39; B = transpose(A)   Optimization Toolbox™ 教程
+https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html
+https://ww2.mathworks.cn/help/optim/ug/optim.problemdef.optimizationproblem.optimoptions.html
 script 1 2 3 4 5 6 7 8 9 10  #matrix A = [1 2 3 4 ; 5 6 7 8; 1 2 9 10; 2 5 11 12] #Determinate a = det (A)   ]]></description>
 </item></channel>
 </rss>

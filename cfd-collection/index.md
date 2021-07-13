@@ -87,9 +87,7 @@ graph LR;
   [bilibili](https://space.bilibili.com/196986312/video)  
   [cfd course](https://space.bilibili.com/381553233)
 
-- Josua Meyer  
-  [Heat Transfer Lectures (2019) by Prof Josua Meyer](https://www.youtube.com/c/HeatTransferUP/playlists)
-  
+
 
 - Jorg Schluter  
 - [googlescholar](https://scholar.google.com/citations?hl=en&user=VRNK9I8AAAAJ&view_op=list_works)
@@ -192,6 +190,16 @@ graph LR;
 
 ## Scientific Computing
 
+
+- Prof. Lars Ruepke and 郭志馗kuí / Kiel University  
+  [Lecture on HydrothermalFoam WS2020](https://lruepke.github.io/HTF_lecture/)  
+  [Repository](https://github.com/lruepke/HTF_lecture)  
+    [SIMPLE algorithm](https://lruepke.github.io/HTF_lecture/lectures/L02/intro.html)
+
+  [The Finite Element Method in geodynamics](https://lruepke.github.io/FEM_lecture/)  
+  [Repository](https://github.com/lruepke/FEM_lecture)  
+
+
 - Scientific Computing for DPhil Students Prof. Nick Trefethen from Oxford  
   https://podcasts.ox.ac.uk/series/scientific-computing-dphil-students  
   https://www.bilibili.com/video/BV1VE411Q7ue/
@@ -206,9 +214,11 @@ graph LR;
   [Numerical methods for PDEs materials mit](https://learning-modules.mit.edu/materials/index.html?uuid=/course/16/fa18/16.920#materials)  
   [Numerical methods for PDEs 2016 fall bilibili](https://www.bilibili.com/video/BV13E411Q7d5)  
 
-- Parallel Programming 平行程式课程
-  https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=231
-  https://www.bilibili.com/video/BV1Yt411W7td?p=2&spm_id_from=pageDriver
+
+
+
+
+
 
 
 
@@ -276,8 +286,18 @@ graph LR;
 
 
 
+
+
+
+
+
+
 ## Multiphase Microfluidics
 - [Multiphase Microfluidics "IITG"](https://www.youtube.com/playlist?list=PLC25ItV4rcpdcMPaHObUHhIOUAgJbrZjx)  
+
+
+
+
 
 
 ## Aeronautics
@@ -288,6 +308,9 @@ graph LR;
   In video 2 airplane aerodynamics, I believe using the Bernoulli equation to explain the airfoil is not accurate.  
   - [Special Lecture: F-22 Flight Controls](https://www.youtube.com/watch?v=n068fel-W9I&list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25&index=22)
   
+
+
+
 
 
 
@@ -344,15 +367,15 @@ graph LR;
 
 ## Measurement technique
 
-* [Stanford Signals and Systems 1987 "Alan V. Oppenheim"](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)  
+* [Signals and Systems 1987 / Alan V. Oppenheim / MIT](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)  
   [youtube](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B)  
 
-* [Stanford Signals and Systems 2011 "Dennis Freeman"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)  
+* [Signals and Systems 2011 / Dennis Freeman / MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)  
   [youtube](https://www.youtube.com/watch?v=-FHm2pQmiSM&list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)  
 
-* [Signal Processing and Data Acquisition "Bahga Lab IIT Delhi"](https://www.youtube.com/playlist?list=PLKQAlM7GPLR2HnGtlOHZmKyjm6QzX_l1g)  
+* [Signal Processing and Data Acquisition / Delhi / Bahga Lab IIT](https://www.youtube.com/playlist?list=PLKQAlM7GPLR2HnGtlOHZmKyjm6QzX_l1g)  
 
-* [Digital Signal Processing (ECSE-4530) Lectures, Fall 2014 "Rich Radke"❤️](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)  
+* [Digital Signal Processing (ECSE-4530) Lectures, Fall 2014 / Rich Radke❤️](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)  
   DSP Lecture 4: The Fourier Series
 
   * impulse period signal --> fourier series
@@ -369,23 +392,34 @@ graph LR;
 
   * Nyquist theorem two time o the Frequency, how to confirm the Frequency of the system eg. rotor
 
-* [MIT Signal Processing: Continuous and Discrete "Derek Rowell"](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/)
+* [MIT Signal Processing: Continuous and Discrete / Derek Rowell](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/)
+
+
+
+
+
+
+
 
 
 
 
 ### PIV Particle Image Velocimetry
 * [Particle Image Velocimetry (PIV) Explained - How do we see airflow in wind tunnels?](https://www.youtube.com/watch?v=JbuuhpQCWz8)  
+
 If we want to see different planes at time t1, how to do it?  
 * [A Beginner's Introduction to Particle Image Velocimetry (PIV) using MATLAB - Part 1](https://www.youtube.com/watch?v=OZ6AKMA7zFY&feature=emb_rel_end)  
+
 * [Cross-Correlation for Particle Image Velocimetry (PIV) using MATLAB](https://www.youtube.com/watch?v=C6qefvUx7T0&feature=emb_rel_end)  
+
 * [Experimental Setup of Particle Image Velocimetry (PIV)](https://www.youtube.com/watch?v=noQGz2DrMXk&t=431s)  
-{{< link "https://www.velocimetry.net/principle.htm" >}}
+https://www.velocimetry.net/principle.htm  
 
 * [Introduction to PIV and Advanced Processing Methods for PIV and Time Resolved PIV](https://www.youtube.com/watch?v=EAE-33uRQiI)  
 1ms between the laser pulses  
 how to determine the $\Delta$T  
-* [Week 07 lec 03] Particle Image Velocimetry0](https://www.youtube.com/watch?v=M21PQ52q_oc)  
+
+* [Week 07 lec 03] Particle Image Velocimetry](https://www.youtube.com/watch?v=M21PQ52q_oc)  
 
 * [PIVlab matlab "William Thielicke"](https://www.mathworks.com/matlabcentral/fileexchange/27659-pivlab-particle-image-velocimetry-piv-tool-with-gui?s_tid=FX_rc3_behav)
   [github](https://github.com/Shrediquette/PIVlab)
@@ -430,7 +464,9 @@ how to determine the $\Delta$T
 - Professor Randall Manteufel University of Texas  
   https://www.youtube.com/channel/UC56czEa9fgGKCHV-Lz-RZUQ/playlists  
   
-
+- Josua Meyer  
+  [Heat Transfer Lectures (2019) by Prof Josua Meyer](https://www.youtube.com/c/HeatTransferUP/playlists)
+  
 
 - [16.Unified: Thermodynamics and Propulsion Prof. Z. S. Spakovszky](https://web.mit.edu/16.unified/www/SPRING/propulsion/notes/notes.html)  
   MIT webpage  

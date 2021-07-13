@@ -94,12 +94,20 @@ http://blog.sciencenet.cn/blog-437026-733739.html
 12. I shed tears over two stories of childhood shadowed by unbearable memory:**“The Hare's Mask,”** by Mark Slouka, with its piercing ending, and Claire Keegan’s Irish-inflected tale of neglect and rescue,**“Foster.”**（短篇小说 双引号。）
 
 **reference**  
-[为什么英语里没有书名号？ - 知乎](https://www.zhihu.com/question/33271098/answer/137878739)
+[为什么英语里没有书名号？](https://www.zhihu.com/question/33271098/answer/137878739)
 
 
 
 
 ## English learning
 - Type the key word and get the pronunciation in the video. Support En Ch It and even sign Languages!...  
-  https://youglish.com/
+  https://youglish.com/  
+
+- [ACE走遍美国学口语](https://www.youtube.com/playlist?list=PLv98_IQv-IlK3FHzz7E5TwYD3iyr6-m4V)  
+
+- [美语音标 赖世雄](https://www.youtube.com/playlist?list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2)
+
+- [This Week @NASA](https://www.youtube.com/playlist?list=PL1D946ACB21752C0E)  
+
+
 

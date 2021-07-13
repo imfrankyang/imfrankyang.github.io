@@ -28,15 +28,17 @@ ME 702 - Computational Fluid Dynamics - Video Lesson 1]]></description>
     <pubDate>Mon, 05 Jul 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cs-collection/</guid>
-    <description><![CDATA[c++ Course
-  了解技术
-CS50’s Understanding Technology / David J. Malan / harvard
+    <description><![CDATA[code Course
+  CS50’s Understanding Technology / David J. Malan / harvard
+website
 bilibili
-  CS50: Introduction to Computer Science / David J. Malan / harvard bilibili
-  Beginning Programming with C++
-  website
- C++17 core language features runoob  Parallel computing   Performance Engineering of Software Systems Charles Julian MIT HPC入门课程
-  Applications of Parallel James Demmel Kathy Yelick Computers UC Berkeley CS267 并行计算大佬James Demmel和Kathy Yelick]]></description>
+  CS50: Introduction to Computer Science / David J. Malan / harvard
+website
+ CS50 Lectures 2020 youtube https://cs50.harvard.edu/x/2021/labs/ https://cs50.readthedocs.io/# Walkthroughs Labs 2020 youtube Walkthroughs 2019 youtube  CS50 bilibili
+CS50 Shorts 知识集锦 bilibili
+  CS50&rsquo;s Introduction to Artificial Intelligence with Python 2020
+CS50 Python AI 2020 youtube
+  Beginning Programming with C++ / Raili Taylor]]></description>
 </item><item>
     <title>OpenFOAM wall function</title>
     <link>https://lianfengyeo.github.io/openfoam-wall-function/</link>
@@ -263,7 +265,7 @@ Download from SourceForge
     <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/research-tools/</guid>
-    <description><![CDATA[List of website  youglish is a search engine that you can input the English word and find the sentence in the video.  List of recommended software zotero a free and open-source reference management software
+    <description><![CDATA[List of recommended software zotero a free and open-source reference management software
 https://www.zotero.org/
  Zotero | 01-为什么要用文献管理软件Zotero zotero 中文识别  typora a markdown editor
 https://typora.io/
@@ -273,14 +275,19 @@ everything a free desktop search utility
 https://www.voidtools.com/
 7-zip a free and open-source file archiver
 https://www.7-zip.org/
-Input Method Editor Windows 10 IME]]></description>
+Input Method Editor Windows 10 IME
+anydesk/teamviewer/todesk remote control software
+https://www.anydesk.com/ https://www.teamviewer.com/ https://www.todesk.com/ Norton/Avast/Microsoft Defender Antivirus in Windows10 Anti-virus or anti-malware software
+Dictionary   欧路词典Eudic]]></description>
 </item><item>
     <title>Matlab notes</title>
     <link>https://lianfengyeo.github.io/matlab-notes/</link>
     <pubDate>Wed, 16 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/matlab-notes/</guid>
-    <description><![CDATA[function   montage
+    <description><![CDATA[tutorial 科学计算与MATLAB语言 刘卫国 中南大学
+New Ways to Work in Simulink
+function   montage
 Display multiple image frames as rectangular montage
   colon, :
   drawrectangle
@@ -288,7 +295,9 @@ Create customizable rectangular ROI
   normxcorr2
 Normalized 2-D cross-correlation [example]
   transpose, .'
-  1 2  B = A.&#39; B = transpose(A)   Optimization Toolbox™ 教程 https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html https://ww2.mathworks.cn/help/optim/ug/optim.problemdef.optimizationproblem.optimoptions.html
+  1 2  B = A.&#39; B = transpose(A)   Optimization Toolbox™ 教程
+https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html
+https://ww2.mathworks.cn/help/optim/ug/optim.problemdef.optimizationproblem.optimoptions.html
 script 1 2 3 4 5 6 7 8 9 10  #matrix A = [1 2 3 4 ; 5 6 7 8; 1 2 9 10; 2 5 11 12] #Determinate a = det (A)   ]]></description>
 </item><item>
     <title>Linux envrionment</title>
@@ -301,8 +310,7 @@ script 1 2 3 4 5 6 7 8 9 10  #matrix A = [1 2 3 4 ; 5 6 7 8; 1 2 9 10; 2 5 11 12
  莫烦 linux 建议教学 Learn CentOS &ldquo;LearnLinuxTV&rdquo; 计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)  Ubuntu
  List of releases releases downloads Mirror Tsinghua  CentOS
  Mirror Tsinghua Centos6 Mirror Tsinghua Centos7 8  
-Fortran   fcode [bilibili]
-  [Fortran Tuto 2] Basics about variables]]></description>
+Fortran tutorial  fcode [bilibili]  -[Fortran Tuto 2] Basics about variables]]></description>
 </item><item>
     <title>Mathematics</title>
     <link>https://lianfengyeo.github.io/mathematics/</link>
@@ -347,12 +355,5 @@ touch deploy.sh //content is as follows
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/hello-world/</guid>
     <description><![CDATA[Hello World! This is the my first blog.😉 ————2020.11.27]]></description>
-</item><item>
-    <title></title>
-    <link>https://lianfengyeo.github.io/2021-07-06/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://lianfengyeo.github.io/2021-07-06/</guid>
-    <description><![CDATA[2021-07-06 ]]></description>
 </item></channel>
 </rss>
