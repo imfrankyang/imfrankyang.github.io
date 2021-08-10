@@ -18,7 +18,7 @@
 ### course
 
 **Gilbert Strang**
-- MIT 18.06 Linear Algebra "Gilbert Strang"❤️
+- MIT 18.06 Linear Algebra / Gilbert Strang ❤️  
   - [18.06SC Linear Algebra (Fall 2011)](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)  
     [18.06 Linear Algebra (Spring 2010)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
@@ -34,13 +34,13 @@
     - [线性代数的几何表示 | MIT 18.06SC 线性代数, 秋 2011](https://www.youtube.com/watch?v=mgbjhzDndOY)  
     - [第二次考试例题求解 | MIT 18.06SC 线性代数, 秋 2011](https://www.youtube.com/watch?v=ThxvK9t7DNo)  
   
-    **笔记notes**
+    **笔记notes**  
     - [麻省理工线性代数笔记（一）-线性方程组表示方式](https://zhuanlan.zhihu.com/p/36524700)
   
     - [丁坤博 北京大学](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)
 
-- MIT 18.085 Gilbert Strang  
-  [Computational Science and Engineering I](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)
+- [MIT 18.085 Computational Science and Engineering I / Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)  
+  [youtube](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C)  
 
 - [MIT A 2020 Vision of Linear Algebra, Spring 2020 "Gilbert Strang"](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)  
   [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)  

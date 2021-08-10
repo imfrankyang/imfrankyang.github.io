@@ -40,3 +40,7 @@
 
 - 刘艳
   http://faculty.dlut.edu.cn/20060316/zh_CN/lwcg/717722/list/2.htm  
+
+- Gregory Laskowski
+  https://www.linkedin.com/in/gregory-laskowski-2667a52/
+  [googlescholar](https://scholar.google.com/citations?user=njCsvAYAAAAJ&hl=en)

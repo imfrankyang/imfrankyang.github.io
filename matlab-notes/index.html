@@ -34,7 +34,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "matlab","wordcount":  82 ,
+                        }],"genre": "posts","keywords": "matlab","wordcount":  148 ,
         "url": "https:\/\/lianfengyeo.github.io\/matlab-notes\/","datePublished": "2020-12-16T10:09:30+01:00","dateModified": "2020-12-16T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -120,7 +120,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Matlab notes</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/academic/"><i class="far fa-folder fa-fw"></i>Academic</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-16">2020-12-16</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;82 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-12-16">2020-12-16</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;148 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -134,7 +134,12 @@
         <li><a href="#tutorial">tutorial</a></li>
         <li><a href="#function">function</a>
           <ul>
-            <li><a href="#script">script</a></li>
+            <li><a href="#script">script</a>
+              <ul>
+                <li><a href="#在cell中找指定元素">在cell中找指定元素</a></li>
+                <li><a href="#import-file">import file</a></li>
+              </ul>
+            </li>
           </ul>
         </li>
       </ul>
@@ -176,22 +181,23 @@ Normalized 2-D cross-correlation
 <span class="n">B</span> <span class="p">=</span> <span class="n">transpose</span><span class="p">(</span><span class="n">A</span><span class="p">)</span>
 </code></pre></td></tr></table>
 </div>
-</div><p>Optimization Toolbox™ 教程<br>
+</div><p><a href="https://ww2.mathworks.cn/help/matlab/ref/contains.html" target="_blank" rel="noopener noreffer">contains</a> 确定字符串中是否有</p>
+<p><a href="https://www.mathworks.com/help/matlab/ref/double.sortrows.html#bt8bwzx-1-direction" target="_blank" rel="noopener noreffer">sortrows</a>
+Sort rows of matrix or table</p>
+<p><a href="https://www.mathworks.com/help/matlab/ref/double.unique.html#bs_6vpd-1-setOrder" target="_blank" rel="noopener noreffer">unique</a>
+Unique values in array</p>
+<p>Optimization Toolbox™ 教程<br>
 <a href="https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html">https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html</a><br>
 <a href="https://ww2.mathworks.cn/help/optim/ug/optim.problemdef.optimizationproblem.optimoptions.html">https://ww2.mathworks.cn/help/optim/ug/optim.problemdef.optimizationproblem.optimoptions.html</a></p>
 <h3 id="script">script</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-matlab" data-lang="matlab">#<span class="n">matrix</span> 
@@ -200,13 +206,62 @@ Normalized 2-D cross-correlation
 #<span class="n">Determinate</span>
 <span class="n">a</span> <span class="p">=</span> <span class="n">det</span> <span class="p">(</span><span class="n">A</span><span class="p">)</span>
 
+</code></pre></td></tr></table>
+</div>
+</div><h4 id="在cell中找指定元素">在cell中找指定元素</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">a_cell = {&#39;ni&#39;, &#39;hao&#39;, &#39;hao&#39;}
+% 第一种方法
+idx = find(ismember(a_cell, &#39;ni&#39; ))
 
+% 第二种方法
+idx = find(strcmp(a_cell, &#39;ni&#39; ))
+</code></pre></td></tr></table>
+</div>
+</div><p>输出</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">idx =
 
+     2     3
+</code></pre></td></tr></table>
+</div>
+</div><h4 id="import-file">import file</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">% T = readtable(&#39;./file.csv&#39;);
 
+% T1 = importdata(&#39;./file.csv&#39;);
+
+% T2 = load(&#39;./file.csv&#39;); 
 
 </code></pre></td></tr></table>
 </div>
-</div></div><div class="post-footer" id="post-footer">
+</div><p><a href="https://www.mathworks.com/help/matlab/ref/readtable.html" target="_blank" rel="noopener noreffer">readtable</a>
+<a href="https://www.mathworks.com/help/matlab/ref/textscan.html#btghhyz-1-fileID" target="_blank" rel="noopener noreffer">textscan</a></p>
+</div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">

@@ -27,6 +27,14 @@ B = A.'
 B = transpose(A)
 ```
 
+[contains](https://ww2.mathworks.cn/help/matlab/ref/contains.html) 确定字符串中是否有
+
+[sortrows](https://www.mathworks.com/help/matlab/ref/double.sortrows.html#bt8bwzx-1-direction)
+Sort rows of matrix or table
+
+[unique](https://www.mathworks.com/help/matlab/ref/double.unique.html#bs_6vpd-1-setOrder)
+Unique values in array
+
 
 Optimization Toolbox™ 教程  
 https://ww2.mathworks.cn/help/optim/ug/optimization-toolbox-tutorial.html  
@@ -45,8 +53,37 @@ A = [1 2 3 4 ; 5 6 7 8; 1 2 9 10; 2 5 11 12]
 #Determinate
 a = det (A)
 
+```
 
 
 
+#### 在cell中找指定元素
+```
+a_cell = {'ni', 'hao', 'hao'}
+% 第一种方法
+idx = find(ismember(a_cell, 'ni' ))
+
+% 第二种方法
+idx = find(strcmp(a_cell, 'ni' ))
+```
+
+输出
+```
+idx =
+
+     2     3
+```
+
+
+#### import file
+```
+% T = readtable('./file.csv');
+
+% T1 = importdata('./file.csv');
+
+% T2 = load('./file.csv'); 
 
 ```
+
+[readtable](https://www.mathworks.com/help/matlab/ref/readtable.html)
+[textscan](https://www.mathworks.com/help/matlab/ref/textscan.html#btghhyz-1-fileID)

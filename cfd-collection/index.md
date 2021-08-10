@@ -119,6 +119,7 @@ graph LR;
 
 - https://forum.cfdac.com/ （openfoam）
 
+
 **blog**
 - [硫酸亚铜 博客园](https://www.cnblogs.com/liusuanyatong/)
 
@@ -136,12 +137,14 @@ graph LR;
 
 - [A Hands-on Introduction to Engineering Simulations](https://learning.edx.org/course/course-v1:CornellX+ENGR2000X+1T2018/home)  
   软件版本较新，基础视频
-  
+
 - [cornell university FLUENT Learning Modules](https://confluence.cornell.edu/display/SIMULATION/FLUENT+Learning+Modules)
 
-- [SimuTechGroup](https://www.youtube.com/c/SimuTechGroup)  
+- [Ansys How To Videos youtube](https://www.youtube.com/channel/UCdymxOTZSP8RzRgFT8kpYpA)
 
-- [ANSYS CFD tutorials and courses](https://www.youtube.com/c/AdvancedEngineeringSolutions)  
+- [SimuTechGroup youtube](https://www.youtube.com/c/SimuTechGroup)  
+
+- [ANSYS CFD tutorials and courses youtube](https://www.youtube.com/c/AdvancedEngineeringSolutions)  
   - [NACA 0012 3D Turbulent Simulation at Re = 3 Million](https://www.youtube.com/playlist?list=PL8nfXsTP607IOuOLDpMw86pLxw7LswffA)
 
 - [CFD NINJA / ANSYS CFD youtube](https://www.youtube.com/channel/UC3XvZi4o5YZoh7LXY45YI6g)
@@ -153,7 +156,9 @@ graph LR;
 **Organization**  
 
 - [ERCOFTAC](https://www.ercoftac.org/)  
+- 
 - [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)  
+- 
 - [Air Force Research Laboratory](https://www.afrl.af.mil/)  
 
 
@@ -180,6 +185,7 @@ graph LR;
 
 
 **Books**
+
 [天津大学 刘建新 推荐 计算流体力学教材](https://www.bilibili.com/video/BV1kq4y1j7Bn)
 
 [有关流体力学或者计算流体力学的经典教材](https://www.zhihu.com/question/20988412/answer/1491155615)
