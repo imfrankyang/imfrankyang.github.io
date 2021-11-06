@@ -44,3 +44,18 @@
 - Gregory Laskowski
   https://www.linkedin.com/in/gregory-laskowski-2667a52/
   [googlescholar](https://scholar.google.com/citations?user=njCsvAYAAAAJ&hl=en)
+
+
+- Gavin Tabor  
+  OpenFOAM, LES inlet
+  [googlescholar](https://scholar.google.com.hk/citations?user=Phr09KsAAAAJ&hl=zh-CN&oi=sra)  
+  
+- Ralph A. Seban  
+  [Publications](https://academictree.org/physics/publications.php?pid=166382)  
+  [University of California: In Memoriam, 1993](http://texts.cdlib.org/view?docId=hb0h4n99rb&chunk.id=div00070&brand=calisphere&doc.view=entire_text)  
+
+- 谢公南 film cooling internal cooling  
+  https://scholar.google.com.hk/citations?hl=zh-CN&user=DS2I--EAAAAJ&view_op=list_works&sortby=pubdate
+
+- Smith Eiamsa-ard  
+  https://scholar.google.com.hk/citations?hl=zh-CN&user=sEH8PHsAAAAJ&view_op=list_works&sortby=pubdate

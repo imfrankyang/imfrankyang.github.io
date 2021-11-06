@@ -87,3 +87,11 @@ idx =
 
 [readtable](https://www.mathworks.com/help/matlab/ref/readtable.html)
 [textscan](https://www.mathworks.com/help/matlab/ref/textscan.html#btghhyz-1-fileID)
+
+
+b= xjxjx 49599
+b(isstrprop(b,'digit'))
+regexp( b, '(?<=\w+)\d+', 'match' )
+
+
+regexp(eff(1),'\d+\.?\d*','match')

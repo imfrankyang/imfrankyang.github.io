@@ -2,6 +2,15 @@
 
 
 
+### Andrey Nikolaevich Kolmogorov
+<center>
+<img src="img/Andrey_Nikolaevich_Kolmogorov.jpg" width="300" align="bottom" />
+<figcaption>Dietrich Küchemann</figcaption>
+</center>
+
+[wiki](https://en.wikipedia.org/wiki/Andrey_Kolmogorov)  
+
+
 ### Dietrich Küchemann (11 September 1911 – 23 February 1976)  
 <center>
 <img src="img/Dietrich_Küchemann.jpg" width="300" align="bottom" />

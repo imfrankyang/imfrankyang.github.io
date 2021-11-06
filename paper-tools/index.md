@@ -36,6 +36,7 @@
 
 - [djvu to pdf](https://djvu2pdf.com/)
 - [download subtitles](https://downsub.com/)
+- [OCR](https://www.onlineocr.net/)
 
 
 ### Search engine
