@@ -153,6 +153,13 @@ graph LR;
 - [CFD NINJA / ANSYS CFD youtube](https://www.youtube.com/channel/UC3XvZi4o5YZoh7LXY45YI6g)
 
 
+- [ANSYS Fluid Dynamics Verification Manual](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NTA3OA==&mid=502337427&idx=1&sn=6469b4ba25aa2b62f4088b97eda7fffd&chksm=0315ae0a3462271c7659878c63d76daa17b838e0448149b8e722e9e8b1821778e2505417f709&scene=18&xtrack=1&sessionid=1636628156&subscene=90&clicktime=1636628847&ascene=1&devicetype=iOS15.1&version=1800102b&nettype=3G+&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&fontScale=100&exportkey=AUj5N4W%2F1Xfg%2FSlf%2FOP7w58%3D&pass_ticket=yfsq51dKpPOOhCR39RRT0sIxiTXH%2Fq%2FzCWeryuKWNPBAN94pBmGqHHXj1CCdNDsj&wx_header=1)
+
+
+
+
+
+
 
 
 
