@@ -47,18 +47,18 @@
 - [Applications of Parallel Computers CS267 / James Demmel Kathy Yelick / UC Berkeley](https://sites.google.com/lbl.gov/cs267-spr2021)  
   并行计算大佬James Demmel和Kathy Yelick
 
-- Parallel Computer Architecture and Programming / Bryant / CMU Fall 2018 
+- Parallel Computer Architecture and Programming / Bryant / CMU Fall 2018  
   - [Randy Bryant / CMU / Fall 2018](http://www.cs.cmu.edu/afs/cs/academic/class/15418-f18/www/schedule.html)  
   - [Kayvon / CMU / spring 2016 bilibili](https://www.bilibili.com/video/BV16k4y1z7z9/)&emsp;
     [slides](http://15418.courses.cs.cmu.edu/spring2017/home)  
     [KAYVON FATAHALIAN](http://graphics.stanford.edu/~kayvonf/) has been moved to Stanford, before that he taught parallel computer at CMU.
 
-- Computer Architecture / Onur Mutlu
+- Computer Architecture / Onur Mutlu  
 - [Computer Architecture Onur Mutlu 2020](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9xidyIgBxUz7xRPS-wisBN)  
   [Computer Architecture Onur Mutlu 2015](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)  
   [materials 2015](https://course.ece.cmu.edu/~ece447/s15/doku.php?id=schedule)  
 
-- Parallel Programming 平行程式课程
+- Parallel Programming 平行程式课程  
   https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=231  
   https://www.bilibili.com/video/BV1Yt411W7td?p=2&spm_id_from=pageDriver  
 
