@@ -69,10 +69,10 @@ graph LR;
   [homepage](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
   [计算流体力学 2020 李新亮 中国科学院大学 bilibili](https://www.bilibili.com/video/BV1GT4y1G7NA)  
 
-- 计算传热学大叔  数值传热学 
+- 计算传热学大叔  数值传热学  
   [bilibili](https://space.bilibili.com/524949337) Videos about Numerical Heat Transfer and CFD like Fluent.
   
-- 刘建新 天津大学 CFD课程
+- 刘建新 天津大学 CFD课程  
   https://www.bilibili.com/video/BV1vE411W7kV?p=1
 
 - Aidan Wimshurst oxford   
@@ -153,7 +153,7 @@ graph LR;
 - [CFD NINJA / ANSYS CFD youtube](https://www.youtube.com/channel/UC3XvZi4o5YZoh7LXY45YI6g)
 
 
-- [ANSYS Fluid Dynamics Verification Manual](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NTA3OA==&mid=502337427&idx=1&sn=6469b4ba25aa2b62f4088b97eda7fffd&chksm=0315ae0a3462271c7659878c63d76daa17b838e0448149b8e722e9e8b1821778e2505417f709&scene=18&xtrack=1&sessionid=1636628156&subscene=90&clicktime=1636628847&ascene=1&devicetype=iOS15.1&version=1800102b&nettype=3G+&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&fontScale=100&exportkey=AUj5N4W%2F1Xfg%2FSlf%2FOP7w58%3D&pass_ticket=yfsq51dKpPOOhCR39RRT0sIxiTXH%2Fq%2FzCWeryuKWNPBAN94pBmGqHHXj1CCdNDsj&wx_header=1)
+- [ANSYS Fluid Dynamics Verification Manual](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NTA3OA==&mid=502337427&idx=1&sn=6469b4ba25aa2b62f4088b97eda7fffd&chksm=0315ae0a3462271c7659878c63d76daa17b838e0448149b8e722e9e8b1821778e2505417f709&scene=18&xtrack=1&sessionid=1636628156&subscene=90&clicktime=1636628847&ascene=1&devicetype=iOS15.1&version=1800102b&nettype=3G+&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&fontScale=100&exportkey=AUj5N4W%2F1Xfg%2FSlf%2FOP7w58%3D&pass_ticket=yfsq51dKpPOOhCR39RRT0sIxiTXH%2Fq%2FzCWeryuKWNPBAN94pBmGqHHXj1CCdNDsj&wx_header=1)  南流坊公众号整理
 
 
 
