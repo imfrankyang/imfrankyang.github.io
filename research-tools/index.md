@@ -12,6 +12,14 @@
 - Google Chrome {{<link "https://www.google.com/chrome/">}}
 - Microsoft Edge {{<link "https://www.microsoft.com/en-us/edge">}}
 
+### Microsoft 365 (Office 365)
+- Microsoft 365 家庭版 - 1年  (推荐合租)  
+6人使用,每位用户 1TB OneDrive 云存储空间  
+
+- Microsoft 365 个人版 - 1年  
+1人使用,1TB OneDrive 云存储空间  
+
+
 #### Chrome extension compatible with Edge
 - [Bookmarks clean up](https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl?hl=en)  
 Find and remove duplicated bookmarks
