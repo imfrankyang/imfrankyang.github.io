@@ -8,6 +8,10 @@
 
 ## List of recommended software
 
+### Web browser
+- Google Chrome {{<link "https://www.google.com/chrome/">}}
+- Microsoft Edge {{<link "https://www.microsoft.com/en-us/edge">}}
+
 ### zotero
 a free and open-source reference management software  
 {{<link "https://www.zotero.org/">}}
