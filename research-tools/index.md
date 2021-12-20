@@ -16,11 +16,11 @@ a free and open-source reference management software
 
 ### typora
 
-a markdown editor  
+a markdown editor $ 14.99  
 {{<link "https://typora.io/">}}  
 
 ### obsidian
-a markdown editor  
+a free markdown editor  
 {{<link "https://obsidian.md/">}}
 
 ### everything   
