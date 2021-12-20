@@ -115,6 +115,6 @@ Find and remove duplicated bookmarks
 - [最流氓的软件可以流氓到什么程度？](https://www.zhihu.com/question/29129310/answers/updated)
 - [如何评价苏州思杰马克丁软件公司？](https://www.zhihu.com/question/46746200)
 - [国产软件为什么越来越流氓？](https://blog.csdn.net/qq_21388535/article/details/80080571?utm_source=blogxgwz0)
-
+- [鲁大师已经彻底沦为一款垃圾流氓软件！](https://zhuanlan.zhihu.com/p/108041500)
 
 
