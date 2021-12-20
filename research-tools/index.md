@@ -84,7 +84,7 @@ A complete, cross-platform solution to record, convert and stream audio and vide
 
 ## List of STRONGLY NOT recommended software forever
 
-- **360**  
+- **360 全家桶**  
 
 <center>
 <img src="img/image-20210120222659506.png" width="700" align="bottom" />
@@ -92,7 +92,7 @@ A complete, cross-platform solution to record, convert and stream audio and vide
 
 - XX电脑管家
 
-- **2345**
+- **2345 全家桶**
 
 <center>
 <img src="img/image-20210127161425191.png" width="700" align="bottom" />
