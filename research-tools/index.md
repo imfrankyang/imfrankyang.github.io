@@ -12,6 +12,13 @@
 - Google Chrome {{<link "https://www.google.com/chrome/">}}
 - Microsoft Edge {{<link "https://www.microsoft.com/en-us/edge">}}
 
+#### Chrome extension compatible with Edge
+- [Bookmarks clean up](https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl?hl=en)  
+Find and remove duplicated bookmarks
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
+  Ad-blocking
+
+
 ### zotero
 a free and open-source reference management software  
 {{<link "https://www.zotero.org/">}}
@@ -106,9 +113,7 @@ A complete, cross-platform solution to record, convert and stream audio and vide
 
 - ...to be continued...
 
-## chrome extension
-- [Bookmarks clean up](https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl?hl=en)  
-Find and remove duplicated bookmarks
+
 
 
 
