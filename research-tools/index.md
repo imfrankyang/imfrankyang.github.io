@@ -32,7 +32,7 @@ a free and open-source file archiver
 {{<link "https://www.7-zip.org/">}}
 
 ### Input Method Editor
-Windows 10 IME
+Windows 10 IME pre-installed
 
 ### anydesk/teamviewer/todesk
 
@@ -44,8 +44,15 @@ remote control software
 
 {{<link "https://www.todesk.com/">}}  <br>
 
-### Norton/Avast/Microsoft Defender Antivirus in Windows10
+### Norton/Microsoft Defender Antivirus in Windows10
 Anti-virus or anti-malware software
+- Norton™ AntiVirusPlus | Norton™ Antivirus 增强版
+  Note: 每年自动续订的价格变化
+- Microsoft Defender Antivirus pre-installed in Windows10
+
+
+
+
 
 ### Dictionary
 - 欧路词典Eudic

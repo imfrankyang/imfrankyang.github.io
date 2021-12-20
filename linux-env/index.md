@@ -134,17 +134,40 @@ using Pkg
 Pkg.add("Plots")
 Pkg.add("PyPlot")
 
+Pkg.update()
 Pkg.update("Plots")
 Pkg.rm("Plots")
 
 ```
 
+**tutorial**
+- Julia for Numerical Computation in MIT Courses  
+  https://github.com/mitmath/julia-mit
+- Introduction to Computational Thinking by Alan Edelman, David P. Sanders & Charles E. Leiserson  
+  https://computationalthinking.mit.edu/Spring21/syllabus/
+- 
+
 <br><br><br>
+
+
+
+
+
+
+
+
+
 
 ## java
 [Java SE Development Kit 15 Downloads](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 
 <br><br><br>
+
+
+
+
+
+
 
 ## git 
 
