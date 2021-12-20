@@ -57,13 +57,9 @@ remote control software
 
 ### Norton/Microsoft Defender Antivirus in Windows10
 Anti-virus or anti-malware software
-- Norton™ AntiVirusPlus | Norton™ Antivirus 增强版
+- Norton™ AntiVirusPlus | Norton™ Antivirus 增强版  
   Note: 每年自动续订的价格变化
 - Microsoft Defender Antivirus pre-installed in Windows10
-
-
-
-
 
 ### Dictionary
 - 欧路词典Eudic
