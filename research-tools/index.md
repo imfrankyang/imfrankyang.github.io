@@ -53,7 +53,7 @@ a free and open-source file archiver
 ### Input Method Editor
 Windows 10 IME pre-installed
 
-### anydesk/teamviewer/todesk
+### anydesk/todesk/teamviewer
 
 remote control software
 
