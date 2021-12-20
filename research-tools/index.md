@@ -102,7 +102,7 @@ A complete, cross-platform solution to record, convert and stream audio and vide
 
 - ...to be continued...
 
-### chrome extension
+## chrome extension
 - [Bookmarks clean up](https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl?hl=en)  
 Find and remove duplicated bookmarks
 
