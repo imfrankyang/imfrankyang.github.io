@@ -72,6 +72,8 @@ Anti-virus or anti-malware software
 A complete, cross-platform solution to record, convert and stream audio and video.  
 {{<link "https://ffmpeg.org/">}}  
 
+### VMware workstation pro
+virtual machine, download [here](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
 
 
 
