@@ -38,11 +38,11 @@ Windows 10 IME pre-installed
 
 remote control software
 
-{{<link "https://www.anydesk.com/">}}  <br>
+- {{<link "https://www.anydesk.com/">}}  <br>
 
-{{<link "https://www.todesk.com/">}}  <br>
+- {{<link "https://www.todesk.com/">}}  <br>
 
-{{<link "https://www.teamviewer.com/">}}  <br>
+- {{<link "https://www.teamviewer.com/">}}  <br>
 
 ### Norton/Microsoft Defender Antivirus in Windows10
 Anti-virus or anti-malware software
