@@ -50,6 +50,10 @@ a free desktop search utility
 a free and open-source file archiver  
 {{<link "https://www.7-zip.org/">}}
 
+### Honeyview
+a fast, powerful, and free image viewer.  
+{{<link "https://en.bandisoft.com/honeyview/">}}
+
 ### Input Method Editor
 Windows 10 IME pre-installed
 
