@@ -185,6 +185,7 @@ graph LR;
 - 流沙 胡坤  
   [youku](https://i.youku.com/i/UMzE1MjM1ODIw/videos?spm=a2hzp.8253869.0.0&order=1&page=1&last_item=&last_pn=4&last_vid=55659936)  
   公众号 CFD之道  
+  [原创汇总2021年度](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247498805&idx=1&sn=d233f33eeec9ab703b32dea5dfa487a4&chksm=e820de9ddf57578ba398c452665ead6733153cc5eff2687e8d2573d67d7724ab63d9f1f2c6d2#rd)  
   [原创汇总2020年度](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247491910&idx=1&sn=851847b12f71b2aa76f038ab4f914905&chksm=e820c3eedf574af8faf06f9e60a9faeb68f2b252efb68671724e348e97f1c601eaf2fb4f8886#rd)  
   [原创汇总2019年度](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&amp;mid=2247486841&amp;idx=1&amp;sn=3906abe882f98d4dbc418a0b94cf8022&amp;chksm=e8232fd1df54a6c7e07cda81e8b667c53ea914fd8ad4d7eff30de41fee6df1b01f002f707f80#rd)  
   [原创汇总2018年度](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&amp;mid=2247485511&amp;idx=1&amp;sn=6e2becfa6aaa8abdaebb0494c7241c96&amp;chksm=e8232aefdf54a3f973f093f9eb557007c9015e013e5378aace8de8cba02d3d57074683965318#rd)  

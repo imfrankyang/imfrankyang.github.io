@@ -135,5 +135,5 @@ virtual machine, download [here](https://www.vmware.com/products/workstation-pro
 - [如何评价苏州思杰马克丁软件公司？](https://www.zhihu.com/question/46746200)
 - [国产软件为什么越来越流氓？](https://blog.csdn.net/qq_21388535/article/details/80080571?utm_source=blogxgwz0)
 - [鲁大师已经彻底沦为一款垃圾流氓软件！](https://zhuanlan.zhihu.com/p/108041500)
-
+- [各种App后台工作大揭秘。揭开帷幕，带大家一起看看应用后台灰色和黑色产业链。](https://www.youtube.com/watch?v=oUP5YnOcB7c)
 
