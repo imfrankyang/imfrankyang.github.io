@@ -9,7 +9,7 @@ The international system of units (SI) is as follows.
 | 1   | Mass               | kilogram (kg) | pound-mass (lbm)                                                                   |
 | 2   | Length             | metre (m)     | foot (ft)                                                                          |
 | 3   | Time               | second (s)    | second (s)                                                                         |
-| 4   | Temperature        | Kelvin (K)    | degree Rankine (![∘](https://cdn.cfd.direct/docs/user-guide-v8/img/user288x.png)R) |
+| 4   | Temperature        | Kelvin (K)    | degree Rankine (°R) |
 | 5   | Quantity           | mole (mol)    | mole (mol)                                                                         |
 | 6   | Current            | ampere (A)    | ampere (A)                                                                         |
 | 7   | Luminous intensity | candela (cd)  | candela (cd)                                                                       |
