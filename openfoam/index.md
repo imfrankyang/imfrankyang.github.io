@@ -85,8 +85,6 @@ http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
 - cfd.at  
   https://www.cfd.at/tutorials
 
-
-
 - Jószef Nagy  
   [youtube](https://www.youtube.com/channel/UCjdgpuxuAxH9BqheyE82Vvw) and his [Patreon](https://www.patreon.com/user/posts?u=15620295) has additional videos. 
 
@@ -105,16 +103,14 @@ http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
 - CFD NINJA / ANSYS CFD  
   [OpenFOAM playlist](https://www.youtube.com/playlist?list=PLd23hHm4FCRdFxcjAqEMd6W2cikPaaNXS)   
 
-
-
-
 - Prof. Hrvoje Jasak  
   Dr. Hrvoje Jasak, co-author of OpenFOAM with Mr. Henry Weller  
   https://www.lsc.phy.cam.ac.uk/staff/dr-hrvoje-jasak  
   https://foam-extend.fsb.hr/openfoam/tutorials/  
 
-
-
+- Cyprien Rusu  
+  https://feaforall.com/category/tutorial/openfoam/  
+  https://www.youtube.com/c/CyprienRusu/videos  
 
 
 
