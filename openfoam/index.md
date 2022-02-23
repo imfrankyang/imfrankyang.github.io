@@ -15,12 +15,15 @@
 
 **Foundation version 基金会版**  
 Download from [OpenFOAM github](https://github.com/OpenFOAM) or [OpenFOAM focal amd64 SourceForge](https://sourceforge.net/projects/foam/files/foam/ubuntu/dists/focal/main/binary-amd64/)
+win version **[blueCFD](https://bluecfd.github.io/Core/)**  
 
 Installation tutorial
 
 - [Install v8 on Ubuntu](https://openfoam.org/download/8-ubuntu/)
 - [Install OpenFOAM 8 video](https://www.youtube.com/watch?v=zWX2wCXDNNA)  
 - [OpenFOAM安装](http://dyfluid.com/docs/install.html)
+
+
 
 
 **ESI Group version 集团版**  
@@ -135,6 +138,9 @@ http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
 - [Robin Knowles](https://www.cfdengine.com/newsletter/)
 - [All About CFD…Tom’s Blog](https://allaboutcfd-tomersblog.com/)
 - [The Answer is 27](https://theansweris27.com/blog/)
+- OpenFOAM理论笔记  
+  https://blog.csdn.net/cloudbird07/category_10174679.html  
+  https://forum.cfdac.com/u/rheoworks/activity/topics  
 
 
 

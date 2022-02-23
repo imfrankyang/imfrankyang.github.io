@@ -35,12 +35,13 @@ graph LR;
 * ...
 
 
+**Basics**
+- [Continuum Mechanics](https://www.continuummechanics.org/)
+  stress, strain, 
 
+- [me338A - continuum mechanics 09 stanford](http://biomechanics.stanford.edu/Continuum_mechanics_09)
 
-
-
-
-
+- [me338A - continuum mechanics stanford](http://biomechanics.stanford.edu/Continuum_mechanics)
 
 
 
@@ -221,8 +222,6 @@ graph LR;
   https://podcasts.ox.ac.uk/series/scientific-computing-dphil-students  
   https://www.bilibili.com/video/BV1VE411Q7ue/
 
-- tensor
-  [Tensor Calculus](https://www.youtube.com/playlist?list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_)
 
 - 2.097- Qiqi Wang  
   [youtube](https://www.youtube.com/c/QiqiWangGG/playlists?view=1&sort=dd&shelf_id=0)  

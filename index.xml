@@ -12,18 +12,13 @@
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cfd-collection/</guid>
     <description><![CDATA[-- CFD CFDer capabilities:
- Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  Course
+ Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  Basics
+  Continuum Mechanics stress, strain,
+  me338A - continuum mechanics 09 stanford
+  me338A - continuum mechanics stanford
+  Course
   Computational Methods in Aerospace Engineering MIT
-  陶文铨院士
-计算传热学的近代进展 PPT
-Numerical Heat Transfer PPT
-传热学-陶文铨
-  Lorena Barba
-GPU computing, python
-波士顿大学机械工程系Lorena Barba教授制作课程ME 702，CFDPython在课程中使用(Barba教授后来搬到乔治华盛顿大学),胡坤根据CFDPython编写了Julia CFD系列文章，位于原创汇总2020年度
-CFDPython intro
-CFDPython github
-ME 702 - Computational Fluid Dynamics - Video Lesson 1]]></description>
+  陶文铨院士]]></description>
 </item><item>
     <title>CS collection</title>
     <link>https://lianfengyeo.github.io/cs-collection/</link>
@@ -254,12 +249,11 @@ https://ftp.lstc.com/anonymous/outgoing/lsprepost/]]></description>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/openfoam/</guid>
     <description><![CDATA[version  Foundation 基金会版 ESI集团版 OpenFOAM-extend  installation  Unofficial OpenFOAM wiki Category:Installing OpenFOAM on Linux - OpenFOAMWiki gcc Compatibility for old OpenFOAM  Foundation version 基金会版
-Download from OpenFOAM github or OpenFOAM focal amd64 SourceForge
+Download from OpenFOAM github or OpenFOAM focal amd64 SourceForge win version blueCFD
 Installation tutorial
  Install v8 on Ubuntu Install OpenFOAM 8 video OpenFOAM安装  ESI Group version 集团版
 Download from SourceForge
   OpenFOAM Installation From Source
-  Install OpenFOAM v2006 video
-  OpenFOAM gitlab]]></description>
+  Install OpenFOAM v2006 video]]></description>
 </item></channel>
 </rss>
