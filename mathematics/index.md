@@ -42,12 +42,18 @@
 - [MIT 18.085 Computational Science and Engineering I / Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)  
   [youtube](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C)  
 
-- [MIT A 2020 Vision of Linear Algebra, Spring 2020 "Gilbert Strang"](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)  
+
+- [MIT 18.086 Computational Science and Engineering II / Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/)  
+  [youtube](https://www.youtube.com/playlist?list=PL3A13781649466805)
+
+
+
+- [MIT A 2020 Vision of Linear Algebra, Spring 2020 / Gilbert Strang](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)  
   [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)  
   [bilibili](https://www.bilibili.com/video/BV1Ki4y147Kh?p=1)
 
 
-- [MIT Matrix Methods in Data Analysis, Signal Processing, and Machine Learning "Gilbert Strang"](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
+- [MIT Matrix Methods in Data Analysis, Signal Processing, and Machine Learning / Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
   [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
 

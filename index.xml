@@ -61,33 +61,6 @@ reference]]></description>
     <description><![CDATA[OpenFOAM unit The international system of units (SI) is as follows.
    No. Property SI unit USCS unit     1 Mass kilogram (kg) pound-mass (lbm)   2 Length metre (m) foot (ft)   3 Time second (s) second (s)   4 Temperature Kelvin (K) degree Rankine (°R)   5 Quantity mole (mol) mole (mol)   6 Current ampere (A) ampere (A)   7 Luminous intensity candela (cd) candela (cd)    The Dimension [kg, m, s, K, mol, A, cd]]]></description>
 </item><item>
-    <title>Scientist </title>
-    <link>https://lianfengyeo.github.io/scientist/</link>
-    <pubDate>Fri, 12 Mar 2021 10:09:30 &#43;0100</pubDate>
-    <author>Author</author>
-    <guid>https://lianfengyeo.github.io/scientist/</guid>
-    <description><![CDATA[Scientist   计算流体力学知名专家 wiki list
-  Chi-Wang Shu 舒其望
-googlescholar
-  Favourite   Giovanni Tanda
-  Francesca Satta
-  Marina Ubaldi
-  Karen Thole
-film cooling, experiment, PSU
-  Philipp Schlatter
-googlescholar
-LES, DNS, NACA airfoil, plate, KTH
-  陶文铨
-找最SCI的故事：致敬陶文铨！耄耋院士，传道授业
-《开讲啦》 西安交通大学教授 国际数值传热学知名专家陶文铨院士
-陈大燮
-  Alessandro Bottaro
-https://rubrica.unige.it/personale/VUZBWFtr
-https://scholar.google.com/citations?user=0hNz7q0AAAAJ&amp;hl=en
-  Jacqueline H. Chen
-https://scholar.google.com/citations?user=W9N01MkAAAAJ&amp;hl=en
-  Parviz Moin]]></description>
-</item><item>
     <title>CFD software</title>
     <link>https://lianfengyeo.github.io/cfd-software/</link>
     <pubDate>Wed, 10 Mar 2021 10:09:30 &#43;0100</pubDate>
@@ -255,5 +228,20 @@ Installation tutorial
 Download from SourceForge
   OpenFOAM Installation From Source
   Install OpenFOAM v2006 video]]></description>
+</item><item>
+    <title>Research tools(software)</title>
+    <link>https://lianfengyeo.github.io/research-tools/</link>
+    <pubDate>Thu, 17 Dec 2020 10:09:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lianfengyeo.github.io/research-tools/</guid>
+    <description><![CDATA[List of recommended software Web browser  Google Chrome https://www.google.com/chrome/ Microsoft Edge https://www.microsoft.com/en-us/edge  Microsoft 365 (Office 365)   Microsoft 365 家庭版 - 1年 (推荐合租)
+6人使用,每位用户 1TB OneDrive 云存储空间
+  Microsoft 365 个人版 - 1年
+1人使用,1TB OneDrive 云存储空间
+  Chrome extension compatible with Edge  Bookmarks clean up
+Find and remove duplicated bookmarks uBlock Origin
+Ad-blocking  zotero a free and open-source reference management software
+https://www.zotero.org/
+ Zotero | 01-为什么要用文献管理软件Zotero zotero 中文识别  typora a markdown editor $ 14.]]></description>
 </item></channel>
 </rss>
