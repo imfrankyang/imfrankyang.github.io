@@ -33,7 +33,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/guide-to-hugo\/featured-image.jpg",
                             "width":  1200 ,
                             "height":  360 
-                        }],"genre": "posts","keywords": "tech","wordcount":  151 ,
+                        }],"genre": "posts","keywords": "tech","wordcount":  150 ,
         "url": "https:\/\/lianfengyeo.github.io\/guide-to-hugo\/","datePublished": "2020-11-29T10:10:37+01:00","dateModified": "2020-11-29T10:10:37+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -119,7 +119,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Guide to Hugo</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="lianfengyeo.github.io" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/markdown/"><i class="far fa-folder fa-fw"></i>Markdown</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-11-29">2020-11-29</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;151 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-11-29">2020-11-29</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;150 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;</div>
         </div><div class="featured-image"><img
         class="lazyload"
@@ -133,9 +133,22 @@
                     <span>Contents</span>
                     <span><i class="details-icon fas fa-angle-right"></i></span>
                 </div>
-                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents"></nav></div>
-            </div><div class="content" id="content"><p>网站图标<br>
-强烈建议你把:</p>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#网站图标">网站图标</a></li>
+            <li><a href="#blog发布">blog发布</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h3 id="网站图标">网站图标</h3>
+<p>利用 <a href="https://realfavicongenerator.net/" target="_blank" rel="noopener noreffer">https://realfavicongenerator.net/</a> 生成图标文件，放在 <code>/static</code> 目录</p>
 <ul>
 <li>apple-touch-icon.png (180x180)</li>
 <li>favicon-32x32.png (32x32)</li>
@@ -144,8 +157,8 @@
 <li>android-chrome-192x192.png (192x192)</li>
 <li>android-chrome-512x512.png (512x512)</li>
 </ul>
-<p>放在 <code>/static</code> 目录. 利用 <a href="https://realfavicongenerator.net/" target="_blank" rel="noopener noreffer">https://realfavicongenerator.net/</a> 可以很容易地生成这些文件.</p>
 <p>可以自定义 <code>browserconfig.xml</code> 和 <code>site.webmanifest</code> 文件来设置 theme-color 和 background-color.</p>
+<h3 id="blog发布">blog发布</h3>
 <p>touch deploy.sh   //content is as follows</p>
 <p>. ./deploy.sh     //if there is &ldquo;cd&hellip;&rdquo; in bash</p>
 <div class="highlight"><div class="chroma">
