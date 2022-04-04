@@ -101,31 +101,12 @@ download iso file from https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive
 uninstall first
 1 2 3 4 5 6 7 8  sudo apt purge texlive* sudo rm -rf /usr/local/texlive/* rm -rf ~/.]]></description>
 </item><item>
-    <title>Celebrities in history</title>
-    <link>https://lianfengyeo.github.io/celebrities-in-history/</link>
-    <pubDate>Thu, 18 Feb 2021 10:09:30 &#43;0100</pubDate>
-    <author>Author</author>
-    <guid>https://lianfengyeo.github.io/celebrities-in-history/</guid>
-    <description><![CDATA[Andrey Nikolaevich Kolmogorov  Dietrich Küchemann  wiki
-Dietrich Küchemann (11 September 1911 – 23 February 1976)  Dietrich Küchemann  wiki
-Dudley Brain Spalding (9 January 1923 – 27 November 2016)  Dudley Brian Spalding  wiki
-Royal Society
-Brian Launder  Brian_Launder  wiki
-researchgate
-homepage googlescholar
-Antony Jameson (20 November 1934 CFD, code)  Antony Jameson  中心差分离散的有限体积法
-homepage
-googlescholar
-scopus
-wiki
-David Gosman  David Gosman  homepage]]></description>
-</item><item>
     <title>Vmware</title>
     <link>https://lianfengyeo.github.io/vmware/</link>
     <pubDate>Mon, 08 Feb 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/vmware/</guid>
-    <description><![CDATA[tutorial Catlin Wu youtube
+    <description><![CDATA[Tutorial Catlin Wu youtube
 VMware Workstation to ESXi  WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update https://www.vediotalk.com/archives/3956
  Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7.]]></description>
 </item><item>

@@ -2,7 +2,7 @@
 
 
 
-### tutorial  
+### Tutorial  
 [Catlin Wu youtube](https://www.youtube.com/c/CatlinWu/videos)
 
 
@@ -87,48 +87,7 @@ sudo vmware-toolbox-cmd disk shrink /
 2：创建一个包含在单一虚拟文件中的预分配虚拟磁盘  
 3：创建一个被分割为每个文件2GB大小的预分配虚拟磁盘  
 
-
-### vmware tools
-```
-#install
-sudo ./vmware-tools-distrib/vmware-install.pl
-
-#uninstall
-sudo ./vmware-tools-distrib/bin/vmware-uninstall-tools.pl
-```
-
-{{< admonition tip "" true >}}
-当再次安装Vmware Tools出现错误。
-
-安装前把 /usr/lib/vmware-tools删除： rm -rvf /usr/lib/vmware-tools
-{{< /admonition >}}
-
-### open vm tools
-
-- https://github.com/vmware/open-vm-tools  
-- https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html  
-
-**install**
-```bash
-#ubuntu
-sudo apt install open-vm-tools
-sudo apt install open-vm-tools-desktop
-
-#centos
-sudo yum install open-vm-tools
-sudo yum install open-vm-tools-desktop
-```
-
-**uninstall**
-```bash
-#ubuntu
-apt remove open-vm-tools-desktop
-
-#centos8
-dnf remove open-vm-tools
-```
-
-### vmware 扩大硬盘
+**vmware 扩大硬盘**
 1. add a new virtual disk
 2. clone disk
 ```
@@ -141,8 +100,48 @@ fsck -yf /dev/sda1
 ```
 5. resize disk in disk app   
 
+### vmware tools
+It seems that the vmware official recommend the `open vm tools`.
+```
+#install
+sudo ./vmware-tools-distrib/vmware-install.pl
+
+#uninstall
+sudo ./vmware-tools-distrib/bin/vmware-uninstall-tools.pl
+```
+
+{{< admonition tip "" true >}}
+当再次安装Vmware Tools出现错误。
+{{< /admonition >}}
+
+安装前把 /usr/lib/vmware-tools删除： rm -rvf /usr/lib/vmware-tools
 
 
+### open vm tools
+- https://github.com/vmware/open-vm-tools  
+- https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html  
+
+**install**
+```bash
+#ubuntu
+sudo apt install open-vm-tools
+sudo apt install open-vm-tools-desktop
+sudo apt install xorg-x11-drv-vmware
+
+#centos
+sudo yum install open-vm-tools
+sudo yum install open-vm-tools-desktop
+sudo yum install xorg-x11-drv-vmware
+```
+
+**uninstall**
+```bash
+#ubuntu
+apt remove open-vm-tools-desktop
+
+#centos8
+dnf remove open-vm-tools
+```
 
 
 
@@ -150,12 +149,10 @@ fsck -yf /dev/sda1
 ### 常见问题
 {{< admonition tip "" true >}}
 安装ESXi 7.0 后多出VMFS-L的空间如何删除VMFSL
-
+{{< /admonition >}}
 u盘引导后，按Shift+O键  
 autoPartitionOSDataSize=8192  
 注意大小写，回车安装即可。  
-{{< /admonition >}}
-
 
 
 {{< admonition tip ""  true >}}
@@ -182,17 +179,20 @@ systemctl start network             # 启动网络后就OK了
 ```
 
 
-
-
 {{< admonition tip ""  true >}}
 linux虚拟机缩放
+{{< /admonition >}}
 
+```
+sudo yum install xorg-x11-drv-vmware
+```
+备用方法
 ```bash
 xrandr --output Virtual1 --scale 0.9x0.9
 xrandr --output Virtual1 --scale 1x1
 xrandr --output Virtual1 --scale 0.4x0.4
 ```
-{{< /admonition >}}
+
 
 
 
