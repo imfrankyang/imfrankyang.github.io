@@ -9,13 +9,10 @@
     <pubDate>Tue, 01 Dec 2020 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cfd-collection/</guid>
-    <description><![CDATA[-- CFD CFDer capabilities:
- Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  Basics
-  Continuum Mechanics stress, strain,
+    <description><![CDATA[-- CFD CFDer capabilities  Fluid dynamics Gas dynamics Thermodynamics Numerical analysis Linear algebra Calculus Probability Pre-processing Post-processing Linux skills programming Measurement technique Experimental data post-processing Information-searching skills Literature search English ability &hellip;  Basics   Continuum Mechanics stress, strain,
   me338A - continuum mechanics 09 stanford
   me338A - continuum mechanics stanford
-  Course
-  Computational Methods in Aerospace Engineering MIT
+  Course   Computational Methods in Aerospace Engineering MIT
   陶文铨院士]]></description>
 </item><item>
     <title>OpenFOAM wall function</title>

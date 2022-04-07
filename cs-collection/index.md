@@ -62,3 +62,36 @@
   https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=231  
   https://www.bilibili.com/video/BV1Yt411W7td?p=2&spm_id_from=pageDriver  
 
+
+
+
+- [Stanford CME 213 Introduction to parallel computing using MPI, openMP, and CUDA Winter 2020 Eric Darve](https://www.youtube.com/playlist?list=PLAtMgFDMfGy2mysjPHN_d1cf9sR1muRkq)  
+  [class website](https://ericdarve.github.io/)  
+  [class website spring 2021](https://ericdarve.github.io/cme213-spring-2021/)  
+
+
+### mpi tutorial
+- [easyhpc](https://easyhpc.net/)
+
+
+### GPU Computing
+- [programming courses collections](https://www.bu.edu/pasi/materials/)
+- [Programming GPUs with Fortran](https://www.youtube.com/watch?v=COjvWNpxnxc&feature=emb_logo)
+
+
+### CUDA
+Download old version from [CUDA archive](https://developer.nvidia.com/cuda-toolkit-archive) or the new one [CUDA 10.2](https://developer.nvidia.com/cuda-10.2-download-archive?target_os=Linux&target_arch=x86_64&target_distro=CentOS&target_version=6) for Ubuntu 18 16/Centos 8 7 6 or [CUDA 11](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=runfilelocal) for Ubuntu 20.04 18.04 16.04/Centos 8 7.
+
+- [CUDA source code](https://developer.download.nvidia.com/compute/cuda/opensource/)
+- [CUDA Volta Compatibility Guide](https://docs.nvidia.com/cuda/)  
+- [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+
+
+
+
+- [Intro to the Class - Intro to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)  
+  基于NVIDIA GPU的CUDA编程教程。同时也适合利用GPU加速图像处理的入门学习。是非常基础的教程，适合无基础学
+
+- [NVIDIA CUDA 初级教程](https://www.bilibili.com/video/BV1GT4y1u77f/)
+
+- [CUDA 编程入门: 8 小时掌握 GPU 计算](https://www.bilibili.com/video/BV1vJ411D73S)  

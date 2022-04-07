@@ -339,16 +339,6 @@ be sure you've installed Xcode Command Line Tools.
 
 
 
-
-<br><br><br>
-
-
-## Parallel Computing 
-
-### mpi tutorial
-* [easyhpc](https://easyhpc.net/)
-
-
 ### intel Intrinsics  
 - [intel SSE，AVX，AVX2，AVX512 IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)  
 
@@ -357,10 +347,6 @@ be sure you've installed Xcode Command Line Tools.
 
 
 
-## GPU Computing
-
-- [programming courses collections](https://www.bu.edu/pasi/materials/)
-- [Programming GPUs with Fortran](https://www.youtube.com/watch?v=COjvWNpxnxc&feature=emb_logo)
 
 
 
@@ -369,27 +355,3 @@ be sure you've installed Xcode Command Line Tools.
 
 
 
-### CUDA
-Download old version from [CUDA archive](https://developer.nvidia.com/cuda-toolkit-archive) or the new one [CUDA 10.2](https://developer.nvidia.com/cuda-10.2-download-archive?target_os=Linux&target_arch=x86_64&target_distro=CentOS&target_version=6) for Ubuntu 18 16/Centos 8 7 6 or [CUDA 11](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=runfilelocal) for Ubuntu 20.04 18.04 16.04/Centos 8 7.
-
-- [CUDA source code](https://developer.download.nvidia.com/compute/cuda/opensource/)
-- [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)  
-  
-- [CUDA 编程入门: 8 小时掌握 GPU 计算 (失效)](https://www.youtube.com/playlist?list=PLSVM68VUM1eWsEX0yPliaL3pTZoKqJWfi)
-
-
-
-
-
-
-
-## Machine Learning
-- [Learn With Me: Intro to Machine Learning](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)
-- [有趣的机器学习 "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin)
-- [秒懂神经网络 Neural Networks](https://www.youtube.com/playlist?list=PLXO45tsB95cJ0U2DKySDmhRqQI9IaGxck)
-
-- Shusen Wang  
-  - [website](http://wangshusen.github.io/)
-  - [homepage school](https://faculty.stevens.edu/swang134)
-  - [googlescholar](https://scholar.google.com/citations?user=HAf4pEoAAAAJ&hl=en)
-  - [深度强化学习Deep Reinforcement Learning course](https://www.youtube.com/playlist?list=PLvOO0btloRnsiqM72G4Uid0UWljikENlU)  

@@ -15,7 +15,7 @@ graph LR;
 
 ## CFD
 
-**CFDer capabilities:**
+### CFDer capabilities
 * Fluid dynamics
 * Gas dynamics
 * Thermodynamics
@@ -35,7 +35,7 @@ graph LR;
 * ...
 
 
-**Basics**
+### Basics
 - [Continuum Mechanics](https://www.continuummechanics.org/)
   stress, strain, 
 
@@ -45,7 +45,7 @@ graph LR;
 
 
 
-**Course**
+### Course
 
 - [Computational Methods in Aerospace Engineering MIT](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-90-computational-methods-in-aerospace-engineering-spring-2014/index.htm)
 
@@ -60,18 +60,16 @@ graph LR;
   [CFDPython intro](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)  
   [CFDPython github](https://github.com/barbagroup/CFDPython)  
   [ME 702 - Computational Fluid Dynamics - Video Lesson 1](https://www.youtube.com/watch?v=cDy5XGOokBY&list=PL30F4C5ABCE62CB61)  
-  [bilibili](https://www.bilibili.com/video/av41449459/)
-  
 
 - Prof. S. A. E. Miller, Ph.D.  
   [Introduction to Computational Fluid Dynamics (CFD)](https://www.youtube.com/playlist?list=PLbiOzt50Bx-kV3Lcn5piPyV9EvpmOybJR)  
 
 - 李新亮 CFD课程  
   [homepage](http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html)  
-  [计算流体力学 2020 李新亮 中国科学院大学 bilibili](https://www.bilibili.com/video/BV1GT4y1G7NA)  
+  下载课件、程序及文档： http://pan.baidu.com/s/1slfC5Yl  
 
 - 计算传热学大叔  数值传热学  
-  [bilibili](https://space.bilibili.com/524949337) Videos about Numerical Heat Transfer and CFD like Fluent.
+  [bilibili](https://space.bilibili.com/524949337) Videos about Numerical Heat Transfer and CFD.
   
 - 刘建新 天津大学 CFD课程  
   https://www.bilibili.com/video/BV1vE411W7kV?p=1
@@ -110,7 +108,7 @@ graph LR;
 
 
 
-**CFD forum**
+### CFD forum
 
 - http://www.cfdreview.com/
 
@@ -124,7 +122,7 @@ graph LR;
 - https://forum.cfdac.com/ （openfoam）
 
 
-**blog**
+### blog
 - [硫酸亚铜 博客园](https://www.cnblogs.com/liusuanyatong/)
 
 - [一起来学CFD](https://www.zhihu.com/column/cfdnotebook)
@@ -137,7 +135,7 @@ graph LR;
 
 
 
-**Ansys tutorial**  
+### Ansys tutorial
 
 - [A Hands-on Introduction to Engineering Simulations](https://learning.edx.org/course/course-v1:CornellX+ENGR2000X+1T2018/home)  
   软件版本较新，基础视频
@@ -160,23 +158,7 @@ graph LR;
 
 
 
-
-
-
-
-**Organization**  
-
-- [ERCOFTAC](https://www.ercoftac.org/)  
-- 
-- [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)  
-- 
-- [Air Force Research Laboratory](https://www.afrl.af.mil/)  
-
-
-
-
-
-**CFD channel**
+### CFD channel
 
 - JoshTheEngineer (python matlab airfoil)  
  [youtube](https://www.youtube.com/channel/UCQq2_Dk2MvGGqi8-eBVwRww)  
@@ -196,7 +178,7 @@ graph LR;
 
 
 
-**Books**
+### Books
 
 [天津大学 刘建新 推荐 计算流体力学教材](https://www.bilibili.com/video/BV1kq4y1j7Bn)
 
@@ -204,23 +186,34 @@ graph LR;
 
 [CFD 书单](https://forum.cfdac.com/t/topic/377)
 
+### Organization  
+
+- [ERCOFTAC](https://www.ercoftac.org/)  
+- 
+- [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)  
+- 
+- [Air Force Research Laboratory](https://www.afrl.af.mil/)  
 
 
-## Scientific Computing
+
+
+
+
+### CFD coding
 
 
 - Prof. Lars Ruepke and 郭志馗kuí / Kiel University  
-  [Lecture on HydrothermalFoam WS2020](https://lruepke.github.io/HTF_lecture/)  
-  [Repository](https://github.com/lruepke/HTF_lecture)  
+  [Lecture on HydrothermalFoam WS2020](https://lruepke.github.io/HTF_lecture/) 
+  - [Github repository](https://github.com/lruepke/HTF_lecture)  
     [SIMPLE algorithm](https://lruepke.github.io/HTF_lecture/lectures/L02/intro.html)
 
   [The Finite Element Method in geodynamics](https://lruepke.github.io/FEM_lecture/)  
-  [Repository](https://github.com/lruepke/FEM_lecture)  
+  - [Github repository](https://github.com/lruepke/FEM_lecture)  
 
 
 - Scientific Computing for DPhil Students Prof. Nick Trefethen from Oxford  
   https://podcasts.ox.ac.uk/series/scientific-computing-dphil-students  
-  https://www.bilibili.com/video/BV1VE411Q7ue/
+  https://www.bilibili.com/video/BV1VE411Q7ue/  
 
 
 - 2.097- Qiqi Wang  
@@ -235,21 +228,19 @@ graph LR;
 
 
 
+## Scientific Computing
+
 
 
 
 ## Fluid dynamics
-
-
-**Course**
-
-
 - [NSF Fluid Mechanics Series](https://www.youtube.com/playlist?list=PL0EC6527BE871ABA3)  
   The **classic** fluid mechanics film courses and here is the [Notes](http://web.mit.edu/hml/notes.html)
 
 - [Engineering MAE 130A. Intro to Fluid Mechanics](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7m8oL297GkRRszNN1Q-l6wb)  
 
-- [流体力学 清华大学](https://www.bilibili.com/video/av92776453/)  
+- [流体力学 清华大学](https://www.xuetangx.com/course/thu07021002421/10327403?channel=i.area.learn_title)  
+  governing equation deduction, boundary layer, shock wave, turbulence
 
 - [我所理解的流体力学 王洪伟 北航](https://www.youtube.com/playlist?list=PL4PKngxUXbAgcPAp51zwQugcR_iV3uvSE)
 
@@ -268,8 +259,11 @@ graph LR;
 
 - [Introduction to Compressible Flow - Prof. S. A. E. Miller, Ph.D.](https://www.youtube.com/playlist?list=PLbiOzt50Bx-ntmxUzPRCOLLTxrVwG8RG6)  
 
-
-
+- Casey Harwood (University of Iowa)
+- [NA320 - Marine Hydrodynamics I](https://www.youtube.com/playlist?list=PL5Ul0-YdUHMWTIuL-Vx31sWMbU1MQrep8)
+  static pressure, Reynolds Transport Theorem, boundary layer, Material derivative, rans  
+- [ENGR:2510 - Fluid Mechanics](https://www.youtube.com/playlist?list=PL5Ul0-YdUHMUpfLJ3aoRAerAgZQdzh7pT)
+- 
 
 - Jousef Murad  
   [youtube](https://www.youtube.com/c/TheEngiineer)
@@ -326,6 +320,20 @@ graph LR;
   In video 2 airplane aerodynamics, I believe using the Bernoulli equation to explain the airfoil is not accurate.  
   - [Special Lecture: F-22 Flight Controls](https://www.youtube.com/watch?v=n068fel-W9I&list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25&index=22)
   
+
+
+
+
+## Machine Learning
+- [Learn With Me: Intro to Machine Learning](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)
+- [有趣的机器学习 "Morvan"](https://www.youtube.com/playlist?list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin)
+- [秒懂神经网络 Neural Networks](https://www.youtube.com/playlist?list=PLXO45tsB95cJ0U2DKySDmhRqQI9IaGxck)
+
+- Shusen Wang  
+  - [website](http://wangshusen.github.io/)
+  - [homepage school](https://faculty.stevens.edu/swang134)
+  - [googlescholar](https://scholar.google.com/citations?user=HAf4pEoAAAAJ&hl=en)
+  - [深度强化学习Deep Reinforcement Learning course](https://www.youtube.com/playlist?list=PLvOO0btloRnsiqM72G4Uid0UWljikENlU)  
 
 
 
