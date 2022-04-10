@@ -20,17 +20,14 @@
     <pubDate>Mon, 05 Jul 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://lianfengyeo.github.io/cs-collection/</guid>
-    <description><![CDATA[code Course
-  CS50’s Understanding Technology / David J. Malan / harvard
+    <description><![CDATA[code Course   CS50’s Understanding Technology / David J. Malan / harvard
 website
 bilibili
   CS50: Introduction to Computer Science / David J. Malan / harvard
 website
- CS50 Lectures 2020 youtube https://cs50.harvard.edu/x/2021/labs/ https://cs50.readthedocs.io/# Walkthroughs Labs 2020 youtube Walkthroughs 2019 youtube  CS50 bilibili
-CS50 Shorts 知识集锦 bilibili
-  CS50&rsquo;s Introduction to Artificial Intelligence with Python 2020
+ CS50 Lectures 2020 youtube https://cs50.harvard.edu/x/2021/labs/ https://cs50.readthedocs.io/# Walkthroughs Labs 2020 youtube Walkthroughs 2019 youtube CS50 Lectures 2019 bilibili CS50 Shorts 知识集锦 bilibili    CS50&rsquo;s Introduction to Artificial Intelligence with Python 2020
 CS50 Python AI 2020 youtube
-  Beginning Programming with C++ / Raili Taylor]]></description>
+  C语言入门]]></description>
 </item><item>
     <title>OpenFOAM wall function</title>
     <link>https://lianfengyeo.github.io/openfoam-wall-function/</link>

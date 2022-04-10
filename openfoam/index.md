@@ -163,10 +163,19 @@ install python and download from https://pypi.org/project/PyFoam/
 ```
 pip install PyFoam
 ```
-郭志馗 https://gitlab.com/hydrothermal-openfoam/scipyfoam
+
+郭志馗 https://gitlab.com/hydrothermal-openfoam/scipyfoam  
 command of PyFoam http://openfoamwiki.net/index.php/Contrib_PyFoam
 
 
 ## C++
 
 - http://dyfluid.com/docs/book/_book/
+
+
+### OpenFOAM with CLion
+https://www.bilibili.com/video/BV1MP4y1u7rS
+
+https://www.youtube.com/watch?v=JZeXbUE-ybo
+
+

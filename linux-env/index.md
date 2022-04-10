@@ -333,13 +333,13 @@ be sure you've installed Xcode Command Line Tools.
 
 
 
-### CMake
+## CMake
 * [CMake Community Wiki](https://gitlab.kitware.com/cmake/community)
 * [CMake Documentation](https://cmake.org/cmake/help/latest/index.html#)
 
 
 
-### intel Intrinsics  
+## intel Intrinsics  
 - [intel SSE，AVX，AVX2，AVX512 IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)  
 
 

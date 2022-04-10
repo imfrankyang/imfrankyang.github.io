@@ -4,7 +4,7 @@
 
 ## code
 
-**Course**
+### Course
 
 - CS50’s Understanding Technology / David J. Malan / harvard  
   [website](https://cs50.harvard.edu/technology/2017/)  
@@ -12,25 +12,28 @@
 
 - CS50: Introduction to Computer Science / David J. Malan / harvard  
   [website](https://cs50.harvard.edu/x/2021/)  
-    - [CS50 Lectures 2020 youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
-    - https://cs50.harvard.edu/x/2021/labs/  
-    - https://cs50.readthedocs.io/#  
-    - [Walkthroughs Labs 2020 youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381esVAkHfAGPA5JpK6_sELg)  
-    - [Walkthroughs 2019 youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381AUFv2ZbwN9wM0pkNy-uHa)  
-
-  [CS50 bilibili](https://www.bilibili.com/video/BV1DA411Y7jk)  
-  [CS50 Shorts 知识集锦 bilibili](https://www.bilibili.com/video/BV1rz4y1Z7XT)  
+  - [CS50 Lectures 2020 youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
+  - https://cs50.harvard.edu/x/2021/labs/  
+  - https://cs50.readthedocs.io/#  
+  - [Walkthroughs Labs 2020 youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381esVAkHfAGPA5JpK6_sELg)  
+  - [Walkthroughs 2019 youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381AUFv2ZbwN9wM0pkNy-uHa)  
+  - [CS50 Lectures 2019 bilibili](https://www.bilibili.com/video/BV1DA411Y7jk)  
+  - [CS50 Shorts 知识集锦 bilibili](https://www.bilibili.com/video/BV1rz4y1Z7XT)  
 
 - CS50's Introduction to Artificial Intelligence with Python 2020  
-  [CS50 Python AI 2020 youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)  
-  
+  [CS50 Python AI 2020 youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
+
+- [C语言入门](https://www.youtube.com/playlist?list=PLY_qIufNHc293YnIjVeEwNDuqGo8y2Emx)   
+  [bilibili](https://www.bilibili.com/video/BV1GE411R7Po?)
 
 - [Beginning Programming with C++ / Raili Taylor](https://www.youtube.com/playlist?list=PLBUHO4VNB5hCHX0v99ZR_wf-Y-P9y7_kg)
 
 
 
 
-**website**
+
+
+### reference
 
 - [C++17 core language features](https://en.cppreference.com/w/cpp/17)  
 - [C++ runoob](https://www.runoob.com/cplusplus/cpp-tutorial.html)  
@@ -62,16 +65,18 @@
   https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=231  
   https://www.bilibili.com/video/BV1Yt411W7td?p=2&spm_id_from=pageDriver  
 
-
-
-
 - [Stanford CME 213 Introduction to parallel computing using MPI, openMP, and CUDA Winter 2020 Eric Darve](https://www.youtube.com/playlist?list=PLAtMgFDMfGy2mysjPHN_d1cf9sR1muRkq)  
   [class website](https://ericdarve.github.io/)  
   [class website spring 2021](https://ericdarve.github.io/cme213-spring-2021/)  
 
 
-### mpi tutorial
+### mpi
 - [easyhpc](https://easyhpc.net/)
+
+- [Introduction to distributed computing with MPI](https://www.codingame.com/playgrounds/349/introduction-to-mpi/introduction-to-distributed-computing)
+
+- [Introduction to Parallel Programming](https://www.futurelearn.com/courses/interactive-hands-on-introduction-to-parallel-programming)
+
 
 
 ### GPU Computing
@@ -95,3 +100,7 @@ Download old version from [CUDA archive](https://developer.nvidia.com/cuda-toolk
 - [NVIDIA CUDA 初级教程](https://www.bilibili.com/video/BV1GT4y1u77f/)
 
 - [CUDA 编程入门: 8 小时掌握 GPU 计算](https://www.bilibili.com/video/BV1vJ411D73S)  
+
+
+
+

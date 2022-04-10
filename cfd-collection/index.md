@@ -47,7 +47,7 @@ graph LR;
 
 ### Course
 
-- [Computational Methods in Aerospace Engineering MIT](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-90-computational-methods-in-aerospace-engineering-spring-2014/index.htm)
+- [Computational Methods in Aerospace Engineering MIT](https://mitocw.ups.edu.ec/courses/aeronautics-and-astronautics/16-90-computational-methods-in-aerospace-engineering-spring-2014/)
 
 - 陶文铨院士  
   [计算传热学的近代进展 PPT](http://nht.xjtu.edu.cn/jxzy/jscrxdjdjz.htm)  
