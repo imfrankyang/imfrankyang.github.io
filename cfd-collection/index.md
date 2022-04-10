@@ -75,7 +75,7 @@ graph LR;
   https://www.bilibili.com/video/BV1vE411W7kV?p=1
 
 - Aidan Wimshurst oxford   
-  [youtube](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)  
+  [youtube channel "Fluid Mechanics 101"](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)  
   [udemy](https://www.udemy.com/user/aidan-wimshurst/)  
 
 - Alistair Revell  
