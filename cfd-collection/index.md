@@ -219,7 +219,7 @@ graph LR;
 - 2.097- Qiqi Wang  
   [youtube](https://www.youtube.com/c/QiqiWangGG/playlists?view=1&sort=dd&shelf_id=0)  
   - Numerical methods for PDEs 2016 2017 2020  
-  - aerodynamics 2020fall
+  - aerodynamics 2020 fall  
   [Numerical methods for PDEs materials mit](https://learning-modules.mit.edu/materials/index.html?uuid=/course/16/fa18/16.920#materials)  
   [Numerical methods for PDEs 2016 fall bilibili](https://www.bilibili.com/video/BV13E411Q7d5)  
 
