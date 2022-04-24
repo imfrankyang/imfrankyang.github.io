@@ -98,14 +98,16 @@ http://blog.sciencenet.cn/blog-437026-733739.html
 
 
 
-tense in paper  
-https://www.bilibili.com/video/BV1Jt4y1S7Ki
 
 
 
-## Literature Review
+
+## Scientific writing
 
 [How to Write a Literature Review](https://www.youtube.com/watch?v=-ny_EUJXHHs)
+
+[tense in paper 时态](https://www.bilibili.com/video/BV1Jt4y1S7Ki)
+
 
 
 
