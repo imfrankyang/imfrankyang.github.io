@@ -71,7 +71,10 @@
 
 
 ### mpi
+
 - [easyhpc](https://easyhpc.net/)
+
+- [MPI Tutorial](http://mpitutorial.com/)
 
 - [Introduction to distributed computing with MPI](https://www.codingame.com/playgrounds/349/introduction-to-mpi/introduction-to-distributed-computing)
 
