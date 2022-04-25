@@ -106,6 +106,10 @@ http://blog.sciencenet.cn/blog-437026-733739.html
 
 [How to Write a Literature Review](https://www.youtube.com/watch?v=-ny_EUJXHHs)
 
+[How to Write a Research Paper Introduction](https://www.youtube.com/watch?v=FTC-5P1VFFU)
+
+
+
 [tense in paper 时态](https://www.bilibili.com/video/BV1Jt4y1S7Ki)
 
 
