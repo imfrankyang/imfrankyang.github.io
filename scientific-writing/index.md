@@ -108,15 +108,17 @@ http://blog.sciencenet.cn/blog-437026-733739.html
 
 [How to Write a Research Paper Introduction](https://www.youtube.com/watch?v=FTC-5P1VFFU)
 
+[Active and Passive Voice in Research Papers](https://blog.wordvice.com/video-should-i-use-active-or-passive-voice-in-a-research-paper/)
 
+[Which Verb Tenses to Use in a Research Paper](https://www.youtube.com/watch?v=gcuL_IaRtXc)
 
 [tense in paper 时态](https://www.bilibili.com/video/BV1Jt4y1S7Ki)
 
+[How to Write an Abstract for a Research Paper](https://www.youtube.com/watch?v=JMEnRBss6V4)
 
+[How to Write a Research Paper Title](https://www.youtube.com/watch?v=Fl1q-I3bE0c)
 
-
-
-
+[How to Paraphrase in Research Papers](https://blog.wordvice.com/a-guide-to-paraphrasing-in-research-papers-apa-ama/)
 
 
 

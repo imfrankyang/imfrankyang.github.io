@@ -133,23 +133,35 @@ $$
 ```
 
 ### emoji render
+Download icon from:  
 [fontawesome](https://fontawesome.com/icons?d=gallery)  
+
 <!-- 不渲染emoji时，前面的：变成{?:} eg:{?:}joy:    -->
 
 ```markdown
-去露营啦! {?:}(fas fa-campground fa-fw): 很快就回来.
+去露营啦! :(fas fa-campground fa-fw): 很快就回来.
 
-真开心! {?:}(far fa-grin-tears):
+真开心! :(far fa-grin-tears):
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
+
+Gone camping! {?:}tent: Be back soon.
+
+That is so funny! {?:}joy:
 ```
 去露营啦! :(fas fa-campground fa-fw): 很快就回来.
 
 真开心! :(far fa-grin-tears):
 
+Gone camping! :tent: Be back soon.
 
+That is so funny! :joy:
 
+Gone camping! {?:}tent: Be back soon.
 
-
-
+That is so funny! {?:}joy:
 
 
 

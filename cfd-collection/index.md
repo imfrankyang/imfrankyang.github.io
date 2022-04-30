@@ -43,6 +43,27 @@ graph LR;
 
 - [me338A - continuum mechanics stanford](http://biomechanics.stanford.edu/Continuum_mechanics)
 
+### index and vector notation
+- [Quick and dirty introduction to index and vector notation](http://www.dicat.unige.it/guerrero/turbulence2022/slides/lecture5/5appendix1_index_vector_notation.pdf)
+
+
+
+
+
+
+
+
+
+### Turbulence Modele
+- [NASA Langley Research Center Turbulence Modeling Resource](https://turbmodels.larc.nasa.gov/index.html)
+
+
+
+
+
+
+
+
 
 
 ### Course
@@ -89,7 +110,7 @@ graph LR;
 
 
 - Jorg Schluter  
-- [googlescholar](https://scholar.google.com/citations?hl=en&user=VRNK9I8AAAAJ&view_op=list_works)
+  [googlescholar](https://scholar.google.com/citations?hl=en&user=VRNK9I8AAAAJ&view_op=list_works)
   https://www.youtube.com/watch?v=fAuG9PZwOfI  
   energy spectrum, RANS
 
@@ -189,9 +210,7 @@ graph LR;
 ### Organization  
 
 - [ERCOFTAC](https://www.ercoftac.org/)  
-- 
 - [German Aerospace Center DLR](https://www.dlr.de/EN/Home/home_node.html)  
-- 
 - [Air Force Research Laboratory](https://www.afrl.af.mil/)  
 
 
