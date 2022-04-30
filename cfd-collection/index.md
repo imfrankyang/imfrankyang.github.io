@@ -44,7 +44,7 @@ graph LR;
 - [me338A - continuum mechanics stanford](http://biomechanics.stanford.edu/Continuum_mechanics)
 
 ### index and vector notation
-- [Quick and dirty introduction to index and vector notation](http://www.dicat.unige.it/guerrero/turbulence2022/slides/lecture5/5appendix1_index_vector_notation.pdf)
+- [Quick and dirty introduction to index and vector notation :fa-thin fa-file-pdf:](http://www.dicat.unige.it/guerrero/turbulence2022/slides/lecture5/5appendix1_index_vector_notation.pdf)
 
 
 
