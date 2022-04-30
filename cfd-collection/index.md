@@ -11,7 +11,23 @@ graph LR;
     A --> F[Post-processing]
     A --> G[...]
 {{< /mermaid >}} 
+
+https://fontawesome.com/icons
+:(fa fa-file-pdf):
+:(fa fa-link):
+:(fa fa-star):
+
+{{< link "" >}}
+
+
+
 -->
+
+
+
+
+
+
 
 ## CFD
 
@@ -44,7 +60,7 @@ graph LR;
 - [me338A - continuum mechanics stanford](http://biomechanics.stanford.edu/Continuum_mechanics)
 
 ### index and vector notation
-- [Quick and dirty introduction to index and vector notation :fa-thin fa-file-pdf:](http://www.dicat.unige.it/guerrero/turbulence2022/slides/lecture5/5appendix1_index_vector_notation.pdf)
+- [Quick and dirty introduction to index and vector notation :(fa fa-file-pdf):](http://www.dicat.unige.it/guerrero/turbulence2022/slides/lecture5/5appendix1_index_vector_notation.pdf)
 
 
 
@@ -562,6 +578,6 @@ how to determine the $\Delta$T
 
 
 
-<!-- {{< link "" >}}   -->
+
 
 

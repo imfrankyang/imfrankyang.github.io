@@ -34,7 +34,7 @@
                             "url": "https:\/\/lianfengyeo.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  2305 ,
                             "height":  1895 
-                        }],"genre": "posts","keywords": "LaTeX","wordcount":  281 ,
+                        }],"genre": "posts","keywords": "LaTeX","wordcount":  279 ,
         "url": "https:\/\/lianfengyeo.github.io\/latex-installation\/","datePublished": "2021-03-02T10:09:30+01:00","dateModified": "2021-03-02T10:09:30+01:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -120,7 +120,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">LaTeX installation</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://lianfengyeo.github.io" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Yeo</a></span>&nbsp;<span class="post-category">included in <a href="/categories/latex/"><i class="far fa-folder fa-fw"></i>LaTeX</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-03-02">2021-03-02</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;281 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-03-02">2021-03-02</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;279 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;2 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -139,17 +139,17 @@
   </ul>
 </nav></div>
             </div><div class="content" id="content"><h2 id="install-on-ubuntu-texlive">install on ubuntu Texlive</h2>
-<p><a href="https://www.tug.org/texlive/">https://www.tug.org/texlive/</a></p>
+<p><a href="https://www.tug.org/texlive/" target="_blank" rel="noopener noreffer">https://www.tug.org/texlive/</a></p>
 <p><strong>method 1</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">sudo apt install texlive-latex-extra
-sudo apt install texlive-full
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo apt install texlive-latex-extra
+</span></span><span class="line"><span class="cl">sudo apt install texlive-full
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>texlive-base - 160 MB
 texlive-latex-recommended - 203 MB
@@ -157,11 +157,11 @@ texlive - 269 MB
 texlive-latex-extra - 464 MB
 texlive-full - 5903 MB</p>
 <p><strong>method 2</strong> full iso</p>
-<p>download iso file from <a href="https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/">https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/</a></p>
+<p>download iso file from <a href="https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/" target="_blank" rel="noopener noreffer">https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/</a></p>
 <p>uninstall first</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
@@ -171,20 +171,20 @@ texlive-full - 5903 MB</p>
 </span><span class="lnt">8
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo apt purge texlive*
-sudo rm -rf /usr/local/texlive/*
-rm -rf ~/.texlive*
-sudo rm -rf /usr/local/share/texmf
-sudo rm -rf /var/lib/texmf
-sudo rm -rf /etc/texmf
-sudo apt remove tex-common --purge
-find -L /usr/local/bin/ -lname /usr/local/texlive/*/bin/* <span class="p">|</span> sudo xargs rm
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo apt purge texlive*
+</span></span><span class="line"><span class="cl">sudo rm -rf /usr/local/texlive/*
+</span></span><span class="line"><span class="cl">rm -rf ~/.texlive*
+</span></span><span class="line"><span class="cl">sudo rm -rf /usr/local/share/texmf
+</span></span><span class="line"><span class="cl">sudo rm -rf /var/lib/texmf
+</span></span><span class="line"><span class="cl">sudo rm -rf /etc/texmf
+</span></span><span class="line"><span class="cl">sudo apt remove tex-common --purge
+</span></span><span class="line"><span class="cl">find -L /usr/local/bin/ -lname /usr/local/texlive/*/bin/* <span class="p">|</span> sudo xargs rm
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>install</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -196,45 +196,43 @@ find -L /usr/local/bin/ -lname /usr/local/texlive/*/bin/* <span class="p">|</spa
 </span><span class="lnt">10
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo apt-get install perl-tk perl-doc
-
-sudo mount -o loop texlive.iso /mnt
-<span class="nb">cd</span> /mnt 
-sudo ./install-tl
-
-<span class="c1">#env .bashrc</span>
-<span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:/usr/local/texlive/2020/bin/x86_64-linux
-<span class="nb">export</span> <span class="nv">MANPATH</span><span class="o">=</span>/usr/local/texlive/2020/texmf-dist/doc/man
-<span class="nb">export</span> <span class="nv">INFOPATH</span><span class="o">=</span>/usr/local/texlive/2020/texmf-dist/doc/info
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo apt-get install perl-tk perl-doc
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">sudo mount -o loop texlive.iso /mnt
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> /mnt 
+</span></span><span class="line"><span class="cl">sudo ./install-tl
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#env .bashrc</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:/usr/local/texlive/2020/bin/x86_64-linux
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">MANPATH</span><span class="o">=</span>/usr/local/texlive/2020/texmf-dist/doc/man
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">INFOPATH</span><span class="o">=</span>/usr/local/texlive/2020/texmf-dist/doc/info
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p><strong>method 3</strong></p>
-<p>download <code>install-tl-unx.tar.gz</code> from <a href="https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/">https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/</a></p>
+<p>download <code>install-tl-unx.tar.gz</code> from <a href="https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/" target="_blank" rel="noopener noreffer">https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span><span class="lnt">6
-</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">wget https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/install-tl-unx.tar.gz
-tar -xzf install-tl-unx.tar.gz
-
-sudo ./install-tl -repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/
-sudo ./install-tl -gui -repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/
-sudo apt-get install perl-tk perl-doc
-
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">wget https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/install-tl-unx.tar.gz
+</span></span><span class="line"><span class="cl">tar -xzf install-tl-unx.tar.gz
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">sudo ./install-tl -repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/
+</span></span><span class="line"><span class="cl">sudo ./install-tl -gui -repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/
+</span></span><span class="line"><span class="cl">sudo apt-get install perl-tk perl-doc
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>update Texlive</p>
-<p><a href="https://www.tug.org/texlive/tlmgr.html">https://www.tug.org/texlive/tlmgr.html</a></p>
+<p><a href="https://www.tug.org/texlive/tlmgr.html" target="_blank" rel="noopener noreffer">https://www.tug.org/texlive/tlmgr.html</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
@@ -242,18 +240,18 @@ sudo apt-get install perl-tk perl-doc
 </span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo tlmgr option repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet
-tlmgr repository <span class="nb">set</span> http://mirror.hust.edu.cn/CTAN/systems/texlive/tlnet	<span class="c1">#华中科技大学的镜像</span>
-
-tlmgr update --self
-tlmgr update --all
-tlmgr update --list	<span class="c1">#列出需要更新的包</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo tlmgr option repository https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet
+</span></span><span class="line"><span class="cl">tlmgr repository <span class="nb">set</span> http://mirror.hust.edu.cn/CTAN/systems/texlive/tlnet	<span class="c1">#华中科技大学的镜像</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">tlmgr update --self
+</span></span><span class="line"><span class="cl">tlmgr update --all
+</span></span><span class="line"><span class="cl">tlmgr update --list	<span class="c1">#列出需要更新的包</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>test</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -265,17 +263,17 @@ tlmgr update --list	<span class="c1">#列出需要更新的包</span>
 </span><span class="lnt">10
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">vi hello.tex
-<span class="se">\d</span>ocumentclass<span class="o">[</span>UTF8<span class="o">]{</span>ctexart<span class="o">}</span>
-<span class="se">\b</span>egin<span class="o">{</span>document<span class="o">}</span>
-欢迎来到 <span class="se">\T</span>eX<span class="o">{}</span> 世界！
-<span class="se">\e</span>nd<span class="o">{</span>document<span class="o">}</span>
-
-xelatex hello
-lualatex hello
-
-xelatex -v	<span class="c1">#test if succeed</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">vi hello.tex
+</span></span><span class="line"><span class="cl"><span class="se">\d</span>ocumentclass<span class="o">[</span>UTF8<span class="o">]{</span>ctexart<span class="o">}</span>
+</span></span><span class="line"><span class="cl"><span class="se">\b</span>egin<span class="o">{</span>document<span class="o">}</span>
+</span></span><span class="line"><span class="cl">欢迎来到 <span class="se">\T</span>eX<span class="o">{}</span> 世界！
+</span></span><span class="line"><span class="cl"><span class="se">\e</span>nd<span class="o">{</span>document<span class="o">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">xelatex hello
+</span></span><span class="line"><span class="cl">lualatex hello
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">xelatex -v	<span class="c1">#test if succeed</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><div class="details admonition tip open">
         <div class="details-summary admonition-title">
@@ -285,17 +283,15 @@ xelatex -v	<span class="c1">#test if succeed</span>
             <div class="admonition-content"><p>sudo does not find tlmgr</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
-</span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo visudo
-修改secure_path
-Defaults        <span class="nv">secure_path</span><span class="o">=</span><span class="s2">&#34;/usr/local/texlive/2020/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin&#34;</span>
-
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo visudo
+</span></span><span class="line"><span class="cl">修改secure_path
+</span></span><span class="line"><span class="cl">Defaults        <span class="nv">secure_path</span><span class="o">=</span><span class="s2">&#34;/usr/local/texlive/2020/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div></div>
         </div>
@@ -308,13 +304,13 @@ Defaults        <span class="nv">secure_path</span><span class="o">=</span><span
             <div class="admonition-content"><p>要在整个系统中使用 TEX 字体，还需要将 TEX 自带的配置文件复制到系统目录下</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo cp /usr/local/texlive/2020/texmf-var/fonts/conf/texlive-fontconfig.conf /etc/fonts/conf.d/09-texlive.conf
-sudo fc-cache -fv	<span class="c1">#刷新字体数据库</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo cp /usr/local/texlive/2020/texmf-var/fonts/conf/texlive-fontconfig.conf /etc/fonts/conf.d/09-texlive.conf
+</span></span><span class="line"><span class="cl">sudo fc-cache -fv	<span class="c1">#刷新字体数据库</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div></div>
         </div>
@@ -324,22 +320,22 @@ sudo fc-cache -fv	<span class="c1">#刷新字体数据库</span>
 env</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">echo &#34;export MANPATH=${MANPATH}:/usr/local/texlive/2020/texmf-dist/doc/man&#34; &gt;&gt; ~/.bashrc
-echo &#34;export INFOPATH=${INFOPATH}:/usr/local/texlive/2020/texmf-dist/doc/info&#34; &gt;&gt; ~/.bashrc
-echo &#34;export PATH=${PATH}:/usr/local/texlive/2020/bin/x86_64-darwin&#34; &gt;&gt; ~/.bashrc
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">echo &#34;export MANPATH=${MANPATH}:/usr/local/texlive/2020/texmf-dist/doc/man&#34; &gt;&gt; ~/.bashrc
+</span></span><span class="line"><span class="cl">echo &#34;export INFOPATH=${INFOPATH}:/usr/local/texlive/2020/texmf-dist/doc/info&#34; &gt;&gt; ~/.bashrc
+</span></span><span class="line"><span class="cl">echo &#34;export PATH=${PATH}:/usr/local/texlive/2020/bin/x86_64-darwin&#34; &gt;&gt; ~/.bashrc
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="reference">reference</h2>
 <ul>
 <li><a href="https://matnoble.me/tech/ubuntu/install-texlive/#%E5%AE%89%E8%A3%85" target="_blank" rel="noopener noreffer">Windows + Ubuntu 安装配置更新卸载 TeXLive 指南</a></li>
-<li><a href="https://www.tug.org/texlive/quickinstall.html">https://www.tug.org/texlive/quickinstall.html</a></li>
-<li><a href="https://www.tug.org/texlive/doc/install-tl.html">https://www.tug.org/texlive/doc/install-tl.html</a></li>
-<li><a href="https://www.bilibili.com/video/BV1tg4y1B7f3?t=1016">https://www.bilibili.com/video/BV1tg4y1B7f3?t=1016</a></li>
+<li><a href="https://www.tug.org/texlive/quickinstall.html" target="_blank" rel="noopener noreffer">https://www.tug.org/texlive/quickinstall.html</a></li>
+<li><a href="https://www.tug.org/texlive/doc/install-tl.html" target="_blank" rel="noopener noreffer">https://www.tug.org/texlive/doc/install-tl.html</a></li>
+<li><a href="https://www.bilibili.com/video/BV1tg4y1B7f3?t=1016" target="_blank" rel="noopener noreffer">https://www.bilibili.com/video/BV1tg4y1B7f3?t=1016</a></li>
 </ul>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
@@ -373,7 +369,7 @@ echo &#34;export PATH=${PATH}:/usr/local/texlive/2020/bin/x86_64-darwin&#34; &gt
                 Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">Utterances</a>.
             </noscript></div></article></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.85.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.98.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
                 </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020 - 2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Lianfengyeo</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" target="_blank">CC BY-NC-ND 4.0</a></span></div>
         </div>
     </footer></div>

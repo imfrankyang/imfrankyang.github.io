@@ -18,7 +18,7 @@ Display multiple image frames as rectangular montage
 Create customizable rectangular ROI
   normxcorr2
 Normalized 2-D cross-correlation [example]
-  transpose, .'
+  transpose, .&rsquo;
   1 2  B = A.&#39; B = transpose(A)   contains 确定字符串中是否有
 sortrows Sort rows of matrix or table
 unique Unique values in array]]></description>

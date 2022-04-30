@@ -160,55 +160,55 @@ VMware Workstation to ESXi  WorkStation虚拟机多个磁盘文件合并成一�
 </ol>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;d:\VMLinux\vmdkname.vmdk&#34;</span> -t <span class="m">0</span> vmdknamenew.vmdk
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;d:\VMLinux\vmdkname.vmdk&#34;</span> -t <span class="m">0</span> vmdknamenew.vmdk
+</span></span></code></pre></td></tr></table>
 </div>
 </div><ol start="2">
 <li>ssh登陆到vSphere</li>
 </ol>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">cd</span> /vmfs/volumes/虚拟机文件夹/
-vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> /vmfs/volumes/虚拟机文件夹/
+</span></span><span class="line"><span class="cl">vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="esxi-update">ESXi update</h3>
-<p><a href="https://www.vediotalk.com/archives/3956">https://www.vediotalk.com/archives/3956</a></p>
+<p><a href="https://www.vediotalk.com/archives/3956" target="_blank" rel="noopener noreffer">https://www.vediotalk.com/archives/3956</a></p>
 <ol>
-<li>Download patches <a href="https://my.vmware.com/group/vmware/patch#search">https://my.vmware.com/group/vmware/patch#search</a></li>
+<li>Download patches <a href="https://my.vmware.com/group/vmware/patch#search" target="_blank" rel="noopener noreffer">https://my.vmware.com/group/vmware/patch#search</a></li>
 <li>升级包上传</li>
 <li>开启ESXI的SSH功能</li>
 <li>ssh 输入</li>
 </ol>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">vmware -vl
-esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip
-esxcli software profile update -d  /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip -p ESXi-7.0U1c-17325551-standard
-reboot
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">vmware -vl
+</span></span><span class="line"><span class="cl">esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip
+</span></span><span class="line"><span class="cl">esxcli software profile update -d  /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip -p ESXi-7.0U1c-17325551-standard
+</span></span><span class="line"><span class="cl">reboot
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="vmware-workstation-to-virtualbox">VMware Workstation to Virtualbox**</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\OVFTool\ovftool.exe&#34;</span> <span class="s2">&#34;D:\vmware.vmx&#34;</span>  <span class="s2">&#34;D:\vmware.ovf&#34;</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\OVFTool\ovftool.exe&#34;</span> <span class="s2">&#34;D:\vmware.vmx&#34;</span>  <span class="s2">&#34;D:\vmware.ovf&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="vmware-workstation-安装macos">VMware Workstation 安装macos</h3>
 <p>下载<a href="https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/12.1.0/17195230/core/com.vmware.fusion.zip.tar" target="_blank" rel="noopener noreffer">com.vmware.fusion.zip.tar</a>，放到unlocker/tools/</p>
@@ -216,7 +216,7 @@ reboot
 <p><strong>压缩硬盘</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -229,45 +229,45 @@ reboot
 </span><span class="lnt">11
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">#mac虚拟机内</span>
-cat /dev/zero &gt; wipefile<span class="p">;</span> rm wipefile
-sudo /Library/Application<span class="se">\ </span>Support/VMware<span class="se">\ </span>Tools/vmware-tools-cli disk shrink /
-
-<span class="c1">#win主系统 </span>
-<span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -k <span class="s2">&#34;D:\vmware.vmdk&#34;</span> 
-
-<span class="c1">#linux虚拟内</span>
-sudo rm -rf .cache/
-sudo /usr/bin/vmware-toolbox-cmd disk list
-sudo vmware-toolbox-cmd disk shrink /
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1">#mac虚拟机内</span>
+</span></span><span class="line"><span class="cl">cat /dev/zero &gt; wipefile<span class="p">;</span> rm wipefile
+</span></span><span class="line"><span class="cl">sudo /Library/Application<span class="se">\ </span>Support/VMware<span class="se">\ </span>Tools/vmware-tools-cli disk shrink /
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#win主系统 </span>
+</span></span><span class="line"><span class="cl"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -k <span class="s2">&#34;D:\vmware.vmdk&#34;</span> 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#linux虚拟内</span>
+</span></span><span class="line"><span class="cl">sudo rm -rf .cache/
+</span></span><span class="line"><span class="cl">sudo /usr/bin/vmware-toolbox-cmd disk list
+</span></span><span class="line"><span class="cl">sudo vmware-toolbox-cmd disk shrink /
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p><strong>重命名vmdk文件</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -n <span class="s2">&#34;source.vmdk&#34;</span> <span class="s2">&#34;target.vmdk&#34;</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -n <span class="s2">&#34;source.vmdk&#34;</span> <span class="s2">&#34;target.vmdk&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p><strong>合并硬盘</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;C:\vmware1.vmdk&#34;</span> -t <span class="m">0</span> <span class="s2">&#34;C:\vmware2.vmdk&#34;</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;C:\vmware1.vmdk&#34;</span> -t <span class="m">0</span> <span class="s2">&#34;C:\vmware2.vmdk&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p><strong>分割硬盘</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;C:\vmware1.vmdk&#34;</span> -t <span class="m">1</span> <span class="s2">&#34;C:\vmware2.vmdk&#34;</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="s2">&#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34;</span> -r <span class="s2">&#34;C:\vmware1.vmdk&#34;</span> -t <span class="m">1</span> <span class="s2">&#34;C:\vmware2.vmdk&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>-r参数指定源磁盘文件<br>
 -t参数指定输出虚拟磁盘文件的类型，其值为以下类型之一：<br>
@@ -282,11 +282,11 @@ sudo vmware-toolbox-cmd disk shrink /
 </ol>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">   dd if=/dev/sdb  of=/dev/sdc
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">   dd if=/dev/sdb  of=/dev/sdc
+</span></span></code></pre></td></tr></table>
 </div>
 </div><ol start="3">
 <li>remove the old virtual disk and start</li>
@@ -294,11 +294,11 @@ sudo vmware-toolbox-cmd disk shrink /
 </ol>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">fsck -yf /dev/sda1
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">fsck -yf /dev/sda1
+</span></span></code></pre></td></tr></table>
 </div>
 </div><ol start="5">
 <li>resize disk in disk app</li>
@@ -307,19 +307,19 @@ sudo vmware-toolbox-cmd disk shrink /
 <p>It seems that the vmware official recommend the <code>open vm tools</code>.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">#install
-sudo ./vmware-tools-distrib/vmware-install.pl
-
-#uninstall
-sudo ./vmware-tools-distrib/bin/vmware-uninstall-tools.pl
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">#install
+</span></span><span class="line"><span class="cl">sudo ./vmware-tools-distrib/vmware-install.pl
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">#uninstall
+</span></span><span class="line"><span class="cl">sudo ./vmware-tools-distrib/bin/vmware-uninstall-tools.pl
+</span></span></code></pre></td></tr></table>
 </div>
 </div><div class="details admonition tip open">
         <div class="details-summary admonition-title">
@@ -332,13 +332,13 @@ sudo ./vmware-tools-distrib/bin/vmware-uninstall-tools.pl
 <p>安装前把 /usr/lib/vmware-tools删除： rm -rvf /usr/lib/vmware-tools</p>
 <h3 id="open-vm-tools">open vm tools</h3>
 <ul>
-<li><a href="https://github.com/vmware/open-vm-tools">https://github.com/vmware/open-vm-tools</a></li>
-<li><a href="https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html">https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html</a></li>
+<li><a href="https://github.com/vmware/open-vm-tools" target="_blank" rel="noopener noreffer">https://github.com/vmware/open-vm-tools</a></li>
+<li><a href="https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html" target="_blank" rel="noopener noreffer">https://docs.vmware.com/cn/VMware-Tools/11.0.0/com.vmware.vsphere.vmwaretools.doc/GUID-C48E1F14-240D-4DD1-8D4C-25B6EBE4BB0F.html</a></li>
 </ul>
 <p><strong>install</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
@@ -349,33 +349,33 @@ sudo ./vmware-tools-distrib/bin/vmware-uninstall-tools.pl
 </span><span class="lnt">9
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">#ubuntu</span>
-sudo apt install open-vm-tools
-sudo apt install open-vm-tools-desktop
-sudo apt install xorg-x11-drv-vmware
-
-<span class="c1">#centos</span>
-sudo yum install open-vm-tools
-sudo yum install open-vm-tools-desktop
-sudo yum install xorg-x11-drv-vmware
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1">#ubuntu</span>
+</span></span><span class="line"><span class="cl">sudo apt install open-vm-tools
+</span></span><span class="line"><span class="cl">sudo apt install open-vm-tools-desktop
+</span></span><span class="line"><span class="cl">sudo apt install xorg-x11-drv-vmware
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#centos</span>
+</span></span><span class="line"><span class="cl">sudo yum install open-vm-tools
+</span></span><span class="line"><span class="cl">sudo yum install open-vm-tools-desktop
+</span></span><span class="line"><span class="cl">sudo yum install xorg-x11-drv-vmware
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p><strong>uninstall</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">#ubuntu</span>
-apt remove open-vm-tools-desktop
-
-<span class="c1">#centos8</span>
-dnf remove open-vm-tools
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1">#ubuntu</span>
+</span></span><span class="line"><span class="cl">apt remove open-vm-tools-desktop
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#centos8</span>
+</span></span><span class="line"><span class="cl">dnf remove open-vm-tools
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="常见问题">常见问题</h3>
 <p><div class="details admonition tip open">
@@ -405,32 +405,32 @@ autoPartitionOSDataSize=8192<br>
 <p>如果设置里面network没有网络信息，输入：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo service network-manager stop
-sudo rm /var/lib/NetworkManager/NetworkManager.state
-sudo vim /etc/NetworkManager/NetworkManager.conf 
-sudo service network-manager restart
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo service network-manager stop
+</span></span><span class="line"><span class="cl">sudo rm /var/lib/NetworkManager/NetworkManager.state
+</span></span><span class="line"><span class="cl">sudo vim /etc/NetworkManager/NetworkManager.conf 
+</span></span><span class="line"><span class="cl">sudo service network-manager restart
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>备用方法</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">系统自带的NetworkManager这个管理套件影响到网卡的启动，关掉就可以解决
-systemctl stop NetworkManager       <span class="c1"># 停止NetworkManager</span>
-systemctl disable NetworkManager    <span class="c1"># 并使其失效，开机不启动</span>
-systemctl start network             <span class="c1"># 启动网络后就OK了</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">系统自带的NetworkManager这个管理套件影响到网卡的启动，关掉就可以解决
+</span></span><span class="line"><span class="cl">systemctl stop NetworkManager       <span class="c1"># 停止NetworkManager</span>
+</span></span><span class="line"><span class="cl">systemctl disable NetworkManager    <span class="c1"># 并使其失效，开机不启动</span>
+</span></span><span class="line"><span class="cl">systemctl start network             <span class="c1"># 启动网络后就OK了</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><div class="details admonition tip open">
         <div class="details-summary admonition-title">
@@ -442,24 +442,24 @@ systemctl start network             <span class="c1"># 启动网络后就OK了</
     </div>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">sudo yum install xorg-x11-drv-vmware
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo yum install xorg-x11-drv-vmware
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>备用方法</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">xrandr --output Virtual1 --scale 0.9x0.9
-xrandr --output Virtual1 --scale 1x1
-xrandr --output Virtual1 --scale 0.4x0.4
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">xrandr --output Virtual1 --scale 0.9x0.9
+</span></span><span class="line"><span class="cl">xrandr --output Virtual1 --scale 1x1
+</span></span><span class="line"><span class="cl">xrandr --output Virtual1 --scale 0.4x0.4
+</span></span></code></pre></td></tr></table>
 </div>
 </div></div><div class="post-footer" id="post-footer">
     <div class="post-info">
@@ -493,7 +493,7 @@ xrandr --output Virtual1 --scale 0.4x0.4
                 Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">Utterances</a>.
             </noscript></div></article></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.85.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.98.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
                 </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020 - 2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Lianfengyeo</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" target="_blank">CC BY-NC-ND 4.0</a></span></div>
         </div>
     </footer></div>
