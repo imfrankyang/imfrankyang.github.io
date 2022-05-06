@@ -13,7 +13,7 @@
 VMware Workstation to ESXi  WorkStation虚拟机多个磁盘文件合并成一个  1  &#34;C:\Program Files (x86)\VMware\VMware Workstation\vmware-vdiskmanager.exe&#34; -r &#34;d:\VMLinux\vmdkname.vmdk&#34; -t 0 vmdknamenew.vmdk   ssh登陆到vSphere  1 2  cd /vmfs/volumes/虚拟机文件夹/ vmkfstools -i 原文件名.vmdk 转换后文件名.vmdk -d thin   ESXi update https://www.vediotalk.com/archives/3956
  Download patches https://my.vmware.com/group/vmware/patch#search 升级包上传 开启ESXI的SSH功能 ssh 输入  1 2 3 4  vmware -vl esxcli software sources profile list -d /vmfs/volumes/datastore1/VMware-ESXi-7.0U1c-17325551-depot.zip esxcli software profile update -d /vmfs/volumes/datastore1/VMware-ESXi-7.]]></description>
 </item><item>
-    <title>Paper tools</title>
+    <title>Paper toolbox</title>
     <link>https://lianfengyeo.github.io/paper-tools/</link>
     <pubDate>Sun, 24 Jan 2021 10:09:30 &#43;0100</pubDate>
     <author>Author</author>
@@ -21,7 +21,7 @@ VMware Workstation to ESXi  WorkStation虚拟机多个磁盘文件合并成一�
     <description><![CDATA[Tools online air Dry Air Properties
 Air - Thermophysical Properties
  Air - Thermal Conductivity Air Density Calculator Air - Density at varying pressure and constant temperatures Air - Prandtl Number Air Viscosity Calculator Air Specific heat  Compressible Aerodynamics Calculator
-water  Water - Specific Heat  CFD tools  y plus calculator 1 y plus calculator cfd-online estimate k epsilon omega hydraulic diameter calculator MATERIALS THERMAL PROPERTIES DATABASE estimate k epsilon omega  Others  djvu to pdf download subtitles OCR  Search engine  知网海外版  Journal  science  Download paper   Download paper of cnki https://www.]]></description>
+water  Water - Specific Heat  CFD tools  y plus calculator 1 y plus calculator cfd-online estimate k epsilon omega hydraulic diameter calculator MATERIALS THERMAL PROPERTIES DATABASE estimate k epsilon omega Inflation Layer Calculator  Others  djvu to pdf download subtitles OCR  Search engine  知网海外版  Journal  science  Download paper   Download paper of cnki https://www.]]></description>
 </item><item>
     <title>Research tools(software)</title>
     <link>https://lianfengyeo.github.io/research-tools/</link>
